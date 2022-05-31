@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB-01">
+    <metadata>
+        <title>"Speech to Karuk Tribal Council"</title>
+        <author>William <alph>Bright</alph></author>
+        <date>2004</date>
+        <publication>Unpublished (Recorded by Susan Gehr on February 26th, 2004)</publication>
+		<audio filename="WB-01">WB-01</audio>
+		<note publish="yes">A video of Bright's speech is available <url
+				href="https://www.youtube.com/watch?v=kPrponosxzY">here</url>. Bright states that Vina Smith and Violet Super helped him compose this speech.</note>
+    </metadata>
+		<data>
+			<paragraph>
+				<s spkr="WB" audio="WB-01_1" audio-start-time="1:14">
+					<txt lang="kyh">
+						<w>
+							<m lemma="1029">ayukîi</m>
+						</w>
+						<w gl="my friends">
+							<m lemma="4326">naní</m>
+							<m lemma="167">fyiiv</m>
+							<m lemma="5200">shas</m>
+						</w>.
+					</txt>
+					<trans lang="eng">Hello, my friends.</trans>
+				</s>
+				<s spkr="WB" audio="WB-01_2" audio-start-time="1:18">	
+					<txt lang="kyh">
+						<w>
+							<m lemma="5156">púxich</m>
+						</w>
+						<w gl="I am happy">
+							<m lemma="5506">ta</m>
+							<m lemma="4296">ná</m>
+							<m lemma="2">'aachichha</m>
+						</w>,
+						<w gl="that here">
+							<m lemma="4408">pa</m>
+							<m lemma="4385">'ôok</m>
+						</w>
+						<w gl="I stay">
+							<m lemma="5506">ta</m>
+							<m lemma="4349">ní</m>
+							<m lemma="1974">krii</m>
+						</w>
+						<w>
+							<m lemma="4528">panámniik</m>
+						</w>, 
+						<w gl="that here">
+							<m lemma="4408">pa</m>
+							<m lemma="4385">'ôok</m>
+						</w>
+						<w>
+							<m lemma="3928">kóovan</m>
+						</w>
+						<w gl="we are staying">
+							<m lemma="4370">nu</m>
+							<m lemma="508">'áraarahi</m>
+							<m lemma="6035">ti</m>
+						</w>.
+					</txt>
+					<trans lang="eng">I'm very happy that I'm here in Orleans, that I'm here with all of you.</trans>
+				</s>
+				<s spkr="WB" audio="WB-01_3" audio-start-time="1:30">
+					<txt lang="kyh">
+						<w>
+							<m lemma="5170">pi'êep</m>
+						</w>, 
+						<w gl="when I was a young man">
+							<m lemma="4408">pa</m>
+							<m lemma="4349">ni</m>
+							<m lemma="7025">yáan'iiftihan</m>
+							<m lemma="1358">haak</m>
+						</w>,
+						<w gl="when here">
+							<m lemma="4408">pa</m>
+							<m lemma="4385">'ôok</m>
+						</w>
+						<w>
+							<m lemma="3753">káruk</m>
+						</w>
+						<w gl="its country">
+							<m lemma="6376">vee</m>
+							<m lemma="3257">thívthaaneen</m>
+						</w>
+						<w>
+							<m lemma="4976">pishîich</m>
+						</w>
+						<w gl="I arrived">
+							<m lemma="4349">ni</m>
+							<m lemma="6306">'úum</m>
+							<m lemma="1358">haak</m>
+						</w>,
+						<w gl="when Orleans">
+							<m lemma="4408">pa</m>
+							<m lemma="4528">panámniik</m>
+						</w>
+						<w>
+							<m lemma="4976">pishîich</m>
+						</w>
+						<w gl="I arrived">
+							<m lemma="4349">ni</m>
+							<m lemma="6306">'úum</m>
+							<m lemma="1358">haak</m>
+						</w>,
+						<w>
+							<m lemma="4299">naa</m>
+						</w>
+						<w>
+							<m lemma="6675">vúra</m>
+						</w>
+						<w>
+							<m lemma="6775">xakitrahyar</m>
+						</w>
+						<w>
+							<m lemma="3752">káru</m>
+						</w>
+						<w>
+							<m lemma="7097">yítha</m>
+						</w>
+						<w>
+							<m lemma="1373">hárinay</m>
+						</w>
+						<w>
+							<m lemma="3809">kích</m>
+						</w>
+						<w gl="I had lived">
+							<m lemma="5506">ta</m>
+							<m lemma="4349">ní</m>
+							<m lemma="1974">krii</m>
+						</w>.
+					</txt>
+					<trans lang="eng">Long ago, when I was young, when I first came to Karuk country, when I first came to Orleans, I was only 21 years old.</trans>
+					<note>Bright says pananiyáan'iiftihanhaak, but surely meant only to say paniyáan'iiftihanhaak. Use of unexpected form of -ahaak on uum verbs. Should be uumahaak, but he has uumhaak. He writes no accent on xakitrahyar. The online dictionary has the accent like this: xakitráhyar.</note>
+				</s>
+				<s spkr="WB" audio="WB-01_4" audio-start-time="1:56">
+					<txt lang="kyh">
+						<w>
+							<m lemma="4299">naa</m>
+						</w>
+						<w>
+							<m lemma="6675">vúra</m>
+						</w>
+						<w>
+							<m lemma="5085">púfaat</m>
+						</w>
+						<w gl="I did not know it">
+							<m lemma="4295">na</m>
+							<m lemma="44">'aapúnmu</m>
+							<m lemma="6035">tih</m>
+							<m lemma="1371">ara</m>
+							<m lemma="1369">hanik</m>
+						</w>!
+					</txt>
+					<trans lang="eng">I didn't know anything!</trans>
+					<note>Use of nominal allomorph of ANC tense (-hanik) rather than expected verbal allomorph (-anik).</note>
+				</s>
+				<s spkr="WB" audio="WB-01_5" audio-start-time="2:04">
+					<txt lang="kyh">
+						<w>
+							<m lemma="3978">kúna</m>
+						</w>
+						<w>
+							<m lemma="6675">vúra</m>
+						</w>
+						<w gl="the old Indian women">
+							<m lemma="4407">pa</m>
+							<m lemma="506">'arara</m>
+							<m lemma="3805">kéevriik</m>
+							<m lemma="5200">shas</m>
+						</w>,
+						<w gl="the old Indian men">
+							<m lemma="4407">pa</m>
+							<m lemma="506">'arara</m>
+							<m lemma="4792">pihnîich</m>
+							<m lemma="584">as</m>
+						</w>,
+						<w gl="my upriver">
+							<m lemma="4407">pa</m>
+							<m lemma="4326">nani</m>
+							<m lemma="3753">káruk</m>
+						</w>
+						<w gl="its Indian friends">
+							<m lemma="6376">va</m>
+							<m lemma="506">'ararée</m>
+							<m lemma="167">fyiiv</m>
+							<m lemma="5200">shas</m>
+						</w>
+						<w>
+							<m lemma="3930">koovúra</m>
+						</w>
+						<w gl="they helped me">
+							<m lemma="4294">nee</m>
+							<m lemma="2800">psháravrik</m>
+						</w>.
+					</txt>
+					<trans lang="eng">But the Karuk old women, the Karuk old men, my Karuk friends, they all helped me.</trans>
+					<note>Vowel coalescence in word in va'araréefyiivshas indicates that ifyiiv rather than afyiiv as expected is the root meaning "friend." In the main verb, na- prefix is for 3sg on 1sg, but the agent is clearly 3pl.</note>
+				</s>
+				<s spkr="WB" audio="WB-01_6" audio-start-time="2:22">
+					<txt lang="kyh">
+						<w>
+							<m lemma="3745">kári</m>
+						</w>
+						<w>
+							<m lemma="6847">xás</m>
+						</w>
+						<w>
+							<m lemma="1054">chaka'îimich</m>
+						</w>
+						<w gl="I learned it from them">
+							<m lemma="4349">ni</m>
+							<m lemma="46">'apúnmiik</m>
+						</w>
+						<w gl="the Indian language">
+							<m lemma="4407">pa</m>
+							<m lemma="506">'arará</m>
+							<m lemma="1380">hih</m>
+						</w>,
+						<w gl="the Indian customs">
+							<m lemma="4407">pa</m>
+							<m lemma="506">'arará</m>
+							<m lemma="4087">kuupha</m>
+						</w>, 
+						<w gl="the Indian stories">
+							<m lemma="4407">pa</m>
+							<m lemma="506">'arara</m>
+							<m lemma="4883">píkvah</m>
+						</w>.
+					</txt>
+					<trans lang="eng">And so I slowly learned the Indian language, the Indian customs, the Indian stories.</trans>
+				</s>
+				<s spkr="WB" audio="WB-01_7" audio-start-time="2:38">
+					<txt lang="kyh">
+						<w>
+							<m lemma="4716">payêem</m>
+						</w>
+						<w gl="I myself">
+							<m lemma="4299">ná</m>
+							<m lemma="4259">mpaan</m>
+						</w>
+						<w>
+							<m lemma="6675">vúra</m>
+						</w>
+						<w>
+							<m lemma="4792">pihnîich</m>
+						</w>,
+						<w>
+							<m lemma="6774">xakinivkihitráhyar</m>
+						</w>
+						<w>
+							<m lemma="3752">káru</m>
+						</w>
+						<w gl="five years">
+							<m lemma="3412">itroopa</m>
+							<m lemma="1373">hárinay</m>
+						</w>
+						<w gl="I have lived">
+							<m lemma="5506">ta</m>
+							<m lemma="4349">ní</m>
+							<m lemma="1974">krii</m>
+						</w>.
+					</txt>
+					<trans lang="eng">Now I myself am an old man, I'm 75 years old.</trans>
+				</s>
+				<s spkr="WB" audio="WB-01_8" audio-start-time="2:50">
+					<txt lang="kyh">
+						<w>
+							<m lemma="3978">kúna</m>
+						</w>
+						<w>
+							<m lemma="6675">vúra</m>
+						</w>
+						<w>
+							<m lemma="3969">kúkuum</m>
+						</w>
+						<w>
+							<m lemma="4385">ôok</m>
+						</w>
+						<w gl="I have arrived">
+							<m lemma="5506">tá</m>
+							<m lemma="4349">ni</m>
+							<m lemma="6306">'uum</m>
+						</w>,
+						<w gl="my friends">
+							<m lemma="4407">pa</m>
+							<m lemma="4326">naní</m>
+							<m lemma="167">fyiiv</m>
+							<m lemma="5200">shas</m>
+						</w>
+						<w gl="I am visiting them">
+							<m lemma="4349">ni</m>
+							<m lemma="2576">músaruk</m>
+							<m lemma="6035">ti</m>
+						</w>,
+						<w>
+							<m lemma="3745">kári</m>
+						</w>
+						<w>
+							<m lemma="6675">vúra</m>
+						</w>
+						<w gl="the upriver">
+							<m lemma="4407">pa</m>
+							<m lemma="3753">káruk</m>
+						</w>
+						<w gl="its language">
+							<m lemma="6376">vá</m>
+							<m lemma="1380">hi</m>
+						</w>
+						<w gl="I am learning it from them">
+							<m lemma="4349">ni</m>
+							<m lemma="46">'aapúnmiik</m>
+							<m lemma="6035">ti</m>
+						</w>.
+					</txt>
+					<trans lang="eng">But I've come back here again, I'm visiting my friends, and I'm still learning the Karuk language.</trans>
+				</s>
+				<s spkr="WB" audio="WB-01_9" audio-start-time="3:08">
+					<txt lang="kyh">
+						<w>
+							<m lemma="3930">koovúra</m>
+						</w>
+						<w gl="my Indian friends">
+							<m lemma="4407">pa</m>
+							<m lemma="4326">nani</m>
+							<m lemma="506">'ararée</m>
+							<m lemma="167">fyiiv</m>
+							<m lemma="5200">shas</m>
+						</w>
+						<w>
+							<m lemma="4299">naa</m>
+						</w>
+						<w gl="I am telling you guys">
+							<m lemma="3830">kíi</m>
+							<m lemma="2733">peen</m>
+							<m lemma="6035">tih</m>
+							<m lemma="398">ap</m>
+						</w>, "
+						<w>
+							<m lemma="7113">yôotva</m>
+						</w>,
+						<w>
+							<m lemma="5156">púxich</m>
+						</w>
+						<w gl="I am happy">
+							<m lemma="5506">ta</m>
+							<m lemma="4296">ná</m>
+							<m lemma="2">'aachichha</m>
+						</w>!"
+					</txt>
+					<trans lang="eng">To all my Indian friends, I'm saying, "Thank you, I'm very glad!"</trans>
+				</s>
+			</paragraph>
+		</data>
+	</text>
+					
+					
+							
+					
+						
+							
+						
+						
+							
+				
+							
+							
+						
+						
+						
+						
+					
+						
+						
+							
+							
+						
+				
+						
+						 
+							
+							
+							
+							
+						
+							
+						
+						
+						
+						
+				

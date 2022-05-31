@@ -1,0 +1,108 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 2.1152083333333334
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "transcription - words"
+		xmin = 0.0
+		xmax = 2.1152083333333334
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.3500
+				text = ""
+			intervals [2]:
+				xmin = 0.3500
+				xmax = 0.8000
+				text = "ahup"
+			intervals [3]:
+				xmin = 0.8000
+				xmax = 0.9000
+				text = "ta"
+			intervals [4]:
+				xmin = 0.9000
+				xmax = 1.8200
+				text = "nikyaatih"
+			intervals [5]:
+				xmin = 1.8200
+				xmax = 2.1152083333333334
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "transcription - phones"
+		xmin = 0.0
+		xmax = 2.1152083333333334
+		intervals: size = 17
+			intervals [1]:
+				xmin = 0.0000
+				xmax = 0.3500
+				text = "sil"
+			intervals [2]:
+				xmin = 0.3500
+				xmax = 0.4300
+				text = "AH0"
+			intervals [3]:
+				xmin = 0.4300
+				xmax = 0.5000
+				text = "HH"
+			intervals [4]:
+				xmin = 0.5000
+				xmax = 0.6500
+				text = "UH0"
+			intervals [5]:
+				xmin = 0.6500
+				xmax = 0.8000
+				text = "P"
+			intervals [6]:
+				xmin = 0.8000
+				xmax = 0.8300
+				text = "T"
+			intervals [7]:
+				xmin = 0.8300
+				xmax = 0.9000
+				text = "AH0"
+			intervals [8]:
+				xmin = 0.9000
+				xmax = 0.9500
+				text = "N"
+			intervals [9]:
+				xmin = 0.9500
+				xmax = 0.9900
+				text = "IH0"
+			intervals [10]:
+				xmin = 0.9900
+				xmax = 1.2000
+				text = "K"
+			intervals [11]:
+				xmin = 1.2000
+				xmax = 1.3000
+				text = "Y"
+			intervals [12]:
+				xmin = 1.3000
+				xmax = 1.5100
+				text = "AA1"
+			intervals [13]:
+				xmin = 1.5100
+				xmax = 1.6900
+				text = "T"
+			intervals [14]:
+				xmin = 1.6900
+				xmax = 1.7200
+				text = "IH0"
+			intervals [15]:
+				xmin = 1.7200
+				xmax = 1.8200
+				text = "HH"
+			intervals [16]:
+				xmin = 1.8200
+				xmax = 2.1000
+				text = "sp"
+			intervals [17]:
+				xmin = 2.1000
+				xmax = 2.1152083333333334
+				text = ""

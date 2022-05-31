@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="JL-VS-01" audio-source="karuk-2011-01-30-vs-1">
+    <metadata>
+        <title>Conversation: Julian's Day</title>
+        <author>Julian <alph>Lang</alph> and Vina Smith</author>
+        <date>2011</date>
+        <publication>Unpublished (recorded by Line Mikkelsen and Tammy Stark on January 30,
+            2011)</publication>
+        <audio filename="JL-VS-1">JL-VS-1</audio>
+    </metadata>
+    <data>
+        <paragraph>
+            <s spkr="JL" audio="karuk-2011-01-30-vs-1_01" audio-start-time="0:16">
+                <txt lang="eng"><w><m language="english">We don't know what we are gonna say</m></w>.</txt>
+                <trans lang="eng">We don't know what we are gonna say.</trans>
+            </s>
+            <s spkr="VS" audio="karuk-2011-01-30-vs-1_02" audio-start-time="0:18">
+                <txt lang="kyh">
+                    <w id="JL-VS-01:1" head="JL-VS-01:3" synrel="SBJ">
+						<m lemma="1656">iim</m>
+					</w>
+                    <w id="JL-VS-01:2" head="JL-VS-01:3" synrel="TAM">
+						<m lemma="1144">chími</m>
+					</w>
+                    <w gl="you talk!" id="JL-VS-01:3" head="0" synrel="PRED">
+						<m lemma="1218">chúuph</m>
+						<m lemma="1419">i</m>
+					</w>! 
+				</txt>
+                <trans lang="eng">Talk!</trans>
+            </s>
+            <s spkr="VS" audio="karuk-2011-01-30-vs-1_03" audio-start-time="0:21">
+                <txt lang="kyh">
+                    <w id="JL-VS-01:4" head="JL-VS-01:5" synrel="OBJ">
+						<m lemma="5541">taay</m>
+					</w>
+                    <w gl="you know" id="JL-VS-01:5" head="0" synrel="PRED">
+						<m lemma="1418">i</m>
+						<m lemma="3213">'ítap</m>
+						<m lemma="6035">tih</m>
+					</w>
+                    <w id="JL-VS-01:6" head="JL-VS-01:5" synrel="SBJ">
+						<m lemma="1656">iim</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">You know a lot.</trans>
+            </s>
+            <s spkr="JL" audio="karuk-2011-01-30-vs-1_04" audio-start-time="0:24">
+                <txt lang="kyh">
+                    <w id="JL-VS-01:7" head="JL-VS-01:8" synrel="TAM">
+						<m lemma="5506">tá</m>
+					</w>
+                    <w gl="I handled fire" id="JL-VS-01:8" head="0" synrel="PRED">
+						<m lemma="4349">ní</m>
+						<m lemma="9">'aah</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">I did a fire.</trans>
+            </s>
+            <s spkr="JL" audio="karuk-2011-01-30-vs-1_05" audio-start-time="0:27">
+                <txt lang="kyh">
+                    <w id="JL-VS-01:9" head="0" synrel="FRAG">
+						<m lemma="4171">máh'iit</m>
+					</w>
+                    <w id="JL-VS-01:10" head="0" synrel="FRAG">
+						<m lemma="4172">mah'íitnihach</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">In the morning, early in the morning.</trans>
+            </s>
+            <s spkr="JL" audio="karuk-2011-01-30-vs-1_06" audio-start-time="0:31">
+                <txt lang="kyh">
+                    <w id="JL-VS-01:11" head="JL-VS-01:12" synrel="TAM">
+						<m lemma="5506">tá</m>
+					</w>
+                    <w gl="I wake up" id="JL-VS-01:12" head="0" synrel="PRED">
+						<m lemma="4349">ni</m>
+						<m lemma="3439">'itxâarihvu</m>
+						<m lemma="6035">tih</m>
+					</w>
+                    <w id="JL-VS-01:13" head="JL-VS-01:12" synrel="ADV">
+						<m lemma="4172">mah'íitnihach</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">I woke up in the early morning.</trans>
+            </s>
+            <s spkr="JL" audio="karuk-2011-01-30-vs-1_07" audio-start-time="0:38">
+                <txt lang="kyh">
+                    <w id="JL-VS-01:14" head="0" synrel="FRAG">
+						<m lemma="4171">máh'iit</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">In the morning.</trans>
+            </s>
+            <s spkr="VS" audio="karuk-2011-01-30-vs-1_08" audio-start-time="0:39">
+                <txt lang="kyh">
+                    <w id="JL-VS-01:15" head="JL-VS-01:16" synrel="ADV">
+						<m lemma="4172">mah'íitnihach</m>
+					</w>
+                    <w gl="I wake up" id="JL-VS-01:16" head="0" synrel="PRED">
+						<m lemma="4349">ni</m>
+						<m lemma="3439">'itxâarihva</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">I woke up early.</trans>
+            </s>
+            <s spkr="JL" audio="karuk-2011-01-30-vs-1_09" audio-start-time="0:42">
+                <txt lang="kyh">
+                    <w id="JL-VS-01:17" head="JL-VS-01:18" synrel="TAM">
+						<m lemma="5506">tá</m>
+					</w>
+                    <w gl="I wake up" id="JL-VS-01:18" head="0" synrel="PRED">
+						<m lemma="4349">ni</m>
+						<m lemma="3439">'itxâarihvu</m>
+						<m lemma="6035">tih</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">I woke up.</trans>
+            </s>
+            <s spkr="JL" audio="karuk-2011-01-30-vs-1_10" audio-start-time="0:46">
+                <txt lang="kyh">
+                    <w id="JL-VS-01:19" head="JL-VS-01:22" synrel="DIS">
+						<m lemma="3745">kári</m>
+					</w>
+                    <w id="JL-VS-01:20" head="JL-VS-01:22" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w id="JL-VS-01:21" head="JL-VS-01:22" synrel="TAM">
+						<m lemma="5506">tá</m>
+					</w>
+                    <w gl="I got up" id="JL-VS-01:22" head="0" synrel="PRED">
+						<m lemma="4349">ni</m>
+						<m lemma="6613">vôonsip</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">And then I got up.</trans>
+            </s>
+            <s spkr="JL" audio="karuk-2011-01-30-vs-1_11" audio-start-time="0:56">
+                <txt lang="kyh">
+                    <w id="JL-VS-01:23" head="JL-VS-01:25" synrel="OBJ">
+						<m lemma="215">áhup</m>
+					</w>
+                    <w id="JL-VS-01:24" head="JL-VS-01:25" synrel="TAM">
+						<m lemma="5506">tá</m>
+					</w>
+                    <w gl="I gather" id="JL-VS-01:25" head="0" synrel="PRED">
+						<m lemma="4349">ni</m>
+						<m lemma="2348">kyâa</m>
+						<m lemma="6035">tih</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">I gathered wood.</trans>
+            </s>
+            <s spkr="VS" audio="karuk-2011-01-30-vs-1_12" audio-start-time="0:58">
+                <txt lang="kyh">
+                    <w id="JL-VS-01:26" head="JL-VS-01:27" synrel="OBJ">
+						<m lemma="215">áhup</m>
+					</w>
+                    <w gl="you gather" id="JL-VS-01:27" head="0" synrel="PRED">
+						<m lemma="1418">i</m>
+						<m lemma="2348">kyâa</m>
+						<m lemma="6035">tih</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">You gathered wood.</trans>
+            </s>
+            <s spkr="JL" audio="karuk-2011-01-30-vs-1_13" audio-start-time="1:00">
+                <txt lang="kyh">
+                    <w id="JL-VS-01:28" head="JL-VS-01:30" synrel="OBJ">
+						<m lemma="10">áah</m>
+					</w>
+                    <w id="JL-VS-01:29" head="JL-VS-01:30" synrel="TAM">
+						<m lemma="5506">tá</m>
+					</w>
+                    <w gl="I make" id="JL-VS-01:30" head="0" synrel="PRED">
+						<m lemma="4349">ni</m>
+						<m lemma="2348">kyâa</m>
+						<m lemma="6035">tih</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">I made a fire.</trans>
+            </s>
+            <s spkr="JL" audio="karuk-2011-01-30-vs-1_14" audio-start-time="1:04">
+                <txt lang="kyh">
+                    <w id="JL-VS-01:31" head="JL-VS-01:33" synrel="SBJ">
+						<m language="english">Lyn</m>
+					</w>
+                    <w id="JL-VS-01:32" head="JL-VS-01:31" synrel="APOS">
+						<m lemma="6307">uum</m>
+					</w>
+                    <w id="JL-VS-01:33" head="0" synrel="PRED">
+						<m lemma="768">áthiik</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">Lyn was cold.</trans>
+            </s>
+            <s spkr="JL" audio="karuk-2011-01-30-vs-1_15" audio-start-time="1:12">
+                <txt lang="kyh">
+                    <w id="JL-VS-01:34" head="JL-VS-01:36" synrel="DIS">
+						<m lemma="6383">vaa</m>
+					</w>
+                    <w id="JL-VS-01:35" head="JL-VS-01:36" synrel="TAM">
+						<m lemma="5506">tá</m>
+					</w>
+                    <w gl="I make" id="JL-VS-01:36" head="0" synrel="PRED">
+						<m lemma="4349">ni</m>
+						<m lemma="2348">kyâa</m>
+						<m lemma="6035">tih</m>
+					</w>
+                    <w gl="the fire" id="JL-VS-01:37" head="JL-VS-01:36" synrel="OBJ">
+						<m lemma="4407" id="JL-VS-01:38" head="JL-VS-01:37" synrel="ATR">pá</m>
+						<m lemma="10">'aah</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">So I made the fire.</trans>
+            </s>
+            <s spkr="VS" audio="karuk-2011-01-30-vs-1_16" audio-start-time="1:20">
+                <txt lang="kyh">
+                    <w id="JL-VS-01:39" head="JL-VS-01:43" synrel="SBJ">
+						<m lemma="4299">naa</m>
+					</w>
+                    <w id="JL-VS-01:40" head="JL-VS-01:43" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w id="JL-VS-01:41" head="JL-VS-01:43" synrel="ADV">
+						<m lemma="3382">itíhaan</m>
+					</w>
+                    <w id="JL-VS-01:42" head="JL-VS-01:43" synrel="ADV">
+						<m lemma="4172">máh'iitnihich</m>
+					</w>
+                    <w gl="I get up" id="JL-VS-01:43" head="0" synrel="PRED">
+						<m lemma="4349">ní</m>
+						<m lemma="1788">kfuuksipriv</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">I always get up early.</trans>
+            </s>
+            <s spkr="VS" audio="karuk-2011-01-30-vs-1_17" audio-start-time="1:25">
+                <txt lang="eng"><w><m language="english">six thirty five thirty</m></w>.</txt>
+                <trans lang="eng">Six thirty, five thirty.</trans>
+            </s>
+            <s spkr="VS" audio="karuk-2011-01-30-vs-1_18" audio-start-time="1:31">
+                <txt lang="kyh">
+                    <w id="JL-VS-01:44" head="JL-VS-01:46" synrel="DIS">
+						<m lemma="6383">vaa</m>
+					</w>
+                    <w id="JL-VS-01:45" head="JL-VS-01:46" synrel="COMP">
+						<m lemma="7049">yáv</m>
+					</w>
+                    <w gl="I feel" id="JL-VS-01:46" head="0" synrel="PRED">
+						<m lemma="4349">ni</m>
+						<m lemma="2784">pmahóonkoona</m>
+						<m lemma="6035">ti</m>
+					</w>
+                    <w id="JL-VS-01:47" head="JL-VS-01:46" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w gl="in the morning" id="JL-VS-01:48" head="JL-VS-01:46" synrel="ADV">
+						<m lemma="4407" id="JL-VS-01:49" head="JL-VS-01:48" synrel="ATR">pa</m>
+						<m lemma="4171">máh'iit</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">I feel good in the morning.</trans>
+            </s>
+            <s spkr="JL" audio="karuk-2011-01-30-vs-1_19" audio-start-time="1:36">
+                <txt lang="kyh">
+                    <w id="JL-VS-01:49" head="0" synrel="FRAG">
+						<m lemma="4299">naa</m>
+					</w>
+                    <w id="JL-VS-01:50" head="JL-VS-01:49" synrel="ATR"><!-- synrel="DIS" -->
+						<m lemma="3752">káru</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">Me too.</trans>
+            </s>
+            <s spkr="VS" audio="karuk-2011-01-30-vs-1_20" audio-start-time="1:39">
+                <txt lang="kyh">
+                    <w id="JL-VS-01:51" head="JL-VS-01:42" synrel="COMP">
+						<m lemma="3678">kâarim</m>
+					</w>
+                    <w gl="I feel" id="JL-VS-01:52" head="0" synrel="PRED">
+						<m lemma="4349">ni</m>
+						<m lemma="2784">pmahóonkoon</m>
+					</w>
+                    <w gl="when" id="JL-VS-01:53" head="JL-VS-01:55" synrel="TAM">
+						<m lemma="4408" id="JL-VS-01:54" head="JL-VS-01:55" synrel="SUB">pa</m>
+						<m lemma="5506">tá</m>
+					</w>
+                    <w gl="I am sleeping" id="JL-VS-01:55" head="JL-VS-01:52" synrel="ADV">
+						<m lemma="4349">ní</m>
+						<m lemma="2189">kviit-hi</m>
+						<m lemma="6035">tih</m>
+					</w>
+                    <w id="JL-VS-01:56" head="JL-VS-01:55" synrel="ADV">
+						<m lemma="3382">itíhaan</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">I feel bad when I am always sleeping.</trans>
+            </s>
+            <s spkr="VS" audio="karuk-2011-01-30-vs-1_21" audio-start-time="1:50">
+                <txt lang="kyh">
+                    <w id="JL-VS-01:57" head="0" synrel="FRAG">
+						<m lemma="6329">uuríhaan</m>
+					</w>
+                    <w id="JL-VS-01:58" head="JL-VS-01:58" synrel="ATR">
+						<m lemma="3999">kúnish</m>
+					</w>
+                    <w id="JL-VS-01:59" head="0" synrel="FRAG">
+						<m lemma="6329">uuríhaan</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">Lazy bones, sort of lazy bones.</trans>
+            </s>
+            <s spkr="JL" audio="karuk-2011-01-30-vs-1_22" audio-start-time="1:58">
+                <txt lang="kyh">
+                    <w id="JL-VS-01:60" head="JL-VS-01:62" synrel="ADV">
+						<m lemma="5541">taay</m>
+					</w>
+                    <w id="JL-VS-01:61" head="JL-VS-01:63" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w id="JL-VS-01:62" head="JL-VS-01:63" synrel="ADV">
+						<m lemma="1394">hôotah</m>
+					</w>
+                    <w gl="when we went to bed" id="JL-VS-01:63" head="0" synrel="PRED">
+						<m lemma="4408" id="JL-VS-01:64" head="JL-VS-01:63" synrel="SUB">pa</m>
+						<m lemma="4370">nú</m>
+						<m lemma="2189">kviit</m>
+						<m lemma="6035">ih</m>
+						<m lemma="738">at</m>
+					</w>
+                    <w id="JL-VS-01:65" head="JL-VS-01:63" synrel="ADV">
+						<m lemma="2766">ipít</m>
+					</w>
+                    <w id="JL-VS-01:66" head="JL-VS-01:63" synrel="ADV">
+						<m lemma="2240">ikxáram</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">It was really late when we went to bed last night.</trans>
+            </s>
+            <s spkr="VS" audio="karuk-2011-01-30-vs-1_23" audio-start-time="2:10">
+                <txt lang="kyh">
+                    <w id="JL-VS-01:67" head="JL-VS-01:68" synrel="COMP">
+						<m lemma="1410">hûut</m>
+                    </w>
+                    <w id="JL-VS-01:68" head="0" synrel="FRAG">
+						<m lemma="3971">kumá'ii</m>
+					</w>.
+                </txt>
+                <trans lang="eng">Why?</trans>
+            </s>
+			<s spkr="JL" audio="karuk-2011-01-30-vs-1_24" audio-start-time="2:15">
+                <txt lang="kyh">
+                    <w id="JL-VS-01:69" head="JL-VS-01:70" synrel="TAM">
+						<m lemma="5506">tá</m>
+					</w>
+                    <w gl="we party" id="JL-VS-01:70" head="0" synrel="PRED">
+						<m lemma="4370">nu</m>
+						<m language="english">party</m>
+					</w>
+                    <w id="JL-VS-01:71" head="JL-VS-01:72" synrel="ADV">
+						<m language="english">party</m>
+					</w>
+                    <w gl="we went" id="JL-VS-01:72" head="0" synrel="PRED">
+						<m lemma="4370">nu</m>
+						<m lemma="6306">'úum</m>
+						<m lemma="738">at</m>
+					</w>
+                    <w gl="we went" id="JL-VS-01:73" head="0" synrel="PRED">
+						<m lemma="4370">nu</m>
+						<m lemma="6306">'úum</m>
+						<m lemma="738">at</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">We had partied. We went to a party. We went.</trans>
+            </s>
+            <s spkr="JL" audio="karuk-2011-01-30-vs-1_25" audio-start-time="2:21">
+                <txt lang="kyh">
+                    <w id="JL-VS-01:74" head="JL-VS-01:78" synrel="DIS">
+						<m lemma="3745">kári</m>
+					</w>
+                    <w id="JL-VS-01:75" head="JL-VS-01:78" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w id="JL-VS-01:76" head="JL-VS-01:78" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w id="JL-VS-01:77" head="JL-VS-01:78" synrel="OBJ">
+						<m lemma="5541">taay</m>
+					</w>
+                    <w gl="that we drank" id="JL-VS-01:78" head="0" synrel="PRED">
+						<m lemma="4408" id="JL-VS-01:79" head="JL-VS-01:78" synrel="SUB">pa</m>
+						<m lemma="4370">nu</m>
+						<m lemma="2936">'íish</m>
+						<m lemma="6035">tih</m>
+					</w>
+                    <w id="JL-VS-01:80" head="8" synrel="DIS">
+						<m lemma="3752">káru</m>
+					</w>
+                    <w gl="eating" id="JL-VS-01:81" head="JL-VS-01:78" synrel="COORD">
+						<m lemma="814">áam</m>
+						<m lemma="6035">tih</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">We ate and drank a lot.</trans>
+            </s>
+            <s spkr="VS" audio="karuk-2011-01-30-vs-1_26" audio-start-time="2:31">
+                <txt lang="kyh">
+                    <w id="JL-VS-01:82" head="0" synrel="INTERJ"> <!-- head="JL-VS-01:85" synrel="DIS" -->
+						<m lemma="1357">hãã</m>
+					</w>
+                    <w id="JL-VS-01:83" head="JL-VS-01:85" synrel="DIS">
+						<m lemma="6682">vúra</m>
+						<m lemma="6381" id="JL-VS-01:84" head="JL-VS-01:85" synrel="SBJ">va</m> 
+					</w>
+                    <w gl="big happening" id="JL-VS-01:85" head="0" synrel="PRED">
+						<m lemma="2961">ishimfirá</m>
+						<m lemma="4087">kuupha</m>
+					</w>
+					<w id="JL-VS-01:86" head="JL-VS-01:85" synrel="DIS">
+						<m lemma="6383">vaa</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">Yes, (it was) a big happening.</trans>
+            </s>
+            <s spkr="VS" audio="karuk-2011-01-30-vs-1_27" audio-start-time="2:37">
+                <txt lang="kyh">
+                    <w id="JL-VS-01:87" head="JL-VS-01:88" synrel="OBJ">
+						<m lemma="5541">taay</m>
+					</w>
+                    <w gl="you ate" id="JL-VS-01:88" head="0" synrel="PRED">
+						<m lemma="5506" id="JL-VS-01:89" head="JL-VS-01:88" synrel="TAM">t</m>
+						<m lemma="1418">i</m>
+						<m lemma="814">'áv</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">You ate a lot.</trans>
+            </s>
+            <s spkr="VS" audio="karuk-2011-01-30-vs-1_28" audio-start-time="2:58">
+                <txt lang="kyh">
+                    <w id="JL-VS-01:90" head="JL-VS-01:92" synrel="ADV">
+						<m lemma="1816">íkiich</m>
+					</w>
+                    <w id="JL-VS-01:91" head="JL-VS-01:92" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w gl="you will get fat" id="JL-VS-01:92" head="0" synrel="PRED">
+						<m lemma="1418">i</m>
+						<m lemma="4990">píshriivp</m>
+						<m lemma="1379">eesh</m>
+					</w>
+                    <w gl="if a lot" id="JL-VS-01:93" head="JL-VS-01:95" synrel="OBJ">
+						<m lemma="4408" id="JL-VS-01:94" head="JL-VS-01:95" synrel="SUB">pa</m>
+						<m lemma="5541">táay</m>
+					</w>
+                    <w gl="you eat" id="JL-VS-01:95" head="JL-VS-01:92" synrel="ADV">
+						<m lemma="1418">i</m>
+						<m lemma="814">'áam</m>
+						<m lemma="6035">tih</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">Maybe you'll get fat if you eat too much.</trans>
+            </s>
+            <s spkr="VS" audio="karuk-2011-01-30-vs-1_29" audio-start-time="3:09">
+                <txt lang="kyh">
+                    <w id="JL-VS-01:96" head="JL-VS-01:99" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w id="JL-VS-01:97" head="JL-VS-01:99" synrel="DIS"> 
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w id="JL-VS-01:98" head="JL-VS-01:99" synrel="SBJ">
+						<m lemma="815">áv</m>
+					</w>
+                    <w gl="not good" id="JL-VS-01:99" head="0" synrel="PRED">
+						<m lemma="5082" id="JL-VS-01:100" head="JL-VS-01:99" synrel="NEG">pu</m>
+						<m lemma="7049">yáv</m>
+						<m lemma="1371">hara</m>
+					</w>
+                    <w gl="if you become an old man" id="JL-VS-01:101" head="JL-VS-01:99" synrel="ADV">
+						<m lemma="4408" id="JL-VS-01:102" head="JL-VS-01:101" synrel="SUB">p</m>
+						<m lemma="1418">ee</m>
+						<m lemma="4793">pihnîichha</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">Lots of food it's not good if you become an old man.</trans>
+            </s>
+            <s spkr="JL" audio="karuk-2011-01-30-vs-1_30" audio-start-time="3:21">
+                <txt lang="kyh">
+                    <w gl="my aunt" id="JL-VS-01:103" head="JL-VS-01:104" synrel="ATR">
+						<m lemma="4326">naní</m>
+						<m language="english">aunt</m>
+					</w>
+                    <w id="JL-VS-01:104" head="JL-VS-01:106" synrel="SBJ">
+						<m language="english">Ramona</m>
+					</w>
+                    <w id="JL-VS-01:105" head="JL-VS-01:106" synrel="ADV">
+						<m lemma="3219">ithâan</m>
+					</w>
+                    <w gl="she looked at me" id="JL-VS-01:106" head="0" synrel="PRED">
+						<m lemma="4294">née</m>
+						<m lemma="2570">mus</m>
+						<m lemma="6035">tih</m>
+					</w>
+                    <w gl="my aunt" id="JL-VS-01:107" head="JL-VS-01:108" synrel="ATR">
+						<m lemma="4326">naní</m>
+						<m language="english">aunt</m>
+					</w>
+                    <w id="JL-VS-01:108" head="JL-VS-01:111" synrel="SBJ">
+						<m language="english">Ramona</m>
+					</w>
+                    <w id="JL-VS-01:109" head="JL-VS-01:111" synrel="DIS">
+						<m lemma="3745">kári</m>
+					</w>
+                    <w id="JL-VS-01:110" head="JL-VS-01:111" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w gl="she said" id="JL-VS-01:111" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="4823">pí</m>
+						<m lemma="6035">tih</m>
+					</w> "
+                    <w id="JL-VS-01:112" head="JL-VS-01:113" synrel="DIS"> <!-- head="0" synrel="INTERJ" -->
+						<m lemma="1363">hã'ii</m>
+					</w>
+                    <w gl="you have gotten fat" id="JL-VS-01:113" head="JL-VS-01:111" synrel="QUOT">
+						<m lemma="5506" id="JL-VS-01:114" head="JL-VS-01:113" synrel="TAM">t</m>
+						<m lemma="1418">i</m>
+						<m lemma="4990">píshriivpa</m>
+					</w>." 
+				</txt>
+                <trans lang="eng">My Aunt Ramona once looked at me and she said "Yikes, you've gotten fat!"</trans>
+            </s>
+            <s spkr="JL" audio="karuk-2011-01-30-vs-1_31" audio-start-time="3:44">
+                <txt lang="eng">
+                    <w id="JL-VS-01:115"><m language="english">ok</m>.</w>
+                </txt>
+                <trans lang="eng">OK.</trans>
+            </s>
+            <s spkr="VS" audio="karuk-2011-01-30-vs-1_32" audio-start-time="3:47">
+                <txt lang="kyh">
+                    <w id="JL-VS-01:116" head="0" synrel="FRAG"><m lemma="1281">fáat</m></w>. </txt>
+                <trans lang="eng">What?</trans>
+            </s>
+            <s spkr="JL" audio="karuk-2011-01-30-vs-1_33" audio-start-time="3:48">
+                <txt lang="eng">
+                    <w id="JL-VS-01:117"><m language="english">I think we're done</m>.</w>
+                </txt>
+                <trans lang="eng">I think we're done.</trans>
+            </s>
+        </paragraph>
+    </data>
+</text>

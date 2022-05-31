@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <text id="WB_KL-39">
+		<metadata>
+			<title>"The Adulterers Discovered"</title>
+			<author>Nettie <alph>Reuben</alph></author>
+			<date>1957</date>
+			<publication>William Bright, <em>The Karok Language</em> (1957), pp. 240-241</publication>
+		</metadata>
+		<data>
+			<paragraph>
+				<s>
+					<txt lang="kyh">
+				<w id="WB_KL-39:1" head="WB_KL-39:2" synrel="SBJ">
+					<m lemma="446">apsunmúnukich</m>
+				</w>
+				<w gl="was being unfaithful to his wife" id="WB_KL-39:2" head="0" synrel="PRED">
+					<m lemma="6175">u</m>
+					<m lemma="3880">kitaxríharahi</m>
+					<m lemma="6035">tih</m>
+				</w>.
+					</txt>
+					<trans lang="eng">Western Yellow-Bellied Racer (a snake) was being unfaithful to his wife.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+				<w gl="another's wife" id="WB_KL-39:3" head="WB_KL-39:4" synrel="COMP">	
+					<m lemma="3231">ith'aran</m>
+					<m lemma="1576">ihrôoha</m>
+				</w>
+				<w id="WB_KL-39:4" head="WB_KL-39:5" synrel="SBJ">
+					<m lemma="6757">xákaan</m>
+				</w>
+				<w gl="they were sleeping" id="WB_KL-39:5" head="0" synrel="PRED">
+					<m lemma="3977">kun</m>
+					<m lemma="680">'ásim</m>
+					<m lemma="6035">tih</m>
+				</w>.
+					</txt>
+					<trans lang="eng">He was sleeping with another's wife.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+				<w id="WB_KL-39:6" head="WB_KL-39:8" synrel="DIS">
+					<m lemma="6847">xás</m>
+				</w>
+				<w gl="he had" id="WB_KL-39:7" head="WB_KL-39:8" synrel="TAM">
+					<m lemma="5506">t</m>
+					<m lemma="6175">óo</m>
+				</w>
+				<w id="WB_KL-39:8" head="0" synrel="PRED">
+					<m lemma="4823">piip</m>
+				</w>, 
+				<w id="WB_KL-39:9" head="WB_KL-39:8" synrel="SBJ">
+					<m lemma="446">apsunmúnukich</m>
+				</w>, "
+				<w id="WB_KL-39:10" head="WB_KL-39:13" synrel="DIS">
+					<m lemma="6675">vúra</m>
+				</w>
+				<w id="WB_KL-39:11" head="WB_KL-39:12" synrel="NEG"><!-- head="WB_KL-39:13" -->
+					<m lemma="7291">púra</m> 
+				</w>
+				<w id="WB_KL-39:12" head="WB_KL-39:13" synrel="SBJ">
+					<m lemma="239">kára</m>
+				</w>
+				<w gl="will find out" id="WB_KL-39:13" head="WB_KL-39:8" synrel="QUOT">
+					<m lemma="44">aapúnm</m>
+					<m lemma="1379">eesh</m>
+					<m lemma="1371">ara</m>
+				</w>."
+					</txt>
+					<trans lang="eng">And Racer said, "Nobody will find out."</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+				<w id="WB_KL-39:14" head="WB_KL-39:18" synrel="DIS">
+					<m lemma="6847">xás</m>
+				</w>
+				<w id="WB_KL-39:15" head="WB_KL-39:18" synrel="ADV">
+					<m lemma="3969">kúkuum</m>
+				</w>
+				<w id="WB_KL-39:16" head="WB_KL-39:18" synrel="DIS">
+					<m lemma="6675">vúra</m>
+				</w>
+				<w id="WB_KL-39:17" head="WB_KL-39:18" synrel="ADV">
+					<m lemma="2391">imáan</m>
+				</w>
+				<w gl="he went to see her" id="WB_KL-39:18" head="0" synrel="PRED">
+					<m lemma="5506" id="WB_KL-39:19" head="WB_KL-39:18" synrel="TAM">t</m>
+					<m lemma="6175">u</m>
+					<m lemma="2575">músar</m>
+				</w>.
+					</txt>
+					<trans lang="eng">So again the next day he went to see her.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+				<w gl="the woman" id="WB_KL-39:20" head="WB_KL-39:24" synrel="SBJ">
+					<m lemma="4407" id="WB_KL-39:21" head="WB_KL-39:20" synrel="ATR">pa</m>
+					<m lemma="656">'asiktávaan</m>
+				</w>
+				<w id="WB_KL-39:22" head="WB_KL-39:20" synrel="ATR"><!-- synrel="DIS" -->
+					<m lemma="3752">káru</m>
+				</w>
+				<w id="WB_KL-39:23" head="WB_KL-39:20" synrel="APOS">
+					<m lemma="6307">uum</m>
+				</w>
+				<w gl="she went out" id="WB_KL-39:24" head="0" synrel="PRED">
+					<m lemma="5506" id="WB_KL-39:25" head="WB_KL-39:24" synrel="TAM">t</m>
+					<m lemma="6175">u</m>
+					<m lemma="6618">vôonupuk</m>
+				</w>.
+					</txt>
+					<trans lang="eng">The woman went out too.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+				<w id="WB_KL-39:26" head="WB_KL-39:28" synrel="ADV">
+					<m lemma="7081">yiimúsich</m>
+				</w>
+				<w gl="she had" id="WB_KL-39:27" head="WB_KL-39:28" synrel="TAM">
+					<m lemma="5506">t</m>
+					<m lemma="6175">óo</m>
+				</w>
+				<w id="WB_KL-39:28" head="0" synrel="PRED">
+					<m lemma="2783">pmah</m>
+				</w>, 
+				<w id="WB_KL-39:29" head="WB_KL-39:28" synrel="OBJ">
+					<m lemma="446">apsunmúnukich</m>
+				</w>.
+					</txt>
+					<trans lang="eng">She saw Racer a little ways off.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+				<w id="WB_KL-39:30" head="WB_KL-39:31" synrel="ADV">
+					<m lemma="3670">káan</m>
+				</w>
+				<w gl="she arrived" id="WB_KL-39:31" head="0" synrel="PRED">
+					<m lemma="5506" id="WB_KL-39:32" head="WB_KL-39:31" synrel="TAM">t</m>
+					<m lemma="6175">u</m>
+					<m lemma="6306">'uum</m> 
+				</w>.
+					</txt>
+					<trans lang="eng">She arrived there.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+				<w gl="you see" id="WB_KL-39:33" head="WB_KL-39:40" synrel="DIS">
+					<m lemma="5160">púya</m>
+					<m lemma="6383" id="WB_KL-39:34" head="WB_KL-39:40" synrel="DIS">va</m>
+				</w>
+				<w gl="when it had" id="WB_KL-39:35" head="WB_KL-39:37" synrel="TAM">
+					<m lemma="4408" id="WB_KL-39:36" head="WB_KL-39:37" synrel="SUB">pa</m>
+					<m lemma="5506">t</m>
+					<m lemma="6175">óo</m>
+				</w>
+				<w id="WB_KL-39:37" head="WB_KL-39:40" synrel="ADV">
+					<m lemma="2241">kxáramha</m>
+				</w>, 
+				<w gl="the woman" id="WB_KL-39:38" head="WB_KL-39:40" synrel="SBJ">
+					<m lemma="4407" id="WB_KL-39:39" head="WB_KL-39:38" synrel="ATR">pa</m>
+					<m lemma="656">'asiktávaan</m>
+				</w>
+				<w gl="she returned" id="WB_KL-39:40" head="0" synrel="PRED">
+					<m lemma="5506" id="WB_KL-39:41" head="WB_KL-39:40" synrel="TAM">t</m>
+					<m lemma="6175">u</m>
+					<m lemma="2694">'ípak</m> 
+				</w>.
+					</txt>
+					<trans lang="eng">And when it got dark, the woman returned home.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+				<w id="WB_KL-39:42" head="WB_KL-39:45" synrel="DIS">
+					<m lemma="6675">vúra</m>
+				</w>
+				<w id="WB_KL-39:43" head="WB_KL-39:43" synrel="NEG">
+					<m lemma="7291">púra</m> 
+				</w>
+				<w id="WB_KL-39:44" head="WB_KL-39:45" synrel="COMP"><!-- synrel="OBJ" -->
+					<m lemma="1407">húun</m>
+				</w>
+				<w gl="was doing" id="WB_KL-39:45" head="0" synrel="PRED">
+					<m lemma="4086">kupí</m>
+					<m lemma="6035">tih</m>
+					<m lemma="1371">ara</m>
+				</w>.
+					</txt>
+					<trans lang="eng">(It was as if) she was doing no harm.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+				<w id="WB_KL-39:46" head="WB_KL-39:47" synrel="DIS">
+					<m lemma="6675">vúra</m>
+				</w>
+				<w id="WB_KL-39:47" head="0" synrel="PRED">
+					<m lemma="7049">yáv</m>
+				</w>
+				<w gl="the woman" id="WB_KL-39:48" head="WB_KL-39:47" synrel="SBJ">
+					<m lemma="4407" id="WB_KL-39:49" head="WB_KL-39:48" synrel="ATR">pa</m>
+					<m lemma="656">'asiktávaan</m>
+				</w>.
+					</txt>
+					<trans lang="eng">She was a good woman.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+				<w id="WB_KL-39:50" head="WB_KL-39:52" synrel="DIS">
+					<m lemma="3758">káruma</m>
+				</w>
+				<w id="WB_KL-39:51" head="WB_KL-39:52" synrel="SBJ">
+					<m lemma="6307">uum</m>
+				</w>
+				<w gl="she was being unfaithful" id="WB_KL-39:52" head="0" synrel="PRED">
+					<m lemma="6175">u</m>
+					<m lemma="3880">kitaxríharahi</m>
+					<m lemma="6035">tih</m>
+				</w>.
+					</txt>
+					<trans lang="eng">(But) the fact was, she was being unfaithful.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+				<w id="WB_KL-39:53" head="WB_KL-39:58" synrel="DIS">
+					<m lemma="6847">xás</m>
+				</w>
+				<w gl="the man" id="WB_KL-39:54" head="WB_KL-39:58" synrel="SBJ">
+					<m lemma="4407" id="WB_KL-39:55" head="WB_KL-39:54" synrel="ATR">pa</m>
+					<m lemma="833">'ávansa</m>
+				</w>
+				<w id="WB_KL-39:56" head="WB_KL-39:58" synrel="DIS">
+					<m lemma="6675">vúra</m>
+				</w>
+				<w id="WB_KL-39:57" head="WB_KL-39:54" synrel="APOS">
+					<m lemma="6307">uum</m>
+				</w>
+				<w gl="he didn't know" id="WB_KL-39:58" head="0" synrel="PRED">
+					<m lemma="5082" id="WB_KL-39:59" head="WB_KL-39:58" synrel="NEG">pu</m>
+					<m lemma="44">'aapúnmu</m>
+					<m lemma="6035">tih</m>
+					<m lemma="1371">ara</m>
+				</w>.
+					</txt>
+					<trans lang="eng">And the man (her husband) didn't know.</trans>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<txt lang="kyh">
+				<w id="WB_KL-39:60" head="WB_KL-39:66" synrel="DIS">
+					<m lemma="6847">xás</m>
+				</w>
+				<w id="WB_KL-39:61" head="WB_KL-39:66" synrel="DIS">
+					<m lemma="3745">kári</m>
+				</w>
+				<w id="WB_KL-39:62" head="WB_KL-39:66" synrel="ADV">
+					<m lemma="3969">kúkuum</m>
+				</w>
+				<w id="WB_KL-39:63" head="WB_KL-39:66" synrel="DIS">
+					<m lemma="6675">vúra</m>
+				</w>
+				<w id="WB_KL-39:64" head="WB_KL-39:66" synrel="ADV">
+					<m lemma="2391">imáan</m>
+				</w>
+				<w id="WB_KL-39:65" head="WB_KL-39:66" synrel="TAM">
+					<m lemma="5506">tá</m>
+				</w>
+				<w gl="they were going to meet" id="WB_KL-39:66" head="0" synrel="PRED">
+					<m lemma="3977">kun</m>
+					<m lemma="5021">pithvuyrám</m>
+					<m lemma="1379">eesh</m>
+				</w>.
+					</txt>
+					<trans lang="eng">And again the next day they were going to meet.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+				<w gl="you see" id="WB_KL-39:67" head="WB_KL-39:70" synrel="DIS">
+					<m lemma="5160">púya</m>
+					<m lemma="6383" id="WB_KL-39:68" head="WB_KL-39:70" synrel="DIS">va</m>
+				</w>
+				<w id="WB_KL-39:69" head="WB_KL-39:70" synrel="ADV">
+					<m lemma="2391">imáan</m>
+				</w>
+				<w gl="she went out" id="WB_KL-39:70" head="0" synrel="PRED">
+					<m lemma="5506" id="WB_KL-39:71" head="WB_KL-39:70" synrel="TAM">t</m>
+					<m lemma="6175">u</m>
+					<m lemma="6618">vôonupuk</m>
+				</w>,
+				<w gl="the woman" id="WB_KL-39:72" head="WB_KL-39:70" synrel="SBJ">
+					<m lemma="4407" id="WB_KL-39:73" head="WB_KL-39:72" synrel="ATR">pa</m>
+					<m lemma="656">'asiktávaan</m>
+				</w>.
+					</txt>
+					<trans lang="eng">So the next day the woman went out.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+				<w id="WB_KL-39:74" head="WB_KL-39:77" synrel="DIS">
+					<m lemma="7097">yanav</m>
+					<m lemma="1729" id="WB_KL-39:75" head="WB_KL-39:77" synrel="DIS">éek</m><!-- synrel="TAM" -->
+					<m lemma="6383" id="WB_KL-39:76" head="WB_KL-39:77" synrel="DIS">va</m>
+				</w>
+				<w gl="he had arrived" id="WB_KL-39:77" head="0" synrel="PRED">
+					<m lemma="5506" id="WB_KL-39:78" head="WB_KL-39:77" synrel="TAM">t</m>
+					<m lemma="6175">u</m>
+					<m lemma="205">'áhoo</m>
+					<m lemma="1378">heen</m>
+				</w>,
+				<w id="WB_KL-39:79" head="WB_KL-39:77" synrel="SBJ">
+					<m lemma="446">apsunmúnukich</m>
+				</w>.
+					</txt>
+					<trans lang="eng">She saw Racer coming.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+				<w id="WB_KL-39:80" head="WB_KL-39:84" synrel="DIS">
+					<m lemma="3745">kári</m>
+				</w>
+				<w id="WB_KL-39:81" head="WB_KL-39:84" synrel="DIS">
+					<m lemma="6847">xás</m>
+				</w> "
+				<w id="WB_KL-39:82" head="WB_KL-39:87" synrel="DIS"><!-- recurring problem of what to do when something would be head="0" in main clause but is in quote. Should it be a separate QUOT dependent?-->
+					<m lemma="1633">ii</m>
+				</w>!"
+				<w id="WB_KL-39:83" head="WB_KL-39:84" synrel="DIS">
+					<m lemma="6847">xás</m>
+				</w>
+				<w gl="he said" id="WB_KL-39:84" head="0" synrel="PRED">
+					<m lemma="6175">u</m>
+					<m lemma="4823">piip</m>
+				</w>, "
+				<w id="WB_KL-39:85" head="WB_KL-39:87" synrel="DIS">
+					<m lemma="6675">vúra</m>
+				</w>
+				<w id="WB_KL-39:86" head="WB_KL-39:87" synrel="DIS">
+					<m lemma="4357">ník</m>
+				</w>
+				<w gl="they mustn't know about us" id="WB_KL-39:87" head="WB_KL-39:84" synrel="QUOT">
+					<m lemma="5082" id="WB_KL-39:88" head="WB_KL-39:87" synrel="NEG">pu</m>
+					<m lemma="3841">kín</m>
+					<m lemma="44">'aapunm</m>
+					<m lemma="1379">eesh</m>
+					<m lemma="399">ap</m>
+				</w>,
+				<w gl="that we are being unfaithful" id="WB_KL-39:89" head="WB_KL-39:87" synrel="COMP">
+					<m lemma="4408" id="WB_KL-39:90" head="WB_KL-39:89" synrel="SUB">pa</m>
+					<m lemma="4370">nu</m>
+					<m lemma="3880">kitaxríharahi</m>
+					<m lemma="6035">tih</m>
+				</w>."
+					</txt>
+					<trans lang="eng">Then (hearing someone coming) he said, "Oh, they mustn't know that we're being unfaithful!"</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+				<w id="WB_KL-39:91" head="WB_KL-39:93" synrel="DIS">
+					<m lemma="3745">kári</m>
+				</w>
+				<w id="WB_KL-39:92" head="WB_KL-39:93" synrel="DIS">
+					<m lemma="6847">xás</m>
+				</w>
+				<w gl="he said" id="WB_KL-39:93" head="0" synrel="PRED">
+					<m lemma="6175">u</m>
+					<m lemma="4823">piip</m>
+				</w>, "
+				<w id="WB_KL-39:94" head="WB_KL-39:95" synrel="TAM">
+					<m lemma="1144">chími</m>
+				</w>
+				<w gl="bury me!" id="WB_KL-39:95" head="WB_KL-39:93" synrel="QUOT">
+					<m lemma="4294">na</m>
+					<m lemma="3131">'íshunv</m>
+					<m lemma="1419">i</m>
+				</w>."
+					</txt>
+					<trans lang="eng">And he said, "Bury me!"</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+				<w id="WB_KL-39:96" head="WB_KL-39:100" synrel="DIS">
+					<m lemma="3745">kári</m>
+				</w>
+				<w id="WB_KL-39:97" head="WB_KL-39:100" synrel="DIS">
+					<m lemma="6847">xás</m>
+				</w>
+				<w gl="the dirt" id="WB_KL-39:98" head="WB_KL-39:100" synrel="COMP"><!-- synrel="OBJ" -->
+					<m lemma="4407" id="WB_KL-39:99" head="WB_KL-39:98" synrel="ATR">pá</m>
+					<m lemma="7247">yuux</m>
+				</w>
+				<w gl="she covered him with" id="WB_KL-39:100" head="0" synrel="PRED">
+					<m lemma="6175">u</m>
+					<m lemma="3556">xyátap</m>
+				</w>.
+					</txt>
+					<trans lang="eng">So she threw dirt on him.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+				<w gl="she buried him" id="WB_KL-39:101" head="0" synrel="PRED">
+					<m lemma="6175">u</m>
+					<m lemma="3131">'íshunva</m>
+				</w>.
+					</txt>
+					<trans lang="eng">She buried him.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+				<w id="WB_KL-39:102" head="WB_KL-39:104" synrel="NEG">
+					<m lemma="5155">púxay</m>
+				</w>
+				<w id="WB_KL-39:103" head="WB_KL-39:104" synrel="DIS">
+					<m lemma="6675">vúra</m>
+				</w>
+				<w gl="they were to knew" id="WB_KL-39:104" head="0" synrel="PRED">
+					<m lemma="3841">kín</m>
+					<m lemma="44">'aapunm</m>
+					<m lemma="1379">eesh</m>
+					<m lemma="399">ap</m>
+				</w>.
+					</txt>
+					<trans lang="eng">They were not to know.</trans>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<txt lang="kyh">
+				<w id="WB_KL-39:105" head="WB_KL-39:110" synrel="DIS">
+					<m lemma="3745">kári</m>
+				</w>
+				<w id="WB_KL-39:106" head="WB_KL-39:110" synrel="DIS">
+					<m lemma="6847">xás</m>
+				</w>
+				<w gl="the woman" id="WB_KL-39:107" head="WB_KL-39:110" synrel="SBJ">
+					<m lemma="4407" id="WB_KL-39:108" head="WB_KL-39:107" synrel="ATR">pa</m>
+					<m lemma="656">'asiktávaan</m>
+				</w>
+				<w gl="she had" id="WB_KL-39:109" head="WB_KL-39:110" synrel="TAM">
+					<m lemma="5506">t</m>
+					<m lemma="6175">óo</m>
+				</w>
+				<w id="WB_KL-39:110" head="0" synrel="PRED">
+					<m lemma="2860">pvâaram</m>
+				</w>.
+					</txt>
+					<trans lang="eng">Then the woman went back home.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+				<w id="WB_KL-39:111" head="WB_KL-39:115" synrel="DIS">
+					<m lemma="3745">kári</m>
+				</w>
+				<w id="WB_KL-39:112" head="WB_KL-39:115" synrel="DIS">
+					<m lemma="6847">xás</m>
+				</w>
+				<w id="WB_KL-39:113" head="WB_KL-39:115" synrel="SBJ">
+					<m lemma="446">apsunmúnukich</m>
+				</w>
+				<w id="WB_KL-39:114" head="WB_KL-39:115" synrel="ADV">
+					<m lemma="924">axmáy</m>
+				</w>
+				<w gl="he crawled out" id="WB_KL-39:115" head="0" synrel="PRED">
+					<m lemma="6175">u</m>
+					<m lemma="6617">vôonuprav</m>
+				</w>.
+					</txt>
+					<trans lang="eng">And suddenly Racer crawled out (prematurely).</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+				<w id="WB_KL-39:116" head="WB_KL-39:121" synrel="DIS">
+					<m lemma="6847">xás</m>
+				</w>
+				<w id="WB_KL-39:117" head="WB_KL-39:121" synrel="DIS">
+					<m lemma="3745">kári</m>
+				</w> "
+				<w id="WB_KL-39:118" head="WB_KL-39:124" synrel="DIS"><!-- same problem as above; what to do with interjections and what to do with something with head="0" in main clause when its in a quote -->
+					<m lemma="1224">ee</m>
+				</w>!"
+				<w id="WB_KL-39:119" head="WB_KL-39:121" synrel="DIS">
+					<m lemma="3745">kári</m>
+				</w>
+				<w id="WB_KL-39:120" head="WB_KL-39:121" synrel="DIS">
+					<m lemma="6847">xás</m>
+				</w>
+				<w gl="they said" id="WB_KL-39:121" head="0" synrel="PRED">
+					<m lemma="3977">kun</m>
+					<m lemma="4823">piip</m>
+				</w>, "
+				<w id="WB_KL-39:122" head="WB_KL-39:123" synrel="APOS">
+					<m lemma="6307">uum</m>
+				</w>
+				<w id="WB_KL-39:123" head="WB_KL-39:124" synrel="SBJ">
+					<m lemma="446">apsunmúnukich</m>
+				</w>
+				<w gl="he is being unfaithful" id="WB_KL-39:124" head="WB_KL-39:121" synrel="QUOT">
+					<m lemma="5506" id="WB_KL-39:125" head="WB_KL-39:124" synrel="TAM">t</m>
+					<m lemma="6175">u</m>
+					<m lemma="3880">kitaxríharahi</m>
+					<m lemma="6035">tih</m>
+				</w>."
+					</txt>
+					<trans lang="eng">And (people) said, "Oh, Racer is being unfaithful!"</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+				<w id="WB_KL-39:126" head="WB_KL-39:127" synrel="TAM">
+					<m lemma="5506">tá</m>
+				</w>
+				<w gl="they found out" id="WB_KL-39:127" head="0" synrel="PRED">
+					<m lemma="3977">kun</m>
+					<m lemma="44">'áapunma</m>
+				</w>
+				<w gl="that he was being unfaithful" id="WB_KL-39:128" head="WB_KL-39:127" synrel="COMP">
+					<m lemma="4408" id="WB_KL-39:129" head="WB_KL-39:128" synrel="SUB">p</m>
+					<m lemma="6175">oo</m>
+					<m lemma="3880">kitaxríharahi</m>
+					<m lemma="6035">tih</m>
+				</w>.
+					</txt>
+					<trans lang="eng">They found out that he was being unfaithful.</trans>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<txt lang="kyh">
+				<w id="WB_KL-39:130" head="WB_KL-39:133" synrel="DIS">
+					<m lemma="3745">kári</m>
+				</w>
+				<w id="WB_KL-39:131" head="WB_KL-39:133" synrel="DIS">
+					<m lemma="6847">xás</m>
+				</w>
+				<w id="WB_KL-39:132" head="WB_KL-39:133" synrel="SBJ">
+					<m lemma="446">apsunmúnukich</m>
+				</w>
+				<w gl="he said" id="WB_KL-39:133" head="0" synrel="PRED">
+					<m lemma="6175">u</m>
+					<m lemma="4823">piip</m>
+				</w>, "
+				<w gl="when humankind" id="WB_KL-39:134" head="WB_KL-39:136" synrel="SBJ">
+					<m lemma="4408" id="WB_KL-39:135" head="WB_KL-39:136" synrel="SUB">pa</m>
+					<m lemma="7022">yaas'ára</m>
+				</w>
+				<w gl="it comes into existence" id="WB_KL-39:136" head="WB_KL-39:145" synrel="ADV">
+					<m lemma="6175">u</m>
+					<m lemma="1676">'iiníshri</m>
+					<m lemma="1358">haak</m>
+				</w>, 
+				<w id="WB_KL-39:137" head="WB_KL-39:145" synrel="DIS">
+					<m lemma="6570">víri</m>
+				</w>
+				<w gl="when a woman" id="WB_KL-39:138" head="WB_KL-39:141" synrel="SBJ">
+					<m lemma="4408" id="WB_KL-39:139" head="WB_KL-39:141" synrel="SUB">pa</m>
+					<m lemma="656">'asiktávaan</m>
+				</w>
+				<w id="WB_KL-39:140" head="WB_KL-39:141" synrel="COMP">
+					<m lemma="6383">vaa</m>
+				</w>
+				<w gl="she does" id="WB_KL-39:141" head="WB_KL-39:145" synrel="ADV">
+					<m lemma="6175">u</m>
+					<m lemma="4086">kupí</m>
+					<m lemma="6035">ti</m>
+					<m lemma="1358">haak</m>
+				</w>,
+				<w gl="when she is unfaithful" id="WB_KL-39:142" head="WB_KL-39:145" synrel="ADV">
+					<m lemma="6175">u</m>
+					<m lemma="3880">kitaxríharahi</m>
+					<m lemma="6035">ti</m>
+					<m lemma="1358">haak</m>
+				</w>,
+				<w id="WB_KL-39:143" head="WB_KL-39:145" synrel="TAM">
+					<m lemma="6734">xáat</m>
+				</w>
+				<w id="WB_KL-39:144" head="WB_KL-39:145" synrel="DIS">
+					<m lemma="3752">káru</m>
+				</w>
+				<w gl="she thinks" id="WB_KL-39:145" head="WB_KL-39:133" synrel="QUOT">
+					<m lemma="6175">u</m>
+					<m lemma="6939">xú</m>
+					<m lemma="6035">ti</m>
+				</w> '
+				<w id="WB_KL-39:146" head="WB_KL-39:147" synrel="DIS">
+					<m lemma="6675">vúra</m>
+				</w>
+				<w gl="they won't know" id="WB_KL-39:147" head="WB_KL-39:145" synrel="QUOT">
+					<m lemma="5082" id="WB_KL-39:148" head="WB_KL-39:147" synrel="NEG">pu</m>
+					<m lemma="44">'aapúnm</m>
+					<m lemma="1379">eesh</m>
+					<m lemma="399">ap</m>
+				</w>,'
+				<w id="WB_KL-39:149" head="WB_KL-39:152" synrel="DIS">
+					<m lemma="6570">víri</m>
+				</w>
+				<w id="WB_KL-39:150" head="WB_KL-39:152" synrel="COMP"><!-- synrel="OBJ" -->
+					<m lemma="6383">vaa</m>
+				</w>
+				<w id="WB_KL-39:151" head="WB_KL-39:152" synrel="DIS">
+					<m lemma="6675">vúra</m>
+				</w>
+				<w gl="they will find out" id="WB_KL-39:152" head="WB_KL-39:145" synrel="COORD"><!-- id="WB_KL-39:133" synrel="QUOT" though that would have 133 with two QUOT dependents -->
+					<m lemma="3977">kun</m>
+					<m lemma="44">'áapunm</m>
+					<m lemma="1379">eesh</m>
+				</w>."
+					</txt>
+					<trans lang="eng">Then Racer said, "When Mankind comes into existence, when a woman does this, when she is unfaithful, even though she thinks they won't find out, they will find out like this."</trans>
+				</s>
+			</paragraph>
+		</data>
+	</text>
+				
+				

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-87">
+	<metadata>
+		<title>"Tattoos"</title>
+		<author>Julia <alph>Starritt</alph></author>
+		<date>1957</date>
+		<publication>William Bright, <em>The Karok Language</em> (1957), pp. 300-301, Text
+			87</publication>
+	</metadata>
+	<data>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w gl="the Indian woman"><m lemma="4407">pa</m><m lemma="506">'arara</m><m lemma="656"
+							>'asiktávaan</m></w>
+					<w><m lemma="6307">uum</m></w>
+					<w><m lemma="3136">ishváak</m></w>
+					<w gl="it was tattooed"><m lemma="6175">u</m><m lemma="6015">thúkinh</m><m lemma="168"
+							>ahi</m><m lemma="6035">tih</m></w>. </txt>
+				<trans lang="eng">The Indian women were tattooed on the chin.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w><m lemma="4108">kuyráak</m></w>
+					<w gl="it runs down in lines"><m lemma="6175">u</m><m lemma="5342">sasip</m><m
+							lemma="6239">úniih</m><m lemma="6380">va</m></w>
+					<w><m lemma="7097">yítha</m></w>
+					<w><m lemma="104">achipyâach</m></w>
+					<w><m lemma="6847">xás</m></w>
+					<w><m lemma="6767">xákararih</m></w>. </txt>
+				<trans lang="eng">There were three stripes running down, one right in the middle and (two) on
+					each side.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w><m lemma="1361">hâari</m></w>
+					<w gl="wide ones"><m lemma="6087">tírih</m><m lemma="5200">shas</m></w>
+					<w><m lemma="3752">káru</m></w>
+					<w><m lemma="1361">hâari</m></w>
+					<w><m lemma="6675">vúra</m></w>
+					<w><m lemma="6156">tûupichas</m></w>
+					<w><m lemma="4106">kuynákmahich</m></w>
+					<w gl="it runs down in lines"><m lemma="4408">p</m><m lemma="6175">oo</m><m lemma="5342"
+							>sasip</m><m lemma="6239">úniih</m><m lemma="6380">va</m></w>. </txt>
+				<trans lang="eng">Sometimes they were wide and sometimes they were narrow, and sometimes they
+					were each (composed of) three little ones running down.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w><m lemma="6847">xás</m></w>
+					<w gl="sharp stone"><m lemma="583">asa</m><m lemma="7044">yátha</m></w>
+					<w><m lemma="4281">mûuk</m></w>
+					<w gl="they marked it"><m lemma="4408">pa</m><m lemma="3977">kun</m><m lemma="2304"
+							>ikxúrik</m><m lemma="6035">tih</m></w>. </txt>
+				<trans lang="eng">And they made the design with a sharp stone.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w><m lemma="6847">xás</m></w>
+					<w><m lemma="368">amyiv</m></w>
+					<w><m lemma="3752">káru</m></w>
+					<w><m lemma="779">athkúrit</m></w>
+					<w><m lemma="5506">ta</m></w>
+					<w gl="they mixed"><m lemma="3977">kun</m><m lemma="3602">íyshar</m></w>, <w><m
+							lemma="6847">xás</m></w>
+					<w><m lemma="6383">vaa</m></w>
+					<w><m lemma="5506">tá</m></w>
+					<w gl="they rubbed it"><m lemma="3977">kun</m><m lemma="3642">iyvúruk</m></w>
+					<w gl="on the tattoo"><m lemma="4407">pa</m><m lemma="6016">thúkinh</m><m lemma="232"
+							>ak</m></w>. </txt>
+				<trans lang="eng">Then they mixed soot and grease, and they rubbed it on the tattoo.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w><m lemma="6847">xás</m></w>
+					<w gl="when it healed"><m lemma="4408">pa</m><m lemma="5506">t</m><m lemma="6175">u</m><m
+							lemma="543">'aráriihkanha</m><m lemma="1358">ak</m></w>
+					<w><m lemma="6847">xás</m></w>
+					<w gl="not black"><m lemma="5082">pu</m><m lemma="2242">'ikxáramkunish</m><m lemma="1371"
+							>hara</m></w>, <w><m lemma="3999">kúnish</m></w>
+					<w><m lemma="343">ámkuufkunish</m></w>. </txt>
+				<trans lang="eng">And when it healed, it was not black, it was sort of blue.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w><m lemma="6847">xás</m></w>
+					<w gl="here"><m lemma="4407">pa</m><m lemma="4385">'ôok</m></w>
+					<w gl="its people"><m lemma="6376">va</m><m lemma="506">'áraar</m><m lemma="584"
+						>as</m></w>
+					<w gl="their face"><m lemma="4407">pa</m><m lemma="4264">mukún</m><m lemma="67"
+						>'aav</m></w>
+					<w gl="they didn't tattoo"><m lemma="5082">pu</m><m lemma="6015"
+							>thúkinhi</m><m lemma="6035">tih</m><m lemma="1371">ara</m></w>. </txt>
+				<trans lang="eng">And the Indians here didn't tattoo their faces (above the chin).</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w><m lemma="6675">vúra</m></w>
+					<w><m lemma="4725">páy nanuxákarari</m></w>
+					<w><m lemma="3809">kích</m></w>
+					<w><m lemma="6307">uum</m></w>
+					<w><m lemma="6383">vaa</m></w>
+					<w gl="they did"><m lemma="3977">kun</m><m lemma="4015">kupitih</m></w>. </txt>
+				<trans lang="eng">Only ones outside of our country did that.</trans>
+				<note publish="yes">Bright: "The informant later corrected herself, saying that the
+					Karok sometimes made small marks just above each corner of the mouth."</note>
+			</s>
+		</paragraph>
+	</data>
+</text>

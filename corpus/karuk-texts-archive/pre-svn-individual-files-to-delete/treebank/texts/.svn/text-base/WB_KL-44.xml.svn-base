@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <text id="WB_KL-44">
+		<metadata>
+			<title>"Why Lightning Strikes Trees"</title>
+			<author>Nettie <alph>Reuben</alph></author>
+			<date>1957</date>
+			<publication>William Bright, <em>The Karok Language</em> (1957), pp. 244-245, Text 44</publication>
+		</metadata>
+		<data>
+			<paragraph>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="1144">chími</m>
+						</w>
+						<w gl="they were going to play shinny">
+							<m lemma="3977">kun</m>
+							<m lemma="2520">ímthaatvu</m>
+							<m lemma="4298">naa</m>
+							<m lemma="1379">vish</m>
+						</w>.
+					</txt>
+					<trans lang="eng">They were going to play shinny.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="6847">xás</m>
+						</w>
+						<w gl="they told him">
+							<m lemma="3977">kun</m>
+							<m lemma="2733">ipéer</m>
+						</w>, "
+						<w>
+							<m lemma="5160">púya</m>
+						</w>
+						<w>
+							<m lemma="1457">íf</m>
+						</w>
+						<w>
+							<m lemma="7000">yâamach</m>
+						</w>
+						<w gl="you were painting your face">
+							<m lemma="4408">p</m>
+							<m lemma="1418">ee</m>
+							<m lemma="2674">p</m>
+							<m lemma="36">âanvu</m>
+							<m lemma="6035">tih</m>
+						</w>.
+					</txt>
+					<trans lang="eng">And they said to (Horsefly), "My, your face is painted pretty!</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="1281">fâat</m>
+						</w>
+						<w>
+							<m lemma="3915">kôok</m>
+						</w>
+						<w gl="you were painting your face with">
+							<m lemma="4408">p</m>
+							<m lemma="1418">ee</m>
+							<m lemma="2674">p</m>
+							<m lemma="36">âanvu</m>
+							<m lemma="6035">ti</m>
+						</w>
+						<w>
+							<m lemma="1656">iim</m>
+						</w>."
+					</txt>
+					<trans lang="eng">What did you paint it with?"</trans>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="3745">kári</m>
+						</w>
+						<w>
+							<m lemma="6847">xás</m>
+						</w>
+						<w gl="he had">
+							<m lemma="5506">t</m>
+							<m lemma="6175">óo</m>
+						</w>
+						<w>
+							<m lemma="4823">piip</m>
+						</w>, "
+						<w>
+							<m lemma="4208">mán</m>
+						</w>
+						<w>
+							<m lemma="6675">vúra</m>
+						</w>
+						<w>
+							<m lemma="4299">naa</m>
+						</w>
+						<w>
+							<m lemma="6383">vaa</m>
+						</w>
+						<w>
+							<m lemma="3745">kári</m>
+						</w>
+						<w>
+							<m lemma="6847">xás</m>
+						</w>
+						<w>
+							<m lemma="5506">tá</m>
+						</w>
+						<w gl="I thought">
+							<m lemma="4349">ni</m>
+							<m lemma="6939">xus</m>
+						</w>, '
+						<w>
+							<m lemma="1144">chími</m>
+						</w>
+						<w gl="let me go look for it">
+							<m lemma="3735">kan</m>
+							<m lemma="415">'ápivan</m>
+						</w>
+						<w gl="what I will paint my face with">
+							<m lemma="4408">pa</m>
+							<m lemma="4349">ni</m>
+							<m lemma="2674">p</m>
+							<m lemma="36">âanv</m>
+							<m lemma="1379">eesh</m>
+						</w>.'
+					</txt>
+					<trans lang="eng">And he said, "Why, I thought I would go look for something to paint my face with.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="5163">púyava</m>
+						</w>
+						<w>
+							<m lemma="2682">ípaha</m>
+						</w>
+						<w>
+							<m lemma="5506">tá</m>
+						</w>
+						<w gl="I tore it open">
+							<m lemma="4349">ni</m>
+							<m lemma="3167">shxáxaar</m>
+						</w>.
+					</txt>
+					<trans lang="eng">So I ripped open a tree.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="6570">víri</m>
+						</w>
+						<w>
+							<m lemma="6383">vaa</m>
+						</w>
+						<w>
+							<m lemma="3670">káan</m>
+						</w>
+						<w>
+							<m lemma="5506">tá</m>
+						</w>
+						<w gl="I found it">
+							<m lemma="4349">ni</m>
+							<m lemma="4155">máh</m>
+						</w>
+						<w gl="what I am painting my face with">
+							<m lemma="4408">pa</m>
+							<m lemma="4349">ni</m>
+							<m lemma="2674">p</m>
+							<m lemma="36">âanvu</m>
+							<m lemma="6035">tih</m>
+						</w>."
+					</txt>
+					<trans lang="eng">There I found what I am painting it with."</trans>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="3745">kári</m>
+						</w>
+						<w>
+							<m lemma="6847">xás</m>
+						</w>
+						<w>
+							<m lemma="1503">ífuth</m>
+						</w>
+						<w gl="they played shinny again">
+							<m lemma="4408">pa</m>
+							<m lemma="3977">kun</m>
+							<m lemma="2674">p</m>
+							<m lemma="2520">ímthaatvu</m>
+							<m lemma="4298">naa</m>
+						</w>.
+					</txt>
+					<trans lang="eng">And afterward they played shinny again.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="3745">kári</m>
+						</w>
+						<w>
+							<m lemma="6847">xás</m>
+						</w>
+						<w>
+							<m lemma="3969">kúkuum</m>
+						</w>
+						<w>
+							<m lemma="6675">vúra</m>
+						</w>
+						<w>
+							<m lemma="6383">vaa</m>
+						</w>
+						<w>
+							<m lemma="1109">chí</m>
+						</w>
+						<w gl="they were going to play shinny">
+							<m lemma="3977">kun</m>
+							<m lemma="2520">ímthaatvu</m>
+							<m lemma="4298">naa</m>
+							<m lemma="1379">vish</m>
+						</w>.
+					</txt>
+					<trans lang="eng">Again they were going to play shinny.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="5163">púyava</m>
+						</w>
+						<w gl="they were saying to him">
+							<m lemma="3977">kun</m>
+							<m lemma="2733">ípeen</m>
+							<m lemma="6035">tih</m>
+						</w>, "
+						<w>
+							<m lemma="1396">hôoy</m>
+						</w>
+						<w>
+							<m lemma="1656">iim</m>
+						</w>
+						<w gl="you were finding it">
+							<m lemma="1418">i</m>
+							<m lemma="4155">máah</m>
+							<m lemma="6035">tih</m>
+						</w>
+						<w gl="what you are painting your face with">
+							<m lemma="4408">p</m>
+							<m lemma="1418">ee</m>
+							<m lemma="2674">p</m>
+							<m lemma="36">âanvu</m>
+							<m lemma="6035">tih</m>
+						</w>."
+					</txt>
+					<trans lang="eng">So they said to him, "How do you find what you paint your face with?"</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="6847">xás</m>
+						</w>
+						<w gl="they thought">
+							<m lemma="3977">kun</m>
+							<m lemma="6939">xús</m>
+						</w> "
+						<w>
+							<m lemma="4380">nuu</m>
+						</w>
+						<w>
+							<m lemma="3752">káru</m>
+						</w>
+						<w>
+							<m lemma="6383">vaa</m>
+						</w>
+						<w>
+							<m lemma="6042">tîi</m>
+						</w>
+						<w gl="let us do it">
+							<m lemma="4370">nú</m>
+							<m lemma="4086">kuuph</m>
+							<m lemma="1419">i</m>
+						</w>."
+					</txt>
+					<trans lang="eng">And they thought, "Let us do that too!"</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w gl="the trees">
+							<m lemma="4407">pa</m>
+							<m lemma="2682">'ípaha</m>
+						</w>
+						<w gl="they grabbed at them">
+							<m lemma="3977">kun</m>
+							<m lemma="1784">íkfuukiraa</m>
+						</w>.
+					</txt>
+					<trans lang="eng">They grabbed the trees.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="5085">púfaat</m>
+						</w>
+						<w>
+							<m lemma="6675">vúra</m>
+						</w>
+						<w gl="the blood">
+							<m lemma="4407">pá</m>
+							<m lemma="72">'aax</m>
+						</w>.
+					</txt>
+					<trans lang="eng">There was no blood (in them).</trans>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="3758">káruma</m>
+						</w>
+						<w>
+							<m lemma="6307">uum</m>
+						</w>
+						<w gl="the humans">
+							<m lemma="4407">pa</m>
+							<m lemma="506">'áraar</m>
+						</w>
+						<w gl="he had">
+							<m lemma="5506">t</m>
+							<m lemma="6175">óo</m>
+						</w>
+						<w>
+							<m lemma="4549">par</m>
+						</w>,
+						<w>
+							<m lemma="6847">xás</m>
+						</w>
+						<w gl="their blood">
+							<m lemma="4407">pa</m>
+							<m lemma="4260">mú</m>
+							<m lemma="72">'aax</m>
+						</w>
+						<w gl="he had">
+							<m lemma="5506">t</m>
+							<m lemma="6175">óo</m>
+						</w>
+						<w gl="taken it off into his mouth">	
+							<m lemma="5147">pûux</m>
+							<m lemma="5475">sur</m>
+						</w>.
+					</txt>
+					<trans lang="eng">The fact was, (Horsefly) had bit human beings, and taken out a mouthful of their blood.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>	
+							<m lemma="6570">víri</m>
+						</w>
+						<w>
+							<m lemma="6381">vaa</m>
+						</w>
+						<w gl="what he was painting his face with">	
+							<m lemma="4408">p</m>
+							<m lemma="6175">oo</m>
+							<m lemma="2674">p</m>
+							<m lemma="36">âanvu</m>
+							<m lemma="6035">ti</m>
+						</w>
+						<w gl="the human blood">
+							<m lemma="4407">pa</m>
+							<m lemma="506">'arará</m>
+							<m lemma="72">'aax</m>
+						</w>.
+					</txt>
+					<trans lang="eng">Human blood is what he painted his face with.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="6847">xás</m>
+						</w>
+						<w>
+							<m lemma="524">araramvanyupsítanach</m>
+						</w>
+						<w gl="he thought">
+							<m lemma="6175">u</m>
+							<m lemma="6939">xus</m>
+						</w>, "
+						<w>
+							<m lemma="6881">xáyfaat</m>
+						</w>
+						<w>
+							<m lemma="6383">vaa</m>
+						</w>
+						<w gl="I say it">
+							<m lemma="4349">ni</m>
+							<m lemma="4823">piip</m>
+						</w>, "
+						<w gl="he had">
+							<m lemma="5506">t</m>
+							<m lemma="6175">óo</m>
+						</w>
+						<w>
+							<m lemma="4823">piip</m>
+						</w>, "
+						<w gl="in trees">
+							<m lemma="2682">ípah</m>
+							<m lemma="232">ak</m>
+						</w>
+						<w>
+							<m lemma="3809">kích</m>
+						</w>
+						<w gl="I am finding it">
+							<m lemma="4408">pa</m>
+							<m lemma="4349">ni</m>
+							<m lemma="4155">máah</m>
+							<m lemma="6035">ti</m>
+						</w>
+						<w gl="the blood">
+							<m lemma="4407">pá</m>
+							<m lemma="72">'aax</m>
+						</w>."
+					</txt>
+					<trans lang="eng">and Horsefly thought, "Let me not say it"; he said, "I find the blood only in trees."</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="5163">púyava</m>
+						</w>
+						<w>
+							<m lemma="4716">payêem</m>
+						</w>
+						<w gl="when it has">
+							<m lemma="4408">pa</m>
+							<m lemma="5506">t</m>
+							<m lemma="6175">óo</m>
+						</w>
+						<w>
+							<m lemma="3045">snur</m>
+						</w>,
+						<w gl="the trees">
+							<m lemma="4407">pa</m>
+							<m lemma="2682">'ípaha</m>
+						</w>
+						<w gl="he has">
+							<m lemma="5506">t</m>
+							<m lemma="6175">óo</m>
+						</w>
+						<w>
+							<m lemma="1784">kfuukiraa</m>
+						</w>,
+						<w gl="he has">
+							<m lemma="5506">t</m>
+							<m lemma="6175">óo</m>
+						</w>
+						<w>
+							<m lemma="3167">sxáxaar</m>
+						</w>.
+					</txt>
+					<trans lang="eng">So now when it thunders, (Lightning) grabs the trees, he rips them open.</trans>
+				</s>
+			</paragraph>
+		</data>
+	</text>
+						
+						
+					
+						
+						
+							
+							
+						
+				
+						
+						 
+							
+							
+							
+							
+						
+							
+						
+						
+						
+						
+				

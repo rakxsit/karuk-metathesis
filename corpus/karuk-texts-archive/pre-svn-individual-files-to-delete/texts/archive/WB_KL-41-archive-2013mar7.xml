@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-41">
+    <metadata>
+        <title>"The Creation of Eels"</title>
+        <author>Nettie <alph>Reuben</alph></author>
+        <date>1957</date>
+        <publication>William Bright, <em>The Karok Language</em> (1957), pp. 242-243, Text 41</publication>
+		<note publish="yes">Bright: "This is the only story about Across-the-Water-Widower which I was able to record; one other Karuk story about him appears in Harrington, 1032a, pp.67-72. A character with a similar name is much more prominent in the mythology of the Yurok and the Hupa; cf. Kroeber, 1925, pp.73 and 134."</note>
+    </metadata>
+    <data>
+		<paragraph>
+			<s>
+				<kar>
+					<w>
+						<m id="3350">ithyarukpíhriiv</m>
+					</w>
+					<w gl="he went upriver">
+						<m id="6175">u</m>
+						<m id="567">'árihroov</m>
+					</w>,
+					<w gl="he thought">
+						<m id="6175">u</m>
+						<m id="6939">xus</m>
+					</w>, "
+					<w>
+						<m id="6042">tîi</m>
+					</w>
+					<w>
+						<m id="3753">káruk</m>
+					</w>
+					<w gl="let me go!">
+						<m id="3735">kan</m>
+						<m id="6396">vâaram</m>
+						<m id="1419">i</m>
+					</w>."
+				</kar>
+				<eng>Across-the-Water Widower went upriver, he thought, "Let me go upriver!"</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w>
+						<m id="3745">kári</m>
+					</w>
+					<w>
+						<m id="1096">chavúra</m>
+					</w>
+					<w>
+						<m id="7085">yíiv</m>
+					</w>
+					<w>
+						<m id="3753">káruk</m>
+					</w>
+					<w gl="he had gone upriver">
+						<m id="5506">t</m>
+						<m id="6175">u</m>
+						<m id="567">'árihroov</m>
+					</w>.
+				</kar>
+				<eng>And finally he went a long ways upriver.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w gl="they were shouting">
+						<m id="3977">kun</m>
+						<m id="1624">íhyiiv</m>
+						<m id="6035">ti</m>
+					</w>
+					<w>
+						<m id="1397">hôoyva</m>
+					</w>.
+				</kar>
+				<eng>And there was a shout somewhere.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6675">vúra</m>
+					</w>
+					<w>
+						<m id="6383">vaa</m>
+					</w>
+					<w gl="he was traveling">
+						<m id="6175">u</m>
+						<m id="205">'áhoo</m>
+						<m id="6035">tih</m>
+					</w>.
+				</kar>
+				<eng>He was traveling like that.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="1096">chavúra</m>
+					</w>
+					<w>
+						<m id="7085">yíiv</m>
+					</w>
+					<w>
+						<m id="3969">kúkuma</m>
+					</w>
+					<w gl="she had">
+						<m id="5506">t</m>
+						<m id="6175">óo</m>
+					</w>
+					<w>
+						<m id="1624">hyiv</m>
+					</w>.
+				</kar>
+				<eng>Finally, a long ways on, there was a shout again.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w gl="she was saying">
+						<m id="6175">u</m>
+						<m id="4823">pí</m>
+						<m id="6035">tih</m>
+					</w>, "
+					<w gl="copulate with me!">
+						<m id="4294">na</m>
+						<m id="4058">kûush</m>
+						<m id="1419">i</m>
+					</w>."
+				</kar>
+				<eng>And (the person) said, "Copulate with me!"</eng>
+				<note publish="yes">Bright: "nakûushi is a distortion of nakûuthi." Cf. the footnote to sentence 61 of "Coyote's Homecoming" (WB_KL-02).</note>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="3350">ithyarukpíhriiv</m>
+					</w>
+					<w gl="they were shouting at him">
+						<m id="3977">kun</m>
+						<m id="1632">ihyûunish</m>
+						<m id="6035">tih</m>
+					</w>,
+					<w gl="she was telling him">
+						<m id="6175">u</m>
+						<m id="2733">pêen</m>
+						<m id="6035">tih</m>
+					</w>, "
+					<w gl="copulate with me!">
+						<m id="4294">na</m>
+						<m id="4058">kûush</m>
+						<m id="1419">i</m>
+					</w>."
+				</kar>
+				<eng>Across-the-Water Widower was shouted at, (the person) said to him, "Copulate with me!"</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>	
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w>
+						<m id="3745">kári</m>
+					</w>
+					<w gl="he was thinking">
+						<m id="6175">u</m>
+						<m id="6939">xú</m>
+						<m id="6035">tih</m>
+					</w>, "
+					<w>
+						<m id="7058">yee</m>
+					</w>!
+					<w>
+						<m id="1281">fâat</m>
+					</w>
+					<w>
+						<m id="7055">yáxa</m>
+					</w>.
+				</kar>
+				<eng>And he thought, "Well, look! What is it?</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="1281">fâat</m>
+					</w>
+					<w>
+						<m id="3971">kumá'ii</m>
+					</w>
+					<w gl="she is shouting at me">
+						<m id="4408">pa</m>
+						<m id="4294">nee</m>
+						<m id="1632">hyûunish</m>
+						<m id="6035">tih</m>
+					</w>."
+				</kar>
+				<eng>Why is she shouting at me?"</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w>
+						<m id="4076">kúuk</m>
+					</w>
+					<w gl="he grabbed">
+						<m id="6175">ú</m>
+						<m id="1784">kfuukiraa</m>
+					</w>.
+				</kar>
+				<eng>And he grabbed in that direction.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="3745">kári</m>
+					</w>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w gl="he copulated with her">
+						<m id="6175">u</m>
+						<m id="4058">kuth</m>
+					</w>.
+				</kar>
+				<eng>And he copulated with her.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="3745">kári</m>
+					</w>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w>
+						<m id="1383">hínupa</m>
+					</w>
+					<w>
+						<m id="1083">chantírih</m>
+					</w>.
+				</kar>
+				<eng>And there it was Tick.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6383">vaa</m>
+					</w>
+					<w>
+						<m id="3670">káan</m>
+					</w>
+					<w>
+						<m id="5502">sú'</m>
+					</w>
+					<w>
+						<m id="6675">vúra</m>
+					</w>
+					<w gl="she stayed">
+						<m id="6175">u</m>
+						<m id="2674">p</m>
+						<m id="1974">íkrii</m>
+					</w>.
+				</kar>
+				<eng>She stayed there inside (his penis).</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w gl="he went upriver">
+						<m id="6175">u</m>
+						<m id="567">'árihroov</m>
+					</w>
+					<w>
+						<m id="3350">ithyarukpíhriiv</m>
+					</w>.
+				</kar>
+				<eng>Then Across-the-Water Widower went upriver.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w gl="he thought">
+						<m id="6175">u</m>
+						<m id="6939">xus</m>
+					</w>, "
+					<w>
+						<m id="7058">yée</m>
+					</w>
+					<w>
+						<m id="4299">naa</m>
+					</w>,
+					<w>
+						<m id="1457">íf</m>
+					</w>
+					<w>
+						<m id="5506">tá</m>
+					</w>
+					<w gl="it hurts me">
+						<m id="4294">na</m>
+						<m id="3957">kúha</m>
+					</w>."
+				</kar>
+				<eng>And he thought, "Say, it really hurts me!"</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="3745">kári</m>
+					</w>
+					<w>
+						<m id="6847">xás</m>
+					</w> "
+					<w>
+						<m id="1410">hûut</m>
+					</w>
+					<w>
+						<m id="739">áta</m>
+					</w>
+					<w>
+						<m id="5506">tá</m>
+					</w>
+					<w gl="it is wrong with me">
+						<m id="4294">ná</m>
+						<m id="1667">'iin</m>
+					</w>."
+				</kar>
+				<eng>And (he thought), "I wonder what's wrong with me?"</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="3745">kári</m>
+					</w>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w>
+						<m id="1096">chavúra</m>
+					</w>
+					<w>
+						<m id="5156">puxích</m>
+					</w>
+					<w gl="it had">
+						<m id="5506">t</m>
+						<m id="6175">óo</m>
+					</w>
+					<w>
+						<m id="3957">kúha</m>
+					</w>.
+				</kar>
+				<eng>And finally it hurt him very much.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="3745">kári</m>
+					</w>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w gl="he cut it off straight">
+						<m id="6175">ú</m>
+						<m id="1890">kpaaksur</m>
+					</w>
+					<w gl="his penis">
+						<m id="4407">pa</m>
+						<m id="4260">mú</m>
+						<m id="5383">siish</m>
+					</w>.
+				</kar>
+				<eng>So he cut off (part of) his penis.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w>
+						<m id="6337">úuth</m>
+					</w>
+					<w gl="he threw it into the water">
+						<m id="6175">u</m>
+						<m id="4426">páathkar</m>
+					</w>.
+				</kar>
+				<eng>And he threw it out into the river.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w gl="he went upriver">
+						<m id="6175">u</m>
+						<m id="567">'árihroov</m>
+					</w>.
+				</kar>
+				<eng>And he went upriver.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<kar>
+					<w>
+						<m id="1096">chavúra</m>
+					</w>
+					<w>
+						<m id="5506">tá</m>
+					</w>
+					<w>
+						<m id="7085">yíiv</m>
+					</w>
+					<w>
+						<m id="3753">káruk</m>
+					</w>
+					<w gl="he went upriver">
+						<m id="6175">u</m>
+						<m id="567">'árihroov</m>
+					</w>.
+				</kar>
+				<eng>Finally, he went a long ways upriver.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w gl="he was thinking">
+						<m id="6175">u</m>
+						<m id="6939">xú</m>
+						<m id="6035">tih</m>
+					</w>, "
+					<w>
+						<m id="1457">íf</m>
+					</w>
+					<w>
+						<m id="3969">kúkuum</m>
+					</w>
+					<w>
+						<m id="5506">tá</m>
+					</w>
+					<w gl="it hurts me">
+						<m id="4294">na</m>
+						<m id="3957">kúha</m>
+					</w>."
+				</kar>
+				<eng>And he thought, "It really hurts me again!"</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w>
+						<m id="3745">kári</m>
+					</w>
+					<w>
+						<m id="3969">kúkuum</m>
+					</w>
+					<w gl="he cut it off straight">
+						<m id="6175">ú</m>
+						<m id="1890">kpaaksur</m>
+					</w>
+					<w gl="his penis">
+						<m id="4407">pa</m>
+						<m id="4260">mú</m>
+						<m id="5383">siish</m>
+					</w>.
+				</kar>
+				<eng>And he again cut off (part of) his penis.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w>
+						<m id="3969">kúkuum</m>
+					</w>
+					<w>
+						<m id="6337">úuth</m>
+					</w>
+					<w gl="he threw it into the water">
+						<m id="6175">u</m>
+						<m id="4426">páathkar</m>
+					</w>.
+				</kar>
+				<eng>And again he threw it out into the river.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<kar>
+					<w>
+						<m id="5163">púyava</m>
+					</w>
+					<w>
+						<m id="4716">payêem</m>
+					</w>
+					<w gl="the eels">
+						<m id="4407">p</m>
+						<m id="264">aakráa</m>
+					</w>
+					<w>
+						<m id="6381">vaa</m>
+					</w>
+					<w gl="which out into the river">
+						<m id="4408">pa</m>
+						<m id="6337">'úuth</m>
+					</w>
+					<w gl="he was throwing into the water">
+						<m id="6175">u</m>
+						<m id="3550">xyakâanvu</m>
+						<m id="6035">tih</m>
+					</w>.
+				</kar>
+				<eng>So now the eels are that which he threw out into the river.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="3350">ithyarukpíhriiv</m>
+					</w>
+					<w gl="his penis">
+						<m id="4407">pa</m>
+						<m id="4260">mú</m>
+						<m id="5383">siish</m>
+					</w>
+					<w gl="he cut it off">
+						<m id="6175">u</m>
+						<m id="6665">vupaksúr</m>
+						<m id="6380">oo</m>
+						<m id="1369">nik</m>
+					</w>.
+				</kar>
+				<eng>Across-the-Water Widower cut off his penis.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="1383">hínupa</m>
+					</w>
+					<w gl="Tick">
+						<m id="1083">chantirih</m>
+						<m id="1670">'îin</m>
+					</w>
+					<w>
+						<m id="5502">sú'</m>
+					</w>
+					<w gl="that">
+						<m id="4408">pa</m>
+						<m id="5506">tá</m>
+					</w>
+					<w gl="she crawled in">
+						<m id="3977">kun</m>
+						<m id="6612">vôonkurih</m>
+					</w>,
+					<w>
+						<m id="6383">vaa</m>
+					</w>
+					<w>
+						<m id="4059">kúth</m>
+					</w>
+					<w gl="that he cut it off straight">
+						<m id="4408">p</m>
+						<m id="6175">oo</m>
+						<m id="1890">kpaksúr</m>
+						<m id="6380">oo</m>
+						<m id="6035">ti</m>
+					</w>
+					<w gl="his penis">
+						<m id="4407">pa</m>
+						<m id="4260">mú</m>
+						<m id="5383">siish</m>
+					</w>.
+				</kar>
+				<eng>There it was Tick that crawled into him, that's why he cut off his penis.</eng>
+				<note publish="yes">Bright: "Another informant offered additional information: Before Across-the-Water-Widower's meeting with Tick, men (or rather, male ikxaréeyavs) had penises long enough to wrap several times around their necks, and could copulate with a woman on the other side of the river."</note>
+			</s>
+		</paragraph>
+	</data>
+</text>
+					

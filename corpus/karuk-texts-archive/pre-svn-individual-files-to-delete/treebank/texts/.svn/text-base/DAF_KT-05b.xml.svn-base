@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="DAF_KT-05b">
+    <metadata>
+        <title>"How I Found Gold"</title>
+        <author>Benonie <alph>Harrie</alph></author>
+        <date>1927</date>
+        <publication>Jaime de Angulo and L.S. Freeland, <em>International Journal of American Linguistics</em> 6 (1931), pp. 223-224</publication>
+		<pdf filename="DAF_KT-05b.pdf" caption="Published text scan"/>
+		<note publish="yes">This text retains de Angulo and Freeland's transcriptions in some cases when it differs from the current spelling. For example, double consonants are written and some words de Angulo and Freeland transcribe with unexpected vowels or consonants retain those unexpected vowels or consonants.  Long vowels, ', ch, th, sh and accent (where possible) are written using the current spelling system.</note>
+    </metadata>
+    <data>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3219">ithâan</m>
+					</w>
+					<w>
+						<m lemma="4248">mit</m>
+					</w>
+					<w>
+						<m lemma="4222">masúruk</m>
+					</w>
+					<w gl="at a creek">
+						<m lemma="5217">saamváru</m>
+						<m lemma="232">k</m>
+					</w>
+					<w gl="I was fishing with hook and line">
+						<m lemma="4349">ní</m>
+						<m lemma="3170">shxaay</m>
+						<m lemma="6035">tih</m>
+						<m lemma="738">at</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Once I went up the creek, fishing with hook and line.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xas</m>
+					</w>
+					<w>
+						<m lemma="3670">kaan</m>
+					</w>
+					<w gl="I saw it">
+						<m lemma="4349">ni</m>
+						<m lemma="4155">máh</m>
+						<m lemma="738">at</m>
+					</w>
+					<w>
+						<m lemma="5170">pi'êep</m>
+					</w>
+					<w gl="its mine">
+						<m lemma="6376">va</m>
+						<m lemma="2915">'irípraam</m>
+					</w>.
+				</txt>
+				<trans lang="eng">There I saw an old mine.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xas</m>
+					</w>
+					<w>
+						<m lemma="5007">pishyávpiish</m>
+					</w>
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+						<m lemma="3670">kaan</m>
+					</w>
+					<w gl="I went to camp">
+						<m lemma="4349">ni</m>
+						<m lemma="2186">kvêeshrih</m>
+						<m lemma="501">ar</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The next autumn I went back and camped there.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="5400">simsimmúruk</m>
+					</w>
+					<w gl="I took it along">
+						<m lemma="4349">ni</m>
+						<m lemma="846">'ávikva</m>
+					</w>.
+				</txt>
+				<trans lang="eng">I took a pan with me.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w gl="I was panning for gold">
+						<m lemma="4349">ni</m>
+						<m lemma="2116">ktamkúrihva</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And [I] started right in panning.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="7038">yanava</m>
+					</w>
+					<w gl="there was gold">
+						<m lemma="6175">u</m>
+						<m lemma="3054">spúka</m>
+						<m lemma="1356">hi</m>
+						<m lemma="6035">ti</m>
+					</w>
+					<w>
+						<m lemma="3670">kaan</m>
+					</w>.
+				</txt>
+				<trans lang="eng">I found there was gold there.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xas</m>
+					</w>
+					<w>
+						<m lemma="3745">kari</m>
+					</w>
+					<w>
+						<m lemma="2910">íripar</m>
+					</w>
+					<w gl="I went back to get it">
+						<m lemma="4349">ni</m>
+						<m lemma="2674">p</m>
+						<m lemma="5312">sár</m>
+						<m lemma="501">ar</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Then I went after a pick.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3745">kari</m>
+					</w>
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="I dug down">
+						<m lemma="4349">ni</m>
+						<m lemma="2914">'íripkurih</m>
+					</w>
+					<w>
+						<m lemma="4224">matée</m>
+					</w>
+					<w gl="its better">
+						<m lemma="3970">kuma</m>
+						<m lemma="7018">yaayaach</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The farther down I dug the better luck I had.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="1096">cháavura</m>
+					</w>
+					<w gl="at bedrock">
+						<m lemma="617">satáran</m>
+						<m lemma="232">ak</m>
+					</w>
+					<w gl="I dug down">
+						<m lemma="4349">ni</m>
+						<m lemma="2912">'íripishri</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Finally I got down to bed-rock.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3670">kâan</m>
+					</w>
+					<w>
+						<m lemma="6847">xas</m>
+					</w>
+					<w gl="big ones">
+						<m lemma="3779">kêech</m>
+						<m lemma="584">as</m>
+					</w>
+					<w gl="the gold">
+						<m lemma="4407">p</m>
+						<m lemma="3054">éeshpuk</m>
+					</w>
+					<w>
+						<m lemma="1096">cháavura</m>
+					</w>
+					<w>
+						<m lemma="864">áxxak</m>
+					</w>
+					<w gl="I saw them">
+						<m lemma="4349">ni</m>
+						<m lemma="4155">mma</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And right there I found two big gold nuggets.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="4116">kuyrakinívkihámmahich</m>
+					</w>
+					<w gl="they are worth">
+						<m lemma="3977">kun</m>
+						<m lemma="3323">íthvoo</m>
+						<m lemma="168">hi</m>
+						<m lemma="6035">ti</m>
+					</w>.
+				</txt>
+				<trans lang="eng">They were worth eight dollars apiece.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3752">karu</m>
+					</w>
+					<w>
+						<m lemma="3667">kâakum</m>
+					</w>
+					<w gl="its quite small ones">
+						<m lemma="3970">kuma</m>
+						<m lemma="6156">tupichas</m>
+						<m lemma="1356">-h</m>
+						<m lemma="1">á</m>
+						<m lemma="6990">yaach</m>
+						<m lemma="584">as</m>
+					</w>
+					<w>
+						<m lemma="6774">xakinivki'itráhyar</m>
+					</w>
+					<w>
+						<m lemma="1096">chávura</m>
+					</w>
+					<w gl="I found them">
+						<m lemma="4349">ni</m>
+						<m lemma="4155">mma</m>
+					</w>
+					<w>
+						<m lemma="3930">koovura</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Then there were a lot of smaller ones, so that in the end I had seventy dollars in all.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w gl="so">
+						<m lemma="6570">viri</m>
+						<m lemma="6383">va</m>
+					</w>
+					<w>
+						<m lemma="4721">payváaheem</m>
+					</w>
+					<w>
+						<m lemma="6675">vura</m>
+					</w>
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w>
+						<m lemma="3670">kaan</m>
+					</w>
+					<w gl="I am going back to there to pan for gold">
+						<m lemma="4349">ni</m>
+						<m lemma="2674">p</m>
+						<m lemma="2116">iktamkurihv</m>
+						<m lemma="501">an</m>
+						<m lemma="3907">kôo</m>
+						<m lemma="6035">ti</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Even now I go back and pan at that place.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w>
+						<m lemma="6675">vura</m>
+					</w>
+					<w gl="I am thinking">
+						<m lemma="4349">ni</m>
+						<m lemma="6939">xú</m>
+						<m lemma="6035">ti</m>
+					</w>
+					<w>
+						<m lemma="3969">kúkuum</m>
+					</w>
+					<w>
+						<m lemma="6675">vura</m>
+					</w>
+					<w>
+						<m lemma="1816">ikhich</m>
+					</w>
+					<w gl="I will find it">
+						<m lemma="4349">ni</m>
+						<m lemma="4155">máh</m>
+						<m lemma="1379">is</m>
+					</w>
+					<w>
+						<m lemma="5541">táay</m>
+					</w>
+					<w>
+						<m lemma="1399">hôoyvurava</m>
+					</w>
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+						<m lemma="3670">kâan</m>
+					</w>.
+				</txt>
+				<trans lang="eng">I still think maybe I'll make a find again somewhere right there.</trans>
+			</s>
+		</paragraph>
+	</data>
+</text>
+						
+
+					
+						
+						
+						
+						
+					
+					
+
+					
+						
+					
+					
+					

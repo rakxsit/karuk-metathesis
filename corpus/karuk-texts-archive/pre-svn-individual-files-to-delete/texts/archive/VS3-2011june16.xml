@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="VS3" audio-source="karuk-2011-01-29-vs-1">
+    <metadata>
+        <title>Elicited sentences</title>
+        <author>Vina <alph>Smith</alph></author>
+        <date>2011</date>
+        <publication>Unpublished (recorded by Andrew Garrett, Line Mikkelsen, and Tammy Stark on
+            January 29, 2011)</publication>
+    </metadata>
+    <data>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_01" audio-start-time="2:19">
+                <kar>
+                    <w>
+                        <m id="6965">xuun</m>
+                    </w>
+                    <w>
+                        <m id="2671">ip</m>
+                    </w>
+                    <w gl="I ate">
+                        <m id="4349">ni</m>
+                        <m id="814">'av</m>
+                    </w>
+                </kar>
+                <eng>I ate acorn soup.</eng>
+                <note>This example does not use the final -at past suffix, at least, it is
+                    completely inaudible</note>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_02" audio-start-time="2:29">
+                <kar>
+                    <w>
+                        <m id="6965">xuun</m>
+                    </w>
+                    <w>
+                        <m id="2671">ip</m>
+                    </w>
+                    <w gl="I ate">
+                        <m id="4349">ni</m>
+                        <m id="814">'áv</m>
+                        <m id="738">at</m>
+                    </w>
+                </kar>
+                <eng>I ate acorn soup.</eng>
+                <note>Is xuun accented? If so, why? (It shouldn't -- may just be prosodic?) This
+                    example uses the final -at past marker</note>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_03" audio-start-time="3:53">
+                <kar>
+                    <w>
+                        <m id="1281">fâat</m>
+                    </w>
+                    <w gl="you ate">
+                        <m id="1418">i</m>
+                        <m id="814">'áv</m>
+                        <m id="1378">aheen</m>
+                    </w>
+                </kar>
+                <eng>What did you eat?</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_04" audio-start-time="4:15">
+                <kar>
+                    <w>
+                        <m id="1281">fâat</m>
+                    </w>
+                    <w gl="you are going to eat">
+                        <m id="1418">i</m>
+                        <m id="814">'áv</m>
+                        <m id="1379">eesh</m>
+                    </w>
+                </kar>
+                <eng>What are you going to eat?</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_05" audio-start-time="4:22">
+                <kar>
+                    <w>
+                        <m id="1281">fâat</m>
+                    </w>
+                    <w gl="you are eating">
+                        <m id="1418">i</m>
+                        <m id="814">'áam</m>
+                        <m id="6035">ti</m>
+                    </w>
+                    <w>
+                        <m id="4716">payêem</m>
+                    </w>
+                </kar>
+                <eng>What are you eating now?</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_06" audio-start-time="4:50">
+                <kar>
+                    <w>
+                        <m id="1281">fâat</m>
+                    </w>
+                    <w gl="that you are eating">
+                        <m id="4408">p</m>
+                        <m id="1418">ee</m>
+                        <m id="814">'áam</m>
+                        <m id="6035">ti</m>
+                    </w>
+                </kar>
+                <eng>What are you eating?</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_07" audio-start-time="6:42">
+                <kar>
+                    <w>
+                        <m id="234">akâay</m>
+                    </w>
+                    <w gl="he/she ate it">
+                        <m id="6175">u</m>
+                        <m id="814">'áv</m>
+                        <m id="1378">aheen</m>
+                    </w>
+                </kar>
+                <eng>Who ate it?</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_08" audio-start-time="9:03">
+                <kar>
+                    <w>
+                        <m id="1375">hárivari</m>
+                    </w>
+                    <w gl="ate">
+                        <m id="814">'áv</m>
+                        <m id="1378">aheen</m>
+                    </w>
+                    <w gl="the potato">
+                        <m id="4407">pa</m>
+                        <m id="5128">putíruh</m>
+                    </w>
+                </kar>
+                <eng>When did you eat the potato?</eng>
+                <note>I couldn't hear person inflection in any of the instances of this
+                    sentence.</note>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_09">
+                <kar>
+                    <w>
+                        <m id="6381">váa</m>
+                    </w>
+                    <w>
+                        <m id="1402">hum</m>
+                    </w>
+                    <w gl="you ate">
+                        <m id="1418">i</m>
+                        <m id="815">'av</m>
+                        <m id="1378">aheen</m>
+                    </w>
+                </kar>
+                <eng>Did you eat it?</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_10">
+                <kar>
+                    <w gl="the potato">
+                        <m id="4407">pa</m>
+                        <m id="5128">putíruh</m>
+                    </w>
+                    <w>
+                        <m id="1402">hum</m>
+                    </w>
+                    <w gl="you ate">
+                        <m id="1418">i</m>
+                        <m id="815">'av</m>
+                        <m id="1378">aheen</m>
+                    </w>
+                </kar>
+                <eng>Did you eat the potato?</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_11">
+                <kar>
+                    <w>
+                        <m id="6381">váa</m>
+                    </w>
+                    <w>
+                        <m id="1402">hum</m>
+                    </w>
+                    <w gl="you ate">
+                        <m id="4408">p</m>
+                        <m id="1418">ee</m>
+                        <m id="815">'av</m>
+                        <m id="1378">aheen</m>
+                    </w>
+                </kar>
+                <eng>Did you eat it?</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_12">
+                <kar>
+                    <w>
+                        <m id="6381">váa</m>
+                    </w>
+                    <w>
+                        <m id="1402">hum</m>
+                    </w>
+                    <w gl="SUB you ate">
+                        <m id="4408">p</m>
+                        <m id="1418">ee</m>
+                        <m id="815">'av</m>
+                        <m id="1378">aheen</m>
+                    </w>
+                    <w gl="the potato">
+                        <m id="4407">pa</m>
+                        <m id="5128">putíruh</m>
+                    </w>
+                </kar>
+                <eng>Did you eat the potato?</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_13">
+                <kar>
+                    <w gl="the potato">
+                        <m id="4407">pa</m>
+                        <m id="5128">putíruh</m>
+                    </w>
+                    <w>
+                        <m id="1402">hum</m>
+                    </w>
+                    <w gl="you ate">
+                        <m id="1418">i</m>
+                        <m id="815">'av</m>
+                        <m id="1378">aheen</m>
+                    </w>
+                </kar>
+                <eng>Did you eat the potato?</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_14">
+                <kar>
+                    <w>
+                        <m id="4299">náa</m>
+                    </w>
+                    <w gl="I am looking">
+                        <m id="4349">ní</m>
+                        <m id="2570">muus</m>
+                        <m id="6035">tih</m>
+                    </w>
+                    <w>
+                        <m id="6381">váa</m>
+                    </w>
+                </kar>
+                <eng>I am looking at it.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_15">
+                <kar>
+                    <w>
+                        <m id="1281">fâat</m>
+                    </w>
+                    <w gl="you are looking">
+                        <m id="1418">í</m>
+                        <m id="2570">muus</m>
+                        <m id="6035">tih</m>
+                    </w>
+                </kar>
+                <eng>What are you looking at?</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_16">
+                <kar>
+                    <w>
+                        <m id="1281">fâat</m>
+                    </w>
+                    <w gl="you are looking">
+                        <m id="1418">í</m>
+                        <m id="2570">muus</m>
+                        <m id="6035">tih</m>
+                    </w>
+                    <w>
+                        <m id="1657">íim</m>
+                    </w>
+                </kar>
+                <eng>What are you looking at?</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_17">
+                <kar>
+                    <w>
+                        <m id="6381">váa</m>
+                    </w>
+                    <w>
+                        <m id="1402">hum</m>
+                    </w>
+                    <w gl="SUB you are looking">
+                        <m id="4408">p</m>
+                        <m id="1418">êe</m>
+                        <m id="2570">muus</m>
+                        <m id="6035">tih</m>
+                    </w>
+                </kar>
+                <eng>Are you looking at it?</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_18">
+                <kar>
+                    <w>
+                        <m id="6381">váa</m>
+                    </w>
+                    <w>
+                        <m id="1402">hum</m>
+                    </w>
+                    <w gl="you are looking">
+                        <m id="1418">í</m>
+                        <m id="2570">muus</m>
+                        <m id="6035">tih</m>
+                    </w>
+                </kar>
+                <eng>Are you looking at it?</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_19">
+                <kar>
+                    <w>
+                        <m id="6381">váa</m>
+                    </w>
+                    <w>
+                        <m id="1402">hum</m>
+                    </w>
+                    <w gl="SUB you are looking">
+                        <m id="4408">p</m>
+                        <m id="1418">êe</m>
+                        <m id="2570">muus</m>
+                        <m id="6035">tih</m>
+                    </w>
+                    <w>
+                        <m id="1656">íim</m>
+                    </w>
+                </kar>
+                <eng>Are you looking at it?</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_20">
+                <kar>
+                    <w gl="the cat">
+                        <m id="4407">pa</m>
+                        <m id="5120">púsihich</m>
+                    </w>
+                    <w gl="you are looking">
+                        <m id="1418">í</m>
+                        <m id="2570">muus</m>
+                        <m id="6035">tih</m>
+                    </w>
+                    <w>
+                        <m id="1402">hum</m>
+                    </w>
+                </kar>
+                <eng>Are you looking at the cat?</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_21">
+                <kar>
+                    <w gl="the cat">
+                        <m id="4407">pa</m>
+                        <m id="5120">púsihich</m>
+                    </w>
+                    <w gl="you are looking">
+                        <m id="1418">í</m>
+                        <m id="2570">muus</m>
+                        <m id="6035">tih</m>
+                    </w>
+                    <w>
+                        <m id="1656">íim</m>
+                    </w>
+                </kar>
+                <eng>You are looking at the cat.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_22">
+                <kar>
+                    <w>
+                        <m id="6381">váa</m>
+                    </w>
+                    <w gl="my cat">
+                        <m id="4407">pa</m>
+                        <m id="4326">nani</m>
+                        <m id="5120">púsihich</m>
+                    </w>
+                    <w gl="it likes">
+                        <m id="6175">u</m>
+                        <m id="5672">tapkûupu</m>
+                        <m id="6035">tih</m>
+                    </w>
+                </kar>
+                <eng>My cat likes it.</eng>
+            </s>
+        </paragraph>
+    </data>
+</text>

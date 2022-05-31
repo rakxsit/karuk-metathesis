@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <text id="WB_KL-50">
+		<metadata>
+			<title>"Medicine to Get a Husband"</title>
+			<author>Nettie <alph>Reuben</alph></author>
+			<date>1957</date>
+			<publication>William Bright, <em>The Karok Language</em> (1957), pp. 250-253, Text 50</publication>
+		</metadata>
+		<data>
+			<paragraph>
+				<s>
+					<kar>
+						<w gl="behind Orleans">
+							<m id="4528">panamníh</m>
+							<m id="4146">maam</m>
+						</w>
+						<w>
+							<m id="3930">koovúra</m>
+						</w>
+						<w>
+							<m id="5506">tá</m>
+						</w>
+						<w gl="they gathered together">
+							<m id="3977">kun</m>
+							<m id="2420">imfipíshriihva</m>
+						</w>,
+						<w gl="the spirit girls">
+							<m id="4407">p</m>
+							<m id="2252">eekxariya</m>
+							<m id="1459">'ifápiit</m>
+							<m id="5200">shas</m>
+						</w>.
+					</kar>
+					<eng>All the spirit girls gathered back of Orleans.</eng>
+					<note>eekxariya is linked to ikxareeyav, because there is no dictionary entry for ikxariya.</note>
+				</s>
+				<s>
+					<kar>
+						<w gl="they heard">
+							<m id="3977">kun</m>
+							<m id="5954">thítiim</m>
+							<m id="6035">ti</m>
+						</w> "
+						<w>
+							<m id="6383">vaa</m>
+						</w>
+						<w>
+							<m id="3670">káan</m>
+						</w>
+						<w gl="they were digging roots">
+							<m id="3977">kun</m>
+							<m id="6321">'ûupvu</m>
+							<m id="4298">naa</m>
+							<m id="6035">tih</m>
+						</w>,
+						<w>
+							<m id="5817">tayiith</m>
+						</w>."
+					</kar>
+					<eng>They heard that (people) were digging brodiaea roots there.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6570">víri</m>
+						</w>
+						<w>
+							<m id="3919">kôokinay</m>
+						</w>
+						<w>
+							<m id="3725">kahyúras</m>
+						</w>
+						<w>
+							<m id="5506">tá</m>
+						</w>
+						<w gl="they came from">
+							<m id="3977">kun</m>
+							<m id="514">'aramsípriin</m>
+						</w>,
+						<w gl="the spirit girls">
+							<m id="4407">p</m>
+							<m id="2252">eekxariya</m>
+							<m id="1459">'ifápiit</m>
+							<m id="5200">shas</m>
+						</w>.
+					</kar>
+					<eng>They came from Klamath Lakes and everywhere, the spirit girls.</eng>
+					<note>aramsipriin is an unexpected form--the last vowel shouldn't long and the second one should, according to the dictionary.</note>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="5506">tá</m>
+						</w>
+						<w gl="they gathered together">
+							<m id="3977">kun</m>
+							<m id="2420">imfipíshriihva</m>
+						</w>
+						<w gl="behind Orleans">
+							<m id="4528">panamníh</m>
+							<m id="4146">maam</m>
+						</w>.
+					</kar>
+					<eng>They gathered back of Orleans.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3745">kári</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w>
+							<m id="7097">yítha</m>
+						</w>
+						<w>
+							<m id="6307">uum</m>
+						</w>
+						<w>
+							<m id="3670">káan</m>
+						</w>
+						<w gl="she had grown up">
+							<m id="6175">u</m>
+							<m id="1453">'íf</m>
+							<m id="1369">anik</m>
+						</w>.
+					</kar>
+					<eng>And one (girl) had grown up there (at Orleans).</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6307">uum</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w>
+							<m id="3671">kâanimich</m>
+						</w>.
+					</kar>
+					<eng>She was poor.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6383">vaa</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w gl="she had been raised that way">
+							<m id="6175">u</m>
+							<m id="4004">kupa</m>
+							<m id="1640">'iifshípree</m>
+							<m id="1369">nik</m>
+						</w>,
+						<w gl="since poor">
+							<m id="4408">pa</m>
+							<m id="3671">kâanimich</m>
+						</w>
+						<w gl="she had been raised">
+							<m id="6175">u</m>
+							<m id="1640">'iifshípree</m>
+							<m id="1369">nik</m>
+						</w>.
+					</kar>
+					<eng>She had grown up that way, since she had grown up poor.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3745">kári</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="she thought">
+							<m id="6175">u</m>
+							<m id="6939">xus</m>
+						</w>, "
+						<w>
+							<m id="1633">ii</m>
+						</w>!
+						<w>
+							<m id="6042">tîi</m>
+						</w>
+						<w>
+							<m id="4299">naa</m>
+						</w>
+						<w>
+							<m id="3752">káru</m>
+						</w>
+						<w gl="let me go dig roots!">
+							<m id="3735">kan</m>
+							<m id="6324">'ûupvan</m>
+						</w>."
+					</kar>
+					<eng>And she thought, "Oh, let me go dig roots too!"</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						<w>
+							<m id="3745">kári</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w>
+							<m id="6174">ta'ítam</m>
+						</w>
+						<w gl="she arrived">
+							<m id="6175">u</m>
+							<m id="6306">'uum</m>
+							<m id="1378">áheen</m>
+						</w>
+						<w gl="behind Orleans">
+							<m id="4528">panamníh</m>
+							<m id="4146">maam</m>
+						</w>.
+					</kar>
+					<eng>And so she arrived back of Orleans.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6570">víri</m>
+						</w>
+						<w gl="when she looked around">
+							<m id="4408">p</m>
+							<m id="6175">oo</m>
+							<m id="6138">túraayva</m>
+						</w>,
+						<w>
+							<m id="5105">púra fátaak</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w gl="she didn't fit in">
+							<m id="6997">yâahi</m>
+							<m id="6035">tih</m>
+							<m id="1371">ara</m>
+						</w>,
+						<w gl="where they were digging roots">
+							<m id="4408">pa</m>
+							<m id="3977">kun</m>
+							<m id="6321">'ûupvu</m>
+							<m id="4298">naa</m>
+							<m id="6035">tih</m>
+						</w>
+						<w gl="the spirit girls">
+							<m id="4407">p</m>
+							<m id="2252">eekxariya</m>
+							<m id="1459">'ifápiit</m>
+							<m id="5200">sha</m>
+						</w>.
+					</kar>
+					<eng>When she looked around, she couldn't fit in anyplace where the spirit girls were digging roots.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6570">víri</m>
+						</w>
+						<w gl="when she was laughed at">
+							<m id="4408">p</m>
+							<m id="6175">oo</m>
+							<m id="2079">ksah</m>
+							<m id="501">ár</m>
+							<m id="168">ahi</m>
+							<m id="6035">tih</m>
+						</w>,
+						<w gl="they ridiculed her">
+							<m id="3977">kun</m>
+							<m id="5584">tákaam</m>
+							<m id="6035">tih</m>
+						</w>,
+						<w gl="the woman">
+							<m id="4407">pa</m>
+							<m id="656">'asiktávaan</m>
+						</w>,
+						<w gl="the poor (one)">
+							<m id="4407">pa</m>
+							<m id="3671">kâanimich</m>
+						</w>,
+						<w gl="as she dug roots">
+							<m id="4408">p</m>
+							<m id="6175">oo</m>
+							<m id="6321">'ûupvu</m>
+							<m id="6035">tih</m>
+						</w>.
+					</kar>
+					<eng>So they laughed, they ridiculed her, the woman, the poor one, as she dug roots.</eng>
+				</s>
+				<s>
+					<kar>
+						<w gl="her dress">
+							<m id="4407">pa</m>
+							<m id="4260">mu</m>
+							<m id="7028">yáfus</m>
+						</w>
+						<w>
+							<m id="7273">á'</m>
+						</w>
+						<w gl="it had">
+							<m id="5506">t</m>
+							<m id="6175">óo</m>
+						</w>
+						<w>
+							<m id="3117">stakúraan</m>
+						</w>.
+					</kar>
+					<eng>Her dress was ripped up.</eng>
+				</s>
+				<s>
+					<kar>
+						<w gl="so">
+							<m id="6570">víri</m>
+							<m id="6383">va</m>
+						</w>
+						<w>
+							<m id="7081">yiimúsich</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w gl="she was digging roots">
+							<m id="4408">p</m>
+							<m id="6175">oo</m>
+							<m id="6321">'ûupvu</m>
+							<m id="6035">tih</m>
+						</w>.
+					</kar>
+					<eng>She dug roots a little ways away.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6570">víri</m>
+						</w>
+						<w gl="the spirit girls">
+							<m id="4407">p</m>
+							<m id="2252">eekxariya</m>
+							<m id="1459">'ifápiit</m>
+							<m id="5200">sha</m>
+						</w>
+						<w>
+							<m id="5506">tá</m>
+						</w>
+						<w gl="they said">
+							<m id="3977">kun</m>
+							<m id="4823">piip</m>
+						</w>, "
+						<w>
+							<m id="1457">íf</m>
+						</w>
+						<w gl="she thinks">
+							<m id="6175">u</m>
+							<m id="6939">xú</m>
+							<m id="6035">tih</m>
+						</w> '
+						<w gl="I will dig it out">
+							<m id="4349">ni</m>
+							<m id="5536">tâatruprav</m>
+							<m id="1379">eesh</m>
+						</w>.'"
+					</kar>
+					<eng>The spirit girls said, "She really thinks she's going to dig up something!"</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						<w>
+							<m id="6570">víri</m>
+						</w>
+						<w>
+							<m id="1096">chavúra</m>
+						</w>
+						<w>
+							<m id="5670">tapipshítaani</m>
+						</w>
+						<w>
+							<m id="3745">kári</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="they said">
+							<m id="3977">kun</m>
+							<m id="4823">piip</m>
+						</w>, 
+						<w gl="the spirit girls">
+							<m id="4407">p</m>
+							<m id="2252">eekxariya</m>
+							<m id="1459">'ifápiit</m>
+							<m id="5200">shas</m>
+						</w>, "
+						<w>
+							<m id="7055">yáxa</m>
+						</w>, 
+						<w>	
+							<m id="1410">hûut</m>
+						</w>
+						<w gl="she is saying">
+							<m id="6175">u</m>
+							<m id="4823">pí</m>
+							<m id="6035">tih</m>
+						</w>."
+					</kar>
+					<eng>Finally after a while the spirit girls said, "Look, what is she saying?"</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="7038">yánava</m>
+						</w>
+						<w gl="she was singing">
+							<m id="6175">u</m>
+							<m id="4511">pakurîihvu</m>
+							<m id="6035">tih</m>
+						</w>, 
+						<w gl="the poor (one)">
+							<m id="4407">pa</m>
+							<m id="3671">kâanimich</m>
+						</w>.
+					</kar>
+					<eng>They saw the poor one was singing.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="7038">yánava</m>
+						</w>
+						<w gl="she was saying">
+							<m id="6175">u</m>
+							<m id="4823">pí</m>
+							<m id="6035">tih</m>
+						</w>, "
+						<w>
+							<m id="7113">yôotva</m>
+						</w>,
+						<w gl="my husband">
+							<m id="4364">nini</m>
+							<m id="828">'ávan</m>
+						</w>
+						<w>
+							<m id="5506">tá</m>
+						</w>
+						<w gl="I dug him out">
+							<m id="4349">ni</m>
+							<m id="5536">tâatruprav</m>
+						</w>."
+					</kar>
+					<eng>They saw her say, "Hurray, I've dug up my husband!"</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3745">kári</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="her blanket">
+							<m id="4407">pa</m>
+							<m id="4260">mú</m>
+							<m id="6399">vaas</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w>
+							<m id="6383">vaa</m>
+						</w>
+						<w gl="she covered him with">
+							<m id="6175">u</m>
+							<m id="3653">yxôorariv</m>
+						</w>.
+					</kar>
+					<eng>And she covered him with her blanket.</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						<w>
+							<m id="3745">kári</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w>
+							<m id="6383">vaa</m>
+						</w>
+						<w gl="they did">
+							<m id="3977">kun</m>
+							<m id="4086">kúupha</m>
+						</w>,
+						<w gl="the spirit girls">
+							<m id="4407">p</m>
+							<m id="2252">eekxariya</m>
+							<m id="1459">'ifápiit</m>
+							<m id="5200">sha</m>
+						</w>.
+					</kar>
+					<eng>Then the spirit girls did this.</eng>
+				</s>
+				<s>
+					<kar>
+						<w gl="when she looked around">
+							<m id="4408">p</m>
+							<m id="6175">oo</m>
+							<m id="6138">túraayva</m>
+						</w>, 
+						<w>
+							<m id="7038">yánava</m>
+						</w>
+						<w>
+							<m id="3930">koovúra</m>
+						</w>
+						<w>
+							<m id="5506">tá</m>
+						</w>
+						<w>
+							<m id="5085">púfaat</m>
+						</w>,
+						<w gl="the spirit girls">
+							<m id="4407">p</m>
+							<m id="2252">eekxariya</m>
+							<m id="1459">'ifápiit</m>
+							<m id="5200">sha</m>
+						</w>.
+					</kar>
+					<eng>When (the poor one) looked around, she saw they were all gone, the spirit girls.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="5506">tá</m>
+						</w>
+						<w gl="they were transformed">
+							<m id="3977">kun</m>
+							<m id="2773">ipkeevíshriih</m>
+							<m id="6380">va</m>
+						</w>.
+					</kar>
+					<eng>They were transformed.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3745">kári</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="she thought">
+							<m id="6175">u</m>
+							<m id="6939">xus</m>
+						</w>, "
+						<w gl="when Humankind">
+							<m id="4408">pa</m>
+							<m id="7022">yaas'ára</m>
+						</w>
+						<w gl="it comes into existence">
+							<m id="6175">u</m>
+							<m id="1676">'iiníshrih</m>
+							<m id="1358">aak</m>
+						</w>,
+						<w>
+							<m id="6570">víri</m>
+						</w>
+						<w>
+							<m id="6307">uum</m>
+						</w>
+						<w>
+							<m id="3752">káru</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w>
+							<m id="6383">vaa</m>
+						</w>
+						<w gl="she will do">
+							<m id="6175">u</m>
+							<m id="4086">kuph</m>
+							<m id="1379">eesh</m>
+						</w>,
+						<w>
+							<m id="6734">xáat</m>
+						</w>
+						<w>
+							<m id="3671">kâanimich</m>
+						</w>.
+					</kar>
+					<eng>And she thought, "When Mankind comes into existence, (a woman) will do this way also, (though) she may be poor.</eng>
+				</s>
+				<s>
+					<kar>
+						<w gl="so">
+							<m id="6570">víri</m>
+							<m id="6383">va</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w>
+							<m id="828">ávan</m>
+						</w>
+						<w gl="she will have">
+							<m id="6175">u</m>
+							<m id="5916">thiiná</m>
+							<m id="6035">tih</m>
+							<m id="1379">eesh</m>
+						</w>.
+					</kar>
+					<eng>She will have a husband.</eng>
+				</s>
+				<s>
+					<kar>
+						<w gl="if my song">
+							<m id="4408">pa</m>
+							<m id="4364">nini</m>
+							<m id="4509">pákuri</m>
+						</w>
+						<w gl="she knows">
+							<m id="6175">u</m>
+							<m id="44">'aapúnm</m>
+							<m id="1358">ahaak</m>
+						</w>,
+						<w gl="so">
+							<m id="6570">víri</m>
+							<m id="6383">va</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w>
+							<m id="828">ávan</m>
+						</w>
+						<w gl="she will have">
+							<m id="6175">u</m>
+							<m id="5916">thiiná</m>
+							<m id="6035">tih</m>
+							<m id="1379">eesh</m>
+						</w>,
+						<w>
+							<m id="6734">xáat</m>
+						</w>
+						<w gl="a homely woman">
+							<m id="656">asiktavan</m>
+							<m id="3790">kéem</m>
+						</w>."
+					</kar>
+					<eng>If she knows my song, she will have a husband, (though) she may be a homely woman."</eng>
+					<note>asiktavankeem is in the dictionary, but as a specific person's name, so I did not link to it.</note>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6570">víri</m>
+						</w>
+						<w>
+							<m id="3745">kári</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w>
+							<m id="7102">yíthuk</m>
+						</w>
+						<w gl="she went">
+							<m id="6175">u</m>
+							<m id="6306">'uum</m>
+						</w>.
+					</kar>
+					<eng>Then she went elsewhere (i.e., was transformed).</eng>
+				</s>
+			</paragraph>
+		</data>
+	</text>
+						
+						
+							
+							
+						
+							

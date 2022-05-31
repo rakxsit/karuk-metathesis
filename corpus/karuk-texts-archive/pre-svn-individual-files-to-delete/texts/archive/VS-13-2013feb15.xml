@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="VS-13" audio-source="karuk-2011-08-16-vs-3">
+  <metadata>
+    <title>Elicited sentences</title>
+    <author> Vina <alph>Smith</alph>
+    </author>
+    <date>2011</date>
+    <publication> Unpublished (recorded by Andrew Garrett on October 16, 2011) </publication>
+  </metadata>
+  <data>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_01" audio-start-time="3:09">
+	<kar>
+	  <w>
+	    <m id="1671">iinâak</m>
+	  </w>
+	  <w gl="he goes inside">
+	    <m id="5506">t</m>
+	    <m id="6175">u</m>
+	    <m id="6606">vôonfuruk</m>
+	</w>.</kar>
+	<eng>He is going inside the house.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_02" audio-start-time="4:10">
+	<kar>
+	  <w>
+	    <m id="1671">iinâak</m>
+	  </w>
+	  <w gl="he runs to">
+	    <m id="5506">t</m>
+	    <m id="6175">u</m>
+	    <m id="2203">kvíripma</m>
+	</w>.</kar>
+	<eng>He is running into the house.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_03" audio-start-time="5:11">
+	<kar>
+	  <w>
+	    <m id="1671">iinâak</m>
+	  </w>
+	  <w gl="he has">
+	    <m id="5506">t</m>
+	    <m id="6175">óo</m>
+	  </w>
+	  <w gl="flies toward">
+	    <m id="2279">kxip</m>
+	    <m id="4131">ma</m>
+	  </w>
+	  <w gl="the bird">
+	    <m id="4407">pa</m>
+	    <m id="119">'achviiv</m>
+	</w>.</kar>
+	<eng>The bird is flying into the house.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_04" audio-start-time="5:35">
+	<kar>
+	  <w>
+	    <m id="6881">xáyfaat</m>
+	  </w>
+	  <w gl="he has">
+	    <m id="5506">t</m>
+	    <m id="6175">óo</m>
+	  </w>
+	  <w gl="flies toward">
+	    <m id="2279">kxip</m>
+	    <m id="4131">ma</m>
+	  </w>
+	  <w>
+	    <m id="1671">iinâak</m>
+	</w>.</kar>
+	<eng>Don't fly into the house.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_05" audio-start-time="6:00">
+	<kar>
+	  <w>
+	    <m id="4299">naa</m>
+	  </w>
+	  <w>
+	    <m id="1671">iinâak</m>
+	  </w>
+	  <w gl="I will fly">
+	    <m id="5506">ní</m>
+	    <m id="2279">kxipm</m>
+	    <m id="1379">eesh</m>
+	  </w>
+	  <w gl="your house">
+	    <m id="4238">mi</m>
+	    <m id="2032">krívraam</m>
+	</w>.</kar>
+	<eng>I am going to fly into your house.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_06" audio-start-time="9:04">
+	<kar>
+	  <w>
+	    <m id="6383">vaa</m>
+	  </w>
+	  <w>
+	    <m id="2671">íp</m>
+	  </w>
+	  <w>
+	    <m id="3670">káan</m>
+	  </w>
+	  <w gl="he is playing">
+	    <m id="6175">u</m>
+	    <m id="2346">kyamîichvu</m>
+	    <m id="6035">tih</m>
+	  </w>
+	  <w>
+	    <m id="6847">xás</m>
+	  </w>
+	  <w gl="he has">
+	    <m id="5506">t</m>
+	    <m id="6175">óo</m>
+	  </w>
+	  <w>
+	    <m id="2279">kxip</m>
+	</w>.</kar>
+	<eng>He was playing there but he flew (away).</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_07" audio-start-time="10:03">
+	<kar>
+	  <w gl="the bird">
+	    <m id="4407">pa</m>
+	    <m id="119">'achviiv</m>
+	  </w>
+	  <w gl="he has">
+	    <m id="5506">t</m>
+	    <m id="6175">óo</m>
+	  </w>
+	  <w gl="fly up">
+	    <m id="2279">kxip</m>
+	    <m id="5417">ship</m>
+	</w>.</kar>
+	<eng>The bird flew away.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_08" audio-start-time="11:45">
+	<kar>
+	  <w gl="the salmon">
+	    <m id="4407">pa</m>
+	    <m id="30">'áama</m>
+	  </w>
+	  <w gl="he has">
+	    <m id="5506">t</m>
+	    <m id="6175">óo</m>
+	  </w>
+	  <w>
+	    <m id="1926">kpuuhsip</m>
+	</w>.</kar>
+	<eng>The salmon swam away.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_09" audio-start-time="12:07">
+	<kar>
+	  <w gl="the man">
+	    <m id="4407">pa</m>
+	    <m id="833">'ávansa</m>
+	  </w>
+	  <w>
+	    <m id="4213">máruk</m>
+	  </w>
+	  <w gl="he has">
+	    <m id="5506">t</m>
+	    <m id="6175">oo</m>
+	  </w>
+	  <w>
+	    <m id="1781">kfúkuraa</m>
+	</w>.</kar>
+	<eng>The man went uphill.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_11" audio-start-time="12:41">
+	<kar>
+	  <w>
+	    <m id="4299">naa</m>
+	  </w>
+	  <w>
+	    <m id="3753">káruk</m>
+	  </w>
+	  <w>
+	    <m id="4213">máruk</m>
+	  </w>
+	  <w>
+	    <m id="5506">tá</m>
+	  </w>
+	  <w gl="I climb uphill">
+	    <m id="4349">ni</m>
+	    <m id="1781">kfúkuraa</m>
+	</w>.</kar>
+	<eng>I walked uphill too.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_12" audio-start-time="13:01">
+	<kar>
+	  <w>
+	    <m id="6881">xáyfaat</m>
+	  </w>
+	  <w>
+	    <m id="4213">máruk</m>
+	  </w>
+	  <w gl="you go away">
+	    <m id="1418">i</m>
+	    <m id="6396">vâaram</m>
+	</w>.</kar>
+	<eng>Don't go uphill.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_13" audio-start-time="14:12">
+	<kar>
+	  <w>
+	    <m id="6881">xáyfaat</m>
+	  </w>
+	  <w>
+	    <m id="5328">sáruk</m>
+	  </w>
+	  <w gl="you walk downhill">
+	    <m id="1418">i'</m>
+	    <m id="559">árihfak</m>
+	</w>.</kar>
+	<eng>Don't walk downhill.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_14" audio-start-time="14:28">
+	<kar>
+	  <w>
+	    <m id="4299">naa</m>
+	  </w>
+	  <w>
+	    <m id="3752">káru</m>
+	  </w>
+	  <w>
+	    <m id="5328">sáruk</m>
+	  </w>
+	  <w gl="I will walk downhill">
+	    <m id="1418">née</m>
+	    <m id="559">rihfak</m>
+	    <m id="1379">eesh</m>
+	</w>.</kar>
+	<eng>I am going to go downhill.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_15" audio-start-time="14:59">
+	<kar>
+	  <w>
+	    <m id="234">akâay</m>
+	  </w>
+	  <w>
+	    <m id="5328">sáruk</m>
+	  </w>
+	  <w gl=" he has walked downhill">
+	    <m id="5506">t</m>
+	    <m id="6175">u</m>
+	    <m id="559">'árihfak</m>
+	</w>?</kar>
+	<eng>Who walked down the hill?</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_16" audio-start-time="15:39">
+	<kar>
+	  <w>
+	    <m id="234">akâay</m>
+	  </w>
+	  <w>
+	    <m id="5328">sáruk</m>
+	  </w>
+	  <w gl="he has">
+	    <m id="5506">t</m>
+	    <m id="6175">oo</m>
+	  </w>
+	  <w gl="walked downhill">
+	    <m id="559">árihfaku</m>
+	    <m id="1378">heen</m>
+	  </w>
+	  <w>
+	    <m id="2766">ipít</m>
+	</w>?</kar>
+	<eng>Who walked down the hill yesterday?</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_17" audio-start-time="17:56">
+	<kar>
+	  <w gl="the bird">
+	    <m id="4407">pa</m>
+	    <m id="119">'achvíiv</m>
+	  </w>
+	  <w>
+	    <m id="4213">máruk</m>
+	  </w>
+	  <w gl="it has">
+	    <m id="5506">t</m>
+	    <m id="6175">oo</m>
+	  </w>
+	  <w>
+	    <m id="2284">kxípuraa</m>
+	  </w>
+	  <w>
+	    <m id="2766">ipít</m>
+	</w>.</kar>
+	<eng>The bird flew uphill yesterday.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_18" audio-start-time="24:00">
+	<kar>
+	  <w gl="the rock">
+	    <m id="4407">pa</m>
+	    <m id="583">'as</m>
+	  </w>
+	  <w>
+	    <m id="5506">tá</m>
+	  </w>
+	  <w gl="I put it down">
+	    <m id="4349">ni</m>
+	    <m id="5886">thárishrih</m>
+	  </w>
+	  <w>
+	    <m id="6847">xás</m>
+	  </w>
+	  <w gl="the box">
+	    <m id="4407">p</m>
+	    <m id="219">ahup'ásip</m>
+	</w>.</kar>
+	<eng>I put the rock in the box.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_19" audio-start-time="31:32">
+	<kar>
+	  <w gl="the snake">
+	    <m id="4407">pa</m>
+	    <m id="454">'ápsuun</m>
+	  </w>
+	  <w>
+	    <m id="3670">káan</m>
+	  </w>
+	  <w>
+	    <m id="5145">pûuvish</m>
+	  </w>
+	  <w gl="it sits">
+	    <m id="6175">ú</m>
+	    <m id="1974">krii</m>
+	</w>.</kar>
+	<eng>The snake is in the bag.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_20" audio-start-time="32:12">
+	<kar>
+	  <w gl="I will throw it">
+	    <m id="4349">ni</m>
+	    <m id="4625">páath</m>
+	    <m id="1379">eesh</m>
+	  </w>
+	  <w gl="the rock">
+	    <m id="4407">pa</m>
+	    <m id="583">'as</m>
+	</w>.</kar>
+	<eng>I am going to throw the rock.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_21" audio-start-time="34:00">
+	<kar>
+	  <w gl="the rock">
+	    <m id="4407">pa</m>
+	    <m id="583">'as</m>
+	  </w>
+	  <w>
+	    <m id="3670">káan</m>
+	  </w>
+	  <w gl="I will throw it into (a vessel)">
+	    <m id="4349">ni</m>
+	    <m id="4625">paath</m>
+	    <m id="4022">kúrih</m>
+	    <m id="1379">eesh</m>
+	</w>.</kar>
+	<eng>I will throw the rock into it (a vessel).</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_22" audio-start-time="35:19">
+	<kar>
+	  <w gl="the bag">
+	    <m id="4407">pa</m>
+	    <m id="5145">pûuvish</m>
+	  </w>
+	  <w>
+	    <m id="6381">vaa</m>
+	  </w>
+	  <w>
+	    <m id="3670">káan</m>
+	  </w>
+	  <w gl="the rock">
+	    <m id="4407">pa</m>
+	    <m id="583">'as</m>
+	  </w>
+	  <w gl="I will throw it into (a vessel)">
+	    <m id="4349">ni</m>
+	    <m id="4625">paath</m>
+	    <m id="4022">kúrih</m>
+	    <m id="1379">eesh</m>
+	</w>.</kar>
+	<eng>I will throw the rock into the bag.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_23" audio-start-time="38:01">
+	<kar>
+	  <w>
+	    <m id="6381">vaa</m>
+	  </w>
+	  <w>
+	    <m id="3670">káan</m>
+	  </w>
+	  <w gl="it is on top of">
+	    <m id="6175">u</m>
+	    <m id="5877">thaan</m>
+	    <m id="5572">tákoo</m>
+	  </w>
+	  <w gl="the box">
+	    <m id="219">ahup'ásip</m>
+	    <m id="232">ak</m>
+	</w>.</kar>
+	<eng>It is on top of the box.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_24" audio-start-time="38:45">
+	<kar>
+	  <w gl="the rock">
+	    <m id="4407">pa</m>
+	    <m id="583">'as</m>
+	  </w>
+	  <w>
+	    <m id="6307">uum</m>
+	  </w>
+	  <w gl="the box">
+	    <m id="219">ahup'ásip</m>
+	    <m id="232">ak</m>
+	  </w>
+	  <w>
+	    <m id="5481">súrukam</m>
+	</w>.</kar>
+	<eng>The rock is underneath the box.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_25" audio-start-time="39:38">
+	<kar>
+	  <w>
+	    <m id="6381">vaa</m>
+	  </w>
+	  <w>
+	    <m id="3670">káan</m>
+	  </w>
+	  <w gl="the snake">
+	    <m id="4407">pa</m>
+	    <m id="454">'ápsuun</m>
+	  </w>
+	  <w gl="it sits">
+	    <m id="6175">ú</m>
+	    <m id="1974">krii</m>
+	  </w>
+	  <w>
+	    <m id="219">ásip</m>
+	  </w>
+	  <w>
+	    <m id="5481">súrukam</m>
+	</w>.</kar>
+	<eng>The snake is underneath the box.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_26" audio-start-time="46:36">
+	<kar>
+	  <w>
+	    <m id="6881">xáyfaat</m>
+	  </w>
+	  <w>
+	    <m id="6381">vaa</m>
+	  </w>
+	  <w>
+	    <m id="3670">káan</m>
+	  </w>
+	  <w gl="you put it down">
+	    <m id="1418">i</m>
+	    <m id="5886">thárishrih</m>
+	  </w>
+	  <w>
+	    <m id="219">ahup'ásip</m>
+	  </w>
+	  <w>
+	    <m id="5481">súrukam</m>
+	</w>.</kar>
+	<eng>Don't put it underneath the box.</eng>
+      </s>
+    </paragraph>
+  </data>
+</text>

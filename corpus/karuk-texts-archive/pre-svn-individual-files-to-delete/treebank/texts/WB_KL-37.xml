@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-37">
+    <metadata>
+        <title>"Eel and Sucker"</title>
+        <author>Mamie <alph>Offield</alph></author>
+        <date>1957</date>
+        <publication>William Bright, <em>The Karok Language</em> (1957), pp. 238-239, Text
+            37</publication>
+        <audio filename="WB_KL-37_AS_reading" caption="re-reading by Arch Super (2012)">WB_KL-37_AS_reading</audio>
+    </metadata>
+    <data>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="264">akráa</m></w>
+                    <w><m lemma="1063">chámuxich</m></w>
+                    <w><m lemma="6756">xákaan</m></w>
+                    <w gl="they gambled"><m lemma="3977">kun</m><m lemma="3288">íthtit</m></w>. </txt>
+                <trans lang="eng">Eel and Sucker gambled together.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="1096">chavúra</m></w>
+                    <w><m lemma="6307">uum</m></w>
+                    <w><m lemma="3930">koovúra</m></w>
+                    <w><m lemma="5506">tá</m></w>
+                    <w gl="they beat"><m lemma="3977">kun</m><m lemma="1110">chífich</m></w>
+                    <w><m lemma="264">akráa</m></w>
+                    <w gl="sucker"><m lemma="1063">chamuxich</m><m lemma="1670">'îin</m></w>. </txt>
+                <trans lang="eng">Finally Sucker won everything from Eel.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="3930">koovúra</m></w>
+                    <w gl="PERF"><m lemma="5506">t</m><m lemma="6175">óo</m></w>
+                    <w><m lemma="3514">xraam</m></w>. </txt>
+                <trans lang="eng">He had bet everything.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="3745">kári</m></w>
+                    <w><m lemma="6847">xás</m></w>
+                    <w gl="he said"><m lemma="6175">u</m><m lemma="4823">píip</m></w>
+                    <w gl="the eel"><m lemma="4407">pá</m><m lemma="264">akraah</m></w>, "<w gl="my bone"
+                            ><m lemma="4326">nani</m><m lemma="2750">'ípi</m></w>
+                    <w><m lemma="5506">tá</m></w>
+                    <w gl="I bet"><m lemma="4349">ní</m><m lemma="3514">xraam</m></w>." </txt>
+                <trans lang="eng">And Eel said, "I'll bet my bones."</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="3745">kári</m></w>
+                    <w><m lemma="6847">xás</m></w>
+                    <w><m lemma="6383">vaa</m></w>
+                    <w><m lemma="3752">káru</m></w>
+                    <w><m lemma="6675">vúra</m></w>
+                    <w gl="he beat"><m lemma="6175">u</m><m lemma="1110">chífich</m></w>. </txt>
+                <trans lang="eng">Then he won those too.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w gl="so"><m lemma="6570">víri</m><m lemma="6381">va</m></w>
+                    <w><m lemma="3971">kumá'ii</m></w>
+                    <w><m lemma="264">akráa</m></w>
+                    <w><m lemma="5085">púfaat</m></w>
+                    <w gl="his bone"><m lemma="4260">mu</m><m lemma="2750">'ípih</m></w>. </txt>
+                <trans lang="eng">For that reason Eel has no bones.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="3978">kúna</m></w>
+                    <w><m lemma="1063">chámuxich</m></w>
+                    <w><m lemma="6307">uum</m></w>
+                    <w><m lemma="6675">vúra</m></w>
+                    <w gl="bony"><m lemma="2752">ípihar</m></w>.</txt>
+                <trans lang="eng">But Sucker is bony.</trans>
+            </s>
+        </paragraph>
+    </data>
+</text>

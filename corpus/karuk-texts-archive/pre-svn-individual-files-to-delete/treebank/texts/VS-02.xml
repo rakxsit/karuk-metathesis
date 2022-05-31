@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="VS-02" audio-source="karuk-2010-09-13-ag-vs-2">
+    <metadata>
+        <title>Sentences about asking name, adjectives</title>
+        <author>Vina <alph>Smith</alph></author>
+        <date>2010</date>
+        <publication>Unpublished (recorded by Andrew Garrett on September 13, 2010)</publication>
+		<genre type="elicitation"/>
+    </metadata>
+    <data>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-09-13-ag-vs-2_01" audio-start-time="4:06">
+                <txt lang="kyh">
+                    <w><m lemma="1410">hûut</m></w>
+                    <w gl="she is called"><m lemma="6175">ú</m><m lemma="3323">thvuuy</m><m lemma="6035"
+                        >ti</m></w>?</txt>
+                <trans lang="eng">What is her name?</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-09-13-ag-vs-2_02" audio-start-time="4:09">
+                <txt lang="kyh">
+                    <w><m lemma="1410">hûut</m></w>
+                    <w gl="she is called"><m lemma="6175">ú</m><m lemma="3323">thvuuy</m><m lemma="6035"
+                        >ti</m></w>
+                    <w gl="your wife"><m lemma="4407">pa</m><m lemma="4238">mi</m><m lemma="1576"
+                        >hrôoha</m></w>?</txt>
+                <trans lang="eng">What is your wife's name?</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-09-13-ag-vs-2_03" audio-start-time="4:38">
+                <txt lang="kyh">
+                    <w gl="her name"><m lemma="4260">mú</m><m lemma="3322">thvuy</m></w>
+                    <w><m lemma="6307">uum</m></w>
+                    <w><m language="english">Leslie</m></w>.</txt>
+                <trans lang="eng">Her name is Leslie.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-09-13-ag-vs-2_04" audio-start-time="5:10">
+                <txt lang="kyh">
+                    <w gl="my name"><m lemma="4326">naní</m><m lemma="3322">thvuy</m></w>
+                    <w><m lemma="6307">uum</m></w>
+                    <w><m language="english">Andrew</m></w>.</txt>
+                <trans lang="eng">My name is Andrew.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-09-13-ag-vs-2_05" audio-start-time="5:24">
+                <txt lang="kyh">
+                    <w gl="your name"><m lemma="4407">pa</m><m lemma="4238">mí</m><m lemma="3322"
+                        >thvuy</m></w>
+                    <w><m lemma="6307">uum</m></w>
+                    <w><m language="english">Vina</m></w>.</txt>
+                <trans lang="eng">Your name is Vina.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-09-13-ag-vs-2_06" audio-start-time="7:06">
+                <txt lang="kyh">
+                    <w gl="my father"><m lemma="4407">pa</m><m lemma="4326">nani</m><m lemma="236"
+                        >'ákah</m></w>
+                    <w><m lemma="6675">vúra</m></w>
+                    <w gl="he is an old man"><m lemma="5506">t</m><m lemma="6175">u</m><m lemma="4792"
+                        >pihnîich</m><m lemma="1356">ha</m></w>.</txt>
+                <trans lang="eng">My father is old.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-09-13-ag-vs-2_07" audio-start-time="7:16">
+                <txt lang="kyh">
+                    <w gl="my father"><m lemma="4407">pa</m><m lemma="4326">nani</m><m lemma="236"
+                        >'ákah</m></w>
+                    <w><m lemma="6675">vúra</m></w>
+                    <w><m lemma="6307">uum</m></w>
+                    <w gl="he is an old man"><m lemma="5506">t</m><m lemma="6175">u</m><m lemma="4792"
+                            >pihnîich</m><m lemma="1356">ha</m></w>.</txt>
+                <trans lang="eng">My father is old.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-09-13-ag-vs-2_08" audio-start-time="8:01">
+                <txt lang="kyh">
+                    <w gl="my mother"><m lemma="4407">pa</m><m lemma="4326">naní</m><m lemma="5532"
+                        >taat</m></w>
+                    <w><m lemma="3752">káru</m></w>
+                    <w gl="she is an old woman"><m lemma="5506">t</m><m lemma="6175">u</m><m lemma="3804"
+                            >kéevniikich</m><m lemma="1356">ha</m></w>.</txt>
+                <trans lang="eng">My mother is old too.</trans>
+            </s>
+        </paragraph>
+    </data>
+</text>

@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-68">
+    <metadata>
+        <title>"Indian Food"</title>
+        <author>Maggie <alph>Charley</alph></author>
+        <date>1957</date>
+        <publication>William Bright, <em>The Karok Language</em> (1957), pp. 282-283, Text 68</publication>
+    </metadata>
+    <data>
+		<paragraph>
+			<s>
+				<kar>
+					<w>
+						<m id="4976">píshiich</m>
+					</w>
+					<w gl="as they lived">
+						<m id="4408">pa</m>
+						<m id="3977">kun</m>
+                        <m id="508">'áraarahi</m>
+                        <m id="6035">ti</m>
+					</w>
+					<w gl="the women">
+						<m id="4407">pa</m>
+						<m id="656">'asiktávaan</m>
+						<m id="5200">sas</m>
+					</w>
+					<w>
+						<m id="416">ápkaas</m>
+					</w>
+					<w gl="they scraped it">
+						<m id="3977">kun</m>
+						<m id="3130">'íshum</m>
+						<m id="6035">tih</m>
+					</w>.
+				</kar>
+				<eng>As they lived at first, the women scraped iris leaves.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w gl="the man">
+						<m id="4407">pa</m>
+						<m id="833">'ávansa</m>
+					</w>
+					<w>
+						<m id="6383">vaa</m>
+					</w>
+					<w gl="they twined it into string">
+						<m id="3977">kun</m>
+						<m id="4575">paríshriihva</m>
+					</w>
+					<w gl="the iris leaves">
+						<m id="4407">pa</m>
+						<m id="416">'ápkaas</m>
+					</w>.
+				</kar>
+				<eng>And the men twined the iris leaves into string.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w>
+						<m id="6258">urípi</m>
+					</w>
+					<w gl="they wove them">
+						<m id="3977">kun</m>
+						<m id="6545">vik</m>
+					</w>.
+				</kar>
+				<eng>And they wove nets.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w gl="in the river">
+						<m id="3007">ishkêesh</m>
+						<m id="232">ak</m>
+					</w>
+					<w>
+						<m id="2593">imvír</m>
+					</w>
+					<w gl="they made them">
+						<m id="3977">kun</m>
+						<m id="2348">íkyav</m>
+					</w>.
+				</kar>
+				<eng>And they made fisheries in the river.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w>
+						<m id="6383">vaa</m>
+					</w>
+					<w>
+						<m id="3670">káan</m>
+					</w>
+					<w gl="they fished (with a set-net)">
+						<m id="3977">kun</m>
+						<m id="1977">íkriihva</m>
+					</w>, 
+					<w>
+						<m id="5541">táay</m>
+					</w>
+					<w gl="they caught them">
+						<m id="3977">kun</m>
+						<m id="3580">íykar</m>
+					</w>
+					<w gl="the salmon">
+						<m id="4407">pa</m>
+						<m id="30">'áama</m>
+					</w>.
+				</kar>
+				<eng>And they fished there, they caught a lot of fish.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w gl="the women">
+						<m id="4407">pa</m>
+						<m id="656">'asiktávaan</m>
+						<m id="5200">sas</m>
+					</w>
+					<w gl="they cleaned (the fish)">
+						<m id="3977">kun</m>
+						<m id="1605">íhviith</m>
+						<m id="6035">tih</m>
+					</w>.
+				</kar>
+				<eng>And the women cleaned (the fish).</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w>
+						<m id="4921">pimnaníhraam</m>
+					</w>
+					<w>
+						<m id="6383">vaa</m>
+					</w>
+					<w>
+						<m id="3670">káan</m>
+					</w>
+					<w gl="they made it">
+						<m id="3977">kun</m>
+						<m id="2348">íkyav</m>
+					</w>.
+				</kar>
+				<eng>And they made a summer-camp there.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w>
+						<m id="6383">vaa</m>
+					</w>
+					<w>
+						<m id="3670">káan</m>
+					</w>
+					<w gl="they dried them">
+						<m id="3977">kun</m>
+						<m id="5498">suváxra</m>
+					</w>
+					<w gl="the salmon">
+						<m id="4407">pa</m>
+						<m id="30">'áama</m>
+					</w>.
+				</kar>
+				<eng>And they dried the salmon there.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<kar>
+					<w gl="the women">
+						<m id="4407">pa</m>
+						<m id="656">'asiktávaan</m>
+						<m id="5200">sas</m>
+					</w>
+					<w>
+						<m id="6307">uum</m>
+					</w>
+					<w gl="they gathered them">
+						<m id="3977">kun</m>
+						<m id="1468">'ífik</m>
+						<m id="6648">vunaa</m>
+					</w>
+					<w>
+						<m id="6907">xuntápan</m>
+					</w>.
+				</kar>
+				<eng>The women gathered acorns.</eng>
+			</s>
+			<s>
+				<kar>
+					<w gl="the salmon">
+						<m id="4407">pa</m>
+						<m id="30">'áama</m>
+					</w>
+					<w gl="they eat them">
+						<m id="3977">kun</m>
+						<m id="814">'áam</m>
+						<m id="6035">ti</m>
+					</w>
+					<w>
+						<m id="3752">káru</m>
+					</w>
+					<w>
+                        <m id="6675">vúra</m>
+                    </w>
+					<w gl="the acorns">
+						<m id="4407">pa</m>
+						<m id="1231">'éekoons</m>
+					</w>.
+				</kar>
+				<eng>They ate the salmon and the acorns.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="3667">káakum</m>
+					</w>
+					<w gl="the acorns">
+						<m id="4407">pa</m>
+						<m id="1231">'éekoons</m>
+					</w>
+					<w>
+						<m id="5541">táay</m>
+					</w>
+					<w>
+                        <m id="6675">vúra</m>
+                    </w>
+					<w>
+						<m id="5506">tá</m>
+					</w>
+					<w gl="they gathered them">
+						<m id="3977">kun</m>
+						<m id="1468">'ífik</m>
+					</w>,
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w gl="ten baskets">
+						<m id="3409">itahara</m>
+						<m id="789">'átimnam</m>
+					</w>
+					<w>
+						<m id="3905">kóo</m>
+					</w>
+					<w gl="he had">
+						<m id="5506">t</m>
+						<m id="6175">óo</m>
+					</w>
+					<w>
+						<m id="4827">píishha</m>
+					</w>.
+				</kar>
+				<eng>Some people gathered a lot of acorns, and put as many as ten baskets to soak.</eng>
+			</s>
+			<s>
+				<kar>
+					<w gl="in three years">
+						<m id="4108">kuyrak</m>
+						<m id="1373">hárinay</m>
+					</w>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w>
+						<m id="332">amáyav</m>
+					</w>
+					<w gl="the soaked acorns">
+						<m id="4407">pá</m>
+						<m id="4824">piish</m>
+					</w>.
+				</kar>
+				<eng>In three years, then the soaked acorns were good-tasting.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<kar>
+					<w>
+						<m id="5092">pufích'aan</m>
+					</w>
+					<w gl="he had">
+						<m id="5506">t</m>
+						<m id="6175">óo</m>
+					</w>
+					<w>
+						<m id="2348">kyav</m>
+					</w>.
+				</kar>
+				<eng>They made twine for deer-traps.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6383">vaa</m>
+					</w>
+					<w>
+						<m id="5135">púufich</m>
+					</w>
+					<w gl="they killed them that way">
+						<m id="3977">kun</m>
+						<m id="4004">kupee</m>
+						<m id="3580">ykár</m>
+						<m id="169">ahi</m>
+						<m id="6035">ti</m>
+					</w>
+					<w gl="the Indians">
+						<m id="4407">pa</m>
+						<m id="506">'áraar</m>
+					</w>,
+					<w gl="they trapped them">
+						<m id="3977">kun</m>
+						<m id="5732">tátapvu</m>
+						<m id="6035">tih</m>
+					</w>.
+				</kar>
+				<eng>The Indians killed deer that way, they trapped them.</eng>
+			</s>
+			<s>
+				<kar>
+					<w gl="two days">
+						<m id="864">axak</m>
+						<m id="5468">súpaa</m>
+					</w>
+					<w gl="he went to see">
+						<m id="5506">t</m>
+						<m id="6175">u</m>
+						<m id="4406">p</m>
+						<m id="2575">músan</m>
+					</w>
+					<w gl="his traps">
+						<m id="4407">pa</m>
+						<m id="4260">mu</m>
+						<m id="5733">tátapva</m>
+					</w>.
+				</kar>
+				<eng>Every two days they would go look at their traps.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6383">vaa</m>
+					</w>
+					<w gl="they killed them that way">
+						<m id="3977">kun</m>
+						<m id="4004">kupee</m>
+						<m id="3580">ykár</m>
+						<m id="169">ahi</m>
+						<m id="6035">ti</m>
+					</w>
+					<w gl="the deer">
+						<m id="4407">pa</m>
+						<m id="5135">púufich</m>
+					</w>.
+				</kar>
+				<eng>They killed the deer that way.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w>
+						<m id="3930">koovúra</m>
+					</w>
+					<w>
+						<m id="6383">vaa</m>
+					</w>
+					<w gl="they ate it">
+						<m id="3977">kun</m>
+						<m id="814">'áam</m>
+						<m id="6035">tih</m>
+					</w>, 
+					<w gl="the deer">
+						<m id="4407">pa</m>
+						<m id="5135">púufich</m>
+					</w>
+					<w>
+						<m id="3752">káru</m>
+					</w>
+					<w gl="the salmon">
+						<m id="4407">pa</m>
+						<m id="30">'áama</m>
+					</w>
+					<w>
+						<m id="3752">káru</m>
+					</w>
+					<w gl="the acorns">
+						<m id="4407">pa</m>
+						<m id="1231">'éekoons</m>
+					</w>
+					<w>
+						<m id="3752">káru</m>
+					</w>
+					<w gl="the soaked acorns">
+						<m id="4407">pá</m>
+						<m id="4824">piish</m>
+					</w>.
+				</kar>
+				<eng>And they ate all that, the deer and the salmon and the acorns and the soaked acorns.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="264">akráa</m>
+					</w>
+					<w>
+						<m id="3752">káru</m>
+					</w>
+					<w gl="they ate them">
+						<m id="3977">kun</m>
+						<m id="814">'áam</m>
+						<m id="6035">tih</m>
+					</w>.
+				</kar>
+				<eng>They ate eels too.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<kar>
+					<w gl="the shelled acorns">
+						<m id="4407">pa</m>
+						<m id="6934">xúrish</m>
+					</w>
+					<w gl="he had">
+						<m id="5506">t</m>
+						<m id="6175">óo</m>
+					</w>
+					<w>
+						<m id="1934">krav</m>
+					</w>,
+					<w>
+						<m id="4717">páykuuk</m>
+					</w>
+					<w>
+						<m id="583">ása</m>
+					</w>
+					<w>
+						<m id="4281">múuk</m>
+					</w>.
+				</kar>
+				<eng>They ground the shelled acorns with that stone over there (pointing to a pestle).</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w gl="he sifted it">
+						<m id="5506">t</m>
+						<m id="6175">u</m>
+						<m id="5870">thántap</m>
+					</w>
+					<w gl="the shelled acorns">
+						<m id="4407">pa</m>
+						<m id="6934">xúrish</m>
+					</w>.
+				</kar>
+				<eng>And they sifted the shelled acorns.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w>
+						<m id="5328">sáruk</m>
+					</w>
+					<w gl="he leached it">
+						<m id="5506">t</m>
+						<m id="6175">u</m>
+						<m id="5589">tákir</m>
+					</w>
+					<w>
+						<m id="708">astiip</m>
+					</w>.
+				</kar>
+				<eng>And they leached them, downhill on the river bank.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w gl="a big fire">
+						<m id="10">áh</m>
+						<m id="3668">kaam</m>
+					</w>
+					<w gl="he had">
+						<m id="5506">t</m>
+						<m id="6175">óo</m>
+					</w>
+					<w>
+						<m id="2348">kyav</m>
+					</w>.
+				</kar>
+				<eng>And they made a big fire.</eng>
+			</s>
+			<s>
+				<kar>
+					<w gl="the stones">
+						<m id="4407">pa</m>
+						<m id="583">'ás</m>
+					</w>
+					<w gl="he had">
+						<m id="5506">t</m>
+						<m id="6175">óo</m>
+					</w>
+					<w>
+						<m id="4573">párish</m>
+					</w>.
+				</kar>
+				<eng>They heated stones (for cooking).</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w gl="a big soup-basket">
+						<m id="665">asíp</m>
+						<m id="3668">kaam</m>
+					</w>
+					<w gl="he had put it in">
+						<m id="5506">t</m>
+						<m id="6175">u</m>
+						<m id="4195">máhyaan</m>
+					</w>
+					<w gl="the acorns">
+						<m id="4407">pa</m>
+						<m id="1231">'éekoons</m>
+					</w>.
+				</kar>
+				<eng>And they put the acorns in a big soup-basket.</eng>
+			</s>
+			<s>
+				<kar>
+					<w gl="he had cooked acorn soup">
+						<m id="5506">t</m>
+						<m id="6175">u</m>
+						<m id="5880">arámpuk</m>
+					</w>.
+				</kar>
+				<eng>They cooked acorn soup.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w gl="they ate it">
+						<m id="3977">kun</m>
+						<m id="814">'áam</m>
+						<m id="6035">tih</m>
+					</w>.
+				</kar>
+				<eng>Then they ate it.</eng>
+			</s>
+        </paragraph>
+    </data>
+</text>

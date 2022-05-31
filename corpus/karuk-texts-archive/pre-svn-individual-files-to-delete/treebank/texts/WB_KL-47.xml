@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-47">
+    <metadata>
+        <title>"The Origin of the Pikiawish"</title>
+        <author>Chester <alph>Pepper</alph></author>
+        <date>1957</date>
+        <publication>William Bright, <em>The Karok Language</em> (1957), pp. 248-249, Text 47</publication>
+    </metadata>
+    <data>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w gl="the god">
+						<m lemma="4407">p</m>
+						<m lemma="2252">eekxaréeyav</m>
+					</w>
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w gl="he did it">
+						<m lemma="6175">u</m>
+						<m lemma="4086">kúph</m>
+						<m lemma="1369">aanik</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The gods did this.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="4782">pihnêefich</m>
+					</w>
+					<w gl="he did it">
+						<m lemma="6175">u</m>
+						<m lemma="4086">kúph</m>
+						<m lemma="1369">aanik</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Coyote did this.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="he said">
+						<m lemma="6175">ú</m>
+						<m lemma="4823">p</m>
+						<m lemma="1369">aanik</m>
+					</w>, "
+					<w>
+						<m lemma="6848">xasík</m>
+					</w>
+					<w>
+						<m lemma="197">ahíram</m>
+					</w>
+					<w gl="he will make">
+						<m lemma="6175">u</m>
+						<m lemma="2348">kyâa</m>
+						<m lemma="1379">vish</m>
+					</w>."
+				</txt>
+				<trans lang="eng">He said, "(The priest) will build a fire."</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="the fire">
+						<m lemma="4407">pá</m>
+						<m lemma="10">'aah</m>
+					</w>
+					<w gl="he made it">
+						<m lemma="6175">u</m>
+						<m lemma="2348">kyâa</m>
+						<m lemma="1369">nik</m>
+					</w>, 
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="7038">yánava</m>
+					</w>
+					<w gl="he was lying (there)">
+						<m lemma="6175">u</m>
+						<m lemma="5845">tháaniv</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Then he built the fire, and then they saw him lying there.</trans>
+				<note publish="yes">Bright: "Coyote intended to build fires as far away as Preston Peak. However, he became tired and lay down to sleep at his first fire, only a short distance from Katimin; cf. Kroeber and Gifford, pp. 116 and 123. The present text was recorded under adverse conditions and is hardly more than a fragment of the complete story."</note>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="when he came back">
+						<m lemma="4408">p</m>
+						<m lemma="6175">oo</m>
+						<m lemma="2694">'ípak</m>
+					</w>,
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="he ate">
+						<m lemma="6175">u</m>
+						<m lemma="814">'av</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And when he came back, then he ate.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w gl="two days">
+						<m lemma="864">axak</m>
+						<m lemma="5468">súpaa</m>
+					</w>
+					<w gl="without food">
+						<m lemma="815">áv</m>
+						<m lemma="1386">ipux</m>
+					</w>.
+				</txt>
+				<trans lang="eng">He was without food for two days.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="the people">
+						<m lemma="4407">pa</m>
+						<m lemma="506">'áraar</m>
+					</w>
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+						<m lemma="7009">yáanchiip</m>
+					</w>
+					<w>
+						<m lemma="5541">táay</m>
+					</w>
+					<w gl="they were living">
+						<m lemma="3977">kun</m>
+                        <m lemma="508">'áraarahi</m>
+                        <m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And the next year there were a lot of people living.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w gl="not the same way">
+						<m lemma="5082">pu</m>
+						<m lemma="6386">vaahyâach</m>
+					</w>
+					<w gl="he did it">
+						<m lemma="4086">kupí</m>
+						<m lemma="6035">tih</m>
+						<m lemma="738">at</m>
+					</w>.
+				</txt>
+				<trans lang="eng">(But) they didn't do it (hold the world-renewal) the same way.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w gl="so">
+						<m lemma="6570">víri</m>
+						<m lemma="6383">va</m>
+					</w>
+					<w>
+						<m lemma="7097">yítha</m>
+					</w>
+					<w gl="she remained">
+						<m lemma="6175">u</m>
+						<m lemma="5206">sáam</m>
+					</w>
+					<w>
+						<m lemma="3804">kéevniikich</m>
+					</w>
+					<w>
+						<m lemma="3752">káru</m>
+					</w>
+					<w>
+						<m lemma="920">axiich</m>
+					</w>.
+				</txt>
+				<trans lang="eng">(Finally) one old woman and a child were left.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w gl="so">
+						<m lemma="6570">víri</m>
+						<m lemma="6383">va</m>
+					</w>
+					<w gl="she taught him">
+						<m lemma="6175">u</m>
+						<m lemma="2090">ksúpi</m>
+					</w>
+					<w gl="her grandchild">
+						<m lemma="4260">mú</m>
+						<m lemma="4095">kuut</m>
+					</w>.
+				</txt>
+				<trans lang="eng">She taught her grandchild (how to hold the world-renewal).</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w gl="the next year">
+						<m lemma="7009">yáanchiip</m>
+						<m lemma="3731">kam</m>					
+					</w>
+					<w>
+						<m lemma="3974">kumatêeshich</m>
+					</w>
+					<w gl="they were living">
+						<m lemma="3977">kun</m>
+                        <m lemma="508">'áraarahi</m>
+                        <m lemma="6035">tih</m>
+					</w>
+					<w gl="the people">
+						<m lemma="4407">pa</m>
+						<m lemma="506">'áraar</m>
+						<m lemma="5200">as</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The next year there were more people.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w gl="so">
+						<m lemma="6570">víri</m>
+						<m lemma="6383">va</m>
+					</w>
+					<w>
+						<m lemma="3674">kaanvári</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="I look down over">
+						<m lemma="4349">ni</m>
+						<m lemma="2674">p</m>
+						<m lemma="3431">itvâamnuk</m>
+					</w>
+					<w gl="where the river">
+						<m lemma="4408">p</m>
+						<m lemma="3007">eeshkêesh</m>
+					</w>
+					<w gl="it flows down from upstream">
+						<m lemma="6175">u</m>
+						<m lemma="5215">saamvárak</m>
+					</w>.
+				</txt>
+				<trans lang="eng">I look down over (the bank) there where the river flows down from upstream.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="I look again into the water">
+						<m lemma="4349">ni</m>
+						<m lemma="2674">p</m>
+						<m lemma="3394">itkúrih</m>
+						<m lemma="6035">ti</m>
+					</w>
+					<w gl="where the river">
+						<m lemma="4408">p</m>
+						<m lemma="3007">eeshkêesh</m>
+					</w>
+					<w gl="it flows down from upstream">
+						<m lemma="6175">u</m>
+						<m lemma="5215">saamvárak</m>
+					</w>.
+				</txt>
+				<trans lang="eng">I look again into the water as the river flows down from upstream.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6570">víri</m>
+					</w>
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w gl="they will do it">
+						<m lemma="3977">kun</m>
+						<m lemma="4086">kúph</m>
+						<m lemma="1379">eesh</m>
+					</w>.
+				</txt>
+				<trans lang="eng">This is what they will do.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w gl="the salmon">
+						<m lemma="4407">pa</m>
+						<m lemma="30">'áama</m>
+					</w>
+					<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+					<w gl="they will overflow it">
+						<m lemma="3977">kun</m>
+						<m lemma="2674">p</m>
+						<m lemma="1008">axyanípa</m>
+						<m lemma="6380">n</m>
+						<m lemma="1379">eesh</m>
+					</w>
+					<w gl="the river">
+						<m lemma="4407">p</m>
+						<m lemma="3007">eeshkêesh</m>
+					</w>
+					<w gl="as it flows down from upstream">
+						<m lemma="4408">p</m>
+						<m lemma="6175">oo</m>
+						<m lemma="5215">saamvárak</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The salmon will overflow the river there as it flows down from upstream.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3752">káru</m>
+					</w>
+					<w>
+						<m lemma="3674">kaanvári</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="I climb up from downhill">
+						<m lemma="4349">ní</m>
+						<m lemma="1786">kfuukraa</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And I climb up there.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6936">xurishaxara'ifápiit pamúkuraa</m>
+					</w>
+					<w>
+						<m lemma="3674">kaanvári</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="I climb up from downhill">
+						<m lemma="4349">ní</m>
+						<m lemma="1786">kfuukraa</m>
+					</w>.
+				</txt>
+				<trans lang="eng">I climb up there on the Ridge of Long Acorn-Meats Young-Woman.</trans>
+				<note publish="yes">Bright: "According to Kroeber and Gifford, p. 27, xurishaxara'ifápiit, literally 'young woman of long acorn meats,' is 'a word of respect for panther... The regular word is Pirishkarim, but no one uses it lest Panther be angered.' There is evidently some confusion here; the 'regular word' for the panther, i.e., the mountain lion, is yupthúkirar, and this animal is personified as masculine. pirishkâarim, on the other hand, is the 'regular word' for the grizzly bear, which is sometimes identified by the Indians with the African lion, and which is personified as feminine."</note>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="7009">yáanchiip</m>
+					</w>
+					<w>
+						<m lemma="5541">táay</m>
+					</w>
+					<w gl="it will grow">
+						<m lemma="6175">u</m>
+						<m lemma="1453">'íf</m>
+						<m lemma="1379">eesh</m>
+					</w>
+					<w>
+						<m lemma="6907">xuntápan</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The next year many acorns will grow.</trans>
+			</s>
+        </paragraph>
+    </data>
+</text>

@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <text id="WB_KL-29">
+		<metadata>
+			<title>"Blue Jay As Doctor"</title>
+			<author>Nettie <alph>Reuben</alph></author>
+			<date>1957</date>
+			<publication>William Bright, <em>The Karok Language</em> (1957), pp. 224-225, Text 29</publication>
+		</metadata>
+		<data>
+			<paragraph>
+				<s>
+					<kar>
+						<w>
+							<m id="4180">mahvûuvanach</m>
+						</w>
+						<w gl="she was sick">
+							<m id="5506">t</m>
+							<m id="6175">u</m>
+							<m id="7091">yíkiha</m>
+						</w>.
+					</kar>
+					<eng>Chipmunk was sick.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6399">váas</m>
+						</w>
+						<w>
+							<m id="3810">kích</m>
+						</w>
+						<w gl="she lay">
+							<m id="6175">u</m>
+							<m id="5957">thiv</m>
+						</w>.
+					</kar>
+					<eng>She lay as thin as a blanket.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3745">kári</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w>
+							<m id="6174">ta'ítam</m>
+						</w>
+						<w>
+							<m id="6971">xúus</m>
+						</w>
+						<w gl="she arrived">
+							<m id="6175">u</m>
+							<m id="6306">'uum</m>
+							<m id="1378">áheen</m>
+						</w>.
+					</kar>
+					<eng>Then they doctored her.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="5466">sunyíthi</m>
+						</w>
+						<w>
+							<m id="5506">tá</m>
+						</w>
+						<w gl="they paid them as a fee to her">
+							<m id="3977">kun</m>
+							<m id="2953">'íshavsip</m>
+						</w>
+						<w>
+							<m id="3690">kachakâach</m>
+						</w>.
+					</kar>
+					<eng>They paid Blue Jay her fee with chinquapin nuts.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="388">ansáfriik</m>
+						</w>
+						<w gl="person">
+							<m id="6376">va</m>
+							<m id="505">'árah</m>
+						</w>.
+					</kar>
+					<eng>She was a Weitchpec person.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3745">kári</m>
+						</w>
+						<w gl="she got well">
+							<m id="5506">t</m>
+							<m id="6175">u</m>
+							<m id="543">'aráriihkanha</m>
+						</w>.
+					</kar>
+					<eng>Then (Chipmunk) got well.</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						<w>
+							<m id="5163">púyava</m>
+						</w>
+						<w>
+							<m id="3969">kúkuum</m>
+						</w>
+						<w>
+							<m id="924">axmáy</m>
+						</w>
+						<w gl="she got sick">
+							<m id="5506">t</m>
+							<m id="6175">u</m>
+							<m id="7091">yíkiha</m>
+						</w>
+						<w>
+							<m id="4180">mahvûuvanach</m>
+						</w>.
+					</kar>
+					<eng>Then Chipmunk suddenly got sick again.</eng>
+				</s>
+				<s>
+					<kar>
+						"
+						<w>
+							<m id="1144">chími</m>
+						</w>
+						<w gl="go summon her!">
+							<m id="3829">kiik</m>
+							<m id="4845">píkaan</m>
+						</w>
+						<w>
+							<m id="388">ansáfriik</m>
+						</w>
+						<w gl="person">
+							<m id="6376">va</m>
+							<m id="505">'árah</m>
+						</w>."
+					</kar>
+					<eng>"Go summon Weitchpec person!"</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="5506">tá</m>
+						</w>
+						<w gl="they summoned her">
+							<m id="3977">kun</m>
+							<m id="4845">píkaar</m>
+						</w>.
+					</kar>
+					<eng>They summoned her.</eng>
+				</s>
+				<s>
+					<kar>
+						<w gl="she came">
+							<m id="5506">t</m>
+							<m id="6175">u</m>
+							<m id="205">'áhoo</m>
+						</w>.
+					</kar>
+					<eng>She came.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3745">kári</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="she said">
+							<m id="6175">u</m>
+							<m id="4823">píip</m>
+						</w> "
+						<w>
+							<m id="6801">xanpuchíniishveenach</m>
+						</w>
+						<w gl="go summon her!">
+							<m id="3829">kiik</m>
+							<m id="4845">píkaan</m>
+						</w>.
+					</kar>
+					<eng>And (Chipmunk) said, "Go summon Hummingbird!"</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="1144">chími</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w>
+							<m id="6800">xánkiit</m>
+						</w>."
+					</kar>
+					<eng>Let Bullhead (come too)!"</eng>
+				</s>
+				<s>	
+					<kar>
+						<w>
+							<m id="5163">púyava</m>
+						</w>
+						<w>
+							<m id="5506">tá</m>
+						</w>
+						<w gl="they assembled">
+							<m id="3977">kun</m>
+							<m id="2420">imfipíshriihva</m>
+						</w>
+						<w gl="the doctors">
+							<m id="4407">pa</m>
+							<m id="6988">xus'úmaan</m>
+							<m id="5200">sa</m>
+						</w>.
+					</kar>
+					<eng>So the 'doctors' assembled.</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						<w>
+							<m id="3745">kári</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w>
+							<m id="6801">xanpuchíniishveenach</m>
+						</w>
+						<w gl="she said">
+							<m id="6175">u</m>
+							<m id="4823">píip</m>
+						</w> "
+						<w>
+							<m id="4299">naa</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w gl="I am small-mouthed">
+							<m id="4296">na</m>
+							<m id="433">apmán'anamahachhi</m>
+							<m id="6035">tih</m>
+						</w>.
+					</kar>
+					<eng>And Hummingbird said, "My mouth is too small.</eng>
+				</s>
+				<s>
+					<kar>
+						<w gl="sometime">
+							<m id="1375">hárivarih</m>
+							<m id="6377">va</m>
+						</w>
+						<w>
+							<m id="6512">véeniichva</m>
+						</w>."
+					</kar>
+					<eng>There's been mischief sometime."</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						<w>
+							<m id="3745">kári</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w>
+							<m id="388">ansáfriik</m>
+						</w>
+						<w gl="person">
+							<m id="6376">va</m>
+							<m id="505">'árah</m>
+						</w>
+						<w gl="she said">
+							<m id="6175">u</m>
+							<m id="4823">píip</m>
+						</w> "
+						<w>
+							<m id="73">ããx</m>
+						</w>!
+					</kar>
+					<eng>And Weitchpec person said, "ããx!</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="1294">fatamakêesh</m>
+						</w>
+						<w>
+							<m id="3809">kích</m>
+						</w>
+						<w>
+							<m id="505">ára</m>
+						</w>
+						<w gl="she will tell them">
+							<m id="6175">ú</m>
+							<m id="2733">peer</m>
+							<m id="1379">eesh</m>
+						</w>."
+					</kar>
+					<eng>She'll tell a person just anything."</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						<w>
+							<m id="6801">xanpuchíniishveenach</m>
+						</w>
+						<w gl="she was singing">
+							<m id="6175">u</m>
+							<m id="4511">pakurîihvu</m>
+							<m id="6035">tih</m>
+						</w>.
+					</kar>
+					<eng>Hummingbird was singing.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="she said">
+							<m id="6175">u</m>
+							<m id="4823">pí</m>
+							<m id="6035">tih</m>
+						</w> "
+						<w>
+							<m id="4299">naa</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w gl="I am small-mouthed">
+							<m id="4296">na</m>
+							<m id="433">apmán'anamahachhi</m>
+							<m id="6035">tih</m>
+						</w>.
+					</kar>
+					<eng>And she said, "My mouth is too small.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3971">kumá'ii</m>
+						</w>
+						<w gl="I cannot take it out">
+							<m id="4408">pa</m>
+							<m id="5082">pu</m>
+							<m id="4296">na</m>
+							<m id="6334">'ûusuru</m>
+							<m id="6035">ti</m>
+							<m id="1371">hara</m>
+						</w>.
+					</kar>
+					<eng>For that reason I can't take (the disease object) out.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3690">kachakâach</m>
+						</w>
+						<w gl="her mischief">
+							<m id="4260">mu</m>
+							<m id="6512">véeniichva</m>
+						</w>."
+					</kar>
+					<eng>It's Blue Jay's mischief."</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						<w>
+							<m id="3745">kári</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="through the smokehole">
+							<m id="1073">chanchaaksúr</m>
+							<m id="232">ak</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="she rushed outdoors">
+							<m id="6175">u</m>
+							<m id="569">'árihrupuk</m>
+						</w>, "
+						<w>
+							<m language="nonsense">kchkchkchkch</m>
+						</w>!"
+					</kar>
+					<eng>Then (Blue Jay) jumped out through the smokehole, "kchkchkchkch!"</eng>
+				</s>
+				<s>
+					<kar>
+						<w gl="she made a blue jay noise">
+							<m id="6175">u</m>
+							<m id="3690">kachakâach</m>
+							<m id="1356">hi</m>
+							<m id="6035">ti</m>
+						</w>.
+					</kar>
+					<eng>She made a noise like a blue jay.</eng>
+				</s>
+				<s>
+					<kar>
+						<w gl="she was afraid">
+							<m id="5506">t</m>
+							<m id="6175">u</m>
+							<m id="59">'áathva</m>
+						</w>.
+					</kar>
+					<eng>She was afraid (of being exposed).</eng>
+				</s>
+			</paragraph>
+		</data>
+	</text>
+						
+							
+						

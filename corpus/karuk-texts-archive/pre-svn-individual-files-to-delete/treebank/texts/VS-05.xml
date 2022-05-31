@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="VS-05" audio-source="karuk-2011-12-21-vs-2">
+	<metadata>
+		<title>Sentences about personal states</title>
+		<author> Vina <alph>Smith</alph>
+		</author>
+		<date>2011</date>
+		<publication> Unpublished (recorded by Andrew Garrett on December 21, 2011) </publication>
+		<genre type="elicitation"/>
+	</metadata>
+	<data>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2011-12-21-vs-2_01" audio-start-time="0:36">
+				<txt lang="kyh">
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="I am tired">
+						<m lemma="4296">nee</m>
+						<m lemma="2222">kvúrish</m></w>.</txt>
+				<trans lang="eng">I am tired.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2011-12-21-vs-2_02" audio-start-time="0:57">
+				<txt lang="kyh">
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="I am tired">
+						<m lemma="4349">ni</m>
+						<m lemma="2222">kvúrishrih</m></w>.</txt>
+				<trans lang="eng">I am getting tired.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2011-12-21-vs-2_03" audio-start-time="3:35">
+				<txt lang="kyh">
+					<w gl="not good">
+						<m lemma="5082">pú</m>
+						<m lemma="7049">yav</m>
+					</w>
+					<w gl="I am not feeling">
+						<m lemma="4349">ni</m>
+						<m lemma="2784">pmahoonkoona</m>
+						<m lemma="6035">tih</m><m lemma="1371">ara</m></w>.</txt>
+				<trans lang="eng">There is something wrong with me.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2011-12-21-vs-2_04" audio-start-time="4:55">
+				<txt lang="kyh">
+					<w>
+						<m lemma="1410">hûut</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="be the matter with me">
+						<m lemma="4349">ni</m>
+						<m lemma="1667">'iin</m></w>?</txt>
+				<trans lang="eng">What is wrong with me?</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2011-12-21-vs-2_05" audio-start-time="5.32">
+				<txt lang="kyh">
+					<w>
+						<m lemma="1410">hûut</m>
+					</w>
+					<w gl="be the matter with you">
+						<m lemma="5506">t</m>
+						<m lemma="1418">i</m>
+						<m lemma="1667">'iin</m></w>?</txt>
+				<trans lang="eng">What is wrong with you?</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2011-12-21-vs-2_06" audio-start-time="6:01">
+				<txt lang="kyh">
+					<w>
+						<m lemma="1410">hûut</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w gl="be the matter with him">
+						<m lemma="5506">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="1667">'iin</m></w>?</txt>
+				<trans lang="eng">What is the matter with him?</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2011-12-21-vs-2_07" audio-start-time="6:22">
+				<txt lang="kyh">
+					<w>
+						<m lemma="1410">hûut</m>
+					</w>
+					<w gl="the cat">
+						<m lemma="4407">pa</m>
+						<m lemma="5120">púsihich</m>
+					</w>
+					<w gl="be the matter with it">
+						<m lemma="5506">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="1667">'iin</m></w>? </txt>
+				<trans lang="eng">What is the matter with my cat?</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2011-12-21-vs-2_08" audio-start-time="6:52">
+				<txt lang="kyh">
+					<w gl="not good">
+						<m lemma="5082">pú</m>
+						<m lemma="7049">yav</m>
+					</w>
+					<w gl="I am feeling (something negative)">
+						<m lemma="4408">pa</m>
+						<m lemma="4295">née</m>
+						<m lemma="2784">pmahoonkoona</m>
+						<m lemma="6035">tih</m>
+						<m lemma="1371">ara</m></w>.</txt>
+				<trans lang="eng">I am not feeling well.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2011-12-21-vs-2_09" audio-start-time="7:43">
+				<txt lang="kyh">
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="I am hungry">
+						<m lemma="4296">na</m>
+						<m lemma="6924">xúriha</m>
+					</w>
+					<w>
+						<m lemma="4299">naa</m></w>.</txt>
+				<trans lang="eng">I am hungry.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2011-12-21-vs-2_10" audio-start-time="8:28">
+				<txt lang="kyh"><w>
+						<m lemma="4299">naa</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="I am hungry">
+						<m lemma="4296">na</m>
+						<m lemma="6924">xúriha</m></w>.</txt>
+				<trans lang="eng">I am hungry.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2011-12-21-vs-2_11" audio-start-time="9:41">
+				<txt lang="kyh">
+					<w>
+						<m lemma="4299">naa</m>
+					</w>
+					<w>
+						<m lemma="6675">vúra</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="I am hungry">
+						<m lemma="4296">na</m>
+						<m lemma="6924">xúriha</m>
+					</w>
+					<w>
+						<m lemma="5156">puxích</m></w>.</txt>
+				<trans lang="eng">I am really hungry.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2011-12-21-vs-2_12" audio-start-time="10:06">
+				<txt lang="kyh">
+					<w>
+						<m lemma="4299">naa</m>
+					</w>
+					<w>
+						<m lemma="6675">vúra</m>
+					</w>
+					<w gl="I am not hungry">
+						<m lemma="5082">pu</m>
+						<m lemma="4295">na</m>
+						<m lemma="6924">xúrihi</m>
+						<m lemma="6035">tih</m>
+						<m lemma="1371">ara</m></w>.</txt>
+				<trans lang="eng">I am not hungry.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2011-12-21-vs-2_13" audio-start-time="11:30">
+				<txt lang="kyh">
+					<w>
+						<m lemma="4171">máh’iit</m>
+					</w>
+					<w>
+						<m lemma="2671">íp</m>
+					</w>
+					<w gl="I was hungry">
+						<m lemma="4296">na</m>
+						<m lemma="6924">xúrihi</m>
+						<m lemma="6035">tih</m>
+						<m lemma="738">at</m>
+					</w>
+					<w>
+						<m lemma="4716">payêem</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w gl="I am not hungry">
+						<m lemma="5082">pu</m>
+						<m lemma="4295">na</m>
+						<m lemma="6924">xúrihi</m>
+						<m lemma="6035">tih</m>
+						<m lemma="1371">ara</m></w>.</txt>
+				<trans lang="eng">I was hungry this morning, but now I am not hungry.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2011-12-21-vs-2_14" audio-start-time="11:50">
+				<txt lang="kyh">
+					<w>
+						<m lemma="4171">máh’iit</m>
+					</w>
+					<w gl="I was hungry">
+						<m lemma="4296">na</m>
+						<m lemma="6924">xúrihi</m>
+						<m lemma="6035">tih</m>
+						<m lemma="738">at</m></w>.</txt>
+				<trans lang="eng">I was hungry this morning.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2011-12-21-vs-2_15" audio-start-time="12:12">
+				<txt lang="kyh">
+					<w>
+						<m lemma="4171">máh’iit</m>
+					</w>
+					<w>
+						<m lemma="2671">íp</m>
+					</w>
+					<w gl="I was hungry">
+						<m lemma="4296">na</m>
+						<m lemma="6924">xúrihi</m>
+						<m lemma="6035">tih</m>
+						<m lemma="738">at</m></w>.</txt>
+				<trans lang="eng">I was hungry this morning.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2011-12-21-vs-2_16" audio-start-time="12:22">
+				<txt lang="kyh">
+					<w>
+						<m lemma="4716">payêem</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w gl="I am not hungry">
+						<m lemma="5082">pu</m>
+						<m lemma="4295">na</m>
+						<m lemma="6924">xúrihi</m>
+						<m lemma="6035">tih</m>
+						<m lemma="1371">ara</m></w>.</txt>
+				<trans lang="eng">Now I am not hungry.</trans>
+			</s>
+		</paragraph>
+	</data>
+</text>

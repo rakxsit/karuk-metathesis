@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="VS-18a" audio-source="karuk-2013-01-27-vs-1">
+    <metadata>
+        <title>Elicited sentences</title>
+        <author>Vina <alph>Smith</alph></author>
+        <date>2013</date>
+        <publication>Unpublished (recorded by Line Mikkelsen, Clare Sandy, Erik Maier, and Florrine Super on January 27th, 2013)</publication>
+    </metadata>
+    <data>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2013-01-27-vs-1_A_01" audio-start-time="3:03">
+				<kar>
+					<w gl="the snake">
+						<m id="4407">pa</m>
+						<m id="454">'ápsuun</m>
+					</w>
+					<w>
+						<m id="6674">vúra</m>
+					</w>
+					<w>
+						<m id="6397">váaram</m>
+					</w>
+					<w gl="the rope">
+						<m id="4407">pa</m>
+						<m id="33">'áan</m>
+					</w>
+					<w>
+						<m id="2810">ipshûunkinich</m>
+					</w>.
+				</kar>
+				<eng>The snake is longer than the rope.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2013-01-27-vs-1_A_02" audio-start-time="4:32">
+				<kar>
+					<w gl="the snake">
+						<m id="4407">pa</m>
+						<m id="454">'ápsuun</m>
+					</w>
+					<w>
+						<m id="3752">káru</m>
+					</w>
+					<w gl="the rope">
+						<m id="4407">pa</m>
+						<m id="33">'áan</m>
+					</w>
+					<w>
+						<m id="6756">xákaan</m>
+					</w>
+					<w>
+						<m id="6675">vúra</m>
+					</w>
+					<w>
+						<m id="7049">yáv</m>
+					</w>.
+				</kar>
+				<eng>The snake is as long as the rope.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2013-01-27-vs-1_A_03" audio-start-time="6:21">
+				<kar>
+					<w>
+						<m id="4715">pay</m>
+					</w>
+					<w>
+						<m id="6307">uum</m>
+					</w>
+					<w gl="the snake">
+						<m id="4407">pa</m>
+						<m id="454">'ápsuun</m>
+					</w>
+					<w>
+						<m id="6675">vúra</m>
+					</w>
+					<w>
+						<m id="6397">váaram</m>
+					</w>.
+				</kar>
+				<eng>This snake is the longest snake.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2013-01-27-vs-1_A_04" audio-start-time="11:58">
+				<kar>
+					<w>
+						<m id="4352">nîinamich</m>
+					</w>
+					<w gl="the cup">
+						<m id="4407">pa</m>
+						<m id="665">'ásip</m>
+					</w>.
+				</kar>
+				<eng>I got the littlest cup.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2013-01-27-vs-1_A_05" audio-start-time="14:58">
+				<kar>
+					<w gl="big">
+						<m id="3779">keech</m>
+						<m id="584">as</m> 
+					</w>
+					<w>
+						<m id="6675">vúra</m>
+					</w>
+					<w gl="the quails">
+						<m id="4407">pa</m>
+						<m id="5575">takâakaa</m>
+					</w>.
+				</kar>
+				<eng>The quails are big.</eng>
+			</s>
+		</paragraph>
+    </data>
+</text>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="LA-VS-01" audio-source="karuk_2010-05-01_arg3">
+    <metadata>
+        <title>Sentences with verb paradigms</title>
+        <author>Lucille <alph>Albers</alph> and Vina Smith</author>
+        <date>2010</date>
+        <publication>Unpublished (recorded by Alice Gaby, Andrew Garrett, and Line Mikkelsen on May
+            1, 2010)</publication>
+    </metadata>
+    <data>
+        <paragraph>
+            <s spkr="LA" audio="ag1-01" audio-start-time="0:58">
+                <kar>
+                    <w gl="on the mouth"><m id="421">apmáan</m><m id="232">ak</m></w>
+                    <w><m id="257">aknap</m></w>. </kar>
+                <eng>I'm going to slap your mouth.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="ag1-02" audio-start-time="11:30">
+                <kar>
+                    <w><m id="5506">tá</m></w>
+                    <w gl="I see"><m id="4349">ni</m><m id="4155">mah</m></w>. </kar>
+                <eng>I see it.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="ag1-03" audio-start-time="12:24">
+                <kar>
+                    <w gl="I am looking at it"><m id="4349">ní</m><m id="2570">muus</m><m id="6035"
+                            >tih</m></w>. </kar>
+                <eng>I am looking at it.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="ag1-04" audio-start-time="12:30">
+                <kar>
+                    <w gl="I am looking at it"><m id="4349">ní</m><m id="2570">muus</m><m id="6035"
+                            >tih</m></w>. </kar>
+                <eng>I am looking at it.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="ag1-05" audio-start-time="13:19">
+                <kar>
+                    <w><m id="2766">ipít</m></w>
+		    <w><m id="2676">íp</m></w>
+                    <w gl="I saw it"><m id="4349">ni</m><m id="4155">máh</m><m
+                            id="738">at</m></w>. </kar>
+                <eng>I saw it yesterday.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="ag1-06" audio-start-time="14:44">
+                <kar>
+                    <w><m id="2766">ipít</m></w>
+                    <w gl="I saw it"><m id="4349">ni</m><m id="4155">máh</m><m id="738">at</m></w>. </kar>
+                <eng>I saw it yesterday.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="ag1-07" audio-start-time="15:09">
+                <kar>
+                    <w><m id="5506">tá</m></w>
+                    <w gl="I throw it"><m id="4349">ni</m><m id="4625">path</m></w>. </kar>
+                <eng>I throw it.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="ag1-08" audio-start-time="15:30">
+                <kar>
+                    <w><m id="5506">tá</m></w>
+                    <w gl="I throw it"><m id="4349">ni</m><m id="4625">path</m></w>. </kar>
+                <eng>I throw it.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="ag1-09" audio-start-time="15:58">
+                <kar>
+                    <w><m id="4385">ôok</m></w>
+                    <w gl="throw here"><m id="4431">páathraa</m></w>. </kar>
+                <eng>Throw it here.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="ag1-10" audio-start-time="17:35">
+                <kar>
+                    <w><m id="4717">páykuuk</m></w>
+                    <w><m id="4625">path</m></w>. </kar>
+                <eng>Throw it over there</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="ag1-11" audio-start-time="18:22">
+                <kar>
+                    <w><m id="2766">ipít</m></w>
+                    <w gl="you throw here"><m id="1418">i</m><m id="4431">páathraa</m></w>. </kar>
+                <eng>Yesterday you threw it.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="ag1-12" audio-start-time="18:53">
+                <kar>
+                    <w><m id="2766">ipit</m></w>
+                    <w gl="you throw here"><m id="1418">i</m><m id="4431">pathraa</m></w>. </kar>
+                <eng>Yesterday you threw it.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="ag1-13" audio-start-time="21:01">
+                <kar>
+                    <w gl="I am talking"><m id="4349">ni</m><m id="1218">chuuphí</m><m id="6035"
+                            >tih</m></w>. </kar>
+                <eng>I am talking.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="ag1-14" audio-start-time="21:12">
+                <kar>
+                    <w gl="I am talking"><m id="4349">ni</m><m id="1218">chuuphí</m><m id="6035"
+                            >tih</m></w>. </kar>
+                <eng>I am talking.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="ag1-15" audio-start-time="21:31">
+                <kar>
+                    <w gl="he is talking"><m id="6175">u</m><m id="1218">chuuphí</m><m id="6035"
+                            >tih</m></w>. </kar>
+                <eng>He is talking.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="ag1-16" audio-start-time="22:11">
+                <kar>
+                    <w gl="he jumped"><m id="5506">t</m><m id="6175">ú</m><m id="2996">skak</m></w>. </kar>
+                <eng>He jumped.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="ag1-17" audio-start-time="25:09">
+                <kar>
+                    <w gl="I will go fishing"><m id="4349">ni</m><m id="3163">shxâar</m><m id="1379"
+                            >eesh</m></w>. </kar>
+                <eng>I'm going to go fishing.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="ag1-18" audio-start-time="25:28">
+                <kar>
+                    <w><m id="2766">ipít</m></w>
+                    <w gl="I go fishing"><m id="4349">ni</m><m id="3163">shxâar</m></w>. </kar>
+                <eng>Yesterday I went fishing.</eng>
+            </s>
+        </paragraph>
+    </data>
+</text>

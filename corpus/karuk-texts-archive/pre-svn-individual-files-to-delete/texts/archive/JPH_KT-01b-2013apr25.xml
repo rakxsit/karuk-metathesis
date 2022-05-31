@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="JPH_KT-01b">
+    <metadata>
+        <title>"How Buzzard Became Bald"</title>
+        <author>
+            <alph>Yáas</alph>
+        </author>
+        <date>1930</date>
+        <publication>J. P. Harrington, <em>International Journal of American Linguistics</em> 6
+            (1930), pp. 125-126, Text 1b</publication>
+	    <pdf filename="JPH_KT-01b.pdf" caption="Published text scan"/><!-- is this ok to post, copyright wise?-->
+	    <note publish="yes">This text retains Harrington's spelling in some cases (e.g., writing double consonants, writing a small y and w for consonants that have these sounds following them). Long vowels, ', ch, th, sh, and accent (where possible) are written using the current spelling system.</note><!-- add note about glottal marks when I figure out what's going on-->
+
+<!-- version with palatalization/labialization and gemination-->
+    </metadata>
+    <data>
+        <paragraph>
+            <s>
+                <kar>
+                    <w>
+                        <m id="6570">víri</m>
+                    </w>
+                    <w>
+                        <m id="6383">vaa</m>
+                    </w>
+                   <!-- <w>
+                        <m id="6847">xás</m>
+                    </w> this is not in published version-->
+                    <w gl="after it">
+                        <m id="4260">mu</m>
+                        <m id="1503">'íffuth</m>
+                    </w>
+                    <w>
+                        <m id="4966">pirishk<sup>y</sup>âarim</m>
+                    </w>
+                    <w><m id="5506">ta</m></w>
+                    <w><m id="2671">'íp</m><!-- ta'ip one word in published version-->
+                    </w>
+                    <w>
+                        <m id="6307">uum</m>
+                    </w>
+                    <w>
+                        <m id="4213">máruk</m>
+                    </w>,
+                    <w>
+                        <m id="3969">kúkkuum</m>
+                    </w>
+                    <w>
+                        <m id="3745">kári</m>
+                    </w>
+                    <w>
+                        <m id="6383">vaa</m>
+                    </w>
+                    <w gl="they did that way">
+                        <m id="3977">kun</m>
+                        <m id="4086">kúpha</m>
+                        <m id="1369">'anik</m>
+                    </w>
+                    <w gl="the First People">
+                        <m id="4407">p</m>
+                        <m id="2252">eekxaréeyav</m></w>,
+                   <w>
+                        <m id="792">atipimámvaan</m>
+                    </w>
+                    <w>
+                        <m id="126">achvúun</m>
+                    </w>
+                    <w>
+                        <m id="6756">xákkaan</m>
+                    </w>
+                    <w gl="they fought">
+                        <m id="3977">kun</m>
+                        <m id="6474">váthth</m>
+                        <m id="1369">êen'nik</m>
+                    </w>.
+		</kar>
+                <eng>Then after Grizzly Bear was already up the hill, again the <em>Ikxareyavs</em> did it, Buzzard and Hookbill had a fight.</eng>
+            </s>
+            <s>
+                <kar> 
+		  "<w>
+                        <m id="1656">iim</m>
+                    </w>
+                    <w>
+                        <m id="6675">vúra</m>
+                    </w>
+                    <w><m id="1670">îin</m></w>
+                    <w gl="you will not kill me"><m id="5082">pu</m><m id="4294">n</m><m id="3580"
+                            >êek<sup>y</sup>ár</m><m id="1379">eesh</m><m id="1371">ara</m></w>?" <w><!-- accent should probably be the second one according to WB (although somewhat unclear), but JPH writes both; possibly because really iyk not iik? ?-->
+                        <m id="792">atipimámvaan</m>
+                    </w>
+                    <w>
+                        <m id="126">achvúun</m>
+                    </w>
+                    <w gl="he told him"><m id="6175">ú</m><m id="2733">peer</m><m id="1369"
+                        >anik</m></w>. </kar>
+                <eng>"You are not going to kill me?" said Buzzard to Hookbill.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w>
+                        <m id="6847">xás</m>
+                    </w>
+                    <w>
+                        <m id="126">achvúun</m>
+                    </w>
+                    <w gl="he said">
+                        <m id="6175">u</m>
+                        <m id="4823">ppiip</m>
+                    </w>: "<w><m id="4299">naa</m></w>
+                    <w><m id="1670">îin</m></w>
+                    <w gl="I shall not kill you"><m id="5082">pu</m><m id="3845">kin</m><m id="3580"
+                            >îik<sup>y</sup>ár</m><m id="1379">eesh</m><m id="1371">ara</m></w>,<!-- accent should probably be the second one according to WB (although somewhat unclear), but JPH writes both-->
+		    <w>
+                        <m id="6383">vaa</m>
+                    </w>
+                    <w>
+                        <m id="6675">vúra</m>
+                    </w>
+                    <w>
+                        <m id="4715">páy</m>
+                    </w>
+                    <w>
+                        <m id="3922">k<sup>y</sup>ôomahich</m>
+                    </w>
+                    <w gl="I shall do to you">
+                        <m id="4370">nu</m>
+                        <m id="2657">níshsh</m>
+                        <m id="1379">eesh</m>
+                    </w>."
+		  </kar>
+                <eng>Then Hookbill said: "I am not going to kill you, this is all that I'm going to do to you."</eng>
+            </s>
+	    <s>
+                <kar>
+                    <w>
+                        <m id="6847">xás</m>
+                    </w>
+                    <w gl="he picked him up">
+                        <m id="6175">u</m>
+                        <m id="1225">'êechip</m>
+                    </w>
+                    <w>
+                        <m id="6847">xás</m>
+                    </w>
+                    <w gl="in the fireplace">
+                        <m id="197">ahíram</m>
+                        <m id="232">ak</m>
+                    </w>
+                    <w gl="he held it in the fire">
+                        <m id="6175">ú</m>
+                        <m id="3616">yuunkuri</m><!-- into water directional used instead of into fire-->
+                    </w>
+                    <w gl="his head">
+                        <m id="4407">pa</m>
+                        <m id="4260">mu</m>
+                        <m id="969">xváa</m>
+                    </w>,
+		    <w>
+                        <m id="126">achvúun</m>
+                    </w>
+                    <w>
+                        <m id="792">atipimámvaan</m>
+                    </w>
+                    <w gl="his hair">
+                        <m id="4260">mu</m>
+                        <m id="969">xvâa</m>
+                    </w>
+                    <w gl="he burned it off">
+                        <m id="6175">u</m>
+                        <m id="3838">kimfíruraa</m>
+                        <m id="1369">nik</m>
+                    </w>.
+		</kar>
+                <eng>And he picked him up and held his head in the fireplace, Hookbill burnt Buzzard's hair off.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w>
+                        <m id="6847">xás</m>
+                    </w>
+                    <w><m id="1657">îim</m></w>
+                    <w gl="he threw him outdoors">
+                        <m id="6175">u</m>
+                        <m id="7282">táchyuunnupuk</m>
+                        <m id="1369">anik</m>
+                    </w>.</kar>
+                <eng>Then he threw him outdoors.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w>
+                        <m id="6847">xás</m>
+                    </w>
+                    <w gl="he told him">
+                        <m id="6175">ú</m>
+                        <m id="2733">ppeer</m>
+                        <m id="1369">anik</m>
+                    </w>,
+                    <w>
+                        <m id="126">achvúun</m>
+                    </w>
+                    <w>
+                        <m id="1670">îin</m>
+                    </w>
+                    <w gl="he told him">
+                        <m id="3977">kun</m>
+                        <m id="2733">íppeer</m>
+                        <m id="1369">anik</m>
+                    </w>: "<w><m id="6881">xáy faat</m></w><!-- written as two words in published version-->
+                    <w><m id="1729">ík</m></w>
+                    <w>
+                        <m id="6675">vúra</m>
+                    </w>
+                    <w><m id="4385">ôok</m></w>
+                    <w gl="you come around again">
+                        <m id="1418">i</m>
+                        <m id="4469">páfyuk</m></w>,
+			<w>
+                        <m id="1656">iim</m>
+                    </w>
+                    <w>
+                        <m id="6675">vúra</m>
+                    </w>
+                    <w gl="not here">
+                        <m id="5082">pu</m>
+                        <m id="4385">'ôok</m>
+                    </w>
+                    <w gl="you will not be going around">
+                        <m id="6683">vúrayvu</m>
+                        <m id="6035">tih</m>
+                        <m id="1379">eesh</m>
+                        <m id="1371">ara</m>
+                    </w>."
+		</kar>
+                <eng>And Hookbill told him: "You must never come around here again, you are not going to come around here."</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <kar>
+                    <w>
+                        <m id="6570">viri</m>
+                    </w>
+                    <w>
+                        <m id="5506">ta</m><!-- written together as one word with verb in published version-->
+                    </w>
+                    <w>
+                        <m id="6781">xánnahishich</m>
+                    </w>
+                    <w>
+                        <m id="3930">koovúra</m>
+                    </w>
+                    <w gl="they pitched on him">
+                        <m id="3977">kun</m>
+                        <m id="1839">íkmuum</m>
+                    </w>
+                    <w>
+                        <m id="126">achvúun</m>
+                    </w>,
+ <w>
+                        <m id="792">atipimámvaan</m>
+                    </w>
+                    <w gl="they felt sorry for him">
+                        <m id="3977">kun</m>
+                        <m id="3913">koohímmach'va</m>
+                    </w>. </kar>
+                <eng>Then they all pitched on to Hookbill, they felt sorry for Buzzard.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w>
+                        <m id="6847">xás</m>
+                    </w>
+                    <w gl="they told him">
+                        <m id="3977">kun</m>
+                        <m id="2733">íppéer</m>
+                    </w>: "<w>
+                        <m id="1656">iim</m>
+                    </w>
+                    <w><m id="3752">k<sup>y</sup>áru</m></w>
+                    <w>
+                        <m id="6675">vura</m>
+                    </w>
+                    <w><m id="6881">xáy faat</m></w><!-- written as two words in published version-->
+                    <w><m id="1729">ík</m></w>
+                    <w><m id="4385">ôok</m></w>
+                    <w gl="you come around again">
+                        <m id="1418">i</m>
+                        <m id="4469">páfyuk</m></w>,
+			<w>
+                        <m id="1656">iim</m>
+                    </w>
+                    <w>
+                        <m id="3752">k<sup>y</sup>áru</m>
+                    </w>
+                    <w>
+                        <m id="6675">vura</m>
+                    </w>
+                    <w gl="not here">
+                        <m id="5082">pu</m>
+                        <m id="4385">'ôok</m>
+                    </w>
+                    <w gl="you will not stay">
+                        <m id="1974">ikr</m>
+                        <m id="1379">êevish</m>
+                        <m id="1371">ara</m>
+                    </w>," <w>
+                        <m id="126">achvúun</m>
+                    </w>
+                    <w gl="they told him">
+                        <m id="3977">kun</m>
+                        <m id="2733">íppéer</m>
+                    </w>.
+		</kar>
+                <eng>And they told him: "You yourself must not come around here, you too are not going to stay here," they told Hookbill.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w>
+                        <m id="6847">xás</m>
+                    </w>
+                    <w>
+                        <m id="126">achvúun</m>
+                    </w>
+                    <w gl="he said">
+                        <m id="6175">u</m>
+                        <m id="4823">ppiip</m>
+                    </w>: "<w>
+                        <m id="6383">vaa</m>
+                    </w>
+                    <w>
+                        <m id="6675">vúra</m>
+                    </w>
+                    <w><m id="4385">ôok</m></w>
+                    <w gl="they will be singing yet">
+                        <m id="3977">kun</m>
+                        <m id="4511">pakkúriihvu</m>
+                        <m id="6035">tih</m>
+                        <m id="1379">eesh</m>
+                    </w>
+                    <w gl="my song">
+                        <m id="4326">nani</m>
+                        <m id="4509">pákkuri</m>
+                    </w>
+                    <w><m id="6734">xáat</m></w>
+                    <w><m id="4299">naa</m></w>
+                    <w gl="not here">
+                        <m id="5082">pu</m>
+                        <m id="4385">'ôok</m>
+                        <m id="1371">hara</m>
+                    </w>." </kar>
+                <eng>Then Hookbill said: "They will be singing my song, no matter if I am not
+                    here."</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <kar>
+                    <w>
+                        <m id="3745">kári</m>
+                    </w>
+                    <w>
+                        <m id="6847">xas</m><!-- written as one word in published version-->
+                    </w>
+                    <w>
+                        <m id="126">achvúun</m>
+                    </w>
+                    <w gl="he traveled">
+                        <m id="6175">u</m>
+                        <m id="205">'áhoo</m>
+                        <m id="1369">nik</m>
+                    </w>. </kar>
+                <eng>Then Hookbill traveled.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w>
+                        <m id="6307">uum</m>
+                    </w>
+                    <w>
+                        <m id="6675">vúra</m>
+                    </w>
+                    <w>
+                        <m id="6383">vaa</m>
+                    </w>
+                    <w>
+                        <m id="3745">kári</m>
+                    </w>
+                    <w>
+                        <m id="3670">k<sup>y</sup>áan</m>
+                    </w>
+                    <w gl="they are singing it">
+                        <m id="3977">kun</m>
+                        <m id="4511">pakúriihvu</m>
+                        <m id="6035">ti</m>
+                    </w>
+                    <w gl="his song">
+                        <m id="4407">pa</m>
+                        <m id="4260">mu</m>
+                        <m id="4509">pákkuri</m>
+                    </w>
+                    <w>
+                        <m id="126">achvuun</m>
+                    </w>. </kar>
+                <eng>They are still singing Hookbill's song there [in the Amekyaram
+                    sweathouse].</eng>
+            </s>
+        </paragraph>
+        <note>New vocabulary item tachyuunupuk. <!--has been added-->And ook-ha?<!-- I don't think so (CSS)--></note>
+    </data>
+</text>

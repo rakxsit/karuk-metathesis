@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="VS-12" audio-source="karuk-2011-08-16-vs-2">
+  <metadata>
+    <title>Sentences about putting and motion</title>
+    <author> Vina <alph>Smith</alph>
+    </author>
+    <date>2011</date>
+    <publication> Unpublished (recorded by Andrew Garrett on October 16, 2011) </publication>
+	<genre type="elicitation"/>
+  </metadata>
+  <data>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-2_01" audio-start-time="0:25">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1396">hôoy</m>
+	  </w>
+	  <w gl="you put it aside">
+	    <m lemma="1418">i</m>
+	    <m lemma="5919">thîishrih</m>
+	    <m lemma="2938">ish</m>
+	</w>?</txt>
+	<trans lang="eng">Where are you going to put it (one small thing)?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-2_02" audio-start-time="1:17">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1396">hôoy</m>
+	  </w>
+	  <w gl="you put it down">
+	    <m lemma="1418">i</m>
+	    <m lemma="5886">thárishrih</m>
+	    <m lemma="2938">ish</m>
+	</w>?</txt>
+	<trans lang="eng">Where are you going put it (something heavy)?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-2_03" audio-start-time="1:48">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1396">hôoy</m>
+	  </w>
+	  <w gl="you put it down">
+	    <m lemma="1418">i</m>
+	    <m lemma="3571">iyêeshrih</m>
+	    <m lemma="2938">ish</m>
+	</w>?</txt>
+	<trans lang="eng">Where are you going to put it (something flat)?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-2_04" audio-start-time="2:28">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6881">xáyfaat</m>
+	  </w>
+	  <w>
+	    <m lemma="41">âapun</m>
+	  </w>
+	  <w gl="you put it down">
+	    <m lemma="1418">i</m>
+	    <m lemma="5326">shárishrih</m>
+	    <m lemma="2938">ish</m>
+	</w>.</txt>
+	<trans lang="eng">Don't put it on the floor (lots of small things).</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-2_05" audio-start-time="3:52">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="5506">tá</m>
+	  </w>
+	  <w gl ="I put on my shoes">
+	    <m lemma="4349">ni</m>
+	    <m lemma="2880">pyukúkuh</m>
+	  </w>
+	  <w gl="my shoes">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4326">nani</m>
+	    <m lemma="7154">yukúkuh</m>
+	</w>.</txt>
+	<trans lang="eng">I am putting on my shoes.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-2_06" audio-start-time="4:18">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="2880">ipyukúkuh</m>
+	  </w>
+	  <w gl="your shoes">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4238">mi</m>
+	    <m lemma="7154">yukúkuh</m>
+	</w>.</txt>
+	<trans lang="eng">Put on your shoes.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-2_07" audio-start-time="5:11">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="5506">tá</m>
+	  </w>
+	  <w gl ="I take my shoes off">
+	    <m lemma="4349">ni</m>
+	    <m lemma="5065">pyukúkuhsuru</m>
+	</w>.</txt>
+	<trans lang="eng">I am taking my shoes off.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-2_08" audio-start-time="5:41">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="5065">ipyukúkuhsuru</m>
+	  </w>
+	  <w gl="your shoes">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4238">mi</m>
+	    <m lemma="7154">yukúkuh</m>
+	</w>.</txt>
+	<trans lang="eng">Take your shoes off.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-2_09" audio-start-time="7:54">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="3930">koovúra</m>
+	  </w>
+	  <w>
+	    <m lemma="4583">pásasip</m>
+	</w>.</txt>
+	<trans lang="eng">Put your clothes on.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-2_10" audio-start-time="9:36">
+	<txt lang="kyh">
+	  <w gl="I am walking">
+	    <m lemma="4349">ni</m>
+	    <m lemma="205">'áhoo</m>
+	    <m lemma="6035">ti</m>
+	</w>.</txt>
+	<trans lang="eng">I am walking.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-2_11" audio-start-time="10:19">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="4717">páykuuk</m>
+	  </w>
+	  <w gl="his house">
+	    <m lemma="4260">mu</m>
+	    <m lemma="2032">krívraam</m>
+	  </w>
+	  <w>
+	    <m lemma="5506">tá</m>
+	  </w>
+	  <w gl="I walk">
+	    <m lemma="4349">ni</m>
+	    <m lemma="205">'áhoo</m>
+	</w>.</txt>
+	<trans lang="eng">I am walking to his house.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-2_12" audio-start-time="11:24">
+	<txt lang="kyh">
+	  <w gl="your house">
+	    <m lemma="4238">mi</m>
+	    <m lemma="2032">krívraam</m>
+	  </w>
+	  <w gl="I will go">
+	    <m lemma="4349">ni</m>
+	    <m lemma="6306">'úum</m>
+	    <m lemma="1379">eesh</m>
+	</w>.</txt>
+	<trans lang="eng">I am going to your house.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-2_13" audio-start-time="12:40">
+	<txt lang="kyh">
+	  <w gl="I will run">
+	    <m lemma="4349">ni</m>
+	    <m lemma="2195">kvírip</m>
+	    <m lemma="1379">eesh</m>
+	  </w>
+	  <w gl="your house">
+	    <m lemma="4238">mi</m>
+	    <m lemma="2032">krívraam</m>
+	</w>.</txt>
+	<trans lang="eng">I am going to run to your house.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-2_14" audio-start-time="13:37">
+	<txt lang="kyh">
+	  <w gl="I will swim to">
+	    <m lemma="4349">ni</m>
+	    <m lemma="1920">kpúuhm</m>
+	    <m lemma="1379">eesh</m>
+	  </w>
+	  <w gl="your house">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4238">mi</m>
+	    <m lemma="2032">krívraam</m>
+	</w>.</txt>
+	<trans lang="eng">I am going to swim to your house.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-2_15" audio-start-time="15:07">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="4299">naa</m>
+	  </w>
+	  <w>
+	    <m lemma="6675">vúra</m>
+	  </w>
+	  <w>
+	    <m lemma="4716">payêem</m>
+	  </w>
+	  <w gl="I am swimming around">
+	    <m lemma="4349">ni</m>
+	    <m lemma="1909">kpuh</m>
+	    <m lemma="6019">úthun</m>
+	    <m lemma="2938">ish</m>
+	</w>.</txt>
+	<trans lang="eng">I am swimming around.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-2_16" audio-start-time="15:46">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="4299">naa</m>
+	  </w>
+	  <w gl="my house">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4326">nani</m>
+	    <m lemma="2032">krívraam</m>
+	  </w>
+	  <w gl="I am coming from">
+	    <m lemma="4349">ni</m>
+	    <m lemma="514">'aramsîiprim</m>
+	    <m lemma="6035">ti</m>
+	</w>.</txt>
+	<trans lang="eng">I am coming from my house.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-2_17" audio-start-time="16:31">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1656">iim</m>
+	  </w>
+	  <w>
+	    <m lemma="1396">hôoy</m>
+	  </w>
+	  <w gl="you are coming from">
+	    <m lemma="1418">i</m>
+	    <m lemma="514">'aramsîiprim</m>
+	    <m lemma="6035">ti</m>
+	</w>?</txt>
+	<trans lang="eng">Where are you coming from?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-2_18" audio-start-time="19:33">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1396">hôoy</m>
+	  </w>
+	  <w gl="he has come from">
+	    <m lemma="5506">t</m>
+	    <m lemma="6175">u</m>
+	    <m lemma="514">'áramsip</m>
+	</w>?</txt>
+	<trans lang="eng">Where is he coming from?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-2_19" audio-start-time="19:49">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1396">hôoy</m>
+	  </w>
+	  <w>
+	    <m lemma="5506">tá</m>
+	  </w>
+	  <w gl="he has come from">
+	    <m lemma="3977">kun</m>
+	    <m lemma="514">'aramsîipriv</m>
+	</w>?</txt>
+	<trans lang="eng">Where are they coming from?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-2_20" audio-start-time="20:46">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="4815">pîimich</m>
+	  </w>
+	  <w gl="I will go">
+	    <m lemma="4349">ni</m>
+	    <m lemma="6306">'úum</m>
+	    <m lemma="1379">eesh</m>
+	  </w>
+	  <w>
+	    <m lemma="3722">kahtíshraam</m>
+	</w>.</txt>
+	<trans lang="eng">I am going near Yreka.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-2_21" audio-start-time="23:26">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="4299">naa</m>
+	  </w>
+	  <w>
+	    <m lemma="3722">kahtíshraam</m>
+	  </w>
+	  <w gl="near it">
+	    <m lemma="4260">mu</m>
+	    <m lemma="4815">pîimich</m>
+	  </w>
+	  <w>
+	    <m lemma="3670">káan</m>
+	  </w>
+	  <w gl="that I live">
+	    <m lemma="4408">pa</m>
+	    <m lemma="4349">ní</m>
+	    <m lemma="1974">krii</m>
+	</w>.</txt>
+	<trans lang="eng">I live nearby Yreka.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-2_22" audio-start-time="24:04">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1396">hôoy</m>
+	  </w>
+	  <w>
+	    <m lemma="1656">iim</m>
+	  </w>
+	  <w gl="that you live">
+	    <m lemma="4408">p</m>
+	    <m lemma="1418">ée</m>
+	    <m lemma="1974">krii</m>
+	</w>?</txt>
+	<trans lang="eng">Where do you live?</trans>
+      </s>
+    </paragraph>
+</data>
+</text>

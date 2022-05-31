@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="LA-03">
+    <metadata>
+        <title>Sentences about morning activities</title>
+        <author>Lucille <alph>Albers</alph></author>
+        <date>2012</date>
+        <publication>Unpublished (recorded by Tamara Alexander in 2012)</publication>
+		<genre type="elicitation"/>
+    </metadata>
+    <data>
+        <paragraph>
+            <s spkr="LA" audio="LA-03_01">
+                <txt lang="kyh"><w gl="your teeth"><m lemma="4238">mí</m><m lemma="6635">vu</m></w>
+                    <w gl="clean it!"><m lemma="5023">pithxáh</m><m lemma="1419">i</m></w>.</txt>
+                <trans lang="eng">Clean your teeth.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="LA-03_02">
+                <txt lang="kyh"><w gl="your blanket"><m lemma="4238">mí</m><m lemma="6399">vaas</m></w>
+                    <w><m lemma="4984">pishnákarishuk</m></w>.</txt>
+                <trans lang="eng">Take your clothes off.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="LA-03_03">
+                <txt lang="kyh"><w gl="your blanket"><m lemma="4238">mí</m><m lemma="6399">vaas</m></w>
+                    <w><m lemma="4583">pásasip</m></w>.</txt>
+                <trans lang="eng">Put your clothes on.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="LA-03_04">
+                <txt lang="kyh"><w gl="your hair"><m lemma="4238">mi</m><m lemma="1500">'ífunih</m></w>
+                    <w gl="comb it!"><m lemma="2830">ipxátih</m><m lemma="1419">i</m></w>.</txt>
+                <trans lang="eng">Comb your hair.</trans>
+                <note>The form sounds like ipxátihi, but the verb in the dictionary is
+                    iptáxatih.</note>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="LA-03_05a">
+                <txt lang="kyh"><w><m lemma="814">áv</m></w>
+                    <w gl="your food"><m lemma="4238">mi</m><m lemma="818">'ávaha</m></w>, <w
+                        gl="the food"><m lemma="4407">pa</m><m lemma="818">'ávaha</m></w>.</txt>
+                <trans lang="eng">Eat the food, your food.</trans>
+            </s>
+            <s spkr="LA" audio="LA-03_05b">
+                <txt lang="kyh"><w><m lemma="814">áv</m></w>
+                    <w gl="your food"><m lemma="4407">pa</m><m lemma="4238">mi</m><m lemma="818"
+                        >'ávaha</m></w>.</txt>
+                <trans lang="eng">Eat your food.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="LA-03_06">
+                <txt lang="kyh"><w><m lemma="4583">pásasip</m></w>.</txt>
+                <trans lang="eng">Get dressed.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="LA-03_07">
+                <txt lang="kyh"><w gl="get ready!"><m lemma="3746">kárih</m><m lemma="1419">i</m></w>.</txt>
+                <trans lang="eng">Get ready.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="LA-03_08">
+                <txt lang="kyh"><w gl="open your eyes!"><m lemma="7240">yúuph</m><m lemma="1419">i</m></w>.</txt>
+                <trans lang="eng">Open your eyes.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="LA-03_09">
+                <txt lang="kyh"><w gl="put on your shoes!"><m lemma="2880">ipyukúkuh</m><m lemma="1419"
+                    >i</m></w>.</txt>
+                <trans lang="eng">Put on your shoes.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="LA-03_10">
+                <txt lang="kyh"><w><m lemma="67">áav</m></w>
+                    <w gl="wash it!"><m lemma="4443">paatv</m><m lemma="1419">i</m></w>.</txt>
+                <trans lang="eng">Wash your face.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="LA-03_11">
+                <txt lang="kyh"><w gl="your hand(s)"><m lemma="4238">mí</m><m lemma="6045">tiik</m></w>
+                    <w gl="wash your hands!"><m lemma="4514">pakxúuyv</m><m lemma="1419">i</m></w>.</txt>
+                <trans lang="eng">Wash your hands.</trans>
+            </s>
+        </paragraph>
+    </data>
+</text>

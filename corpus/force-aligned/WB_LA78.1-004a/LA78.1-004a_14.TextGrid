@@ -1,0 +1,212 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 21.119274376417234
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "transcription - words"
+		xmin = 0.0
+		xmax = 21.119274376417234
+		intervals: size = 11
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.1500
+				text = ""
+			intervals [2]:
+				xmin = 0.1500
+				xmax = 2.3700
+				text = "yeeheehee"
+			intervals [3]:
+				xmin = 2.3700
+				xmax = 5.2400
+				text = ""
+			intervals [4]:
+				xmin = 5.2400
+				xmax = 6.7300
+				text = "yeeheehee"
+			intervals [5]:
+				xmin = 6.7300
+				xmax = 7.3200
+				text = ""
+			intervals [6]:
+				xmin = 7.3200
+				xmax = 7.6000
+				text = "yeeheehee"
+			intervals [7]:
+				xmin = 7.6000
+				xmax = 7.9300
+				text = ""
+			intervals [8]:
+				xmin = 7.9300
+				xmax = 10.0800
+				text = "yeeheehee"
+			intervals [9]:
+				xmin = 10.0800
+				xmax = 10.6800
+				text = ""
+			intervals [10]:
+				xmin = 10.6800
+				xmax = 19.6800
+				text = "yeeheehee"
+			intervals [11]:
+				xmin = 19.6800
+				xmax = 21.119274376417234
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "transcription - phones"
+		xmin = 0.0
+		xmax = 21.119274376417234
+		intervals: size = 37
+			intervals [1]:
+				xmin = 0.0000
+				xmax = 0.1500
+				text = "sil"
+			intervals [2]:
+				xmin = 0.1500
+				xmax = 0.2500
+				text = "Y"
+			intervals [3]:
+				xmin = 0.2500
+				xmax = 0.2800
+				text = "EY1"
+			intervals [4]:
+				xmin = 0.2800
+				xmax = 0.3100
+				text = "HH"
+			intervals [5]:
+				xmin = 0.3100
+				xmax = 0.3400
+				text = "EY1"
+			intervals [6]:
+				xmin = 0.3400
+				xmax = 0.3700
+				text = "HH"
+			intervals [7]:
+				xmin = 0.3700
+				xmax = 2.3700
+				text = "EY1"
+			intervals [8]:
+				xmin = 2.3700
+				xmax = 5.2400
+				text = "sp"
+			intervals [9]:
+				xmin = 5.2400
+				xmax = 5.3700
+				text = "Y"
+			intervals [10]:
+				xmin = 5.3700
+				xmax = 5.4000
+				text = "EY1"
+			intervals [11]:
+				xmin = 5.4000
+				xmax = 5.4300
+				text = "HH"
+			intervals [12]:
+				xmin = 5.4300
+				xmax = 5.4600
+				text = "EY1"
+			intervals [13]:
+				xmin = 5.4600
+				xmax = 5.4900
+				text = "HH"
+			intervals [14]:
+				xmin = 5.4900
+				xmax = 6.7300
+				text = "EY1"
+			intervals [15]:
+				xmin = 6.7300
+				xmax = 7.3200
+				text = "sp"
+			intervals [16]:
+				xmin = 7.3200
+				xmax = 7.3500
+				text = "Y"
+			intervals [17]:
+				xmin = 7.3500
+				xmax = 7.3800
+				text = "EY1"
+			intervals [18]:
+				xmin = 7.3800
+				xmax = 7.4100
+				text = "HH"
+			intervals [19]:
+				xmin = 7.4100
+				xmax = 7.4500
+				text = "EY1"
+			intervals [20]:
+				xmin = 7.4500
+				xmax = 7.4800
+				text = "HH"
+			intervals [21]:
+				xmin = 7.4800
+				xmax = 7.6000
+				text = "EY1"
+			intervals [22]:
+				xmin = 7.6000
+				xmax = 7.9300
+				text = "sp"
+			intervals [23]:
+				xmin = 7.9300
+				xmax = 8.0400
+				text = "Y"
+			intervals [24]:
+				xmin = 8.0400
+				xmax = 8.0700
+				text = "EY1"
+			intervals [25]:
+				xmin = 8.0700
+				xmax = 8.1000
+				text = "HH"
+			intervals [26]:
+				xmin = 8.1000
+				xmax = 8.1300
+				text = "EY1"
+			intervals [27]:
+				xmin = 8.1300
+				xmax = 8.1600
+				text = "HH"
+			intervals [28]:
+				xmin = 8.1600
+				xmax = 10.0800
+				text = "EY1"
+			intervals [29]:
+				xmin = 10.0800
+				xmax = 10.6800
+				text = "sp"
+			intervals [30]:
+				xmin = 10.6800
+				xmax = 10.7100
+				text = "Y"
+			intervals [31]:
+				xmin = 10.7100
+				xmax = 10.7400
+				text = "EY1"
+			intervals [32]:
+				xmin = 10.7400
+				xmax = 10.7900
+				text = "HH"
+			intervals [33]:
+				xmin = 10.7900
+				xmax = 10.8200
+				text = "EY1"
+			intervals [34]:
+				xmin = 10.8200
+				xmax = 10.8500
+				text = "HH"
+			intervals [35]:
+				xmin = 10.8500
+				xmax = 19.6800
+				text = "EY1"
+			intervals [36]:
+				xmin = 19.6800
+				xmax = 21.1000
+				text = "sp"
+			intervals [37]:
+				xmin = 21.1000
+				xmax = 21.119274376417234
+				text = ""

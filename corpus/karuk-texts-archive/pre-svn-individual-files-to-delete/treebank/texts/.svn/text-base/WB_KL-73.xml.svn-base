@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-73">
+    <metadata>
+        <title>"Making Acorn Soup"</title>
+        <author>Julia <alph>Starritt</alph></author>
+        <date>1957</date>
+        <publication>William Bright, <em>The Karok Language</em> (1957), pp. 286-287, Text 73</publication>
+    </metadata>
+    <data>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w gl="the acorns">
+						<m lemma="4407">pa</m>
+						<m lemma="6907">xuntápan</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w gl="they were picking them">
+						<m lemma="3977">kun</m>
+						<m lemma="1468">'ífik</m>
+						<m lemma="6035">tih</m>
+					</w>, 
+					<w gl="on trees">
+						<m lemma="2682">ípaha</m>
+						<m lemma="232">k</m>
+					</w>
+					<w gl="they were growing">
+						<m lemma="3977">kun</m>
+						<m lemma="1453">'íif</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">They picked the acorns, they grew on trees.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="when they">
+						<m lemma="4408">pa</m>
+						<m lemma="5506">t</m>
+						<m lemma="6175">óo</m>
+					</w>
+					<w gl="ripe">
+						<m lemma="2565">mtúp</m>
+						<m lemma="1358">ahaak</m>
+					</w>
+					<w gl="the acorns">
+						<m lemma="4407">pa</m>
+						<m lemma="6907">xuntápan</m>
+					</w>
+					<w gl="they were falling off">
+						<m lemma="3977">kun</m>
+						<m lemma="3467">ivrarasúr</m>
+						<m lemma="6380">oo</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And when they were ripe, the acorns fell off.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="5163">púyava</m>
+					</w>
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="they were picking them">
+						<m lemma="3977">kun</m>
+						<m lemma="1468">'ífik</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Then they picked them.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they cracked them">
+						<m lemma="3977">kun</m>
+						<m lemma="1089">chátnak</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And they cracked them.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they spread them out to dry">
+						<m lemma="3977">kun</m>
+						<m lemma="5498">suváxrah</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Then they dried them.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they rubbed the red skin off of them">
+						<m lemma="3977">kun</m>
+						<m lemma="3631">iyvaxávax</m>
+					</w>,
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="the skins">
+						<m lemma="4407">pá</m>
+						<m lemma="4148">maan</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they came off">
+						<m lemma="3977">kun</m>
+						<m lemma="3480">ívyiih</m>
+						<m lemma="5475">shur</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Then they rubbed them, and the skins came off.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="5163">púyava</m>
+					</w>
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they ground them">
+						<m lemma="3977">kun</m>
+						<m lemma="1934">íkrav</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Then they ground them.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they sifted them">
+						<m lemma="3977">kun</m>
+						<m lemma="5870">thántap</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Then they sifted them.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="the coarse acorn meal">
+						<m lemma="4407">pa</m>
+						<m lemma="156">'áfrii</m>
+					</w>
+					<w gl="it had">
+						<m lemma="5506">t</m>
+						<m lemma="6175">óo</m>
+					</w>
+					<w>
+						<m lemma="3467">vrárasur</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And the coarse meal fell away.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w gl="the acorn flour">
+						<m lemma="4407">p</m>
+						<m lemma="1915">eekpúr</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w gl="in a mealing tray">
+						<m lemma="4277">múruk</m>
+						<m lemma="232">ak</m>
+					</w>
+					<w gl="they poured it in it">
+						<m lemma="3977">kun</m>
+						<m lemma="3623">iyváyraamnih</m>
+						<m lemma="6380">vu</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Then they poured the flour into a tray-basket.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they leached it">
+						<m lemma="3977">kun</m>
+						<m lemma="5589">tákir</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Then they leached it.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w gl="in sand">
+						<m lemma="7247">yúux</m>
+						<m lemma="232">ak</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they leached it">
+						<m lemma="3977">kun</m>
+						<m lemma="5589">tákir</m>
+					</w>.
+				</txt>
+				<trans lang="eng">They leached it in sand.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="2940">íshaha</m>
+					</w>
+					<w gl="they were pouring it onto it">
+						<m lemma="3977">kun</m>
+						<m lemma="3633">iyváykoo</m>
+						<m lemma="6035">ti</m>
+					</w>
+					<w>
+						<m lemma="3695">kacha'îimich</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And they poured water onto it slowly.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="5163">púyava</m>
+					</w>
+					<w gl="when the water">
+						<m lemma="4408">pa</m>
+						<m lemma="2940">'íshaha</m>
+					</w>
+					<w gl="it had flown away completely">
+						<m lemma="5506">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="6651">vunfíp</m>
+						<m lemma="1358">ahaak</m>
+					</w>
+					<w>
+						<m lemma="3969">kúkuum</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they added it again">
+						<m lemma="3977">kun</m>
+						<m lemma="2821">iptákoo</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">When the water flowed all away, they added it again.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="5163">púyava</m>
+					</w>
+					<w gl="when it was good-tasting">
+						<m lemma="4408">pa</m>
+						<m lemma="5506">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="332">'amayâa</m>
+						<m lemma="1358">haak</m>
+					</w>
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they stopped">
+						<m lemma="3977">kun</m>
+						<m lemma="3909">kôoha</m>
+					</w>.
+				</txt>
+				<trans lang="eng">When (the flour) was good-tasting, then they stopped.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="5163">púyava</m>
+					</w>
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="it had drained downward">
+						<m lemma="5506">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="3453">vaxráhish</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Then it dried.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they picked it up">
+						<m lemma="3977">kun</m>
+						<m lemma="248">'akíchiip</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Then they picked it up.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they washed it">
+						<m lemma="3977">kun</m>
+						<m lemma="3327">íthxa</m>
+					</w>
+					<w>
+						<m lemma="2940">íshaha</m>
+					</w>
+					<w>
+						<m lemma="4281">múuk</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And they washed it with water.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="the sand">
+						<m lemma="4407">pá</m>
+						<m lemma="7247">yuux</m>
+					</w>
+					<w>
+						<m lemma="3930">koovúra</m>
+					</w>
+					<w gl="it had">
+						<m lemma="5506">t</m>
+						<m lemma="6175">óo</m>
+					</w>
+					<w>
+						<m lemma="2417">mfiipshur</m>
+					</w>,
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they stopped">
+						<m lemma="3977">kun</m>
+						<m lemma="3909">kôoha</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And all the sand came off, and then they stopped.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="665">ásip</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they put it into them">
+						<m lemma="3977">kun</m>
+						<m lemma="250">'akíth</m>
+						<m lemma="5175">raamnih</m>
+						<m lemma="6380">vu</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And they put it into soup baskets.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="5163">púyava</m>
+					</w>
+					<w>
+						<m lemma="6994">yáaf</m>
+					</w>
+					<w gl="it had become">
+						<m lemma="5506">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="560">'árihish</m>
+					</w>.
+				</txt>
+				<trans lang="eng">So it became acorn dough.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="7012">yáas</m>
+					</w>
+					<w>
+						<m lemma="1144">chími</m>
+					</w>
+					<w gl="they were about to make acorn soup">
+						<m lemma="3977">kun</m>
+						<m lemma="5880">tharampúk</m>
+						<m lemma="1379">eesh</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Then they were about to make acorn soup.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="5163">púyava</m>
+					</w>
+					<w>
+						<m lemma="10">aah</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they made it">
+						<m lemma="3977">kun</m>
+						<m lemma="2348">íkyav</m>
+					</w>.
+				</txt>
+				<trans lang="eng">They built a fire.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="the rocks">
+						<m lemma="4407">pa</m>
+						<m lemma="583">'ás</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they heated them">
+						<m lemma="3977">kun</m>
+						<m lemma="2707">ipárish</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And they heated the rocks.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="5163">púyava</m>
+					</w>
+					<w gl="when it had">
+						<m lemma="4408">pa</m>
+						<m lemma="5506">t</m>
+						<m lemma="6175">óo</m>
+					</w>
+					<w gl="become hot">
+						<m lemma="2424">mfír</m>
+						<m lemma="1358">ahaak</m>
+					</w>
+					<w gl="the acorn dough">
+						<m lemma="4407">pá</m>
+						<m lemma="6994">yaaf</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they put it into it">
+						<m lemma="3977">kun</m>
+						<m lemma="250">'ákith</m>
+						<m lemma="5175">ramni</m>
+					</w>
+					<w gl="in the cooking basket">
+						<m lemma="5883">tharámpuukrav</m>
+						<m lemma="232">ak</m>
+					</w>.
+				</txt>
+				<trans lang="eng">When they were hot, they put the acorn dough into a cooking basket.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w>
+						<m lemma="2940">íshaha</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they poured it in">
+						<m lemma="3977">kun</m>
+						<m lemma="3623">íyvaayramni</m>
+					</w>
+					<w gl="as much as">
+						<m lemma="4408">pa</m>
+						<m lemma="3905">kóo</m>
+					</w>
+					<w gl="they were thinking">
+						<m lemma="3977">kun</m>
+						<m lemma="6939">xú</m>
+						<m lemma="6035">ti</m>
+					</w> "
+					<w gl="it will go">
+						<m lemma="6175">u</m>
+						<m lemma="6306">'úum</m>
+						<m lemma="1379">eesh</m>
+					</w>."
+				</txt>
+				<trans lang="eng">And they poured in water, as much as they thought would go.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="the hot rocks">
+						<m lemma="4407">pa</m>
+						<m lemma="583">'as</m>
+						<m lemma="2425">éemfir</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they put them in">
+						<m lemma="3977">kun</m>
+						<m lemma="6146">turúraamnih</m>
+						<m lemma="6380">va</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Then they put the hot rocks in.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="5882">tharampúkara</m>
+					</w>
+					<w>
+						<m lemma="4281">mûuk</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they stirred acorn soup">
+						<m lemma="3977">kun</m>
+						<m lemma="5880">tharámpuk</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And they stirred the soup with a soup-stirrer.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="5163">púyava</m>
+					</w>
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="it had boiled">
+						<m lemma="5506">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="1723">'íivrip</m>
+					</w>.
+				</txt>
+				<trans lang="eng">So it boiled.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="when it had">
+						<m lemma="4408">pa</m>
+						<m lemma="5506">t</m>
+						<m lemma="6175">óo</m>
+					</w>
+					<w gl="cooled down">
+						<m lemma="2499">msípishrih</m>
+						<m lemma="1358">aak</m>
+					</w>
+					<w gl="in soup baskets">
+						<m lemma="4612">pátanamich</m>
+						<m lemma="232">ak</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they poured it into them">
+						<m lemma="3977">kun</m>
+						<m lemma="5700">tarívraamnih</m>
+						<m lemma="6380">va</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And when it cooled off, they poured it into soup baskets.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="5163">púyava</m>
+					</w>
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they ate acorn soup">
+						<m lemma="3977">kun</m>
+						<m lemma="4606">pat</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Then they ate it.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="5163">púyava</m>
+					</w>
+					<w>
+						<m lemma="6675">vúra</m>
+					</w>
+					<w>
+						<m lemma="4715">páy</m>
+					</w>
+					<w>
+						<m lemma="3922">kóomahich</m>
+					</w>.
+				</txt>
+				<trans lang="eng">That's all.</trans>
+			</s>
+		</paragraph>
+	</data>
+</text>
+							
+						
+						
+						
+						
+						
+						
+					
+						
+		
+						
+						
+						
+						
+						
+						
+						
+						
+						
+					

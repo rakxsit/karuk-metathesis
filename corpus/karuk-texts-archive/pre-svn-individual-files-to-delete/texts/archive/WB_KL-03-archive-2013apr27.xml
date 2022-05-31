@@ -1,0 +1,3814 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <text id="WB_KL-03">
+		<metadata>
+			<title>"Coyote's Journey"</title>
+			<author>Chester <alph>Pepper</alph></author>
+			<date>1957</date>
+			<publication>William Bright, <em>The Karok Language</em> (1957), pp. 170-177, Text 3</publication>
+		</metadata>
+		<data>
+			<paragraph>
+				<s>
+					<kar>
+						<w>
+							<m id="4782">pihnêefich</m>
+						</w>
+						<w>
+							<m id="6383">vaa</m>
+						</w>
+						<w gl="he did it">
+							<m id="6175">u</m>
+							<m id="4086">kúphaa</m>
+							<m id="1369">nik</m>
+						</w>.
+					</kar>
+					<eng>Coyote did that.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="4528">panámniik</m>
+						</w>
+						<w gl="he grew up">
+							<m id="6175">u</m>
+							<m id="1453">'íf</m>
+							<m id="1369">anik</m>
+						</w>.
+					</kar>
+					<eng>He grew up at Orleans.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6381">vaa</m>
+						</w>
+						<w>
+							<m id="3670">káan</m>
+						</w>
+						<w gl="his country">
+							<m id="4260">mu</m>
+							<m id="3257">thívthaaneen</m>
+						</w>.
+					</kar>
+					<eng>That was his country there.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3745">kári</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="he thought">
+							<m id="6175">u</m>
+							<m id="6939">xús</m>
+							<m id="1369">aanik</m>
+						</w> "
+						<w>
+							<m id="1144">chími</m>
+						</w>
+						<w>
+							<m id="3753">káruk</m>
+						</w>
+						<w>
+							<m id="3054">ishpúk</m>
+						</w>
+						<w gl="let me go to get it!">
+							<m id="3735">kan</m>
+							<m id="2334">ikyâan</m>
+						</w>
+						<w>
+							<m id="3725">kahyúras</m>
+						</w>."
+					</kar>
+					<eng>And he thought, "Let me go upriver to get money at Klamath Lakes!"</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="he twined them">
+							<m id="6175">u</m>
+							<m id="4575">paríshriihva</m>
+						</w>
+						<w gl="little string">
+							<m id="33">an</m>
+							<m id="6128">tunvêech</m>
+						</w>.
+					</kar>
+					<eng>And he twined little strings.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3246">ithéeshyav</m>
+						</w>
+						<w gl="he twined them">
+							<m id="6175">u</m>
+							<m id="4575">paríshriihva</m>
+						</w>.
+					</kar>
+					<eng>He twined a whole winter.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="89">achavúra</m>
+						</w>
+						<w gl="one pack-load">
+							<m id="7097">ithá</m>
+							<m id="1712">'iithva</m>
+						</w>
+						<w>
+							<m id="6383">vaa</m>
+						</w>
+						<w>
+							<m id="3905">kóo</m>
+						</w>
+						<w gl="he twined it">
+							<m id="6175">u</m>
+							<m id="4575">paríshriihva</m>
+						</w>.
+					</kar>
+					<eng>Finally he twined a whole pack.</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						<w>
+							<m id="3745">kári</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="he left">
+							<m id="6175">u</m>
+							<m id="6396">vâaram</m>
+						</w>.
+					</kar>
+					<eng>Then he left.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w>
+							<m id="4715">páy</m>
+						</w>
+						<w gl="which downhill">
+							<m id="4408">pa</m>
+							<m id="5207">sâam</m>
+						</w>
+						<w gl="it flows down from upriver">
+							<m id="6175">u</m>
+							<m id="5215">saamvárak</m>
+							<m id="6035">ti</m>
+						</w>
+						<w gl="he went upriver">
+							<m id="6175">u</m>
+							<m id="567">'árihroov</m>
+						</w>.
+					</kar>
+					<eng>And he went upriver downhill where that flows down from upriver.</eng>
+					<note publish="yes">Bright: "páy pasâam usaamvárakti 'downhill where that flows down from upriver' is a circumlocution meaning simply 'by the river.'"</note>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3930">koovúra</m>
+						</w>
+						<w gl="the people">
+							<m id="4407">pa</m>
+							<m id="506">'áraar</m>
+						</w>
+						<w gl="He saw them">
+							<m id="6175">u</m>
+							<m id="4155">máah</m>
+							<m id="6648">vunaa</m>
+							<m id="6035">tih</m>
+						</w>, "
+						<w>
+							<m id="1660">iimkun</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w gl="nothings">
+							<m id="5085">pufáat</m>
+							<m id="5200">sa</m>
+							<m id="1371">hara</m>
+						</w>.
+					</kar>
+					<eng>He saw all the people (and said), "You-all are just nothings.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="4299">naa</m>
+						</w>
+						<w>
+							<m id="3725">kahyúras</m>
+						</w>
+						<w>
+							<m id="5506">tá</m>
+						</w>
+						<w gl="I go">
+							<m id="4349">ni</m>
+							<m id="6396">vâaram</m>
+						</w>."
+					</kar>
+					<eng>I am leaving for Klamath Lakes."</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						<w>
+							<m id="1096">chavúra</m>
+						</w>
+						<w>
+							<m id="4385">ôok</m>
+						</w>
+						<w>
+							<m id="3260">ithivthanéen'aachip</m>
+						</w>
+						<w gl="he had traveled upriver">
+							<m id="5506">t</m>
+							<m id="6175">u</m>
+							<m id="567">'árihroov</m>
+						</w>.
+					</kar>
+					<eng>Finally he traveled upriver to the center of the world here.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3670">káan</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="he saw him">
+							<m id="6175">u</m>
+							<m id="4155">máh</m>
+						</w>
+						<w>
+							<m id="506">áraar</m>
+						</w>,
+						<w gl="he was sweating himself">
+							<m id="6175">u</m>
+							<m id="2741">phikirîih</m>
+							<m id="6380">vu</m>
+							<m id="6035">tih</m>
+						</w>.
+					</kar>
+					<eng>And there he saw a person, he was sweating himself.</eng>
+					<note publish="yes">Bright: "This person was chiimûch 'Lizard'; cf. sentence 177."</note>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3670">káan</m>
+						</w>
+						<w gl="he had walked around">
+							<m id="5506">t</m>
+							<m id="6175">u</m>
+							<m id="6684">vúrayvikeethun</m>
+						</w>.
+					</kar>
+					<eng>(Coyote) walked around there.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="7038">yánava</m>
+						</w>
+						<w>
+							<m id="4715">páy</m>
+						</w>
+						<w>
+							<m id="1285">fâatva</m>
+						</w>
+						<w gl="it was sitting in baskets">
+							<m id="6175">u</m>
+							<m id="5896">tháthriinaa</m>
+						</w>.
+					</kar>
+					<eng>He saw something sitting in baskets.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="he was thinking">
+							<m id="6175">u</m>
+							<m id="6939">xú</m>
+							<m id="6035">ti</m>
+						</w> "
+						<w>
+							<m id="6042">tîi</m>
+						</w>
+						<w gl="let me taste it!">
+							<m id="3735">kan</m>
+							<m id="4496">pakatkâat</m>
+							<m id="6035">ih</m>
+						</w>."
+					</kar>
+					<eng>And he thought, "Let me taste it!"</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3745">kári</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="he tasted it">
+							<m id="6175">u</m>
+							<m id="4496">pakatkát</m>
+							<m id="1378">aheen</m>
+						</w>.
+					</kar>
+					<eng>So he tasted it.</eng>
+				</s>
+				<s>
+					<kar>
+						<w gl="extremely good-tasting">
+							<m id="332">amayaa</m>
+							<m id="2947">'íshara</m>
+						</w>.
+					</kar>
+					<eng>It was very good-tasting.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="1096">chavúra</m>
+						</w>
+						<w>
+							<m id="3930">koovúra</m>
+						</w>
+						<w gl="he used it up">
+							<m id="6175">u</m>
+							<m id="4465">páfip</m>
+						</w>.
+					</kar>
+					<eng>Finally he drank it all up.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="his baskets also">
+							<m id="4407">pa</m>
+							<m id="4260">mu</m>
+							<m id="665">'asíp</m>
+							<m id="1360">haar</m>
+						</w>
+						<w gl="he chewed it up">
+							<m id="6175">u</m>
+							<m id="5906">thaxávxav</m>
+						</w>.
+					</kar>
+					<eng>And he chewed up (the person's) baskets to boot.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3745">kári</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w>
+							<m id="6174">ta'ítam</m>
+						</w>
+						<w gl="he traveled">
+							<m id="6175">u</m>
+							<m id="205">'áhoo</m>
+							<m id="1378">heen</m>
+						</w>.
+					</kar>
+					<eng>And then he traveled (on).</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="he told him">
+							<m id="6175">ú</m>
+							<m id="2733">peen</m>
+							<m id="6035">ti</m>
+						</w> "
+						<w>
+							<m id="1657">îim</m>
+						</w>
+						<w>
+							<m id="4385">ôok</m>
+						</w>
+						<w gl="a monster">
+							<m id="3794">keemisha</m>
+							<m id="1670">'îin</m>
+						</w>
+						<w gl="it will eat you">
+							<m id="1418">i</m>
+							<m id="814">'áv</m>
+							<m id="1379">eesh</m>
+							<m id="398">ap</m>
+						</w>."
+					</kar>
+					<eng>And he told (the person sweating), "A monster outside here is going to eat you."</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						<w>
+							<m id="3745">kári</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="when he came outside">
+							<m id="4408">p</m>
+							<m id="6175">oo</m>
+							<m id="6618">vôonupuk</m>
+						</w>
+						<w>
+							<m id="1826">ikmaháchraam</m>
+						</w>
+						<w gl="he came outside">
+							<m id="6175">u</m>
+							<m id="6618">vôonupuk</m>
+						</w>.
+					</kar>
+					<eng>And when he went out, (the person sweating) came out of the sweathouse.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="he was thinking">
+							<m id="6175">u</m>
+							<m id="6939">xú</m>
+							<m id="6035">ti</m>
+						</w> "
+						<w>
+							<m id="1224">eee</m>
+						</w>!
+						<w>
+							<m id="4299">naa</m>
+						</w>
+						<w gl="I will say">
+							<m id="4349">ni</m>
+							<m id="4823">p</m>
+							<m id="1379">êesh</m>
+						</w> '
+						<w>
+							<m id="4782">pihnêefich</m>
+						</w>
+						<w>
+							<m id="4385">ôok</m>
+						</w>
+						<w gl="he went around">
+							<m id="6175">u</m>
+							<m id="6683">vúrayvu</m>
+							<m id="6035">tih</m>
+							<m id="1378">een</m>
+						</w>.'
+					</kar>
+					<eng>And he thought, "Ah, I'll bet Coyote has been around here!</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6381">vaa</m>
+						</w>
+						<w gl="my juice">
+							<m id="4407">pa</m>
+							<m id="4364">nini</m>
+							<m id="2940">'íshaha</m>
+						</w>
+						<w gl="he has finished it off">
+							<m id="5506">t</m>
+							<m id="6175">u</m>
+							<m id="4467">pafipsîiprin</m>
+							<m id="1378">aheen</m>
+						</w>.
+					</kar>
+					<eng>He's drunk up that juice of mine.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3857">kíri</m>
+						</w>
+						<w>
+							<m id="2940">íshaha</m>
+						</w>
+						<w gl="he thirsts for it">
+							<m id="6175">ú</m>
+							<m id="3517">xrah</m>
+						</w>."
+					</kar>
+					<eng>May he get thirsty!"</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="he was thinking">
+							<m id="6175">u</m>
+							<m id="6939">xú</m>
+							<m id="6035">ti</m>
+						</w> "
+						<w>
+							<m id="6381">vaa</m>
+						</w>
+						<w>
+							<m id="3849">kíp</m>
+						</w>
+						<w>
+							<m id="3915">kôok</m>
+						</w>
+						<w gl="he likes it">
+							<m id="6175">u</m>
+							<m id="6580">víshvaan</m>
+							<m id="6035">ti</m>
+						</w>
+						<w>
+							<m id="6850">xathímtas</m>
+						</w>."
+					</kar>
+					<eng>And he thought, "He just likes that kind, roasted grasshoppers."</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="he said">
+							<m id="6175">u</m>
+							<m id="4823">píip</m>
+						</w> "
+						<w>
+							<m id="1144">chími</m>
+						</w>
+						<w gl="let there be a forest fire!">
+							<m id="3732">kám</m>
+							<m id="1682">'iinv</m>
+							<m id="1419">i</m>
+						</w>
+						<w gl="in front of him">
+							<m id="4260">mú</m>
+							<m id="70">'aavkam</m>
+						</w>."
+					</kar>
+					<eng>And he said, "Let there be a forest fire in front of him!"</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						<w>
+							<m id="3755">kárukvari</m>
+						</w>
+						<w gl="he went upriver">
+							<m id="5506">t</m>
+							<m id="6175">u</m>
+							<m id="567">'árihroov</m>
+						</w>.
+					</kar>
+					<eng>(Coyote) went on upriver.</eng>
+				</s>
+				<s>
+					<kar>
+						<w gl="there had been a big forest fire">
+							<m id="5506">t</m>
+							<m id="6175">u</m>
+							<m id="1683">'invá</m>
+							<m id="3668">kaam</m>
+							<m id="1356">ha</m>
+						</w>.
+					</kar>
+					<eng>There was a big forest fire.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="he looked around">
+							<m id="5506">t</m>
+							<m id="6175">u</m>
+							<m id="6138">túraayva</m>
+						</w>,
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w>
+							<m id="6307">uum</m>
+						</w>
+						<w>
+							<m id="5541">táay</m>
+						</w>
+						<w gl="the roasted grasshoppers">
+							<m id="4407">pa</m>
+							<m id="6850">xathímtas</m>
+						</w>.
+					</kar>
+					<eng>And he looked around, there were lots of grasshoppers.</eng>
+				</s>
+				<s>
+					<kar>
+						"
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w gl="I will not eat them">
+							<m id="5082">pu</m>
+							<m id="4295">na</m>
+							<m id="814">'áv</m>
+							<m id="1379">eesh</m>
+							<m id="1371">ara</m>
+						</w>."
+					</kar>
+					<eng>"I won't eat them."</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="1096">chavúra</m>
+						</w>
+						<w>
+							<m id="7081">yiimúsich</m>
+						</w>
+						<w gl="he had gone">
+							<m id="5506">t</m>
+							<m id="6175">u</m>
+							<m id="6306">'uum</m>
+						</w>.
+					</kar>
+					<eng>Finally he went a little ways.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="he was thinking">
+							<m id="6175">u</m>
+							<m id="6939">xú</m>
+							<m id="6035">ti</m>
+						</w> "
+						<w>
+							<m id="6042">tîi</m>
+						</w>
+						<w>
+							<m id="4224">matée</m>
+						</w>
+						<w>
+							<m id="3922">kóomahich</m>
+						</w>
+						<w gl="let me pick them up!">
+							<m id="3735">kan</m>
+							<m id="1461">'ífapv</m>
+							<m id="1419">i</m>
+						</w>
+						<w gl="the roasted grasshoppers">
+							<m id="4407">pa</m>
+							<m id="6850">xathímtas</m>
+						</w>.
+					</kar>
+					<eng>And he thought, "Let me pick up a few roasted grasshoppers for a moment!"</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="1383">hínupa</m>
+						</w>
+						<w>
+							<m id="1144">chími</m>
+						</w>
+						<w gl="he will pick them up">
+							<m id="6175">u</m>
+							<m id="1461">'ífapv</m>
+							<m id="1379">eesh</m>
+						</w>.
+					</kar>
+					<eng>He was going to pick them up.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3745">kári</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="he was thinking">
+							<m id="6175">u</m>
+							<m id="6939">xú</m>
+							<m id="6035">ti</m>
+						</w> "
+						<w>
+							<m id="1410">hûut</m>
+						</w>
+						<w>
+							<m id="739">áta</m>
+						</w>
+						<w>
+							<m id="4059">kúth</m>
+						</w>
+						<w gl="that I am not getting enough">
+							<m id="4408">pa</m>
+							<m id="5082">pu</m>
+							<m id="4296">na</m>
+							<m id="7015">yâavahi</m>
+							<m id="6035">tih</m>
+							<m id="1371">ara</m>
+						</w>."
+					</kar>
+					<eng>And (after he had eaten them), he thought "I wonder why I'm not getting full?"</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="he was thinking">
+							<m id="6175">u</m>
+							<m id="6939">xú</m>
+							<m id="6035">ti</m>
+						</w> "
+						<w>
+							<m id="4299">naa</m>
+						</w>
+						<w gl="I am thinking">
+							<m id="4349">ni</m>
+							<m id="6939">xú</m>
+							<m id="6035">ti</m>
+						</w> '
+						<w>
+							<m id="1507">ífuthkam</m>
+						</w>
+						<w gl="they are coming out of me">
+							<m id="4294">na</m>
+							<m id="4693">pávyiihrishuk</m>
+							<m id="6035">tih</m>
+						</w>
+						<w gl="while I am eating them">
+							<m id="4408">pa</m>
+							<m id="4349">ni</m>
+							<m id="814">'áam</m>
+							<m id="6035">ti</m>
+						</w>.'"
+					</kar>
+					<eng>And he thought, "I think they're coming out of me in the rear as I eat."</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="he thought">
+							<m id="6175">u</m>
+							<m id="6939">xús</m>
+						</w> "
+						<w>
+							<m id="1144">chími</m>
+						</w>
+						<w gl="my anus">
+							<m id="4407">pa</m>
+							<m id="4364">nini</m>
+							<m id="161">'afupchúrax</m>
+						</w>
+						<w>
+							<m id="1144">chími</m>
+						</w>
+						<w gl="let me seal it up!">
+							<m id="3735">kan</m>
+							<m id="2674">ip</m>
+							<m id="5447">shivshâap</m>
+							<m id="1419">i</m>
+						</w>."
+					</kar>
+					<eng>And he thought, "Let me seal up my anus."</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6174">ta'ítam</m>
+						</w>
+						<w>
+							<m id="981">axváha</m>
+						</w>
+						<w gl="he gathered it">
+							<m id="6175">u</m>
+							<m id="2348">kyâa</m>
+							<m id="1378">heen</m>
+						</w>
+					</kar>
+					<eng>Then he got pitch.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="his anus">
+							<m id="4407">pa</m>
+							<m id="4260">mu</m>
+							<m id="161">'afupchúrax</m>
+						</w>
+						<w>
+							<m id="6381">vaa</m>
+						</w>
+						<w gl="with it">
+							<m id="3940">ku</m>
+							<m id="4281">mûuk</m>
+						</w>
+						<w gl="he sealed it up">
+							<m id="6175">u</m>
+							<m id="2674">p</m>
+							<m id="5447">sívshap</m>
+						</w>.
+					</kar>
+					<eng>And he sealed up his anus with that.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="he thought">
+							<m id="6175">u</m>
+							<m id="6939">xús</m>
+						</w> "
+						<w>
+							<m id="5160">púya</m>
+						</w>
+						<w>
+							<m id="4715">páy</m>
+						</w>
+						<w>
+							<m id="6307">uum</m>
+						</w>,
+						<w>
+							<m id="4716">payêem</m>
+						</w>
+						<w>
+							<m id="6307">uum</m>
+						</w>
+						<w gl="I will get enough">
+							<m id="4296">na</m>
+							<m id="7015">yâavah</m>
+							<m id="1379">eesh</m>
+						</w>.
+					</kar>
+					<eng>And he thought, "There, now I'll get full.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="5506">tá</m>
+						</w>
+						<w>
+							<m id="2671">íp</m>
+						</w>
+						<w gl="I sealed it up">
+							<m id="4349">ni</m>
+							<m id="2674">p</m>
+							<m id="5447">shívshaap</m>
+							<m id="738">at</m>
+						</w>
+						<w gl="my anus">
+							<m id="4407">pa</m>
+							<m id="4364">nini</m>
+							<m id="161">'afupchúrax</m>
+						</w>."
+					</kar>
+					<eng>I've sealed up my anus."</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6174">ta'ítam</m>
+						</w>
+						<w gl="he ate">
+							<m id="6175">u</m>
+							<m id="814">'aam</m>
+							<m id="6380">vá</m>
+							<m id="1378">heen</m>
+						</w>.
+					</kar>
+					<eng>So he ate.</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w gl="there had been a big forest fire">
+							<m id="5506">t</m>
+							<m id="6175">u</m>
+							<m id="1683">'invá</m>
+							<m id="3668">kaam</m>
+							<m id="1356">ha</m>
+						</w>.
+					</kar>
+					<eng>There was a big forest fire.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6570">víri</m>
+						</w>
+						<w>
+							<m id="3670">káan</m>
+						</w>
+						<w gl="he was sticking his butt here and there">
+							<m id="6175">u</m>
+							<m id="3950">kuchnáxathuna</m>
+							<m id="6035">tih</m>
+						</w>.
+					</kar>
+					<eng>(Coyote) was sticking his buttocks around there.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="he was thinking">
+							<m id="6175">u</m>
+							<m id="6939">xú</m>
+							<m id="6035">ti</m>
+						</w> "
+						<w gl="I am thinking">
+							<m id="4349">ni</m>
+							<m id="6939">xú</m>
+							<m id="6035">ti</m>
+						</w> '
+						<w>
+							<m id="1144">chími</m>
+						</w>
+						<w gl="I will arrive there">
+							<m id="4349">ni</m>
+							<m id="6306">'uum</m>
+							<m id="1379">êesh</m>
+						</w>
+						<w>
+							<m id="3725">kahyúras</m>
+						</w>.'"
+					</kar>
+					<eng>And he thought, "I think I'm about to reach Klamath Lakes."</eng>
+				</s>
+				<s>
+					<kar>
+						<w gl="he had heard it">
+							<m id="5506">t</m>
+							<m id="6175">u</m>
+							<m id="5954">thítiv</m>
+						</w>
+						<w gl="as it was roaring">
+							<m id="4408">p</m>
+							<m id="6175">oo</m>
+							<m id="5963">thivnúru</m>
+							<m id="6035">tih</m>
+						</w>.
+					</kar>
+					<eng>He heard it thundering.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6383">vaa</m>
+						</w>
+						<w gl="he was hearing it that way">
+							<m id="6175">u</m>
+							<m id="4004">kupa</m>
+							<m id="5954">thitív</m>
+							<m id="169">ahi</m>
+							<m id="6035">tih</m>
+						</w>,
+						<w>
+							<m id="3999">kúnish</m>
+						</w>
+						<w gl="it was saying">
+							<m id="6175">u</m>
+							<m id="4823">pí</m>
+							<m id="6035">ti</m>
+						</w> "
+						<w>
+							<m id="1401">huhuhuhuhuhu</m>
+						</w>."
+					</kar>
+					<eng>He heard that, it sort of said, "Huhuhuhuhuhu."</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="he was thinking">
+							<m id="6175">u</m>
+							<m id="6939">xú</m>
+							<m id="6035">ti</m>
+						</w> "
+						<w>
+							<m id="1144">chími</m>
+						</w>
+						<w gl="I will arrive there">
+							<m id="4349">ni</m>
+							<m id="6306">'uum</m>
+							<m id="1379">êesh</m>
+						</w>
+						<w>
+							<m id="3725">kahyúras</m>
+						</w>."
+					</kar>
+					<eng>And he thought, "I'm about to reach Klamath Lakes."</eng>
+					<note publish="yes">Bright: "Coyote thought that the noise was made by the falls at Klamath Lakes."</note>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6381">vaa</m>
+						</w>
+						<w>
+							<m id="3809">kích</m>
+						</w>
+						<w gl="that he heard">
+							<m id="4408">p</m>
+							<m id="6175">oo</m>
+							<m id="5954">thítiv</m>
+						</w>
+						<w gl="the huhuhuhuhuhu">
+							<m id="4407">pá</m>
+							<m id="1401">huhuhuhuhuhu</m>
+						</w>.
+					</kar>
+					<eng>He just heard that "Huhuhuhuhuhu."</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="1384">hinupáy</m>
+						</w>
+						<w gl="his anus">
+							<m id="4407">pa</m>
+							<m id="4260">mu</m>
+							<m id="161">'afupchúrax</m>
+						</w>
+						<w gl="that it was burning">
+							<m id="4408">p</m>
+							<m id="6175">oo</m>
+							<m id="1677">'iinkú</m>
+							<m id="6035">tih</m>
+						</w>.
+					</kar>
+					<eng>There it was his anus burning.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="1384">hinupáy</m>
+						</w>
+						<w>
+							<m id="2671">íp</m>
+						</w>
+						<w gl="the pitch">
+							<m id="4407">pa</m>
+							<m id="981">'axváha</m>
+						</w>
+						<w>
+							<m id="4281">mûuk</m>
+						</w>
+						<w gl="he sealed it up">
+							<m id="6175">u</m>
+							<m id="2674">p</m>
+							<m id="5447">shívshaap</m>
+							<m id="738">at</m>
+						</w>
+						<w>
+							<m id="1384">hinupáy</m>
+						</w>
+						<w>
+							<m id="6381">vaa</m>
+						</w>
+						<w gl="that it was burning">
+							<m id="4408">p</m>
+							<m id="6175">oo</m>
+							<m id="1677">'iinkú</m>
+							<m id="6035">tih</m>
+						</w>.
+					</kar>
+					<eng>There it was the pitch he had sealed it with that was burning.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6570">víri</m>
+						</w>
+						<w>
+							<m id="1410">hûut</m>
+						</w>
+						<w>
+							<m id="1144">chími</m>
+						</w>
+						<w gl="he will do">
+							<m id="6175">u</m>
+							<m id="1669">'îin</m>
+							<m id="1379">eesh</m>
+						</w>.
+					</kar>
+					<eng>(He wondered) what he should do.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6383">vaa</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w>
+							<m id="3670">káan</m>
+						</w>
+						<w>
+							<m id="41">âapun</m>
+						</w>
+						<w gl="in the dirt">
+							<m id="7247">yúux</m>
+							<m id="232">ak</m>
+						</w>
+						<w gl="he slid around">	
+							<m id="6175">u</m>
+							<m id="4092">kûuruthun</m>
+						</w>.
+					</kar>
+					<eng>He slid all over there that way, on the ground, in the dirt.</eng>
+				</s>
+				<s>
+					<kar>
+						<w gl="so that">
+							<m id="6570">víri</m>
+							<m id="5381">va</m>
+						</w>
+						<w>
+							<m id="3809">kích</m>
+						</w>
+						<w gl="he was saying">
+							<m id="6175">u</m>
+							<m id="4823">pí</m>
+							<m id="6035">ti</m>
+						</w> "
+						<w>
+							<m id="810">átuhtuhtuhtuhtuhtuh</m>
+						</w>."
+					</kar>
+					<eng>He was just saying, "átuhtuhtuhtuhtuh!"</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="5163">púyava</m>
+						</w>
+						<w>
+							<m id="1096">chavúra</m>
+						</w>
+						<w gl="it was extinguished">
+							<m id="6175">ú</m>
+							<m id="2498">msip</m>
+						</w>
+						<w gl="his anus">
+							<m id="4407">pa</m>
+							<m id="4260">mu</m>
+							<m id="161">'afupchúrax</m>
+						</w>.
+					</kar>
+					<eng>So finally his anus was extinguished.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="5163">púyava</m>
+						</w>
+						<w gl="he thought">
+							<m id="6175">u</m>
+							<m id="6939">xús</m>
+						</w> "
+						<w>
+							<m id="4716">payêem</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w gl="I will not eat it again">
+							<m id="5082">pu</m>
+							<m id="4295">na</m>
+							<m id="2725">'ípav</m>
+							<m id="1379">eesh</m>
+							<m id="1371">ara</m>
+						</w>
+						<w gl="the roasted grasshoppers">
+							<m id="4407">pa</m>
+							<m id="6850">xathímtas</m>
+						</w>.
+					</kar>
+					<eng>So he thought, "Now I won't eat roasted grasshoppers again.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="5506">tá</m>
+						</w>
+						<w>
+							<m id="3906">koo</m>
+						</w>,
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w gl="I will not eat it">
+							<m id="5082">pu</m>
+							<m id="4295">na</m>
+							<m id="814">'áv</m>
+							<m id="1379">eesh</m>
+							<m id="1371">ara</m>
+						</w>."
+					</kar>
+					<eng>That's all, I won't eat them."</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						<w>
+							<m id="1147">chímiva</m>
+						</w>
+						<w>
+							<m id="6383">vaa</m>
+						</w>
+						<w>
+							<m id="3978">kúna</m>
+						</w>
+						<w gl="he did it">
+							<m id="6175">u</m>
+							<m id="4086">kúupha</m>
+						</w>,
+						<w>
+							<m id="2940">íshaha</m>
+						</w>
+						<w gl="he thirsted for it">
+							<m id="6175">ú</m>
+							<m id="3517">xrah</m>
+						</w>.
+					</kar>
+					<eng>Soon he did this also, he got thirsty.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6231">úma</m>
+						</w>
+						<w>
+							<m id="6383">vaa</m>
+						</w>
+						<w gl="he did it">
+							<m id="6175">u</m>
+							<m id="4086">kúphaa</m>
+							<m id="1369">nik</m>
+						</w>,
+						<w gl="when previously">
+							<m id="4408">pá</m>
+							<m id="4255">mitva</m>
+						</w>
+						<w>
+							<m id="3246">ithéeshyav</m>
+						</w>
+						<w gl="he twined them">
+							<m id="6175">u</m>
+							<m id="4575">paríshriihva</m>
+						</w>
+						<w gl="little string">
+							<m id="33">an</m>
+							<m id="6128">tunvêech</m>
+						</w>.
+					</kar>
+					<eng>That's what he had done, he twined little strings the previous winter.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="1398">hôoyvarihva</m>
+						</w>
+						<w gl="he had">
+							<m id="5506">t</m>
+							<m id="6175">óo</m>
+						</w>
+						<w gl="lost it">
+							<m id="3557">xyáthuroov</m>
+							<m id="1378">aheen</m>
+						</w>.
+					</kar>
+					<eng>He had lost them somewhere.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6570">víri</m>
+						</w>
+						<w>
+							<m id="1410">hûut</m>
+						</w>
+						<w>
+							<m id="1144">chími</m>
+						</w>
+						<w gl="he will do it">
+							<m id="6175">u</m>
+							<m id="4086">kuph</m>
+							<m id="1379">eesh</m>
+						</w>.
+					</kar>
+					<eng>So what was he to do?</eng>
+				</s>
+				<s>
+					<kar>
+						<w gl="the water">
+							<m id="4407">pa</m>
+							<m id="2940">'íshaha</m>
+						</w>
+						<w gl="he had">
+							<m id="5506">t</m>
+							<m id="6175">óo</m>
+						</w>
+						<w>
+							<m id="3517">xrah</m>
+						</w>.
+					</kar>
+					<eng>He was thirsty.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="7081">yiimúsich</m>
+						</w>
+						<w gl="he had">
+							<m id="5506">t</m>
+							<m id="6175">óo</m>
+						</w>
+						<w>
+							<m id="3425">tshîip</m>
+						</w>.
+					</kar>
+					<eng>He looked off a little ways.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="7040">yanéekva</m>
+						</w>
+						<w gl="the creek">
+							<m id="4407">pa</m>
+							<m id="5217">saamvároo</m>
+						</w>
+						<w gl="it was flowing downhill">
+							<m id="6175">u</m>
+							<m id="6687">vúrunih</m>
+							<m id="6035">tih</m>
+						</w>.
+					</kar>
+					<eng>There was a creek flowing down.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3670">káan</m>
+						</w>
+						<w gl="he had arrived">
+							<m id="5506">t</m>
+							<m id="6175">u</m>
+							<m id="6306">'uum</m>
+						</w>.
+					</kar>
+					<eng>He got there.</eng>
+				</s>
+				<s>
+					<kar>
+						<w gl="it had dried up">
+							<m id="5506">t</m>
+							<m id="6175">u</m>
+							<m id="5037">pivaxráh</m>
+							<m id="1378">een</m>
+						</w>.
+					</kar>
+					<eng>It had dried up.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="4420">pâanpay</m>
+						</w>
+						<w>
+							<m id="6383">vaa</m>
+						</w>
+						<w gl="he had">
+							<m id="5506">t</m>
+							<m id="6175">óo</m>
+						</w>
+						<w>
+							<m id="2211">kvíripship</m>
+						</w>.
+					</kar>
+					<eng>After a while he broke into a run.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3670">káan</m>
+						</w>
+						<w gl="he had arrived">
+							<m id="5506">t</m>
+							<m id="6175">u</m>
+							<m id="6306">'uum</m>
+						</w>.
+					</kar>
+					<eng>He got there.</eng>
+				</s>		
+				<s>
+					<kar>
+						<w gl="it had dried up">
+							<m id="5506">t</m>
+							<m id="6175">u</m>
+							<m id="5037">pivaxráh</m>
+							<m id="1378">een</m>
+						</w>.
+					</kar>
+					<eng>It had dried up.</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="he was thinking">
+							<m id="6175">u</m>
+							<m id="6939">xú</m>
+							<m id="6035">ti</m>
+						</w> "
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w gl="I will not drink it">
+							<m id="5082">pu</m>
+							<m id="4295">na</m>
+							<m id="2936">'ísh</m>
+							<m id="1379">eesh</m>
+							<m id="1371">ara</m>
+						</w>
+						<w gl="river water">
+							<m id="3007">ishkéesh</m>
+							<m id="50">'aas</m>
+						</w>."
+					</kar>
+					<eng>And he thought, "I won't drink river water."</eng>
+				</s>
+				<s>
+					<kar>
+						<w gl="his blanket">
+							<m id="4260">mú</m>
+							<m id="6399">vaas</m>
+						</w>
+						<w gl="he was carrying it on his back">
+							<m id="6175">u</m>
+							<m id="1713">'iithvú</m>
+							<m id="6035">tih</m>
+						</w>.
+					</kar>
+					<eng>He was carrying his blanket.</eng>
+				</s>
+				<s>
+					<kar>
+						"
+						<w>
+							<m id="4716">payêem</m>
+						</w>
+						<w gl="when I see it">
+							<m id="4408">pa</m>
+							<m id="4349">ni</m>
+							<m id="4155">máh</m>
+							<m id="1358">aak</m>
+						</w>
+						<w gl="the creek">
+							<m id="4407">pa</m>
+							<m id="5217">saamvároo</m>
+						</w>
+						<w gl="my blanket">
+							<m id="4407">pa</m>
+							<m id="4364">niní</m>
+							<m id="6399">vaas</m>
+						</w>
+						<w>
+							<m id="4076">kúuk</m>
+						</w>
+						<w gl="I will throw it toward it">
+							<m id="4349">ni</m>
+							<m id="4430">paathm</m>
+							<m id="1379">éesh</m>
+						</w>.
+					</kar>
+					<eng>"Now when I see a creek, I'll throw my blanket at it.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6848">xasík</m>
+						</w>
+						<w>
+							<m id="6381">vaa</m>
+						</w>
+						<w gl="I will suck on it">
+							<m id="4349">ni</m>
+							<m id="4451">pachipchíp</m>
+							<m id="1379">eesh</m>
+						</w>."
+					</kar>
+					<eng>Then I can suck on that."</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="when he saw it">
+							<m id="4408">p</m>
+							<m id="6175">oo</m>
+							<m id="4155">máh</m>
+						</w>
+						<w gl="the creek">
+							<m id="4407">pa</m>
+							<m id="5217">saamvároo</m>
+						</w>
+						<w>
+							<m id="6174">ta'ítam</m>
+						</w>
+						<w>
+							<m id="4076">kúuk</m>
+						</w>
+						<w gl="he threw it toward it">
+							<m id="6175">u</m>
+							<m id="4430">paathm</m>
+							<m id="1378">áheen</m>
+						</w>.
+					</kar>
+					<eng>And when he saw the creek, then he threw (the blanket) at it.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3449">ivaxráhak</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="it fell down">
+							<m id="6175">u</m>
+							<m id="2376">kyívish</m>
+						</w>.
+					</kar>
+					<eng>But it fell on dry ground.</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>	
+					<kar>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w>
+							<m id="2940">íshaha</m>
+						</w>
+						<w gl="he had">
+							<m id="5506">t</m>
+							<m id="6175">óo</m>
+						</w>
+						<w>
+							<m id="3517">xrah</m>
+						</w>.
+					</kar>
+					<eng>He was really thirsty.</eng>
+				</s>
+				<s>
+					<kar>
+						"
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w gl="I will not drink it">
+							<m id="5082">pu</m>
+							<m id="4295">na</m>
+							<m id="2936">'ísh</m>
+							<m id="1379">eesh</m>
+							<m id="1371">ara</m>
+						</w>
+						<w gl="river water">
+							<m id="3007">ishkéesh</m>
+							<m id="50">'aas</m>
+						</w>."
+					</kar>
+					<eng>"I won't drink river water."</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6570">víri</m>
+						</w>
+						<w>
+							<m id="6383">vaa</m>
+						</w>
+						<w gl="He was doing it">
+							<m id="6175">u</m>
+							<m id="4086">kupí</m>
+							<m id="6035">tih</m>
+						</w>.
+					</kar>
+					<eng>He did that.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w gl="there had been a big forest fire">
+							<m id="5506">t</m>
+							<m id="6175">u</m>
+							<m id="1683">'invá</m>
+							<m id="3668">kaam</m>
+							<m id="1356">ha</m>
+						</w>.
+					</kar>
+					<eng>There was a big forest fire.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6570">víri</m>
+						</w>
+						<w>
+							<m id="6337">úuth</m>
+						</w>
+						<w gl="at the river">
+							<m id="3007">ishkêesh</m>
+							<m id="232">ak</m>
+						</w>
+						<w gl="it had been lying across-stream">
+							<m id="5506">t</m>
+							<m id="6175">u</m>
+							<m id="199">'ahirímkaanva</m>
+						</w>.
+					</kar>
+					<eng>There were trees falling out into the river.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="he was thinking">
+							<m id="6175">u</m>
+							<m id="6939">xú</m>
+							<m id="6035">ti</m>
+						</w> "
+						<w>
+							<m id="6738">xâatik</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w gl="I drink">
+							<m id="4349">ni</m>
+							<m id="2936">'ish</m>
+						</w>,
+						<w gl="the river water">
+							<m id="4407">p</m>
+							<m id="3007">eeshkéesh</m>
+							<m id="50">'aas</m>
+						</w>.
+					</kar>
+					<eng>And he thought, "Let me drink the river water.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3978">kúna</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w gl="not by the bank">
+							<m id="5082">pu</m>
+							<m id="708">'astíip</m>
+							<m id="1420">ich</m>
+						</w>
+						<w gl="I will not drink it">
+							<m id="4295">na</m>
+							<m id="2936">'ísh</m>
+							<m id="1379">eesh</m>
+							<m id="1371">ara</m>
+						</w>.
+					</kar>
+					<eng>But I won't drink by the bank.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w gl="the middle of the river">
+							<m id="3007">ishkéesh</m>
+							<m id="5">'aachip</m>
+						</w>
+						<w>
+							<m id="6848">xasík</m>
+						</w>
+						<w gl="I will drink it">
+							<m id="4349">ni</m>
+							<m id="2936">'ísh</m>
+							<m id="1379">eesh</m>
+						</w>."
+					</kar>
+					<eng>I'll drink in the middle of the river.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="1096">chavúra</m>
+						</w>
+						<w gl="he saw it">
+							<m id="6175">u</m>
+							<m id="4155">máh</m>
+						</w>
+						<w>
+							<m id="7038">yánava</m>
+						</w>
+						<w>
+							<m id="3343">ithyáruk</m>
+						</w>
+						<w gl="it was lying towards land">
+							<m id="6175">u</m>
+							<m id="2155">kúripaa</m>
+							<m id="168">hi</m>
+							<m id="6035">ti</m>
+						</w>
+						<w>
+							<m id="3233">itháriip</m>
+						</w>.
+					</kar>
+					<eng>Finally he saw it, he saw a fir tree lying fallen out across-stream.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3745">kári</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="he thought">
+							<m id="6175">u</m>
+							<m id="6939">xús</m>
+						</w> "
+						<w>
+							<m id="6383">vaa</m>
+						</w>
+						<w>
+							<m id="4719">pay'ôok</m>
+						</w>
+						<w>
+							<m id="6848">xasík</m>
+						</w>
+						<w>
+							<m id="2940">íshaha</m>
+						</w>	
+						<w gl="I will drink it">
+							<m id="4349">ni</m>
+							<m id="2936">'ísh</m>
+							<m id="1379">eesh</m>
+						</w>."
+					</kar>
+					<eng>And he thought, "Here I will drink water."</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6174">ta'ítam</m>
+						</w>
+						<w gl="he walked out across water on it">
+							<m id="6175">u</m>
+							<m id="6470">vátakar</m>
+							<m id="1378">aheen</m>
+						</w>.
+					</kar>
+					<eng>So he walked out on it.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3745">kári</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="the middle of the river">
+							<m id="3007">ishkéesh</m>
+							<m id="5">'aachip</m>
+						</w>
+						<w>
+							<m id="6174">ta'ítam</m>
+						</w>
+						<w gl="he stooped down">
+							<m id="6175">u</m>
+							<m id="3968">kúkurih</m>
+							<m id="1378">een</m>
+						</w>.
+					</kar>
+					<eng>And in the middle of the river he stooped down to the water.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6570">víri</m>
+						</w>
+						<w gl="when he stooped down">
+							<m id="4408">p</m>
+							<m id="6175">oo</m>
+							<m id="3968">kúkurih</m>
+						</w>
+						<w>
+							<m id="1147">chímiva</m>
+						</w>
+						<w>
+							<m id="6337">úuth</m>
+						</w>
+						<w gl="he fell into the water">
+							<m id="6175">ú</m>
+							<m id="2362">kyiimkar</m>
+						</w>.
+					</kar>
+					<eng>When he stooped down, he suddenly fell in.</eng>
+				</s>
+				<s>
+					<kar>
+						<w gl="he drowned">
+							<m id="6175">u</m>
+							<m id="5377">síinvar</m>
+						</w>.
+					</kar>
+					<eng>He drowned.</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						<w>
+							<m id="6174">ta'ítam</m>
+						</w>
+						<w gl="he floated back down from upriver">
+							<m id="6175">u</m>
+							<m id="2674">p</m>
+							<m id="5984">thívruuhvarak</m>
+						</w>.
+					</kar>
+					<eng>So he floated back down from upstream.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6570">víri</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w>
+							<m id="6307">uum</m>
+						</w>
+						<w>
+							<m id="5541">táay</m>
+						</w>
+						<w gl="the little sticks">
+							<m id="4407">pa</m>
+							<m id="215">'ahup</m>
+							<m id="6128">tunvêech</m>
+							<m id="584">as</m>
+						</w>
+						<w gl="they were floating down from upstream">
+							<m id="6175">u</m>
+							<m id="767">'áthanvarak</m>
+							<m id="6035">tih</m>
+						</w>.
+					</kar>
+					<eng>There were a lot of little sticks floating down from upriver.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w>
+							<m id="4782">pihnêefich</m>
+						</w>
+						<w gl="he thought">
+							<m id="6175">u</m>
+							<m id="6939">xús</m>
+						</w> "
+						<w>
+							<m id="1144">chími</m>
+						</w>
+						<w gl="a pretty stick">
+							<m id="215">ahup</m>
+							<m id="7000">yâamach</m>
+						</w>
+						<w gl="let me be transformed!">
+							<m id="3735">kan</m>
+							<m id="4570">párihish</m>
+						</w>.
+					</kar>
+					<eng>And Coyote thought, "Let me become a pretty stick!</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6383">vaa</m>
+						</w>
+						<w>
+							<m id="6307">uum</m>
+						</w>
+						<w>
+							<m id="1399">hôoy vúrava</m>
+						</w>
+						<w gl="they will hook me out of water">
+							<m id="3738">kanée</m>
+							<m id="2674">p</m>
+							<m id="5535">taatripaa</m>
+							<m id="1379">vish</m>
+						</w>."
+					</kar>
+					<eng>That way they will hook me out somewhere.</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						<w>
+							<m id="7085">yíiv</m>
+						</w>
+						<w gl="he had floated to">
+							<m id="5506">t</m>
+							<m id="6175">u</m>
+							<m id="5973">thívruuhma</m>
+						</w>.
+					</kar>
+					<eng>He floated a long ways.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="1144">chími</m>
+						</w>
+						<w>
+							<m id="924">axmáy</m>
+						</w>
+						<w>
+							<m id="7212">yúruk</m>
+						</w>
+						<w gl="he was looking downriver">
+							<m id="6175">u</m>
+							<m id="3424">trûupu</m>
+							<m id="6035">tih</m>
+						</w>.
+					</kar>
+					<eng>Suddenly he looked downriver.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6570">víri</m>
+						</w>
+						<w>
+							<m id="6383">vaa</m>
+						</w>
+						<w gl="they were doing it">
+							<m id="3977">kun</m>
+							<m id="4086">kupí</m>
+							<m id="6035">tih</m>
+						</w>,
+						<w gl="the women">
+							<m id="4407">pa</m>
+							<m id="656">'asiktávaan</m>
+							<m id="5200">sa</m>
+						</w>
+						<w gl="they were thinking">
+							<m id="3977">kun</m>
+							<m id="6939">xú</m>
+							<m id="6035">ti</m>
+						</w> "
+						<w>
+							<m id="3857">kíri</m>
+						</w>
+						<w gl="we hook it out (with sticks)">
+							<m id="4370">nu</m>
+							<m id="6148">tururípa</m>
+							<m id="6380">n</m>
+						</w>
+						<w gl="the stick">
+							<m id="4407">pa</m>
+							<m id="215">'áhup</m>
+						</w>."
+					</kar>
+					<eng>They were doing that, the women were trying to hook out the sticks.</eng>
+					<note publish="yes">Bright: "Literally, 'the women thought, 'let us hook out sticks!''"</note>
+				</s>
+				<s>	
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w>
+							<m id="4782">pihnêefich</m>
+						</w>
+						<w gl="he had taken a liking to them">
+							<m id="5506">t</m>
+							<m id="6175">u</m>
+							<m id="5672">tápkuup</m>
+						</w>
+						<w gl="the women">
+							<m id="4407">pa</m>
+							<m id="656">'asiktávaan</m>
+							<m id="5200">sa</m>
+						</w>.
+					</kar>
+					<eng>And Coyote took a liking to the women.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="1096">chavúra</m>
+						</w>
+						<w>
+							<m id="3674">kaanvári</m>
+						</w>
+						<w gl="he floated to">
+							<m id="6175">u</m>
+							<m id="5973">thívruuhma</m>
+						</w>.
+					</kar>
+					<eng>Finally he floated to that vicinity.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6570">víri</m>
+						</w>
+						<w gl="there was an eddy">
+							<m id="6175">u</m>
+							<m id="6704">vuunôovu</m>
+							<m id="6035">tih</m>
+						</w>.
+					</kar>
+					<eng>There was an eddy.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6570">víri</m>
+							<m id="6383">va</m>
+						</w>
+						<w>
+							<m id="3670">káan</m>
+						</w>
+						<w>
+							<m id="6174">ta'ítam</m>
+						</w>
+						<w>
+							<m id="4782">pihnêefich</m>
+						</w>
+						<w>
+							<m id="3670">káan</m>
+						</w>
+						<w gl="he floated to">
+							<m id="6175">u</m>
+							<m id="5973">thívruuhma</m>
+						</w>.
+					</kar>
+					<eng>So then Coyote floated to there.</eng>
+				</s>
+				<s>
+					<kar>
+						"
+						<w>
+							<m id="4383">ooo</m>
+						</w>!"
+						<w gl="the women">
+							<m id="4407">pa</m>
+							<m id="656">'asiktávaan</m>
+							<m id="5200">sa</m>
+						</w>
+						<w gl="they said">
+							<m id="3977">kun</m>
+							<m id="4823">piip</m>
+						</w>, "
+						<w>
+							<m id="4383">ooo</m>
+						</w>!
+						<w>
+							<m id="7055">yáxa</m>
+						</w>
+						<w>
+							<m id="4717">páykuuk</m>
+						</w>
+						<w>
+							<m id="3904">kóo</m>
+						</w>
+						<w gl="a pretty stick">
+							<m id="215">ahup</m>
+							<m id="7000">yâamach</m>
+						</w>
+						<w gl="it is floating around">
+							<m id="6175">u</m>
+							<m id="5970">thivrúhuthuna</m>
+							<m id="6035">tih</m>
+						</w>.
+					</kar>
+					<eng>"Oh," the women said, "oh, look there, such a pretty stick is floating around.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="1144">chími</m>
+						</w>
+						<w gl="let us hook it out of water!">
+							<m id="4370">nú</m>
+							<m id="5535">taatripaa</m>
+						</w>."
+					</kar>
+					<eng>Let's hook it out!"</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6570">víri</m>
+							<m id="6383">va</m>
+						</w>
+						<w gl="they were missing it">
+							<m id="3977">kun</m>
+							<m id="5561">tafiripfírip</m>
+							<m id="6035">tih</m>
+						</w>.
+					</kar>
+					<eng>But they kept missing it.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3758">káruma</m>
+						</w>
+						<w>
+							<m id="6307">uum</m>
+						</w>
+						<w>
+							<m id="4782">pihnêefich</m>
+						</w>
+						<w gl="he was thinking">
+							<m id="6175">u</m>
+							<m id="6939">xú</m>
+							<m id="6035">ti</m>
+						</w> "
+						<w>
+							<m id="6879">xáy</m>
+						</w>
+						<w gl="they hook me out of water">
+							<m id="3738">kaná</m>
+							<m id="5535">taatripaa</m>
+						</w>."
+					</kar>
+					<eng>Coyote was thinking, "Let them not hook me out."</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3745">kári</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="he thought">
+							<m id="6175">u</m>
+							<m id="6939">xús</m>
+						</w> "
+						<w>
+							<m id="1144">chími</m>
+						</w>
+						<w gl="let me float away again!">
+							<m id="3735">kan</m>
+							<m id="2674">ip</m>
+							<m id="5983">thívruuhsun</m>
+						</w>."
+					</kar>
+					<eng>And he thought, "Let me float away!"</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6174">ta'ítam</m>
+						</w>
+						<w gl="he floated downriver again">
+							<m id="6175">u</m>
+							<m id="2674">p</m>
+							<m id="5979">thívruuhrup</m>
+						</w>.
+					</kar>
+					<eng>So he floated downriver again.</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						<w>
+							<m id="1096">chavúra</m>
+						</w>
+						<w>
+							<m id="3969">kúkuum</m>
+						</w>
+						<w>
+							<m id="6383">vaa</m>
+						</w>
+						<w>
+							<m id="3670">káan</m>
+						</w>
+						<w gl="he saw it">
+							<m id="6175">u</m>
+							<m id="4155">máh</m>
+						</w>
+						<w gl="women">
+							<m id="656">asiktávaan</m>
+							<m id="5200">sa</m>
+						</w>
+						<w>
+							<m id="708">astiip</m>
+						</w>,
+						<w>
+							<m id="215">áhup</m>
+						</w>
+						<w gl="they were gathering it">
+							<m id="3977">kun</m>
+							<m id="2348">ikyáa</m>
+							<m id="6427">vanaa</m>
+							<m id="6035">tih</m>
+						</w>.
+					</kar>
+					<eng>Finally he saw somen there on the bank again, they were gathering wood.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w>
+							<m id="7097">yítha</m>
+						</w>
+						<w gl="she said">
+							<m id="6175">u</m>
+							<m id="4823">píip</m>
+						</w> "
+						<w>
+							<m id="4383">ooo</m>
+						</w>!
+						<w>
+							<m id="7055">yáxa</m>
+						</w>
+						<w>
+							<m id="3904">kóo</m>
+						</w>
+						<w gl="a pretty stick">
+							<m id="215">ahup</m>
+							<m id="7000">yâamach</m>
+						</w>
+						<w gl="it has floated down from upriver">
+							<m id="5506">t</m>
+							<m id="6175">u</m>
+							<m id="5984">thívruuhvarak</m>
+						</w>."
+					</kar>
+					<eng>And one said, "Oh, look, such a pretty stick has floated down from upstream!"</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w>
+							<m id="7096">yíth</m>
+						</w>
+						<w gl="she said">
+							<m id="6175">u</m>
+							<m id="4823">píip</m>
+						</w> "
+						<w>
+							<m id="741">atafâat naa</m>
+						</w>
+						<w>
+							<m id="4782">pihnêefich</m>
+						</w>.
+					</kar>
+					<eng>And another said, "Maybe it's Coyote.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="4248">mít</m>
+						</w>
+						<w gl="they said">
+							<m id="3977">kun</m>
+							<m id="4823">íp</m>
+							<m id="738">aat</m>
+						</w> '
+						<w>
+							<m id="3725">kahyúras</m>
+						</w>
+						<w gl="he had gone">
+							<m id="5506">t</m>
+							<m id="6175">u</m>
+							<m id="6396">vâaram</m>
+						</w>.'
+					</kar>
+					<eng>They said he had left for Klamath Lakes.</eng>
+				</s>
+				<s>
+					<kar>
+						<w gl="reliable?">
+							<m id="2706">ípararah</m>
+							<m id="1402">um</m>
+						</w>,
+						<w>
+							<m id="741">atafâat naa</m>
+						</w>
+						<w>
+							<m id="6381">vaa</m>
+						</w>."
+					</kar>
+					<eng>He's not reliable, maybe that's him."</eng>
+					<note publish="yes">Bright: "Literally, 'is he reliable?' A question is often used in Karuk as a rhetorical equivalent of a negative."</note>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="5163">púyava</m>
+						</w>
+						<w>
+							<m id="4357">ník</m>
+						</w>
+						<w gl="they were looking at it">
+							<m id="3977">kun</m>
+							<m id="2570">ímuus</m>
+							<m id="6035">tih</m>
+						</w>.
+					</kar>
+					<eng>So they looked at it.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3670">káan</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w gl="it had floated around">
+							<m id="5506">t</m>
+							<m id="6175">u</m>
+							<m id="5970">thivrúhuthun</m>
+						</w>.
+					</kar>
+					<eng>It floated around there.</eng>
+				</s>
+				<s>
+					<kar>
+						"
+						<w>
+							<m id="6881">xáyfaat</m>
+						</w>
+						<w gl="we fool around with it">
+							<m id="4370">nú</m>
+							<m id="1550">hmaachichva</m>
+						</w>."
+					</kar>
+					<eng>"Let's not fool with it."</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w>
+							<m id="6337">úuth</m>
+						</w>
+						<w gl="they pushed it back into the river">
+							<m id="3977">kun</m>
+							<m id="4854">píkfuutkar</m>
+						</w>.
+					</kar>
+					<eng>So they pushed it back out into the river.</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						"
+						<w>
+							<m id="1224">eee</m>
+						</w>!"
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="he was thinking">
+							<m id="6175">u</m>
+							<m id="6939">xú</m>
+							<m id="6035">ti</m>
+						</w>
+						<w>
+							<m id="4782">pihnêefich</m>
+						</w> "
+						<w>
+							<m id="7012">yáas</m>
+						</w>
+						<w>
+							<m id="4299">naa</m>
+						</w>
+						<w gl="I am thinking">
+							<m id="4349">ni</m>
+							<m id="6939">xú</m>
+							<m id="6035">ti</m>
+						</w> '
+						<w>
+							<m id="5506">tá</m>
+						</w>
+						<w gl="I drowned">
+							<m id="4349">ni</m>
+							<m id="5377">shíinvar</m>
+						</w>.'"
+					</kar>
+					<eng>"Ah," Coyote thought then, "now I think I've drowned."</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3919">kôokaninay</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w gl="when they were seeing him">
+							<m id="4408">pa</m>
+							<m id="3977">kun</m>
+							<m id="4155">máah</m>
+							<m id="6035">ti</m>
+						</w>
+						<w>
+							<m id="6337">úuth</m>
+						</w>
+						<w gl="they pushed him back into the river">
+							<m id="3977">kun</m>
+							<m id="4854">píkfuutkaan</m>
+							<m id="6380">va</m>
+						</w>.
+					</kar>
+					<eng>Everywhere they saw him, they pushed him back out into the river.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="1096">chavúra</m>
+						</w>
+						<w>
+							<m id="7233">yûum</m>
+						</w>
+						<w gl="at its ocean">
+							<m id="3970">kuma</m>
+							<m id="7204">yúras</m>
+							<m id="232">ak</m>
+						</w>
+						<w gl="he floated into">
+							<m id="6175">u</m>
+							<m id="5975">thívruuhramnih</m>
+						</w>.
+					</kar>
+					<eng>Finally he floated into the ocean downriver.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3670">káan</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="he floated ashore">
+							<m id="6175">u</m>
+							<m id="5968">thivrúhish</m>
+						</w>.
+					</kar>
+					<eng>He floated to shore there.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w gl="he had">
+							<m id="5506">t</m>
+							<m id="6175">óo</m>
+						</w>
+						<w>
+							<m id="5428">sir</m>
+						</w>
+						<w>
+							<m id="4782">pihnêefich</m>
+						</w>.
+					</kar>
+					<eng>Coyote was just lost.</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						<w>
+							<m id="3670">káan</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w gl="he walked around">
+							<m id="6175">u</m>
+							<m id="6684">vúrayvikeethun</m>
+						</w>.
+					</kar>
+					<eng>He walked around there.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="7038">yánava</m>
+						</w>
+						<w>
+							<m id="3670">káan</m>
+						</w>
+						<w>
+							<m id="1826">ikmaháchraam</m>
+						</w>
+						<w gl="it stood">
+							<m id="6175">u</m>
+							<m id="1653">'íikra</m>
+						</w>.
+					</kar>
+					<eng>He saw a sweathouse standing there.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="he looked into the sweathouse">
+							<m id="6175">u</m>
+							<m id="3430">tvâamnath</m>
+						</w>.
+					</kar>
+					<eng>So he looked inside.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="7038">yánava</m>
+						</w>
+						<w gl="nobody">
+							<m id="5108">púra kará</m>
+							<m id="6880">xay</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>.
+					</kar>
+					<eng>He saw nobody.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="he crawled into the sweathouse">
+							<m id="6175">u</m>
+							<m id="6626">vôoruvrath</m>
+						</w>
+						<w>
+							<m id="4782">pihnêefich</m>
+						</w>.
+					</kar>
+					<eng>So Coyote crawled in.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w>
+							<m id="5502">sú'</m>
+						</w>
+						<w gl="when he arrived">
+							<m id="4408">p</m>
+							<m id="6175">óo</m>
+							<m id="6306">'uum</m>
+						</w>,
+						<w gl="when he looked around">
+							<m id="4408">p</m>
+							<m id="6175">oo</m>
+							<m id="3434">tvárayva</m>
+						</w>,
+						<w gl="their disk-seats">
+							<m id="4407">pa</m>
+							<m id="4264">mukun</m>
+							<m id="2031">'ikrívkir</m>
+						</w>
+						<w>
+							<m id="3930">koovúra</m>
+						</w>
+						<w gl="nothing but fat">
+							<m id="779">athkurit</m>
+							<m id="4275">múrax</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>.
+					</kar>
+					<eng>And when he got inside and looked around, (the people's) seats were all of nothing but fat.</eng>
+				</s>
+				<s>
+					<kar>
+						<w gl="their pillows">
+							<m id="4407">pa</m>
+							<m id="4264">mukun</m>
+							<m id="4671">patúmkir</m>
+						</w>
+						<w>
+							<m id="3752">káru</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w>
+							<m id="779">athkúrit</m>
+						</w>.
+					</kar>
+					<eng>Their pillows were fat too.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3752">káru</m>
+						</w>
+						<w gl="their ladder">
+							<m id="4407">pa</m>
+							<m id="4264">mukun</m>
+							<m id="5057">piykiríkir</m>
+						</w>
+						<w>
+							<m id="6381">vaa</m>
+						</w>
+						<w>
+							<m id="3752">káru</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w>
+							<m id="779">athkúrit</m>
+						</w>.
+					</kar>
+					<eng>And their ladder was fat too.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w gl="he had">
+							<m id="5506">t</m>
+							<m id="6175">óo</m>
+						</w>
+						<w>
+							<m id="6924">xúriha</m>
+						</w>
+						<w>
+							<m id="4782">pihnêefich</m>
+						</w>.
+					</kar>
+					<eng>And Coyote was hungry.</eng>
+				</s>
+				<s>
+					<kar>
+						<w gl="he was thinking">
+							<m id="6175">u</m>
+							<m id="6939">xú</m>
+							<m id="6035">ti</m>
+						</w> "
+						<w>
+							<m id="6042">tîi</m>
+						</w>
+						<w gl="let me take a taste of them!">
+							<m id="3735">kan</m>
+							<m id="4496">pakatkâat</m>
+							<m id="1419">i</m>
+						</w>
+						<w gl="the pillows">
+							<m id="4407">pa</m>
+							<m id="4671">patúmkir</m>
+						</w>."
+					</kar>
+					<eng>And he thought, "Let me taste the pillows!"</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="when he took a taste of them">
+							<m id="4408">p</m>
+							<m id="6175">oo</m>
+							<m id="4496">pakátkat</m>
+						</w>
+						<w gl="extremely good-tasting">
+							<m id="332">amayaa</m>
+							<m id="2947">'íshara</m>
+						</w>.
+					</kar>
+					<eng>And when he tasted them, they were very good-tasting.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="1096">chavúra</m>
+						</w>
+						<w>
+							<m id="3930">koovúra</m>
+						</w>
+						<w gl="he devoured them">
+							<m id="6175">u</m>
+							<m id="5851">tháfip</m>
+						</w>,
+						<w gl="their ladder">
+							<m id="4407">pa</m>
+							<m id="4264">mukun</m>
+							<m id="5057">piykiríkir</m>
+						</w>
+						<w>
+							<m id="6381">vaa</m>
+						</w>
+						<w>
+							<m id="3752">káru</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w gl="he devoured it">
+							<m id="6175">u</m>
+							<m id="5851">tháfip</m>
+						</w>.
+					</kar>
+					<eng>Finally he ate them all up, he ate their ladder up too.</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w>
+							<m id="924">axmáy</m>
+						</w>
+						<w>
+							<m id="1281">fâat</m>
+						</w>
+						<w>
+							<m id="3999">kúnish</m>
+						</w>
+						<w gl="he heard it">
+							<m id="6175">u</m>
+							<m id="5954">thítiv</m>
+						</w>.
+					</kar>
+					<eng>And suddenly he sort of heard something.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="he thought">
+							<m id="6175">u</m>
+							<m id="6939">xús</m>
+						</w> "
+						<w>
+							<m id="1144">chími</m>
+						</w>
+						<w gl="let me hide myself!">
+							<m id="3735">kan</m>
+							<m id="1441">íchunv</m>
+							<m id="1419">i</m>
+						</w>."
+					</kar>
+					<eng>And he thought, "Let me hide!"</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w>
+							<m id="6383">vaa</m>
+						</w>
+						<w>
+							<m id="3670">káan</m>
+						</w>
+						<w gl="behind the woodpile">
+							<m id="222">ahup'iyvoorá</m>
+							<m id="4146">maam</m>
+						</w>
+						<w>
+							<m id="3670">káan</m>
+						</w>
+						<w gl="he laid down">
+							<m id="6175">u</m>
+							<m id="52">'áasish</m>
+						</w>.
+					</kar>
+					<eng>And he lay down there behind the woodpile.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w>
+							<m id="2294">ikxúrar</m>
+						</w>
+						<w gl="when they came back into the sweathouse">
+							<m id="4408">pa</m>
+							<m id="3977">kun</m>
+							<m id="4685">pavyíhivrath</m>
+						</w>.
+					</kar>
+					<eng>And in the evening (the people) came back in the sweathouse"</eng>
+				</s>
+				<s>
+					<kar>
+						<w gl="each person">
+							<m id="7097">ith</m>
+							<m id="506">'áraan</m>
+						</w>
+						<w>
+							<m id="4357">ník</m>
+						</w>
+						<w>
+							<m id="3978">kúna</m>
+						</w>
+						<w gl="he had">
+							<m id="5506">t</m>
+							<m id="6175">óo</m>
+						</w>
+						<w gl="come back into the sweathouse">
+							<m id="2674">p</m>
+							<m id="6626">vôoruvrath</m>
+						</w>,
+						<w gl="they fell down">
+							<m id="3977">kun</m>
+							<m id="3360">ithyivúniih</m>
+							<m id="6380">vu</m>
+							<m id="6035">tih</m>
+						</w>.
+					</kar>
+					<eng>(As) each person crawled in, they fell down.</eng>
+					<note publish="yes">Bright: "Not basic ith'áraan 'stranger,' but and external-sandhi variant of basic ith'áraara 'one person, each person.'"</note>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3745">kári</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="they said">
+							<m id="3977">kun</m>
+							<m id="4823">píip</m>
+						</w> "
+						<w>
+							<m id="4299">naa</m>
+						</w>
+						<w gl="I am thinking">
+							<m id="4349">ni</m>
+							<m id="6939">xú</m>
+							<m id="6035">ti</m>
+						</w> '
+						<w>
+							<m id="4782">pihnêefich</m>
+						</w>
+						<w>	
+							<m id="4387">ôokninay</m>
+						</w>
+						<w gl="he is wandering">
+							<m id="6175">u</m>
+							<m id="6683">vúrayvu</m>
+							<m id="6035">tih</m>
+						</w>.'
+					</kar>
+					<eng>And they said, "I think Coyote is wandering around here.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6381">vaa</m>
+						</w>
+						<w gl="who that">
+							<m id="4408">pá</m>
+							<m id="6383">vaa</m>
+						</w>
+						<w>
+							<m id="5506">tá</m>
+						</w>
+						<w gl="one who made mischief">
+							<m id="4007">kupavêenah</m>
+							<m id="369">an</m>
+						</w>,
+						<w>
+							<m id="3930">koovúra</m>
+						</w>
+						<w gl="he has devoured them">
+							<m id="5506">t</m>
+							<m id="6175">u</m>
+							<m id="5851">tháfip</m>
+						</w>
+						<w gl="our pillows">
+							<m id="4407">pa</m>
+							<m id="4327">nunu</m>
+							<m id="4671">patúmkir</m>
+						</w>."
+					</kar>
+					<eng>That's who did that, he ate up all our pillows."</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w>
+							<m id="6383">vaa</m>
+						</w>
+						<w gl="he lay">
+							<m id="6175">u</m>
+							<m id="5845">tháaniv</m>
+						</w>,
+						<w gl="he was listening">
+							<m id="6175">u</m>
+							<m id="5954">thítiim</m>
+							<m id="6035">ti</m>
+						</w>
+						<w gl="when they were talking about him">
+							<m id="4408">pa</m>
+							<m id="3977">kun</m>
+							<m id="1209">chuphúruthuna</m>
+							<m id="6035">tih</m>
+						</w>.
+					</kar>
+					<eng>(Coyote) lay like that, he heard them talking about him.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3745">kári</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="they said">
+							<m id="3977">kun</m>
+							<m id="4823">píip</m>
+						</w> "
+						<w>
+							<m id="1144">chími</m>
+						</w>
+						<w gl="let us spend the night away from home">
+							<m id="4370">nu</m>
+							<m id="4498">pákmuuvan</m>
+							<m id="6380">v</m>
+							<m id="1419">i</m>
+						</w>
+						<w>
+							<m id="6219">uknamxánahich</m>
+						</w>."
+					</kar>
+					<eng>And they said, "Let's spend the night away from home, at uknamxánahich."</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						<w>
+							<m id="3745">kári</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="he was thinking">
+							<m id="6175">u</m>
+							<m id="6939">xú</m>
+							<m id="6035">ti</m>
+						</w>
+						<w>
+							<m id="4782">pihnêefich</m>
+						</w> "
+						<w gl="my country">
+							<m id="4326">nani</m>
+							<m id="3257">thívthaaneen</m>
+						</w>
+						<w>
+							<m id="5506">tá</m>
+						</w>
+						<w gl="they talk about it">
+							<m id="3977">kun</m>
+							<m id="1209">chuphúruthun</m>
+						</w>."
+					</kar>
+					<eng>And Coyote thought, "They're talking about my country."</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="he jumped out">
+							<m id="6175">u</m>
+							<m id="566">'árihrishuk</m>
+						</w>.
+					</kar>
+					<eng>And he jumped out.</eng>
+				</s>
+				<s>
+					<kar>
+						"
+						<w>
+							<m id="2949">ishávaas</m>
+						</w>,
+						<w gl="my nephews">
+							<m id="4326">nani</m>
+							<m id="2949">shavás</m>
+							<m id="1724">iivsha</m>
+						</w>,
+						<w gl="I will go along">
+							<m id="4349">ni</m>
+							<m id="2674">p</m>
+							<m id="5961">thivkée</m>
+							<m id="1379">vish</m>
+						</w>."
+					</kar>
+					<eng>"Nephew, my nephew, I'll go along."</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="they said">
+							<m id="3977">kun</m>
+							<m id="4823">píip</m>
+						</w> "
+						<w>
+							<m id="1107">chémi</m>
+						</w>.
+					</kar>
+					<eng>And they said, "All right.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3978">kúna</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w>
+							<m id="6881">xáyfaat</m>
+						</w>
+						<w gl="you open your eyes">
+							<m id="1418">i</m>
+							<m id="7240">yúupha</m>
+						</w>."
+					</kar>
+					<eng>But don't open your eyes."</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						"
+						<w>
+							<m id="1107">chémi</m>
+						</w>,
+						<w>
+							<m id="6383">vaa</m>
+						</w>
+						<w>
+							<m id="4357">ník</m>
+						</w>
+						<w gl="I will do it">
+							<m id="4349">ni</m>
+							<m id="4086">kuph</m>
+							<m id="1379">eesh</m>
+						</w>.
+					</kar>
+					<eng>"All right, I'll do that.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w gl="I will not open my eyes">
+							<m id="5082">pu</m>
+							<m id="4295">ná</m>
+							<m id="7240">yuuph</m>
+							<m id="1379">eesh</m>
+							<m id="1371">ara</m>
+						</w>."
+					</kar>
+					<eng>I won't open my eyes."</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="they told him">
+							<m id="3977">kun</m>
+							<m id="2733">ipêer</m>
+						</w> "
+						<w>
+							<m id="1144">chími</m>
+						</w>
+						<w gl="in the boat">
+							<m id="4413">páah</m>
+							<m id="232">ak</m>
+						</w>
+						<w>
+							<m id="6439">váramnih</m>
+						</w>.
+					</kar>
+					<eng>And they told him, "Get in the boat.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="5497">súva</m>
+						</w>
+						<w>
+							<m id="4357">ník</m>
+						</w>
+						<w>
+							<m id="599">asámyiith</m>
+						</w>
+						<w gl="it will make a noise">
+							<m id="6175">u</m>
+							<m id="3497">xák</m>
+							<m id="1379">eesh</m>
+						</w>,
+						<w gl="you will know">
+							<m id="1418">i</m>
+							<m id="6939">xus</m>
+							<m id="1379">êesh</m>
+						</w> '
+						<w>
+							<m id="5506">tá</m>
+						</w>
+						<w gl="we went back to there">
+							<m id="4370">nu</m>
+							<m id="4691">pávyiihma</m>
+						</w>.'
+					</kar>
+					<eng>You will hear gravel sound, you will know we have arrived.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="5163">púyava</m>
+						</w>
+						<w>
+							<m id="1729">ík</m>
+						</w>
+						<w>
+							<m id="3745">kári</m>
+						</w>
+						<w>
+							<m id="6848">xasík</m>
+						</w>
+						<w gl="you will open your eyes">
+							<m id="1418">i</m>
+							<m id="7240">yúuph</m>
+							<m id="1379">eesh</m>
+						</w>.
+					</kar>
+					<eng>Then you can open your eyes.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3978">kúna</m>
+						</w>
+						<w gl="if you open your eyes">
+							<m id="4408">p</m>
+							<m id="1418">ee</m>
+							<m id="7240">yuuph</m>
+							<m id="1358">âak</m>
+						</w>
+						<w gl="we will not go back there">
+							<m id="5082">pu</m>
+							<m id="3844">kin</m>
+							<m id="4691">pávyiihm</m>
+							<m id="1379">eesh</m>
+							<m id="1371">ara</m>
+						</w>.
+					</kar>
+					<eng>But if you open your eyes (before), we won't get there.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6383">vaa</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w>
+							<m id="4385">ôok</m>
+						</w>
+						<w gl="we will float back to here">
+							<m id="4370">nu</m>
+							<m id="2674">p</m>
+							<m id="5969">thivrúhuk</m>
+							<m id="1379">eesh</m>
+						</w>."
+					</kar>
+					<eng>We'll float back to here."</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						"
+						<w>
+							<m id="1107">chémi</m>
+						</w>,
+						<w>
+							<m id="6383">vaa</m>
+						</w>
+						<w>
+							<m id="4357">ník</m>
+						</w>
+						<w gl="I will do it">
+							<m id="4349">ni</m>
+							<m id="4086">kuph</m>
+							<m id="1379">eesh</m>
+						</w>."
+					</kar>
+					<eng>"All right, I'll do that."</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3745">kári</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w>
+							<m id="6174">ta'ítam</m>
+						</w>
+						<w gl="they paddled off">
+							<m id="3977">kun</m>
+							<m id="2674">íp</m>
+							<m id="6543">viitshur</m>
+							<m id="1378">aheen</m>
+						</w>.
+					</kar>
+					<eng>And so they paddled off.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="4782">pihnêefich</m>
+						</w> "
+						<w gl="in the boat">
+							<m id="4413">páah</m>
+							<m id="232">ak</m>
+						</w>"
+						<w gl="they told him">
+							<m id="3977">kun</m>
+							<m id="2733">ipêer</m>
+						</w> "
+						<w>
+							<m id="5502">sú'</m>
+						</w>
+						<w gl="lie face down!">
+							<m id="3337">ithxuuprámnih</m>
+							<m id="1419">i</m>
+						</w>."
+					</kar>
+					<eng>They told Coyote, "Lie face down in the boat."</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6174">ta'ítam</m>
+						</w>
+						<w>
+							<m id="4782">pihnêefich</m>
+						</w>
+						<w gl="he lay face down">
+							<m id="6175">ú</m>
+							<m id="3337">thxuupramnih</m>
+						</w>.
+					</kar>
+					<eng>So Coyote lay face down in it.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6174">ta'ítam</m>
+						</w>
+						<w gl="they paddled off">
+							<m id="3977">kun</m>
+							<m id="2674">íp</m>
+							<m id="6543">viitshur</m>
+							<m id="1378">aheen</m>
+						</w>.
+					</kar>
+					<eng>So they paddled off.</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						<w>
+							<m id="1096">chavúra</m>
+						</w>
+						<w gl="he had become unwilling">
+							<m id="5506">t</m>
+							<m id="6175">u</m>
+							<m id="6328">'ûuri</m>
+						</w>
+						<w>
+							<m id="4782">pihnêefich</m>
+						</w>
+						<w gl="while he lay face down">
+							<m id="4408">p</m>
+							<m id="6175">óo</m>
+							<m id="3337">thxuupramnih</m>
+						</w>.
+					</kar>
+					<eng>Finally Coyote got tired of lying face down.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="he thought">
+							<m id="6175">u</m>
+							<m id="6939">xús</m>
+						</w>
+						<w>
+							<m id="4782">pihnêefich</m>
+						</w> "
+						<w>
+							<m id="6042">tîi</m>
+						</w>
+						<w gl="let me look out!">
+							<m id="3735">kan</m>
+							<m id="3397">itníshuk</m>
+						</w>."
+					</kar>
+					<eng>And Coyote thought, "Let me look out!"</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6570">víri</m>
+						</w>
+						<w gl="when he looked out">
+							<m id="4408">p</m>
+							<m id="6175">oo</m>
+							<m id="3397">tníshuk</m>
+						</w>
+						<w>
+							<m id="6570">víri</m>
+						</w>
+						<w>
+							<m id="6314">uumyâach</m>
+						</w>
+						<w gl="they floated back ashore">
+							<m id="3977">kun</m>
+							<m id="2674">ip</m>
+							<m id="5968">thivrúhish</m>
+						</w>
+						<w>
+							<m id="6337">úuth</m>
+						</w>
+						<w>
+							<m id="7208">yúrastiim</m>
+						</w>.
+					</kar>
+					<eng>When he barely looked out, they floated ashore out at the ocean, at the seashore.</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="they were telling him">
+							<m id="3977">kun</m>
+							<m id="2733">ípeen</m>
+							<m id="6035">ti</m>
+						</w>
+						<w>
+							<m id="4782">pihnêefich</m>
+						</w> "
+						<w>
+							<m id="4716">payêem</m>
+						</w>
+						<w gl="we will not go along with you again">
+							<m id="5082">pu</m>
+							<m id="2779">ípkookanp</m>
+							<m id="1379">eesh</m>
+							<m id="1371">ara</m>
+						</w>."
+					</kar>
+					<eng>Then they told Coyote, "Now you won't go along with us again."</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w>
+							<m id="4782">pihnêefich</m>
+						</w>
+						<w gl="he said">
+							<m id="6175">u</m>
+							<m id="4823">píip</m>
+						</w> "
+						<w>
+							<m id="4716">payêem</m>
+						</w>
+						<w>
+							<m id="4357">ník</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w>
+							<m id="2949">ishávaas</m>
+						</w>
+						<w>
+							<m id="6383">vaa</m>
+						</w>
+						<w gl="I will not do it again">
+							<m id="5082">pu</m>
+							<m id="4295">nee</m>
+							<m id="2674">p</m>
+							<m id="4086">kuph</m>
+							<m id="1379">êesh</m>
+							<m id="1371">ara</m>
+						</w>."
+					</kar>
+					<eng>And Coyote said, "I won't do it again this time, nephew."</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						"
+						<w>
+							<m id="1107">chémi</m>
+						</w>,
+						<w>
+							<m id="1192">chôora</m>
+						</w>."
+					</kar>
+					<eng>"All right, let's go."</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6174">ta'ítam</m>
+						</w>
+						<w gl="they went away again">
+							<m id="3977">kun</m>
+							<m id="4695">pávyiihshipree</m>
+							<m id="1378">heen</m>
+						</w>.
+					</kar>
+					<eng>So they left.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6174">ta'ítam</m>
+						</w>
+						<w>
+							<m id="3969">kúkuum</m>
+						</w>
+						<w gl="he closed his eyes">
+							<m id="6175">u</m>
+							<m id="662">'asimchák</m>
+							<m id="1378">aheen</m>
+						</w>.
+					</kar>
+					<eng>Then (Coyote) closed his eyes again.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="1096">chavúra</m>
+						</w>
+						<w>
+							<m id="6839">xára</m>
+						</w>
+						<w>
+							<m id="5562">tah</m>
+						</w>,
+						<w>
+							<m id="924">axmáy</m>
+						</w>
+						<w>
+							<m id="599">asámyiith</m>
+						</w>
+						<w gl="it made a noise">
+							<m id="6175">ú</m>
+							<m id="3497">xak</m>
+						</w>.
+					</kar>
+					<eng>Finally it was a long time, (when) suddenly gravel sounded.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3745">kári</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="they told him">
+							<m id="3977">kun</m>
+							<m id="2733">ipêer</m>
+						</w>
+						<w>
+							<m id="4782">pihnêefich</m>
+						</w> "
+						<w>
+							<m id="1144">chími</m>
+						</w>
+						<w gl="get out!">
+							<m id="6447">várip</m>
+							<m id="1419">i</m>
+						</w>
+						<w gl="at the boat">
+							<m id="4413">páah</m>
+							<m id="232">ak</m>
+						</w>."
+					</kar>
+					<eng>And they told Coyote, "Get out of the boat!"</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						<w gl="when he got out">
+							<m id="4408">p</m>
+							<m id="6175">oo</m>
+							<m id="6447">várip</m>
+						</w>
+						<w>
+							<m id="7038">yánava</m>
+						</w> "
+						<w gl="my country">
+							<m id="4326">nani</m>
+							<m id="3257">thívthaaneen</m>
+						</w>
+						<w>
+							<m id="5506">tá</m>
+						</w>
+						<w gl="I come back">
+							<m id="4349">ni</m>
+							<m id="2694">'ípak</m>
+						</w>."
+					</kar>
+					<eng>When he got out, he saw, (he said), "I've come back to my country!"</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6174">ta'ítam</m>
+						</w>
+						<w gl="he rolled around">
+							<m id="6175">u</m>
+							<m id="5600">takníhithun</m>
+							<m id="1378">aheen</m>
+						</w>.
+					</kar>
+					<eng>Then he rolled around.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="7113">yôotva</m>
+						</w>,
+						<w gl="my country">
+							<m id="4326">nani</m>
+							<m id="3257">shívshaaneen</m>
+						</w>
+						<w>
+							<m id="5506">tá</m>
+						</w>
+						<w gl="I come back">
+							<m id="4349">ni</m>
+							<m id="2694">'ípak</m>
+						</w>."
+					</kar>
+					<eng>"Hurray, I've come back to my country!"</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						<w>
+							<m id="5160">púya</m>
+						</w>
+						<w>
+							<m id="6383">vaa</m>
+						</w>
+						<w gl="he did it">
+							<m id="6175">u</m>
+							<m id="4086">kúph</m>
+							<m id="1369">aanik</m>
+						</w>
+						<w>
+							<m id="4782">pihnêefich</m>
+						</w>.
+					</kar>
+					<eng>So that's what Coyote did.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3753">káruk</m>
+						</w>
+						<w>
+							<m id="3054">ishpúk</m>
+						</w>
+						<w gl="he went to get it">
+							<m id="6175">u</m>
+							<m id="2334">kyâar</m>
+							<m id="1369">anik</m>
+						</w>.
+					</kar>
+					<eng>He went upriver to get money.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6570">víri</m>
+						</w>
+						<w>
+							<m id="6383">vaa</m>
+						</w>
+						<w gl="he did it">
+							<m id="6175">u</m>
+							<m id="4086">kúph</m>
+							<m id="1369">aanik</m>
+						</w>
+						<w>
+							<m id="4782">pihnêefich</m>
+						</w>.
+					</kar>
+					<eng>That's what Coyote did.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="5104">púra fâat</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w gl="was good">
+							<m id="7049">yáv</m>
+							<m id="1369">hanik</m>
+						</w>.
+					</kar>
+					<eng>Nothing was any good.</eng>
+				</s>
+				<s>
+					<kar>
+						<w gl="Lizard">
+							<m id="1117">chiimuuch</m>
+							<m id="1670">'îin</m>
+						</w>
+						<w gl="he thought it about him">
+							<m id="3977">kun</m>
+							<m id="6947">xúseer</m>
+							<m id="1369">anik</m>
+						</w> "
+						<w>
+							<m id="3857">kíri</m>
+						</w>
+						<w>
+							<m id="6383">vaa</m>
+						</w>
+						<w gl="he does it">
+							<m id="6175">u</m>
+							<m id="4086">kúupha</m>
+						</w>,
+						<w>
+							<m id="5085">pufáat</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w gl="will not be good">
+							<m id="7049">yáv</m>
+							<m id="1379">heesh</m>
+							<m id="1371">ara</m>
+						</w>."
+					</kar>
+					<eng>Lizard thought about him, "Let him do that, nothing will be any good."</eng>
+				</s>
+			</paragraph>
+		</data>
+	</text>
+						
+					
+						
+						
+							
+						
+						
+					
+							
+				
+						
+							
+						
+							
+						
+						
+						
+						
+						

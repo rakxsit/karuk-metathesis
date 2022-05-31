@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="VS-20d" audio-source="karuk-2012-10-20-vs-4">
+    <metadata>
+        <title>Sentences from <em>Now You're Speaking Karuk</em></title>
+        <author>Vina <alph>Smith</alph></author>
+        <date>2012</date>
+        <publication>Unpublished (recorded by Andrew Garrett and Line Mikkelsen on October 20, 2012)</publication>
+		<genre type="elicitation"/>
+    </metadata>
+    <data>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_02" audio-start-time="1:06:22">
+				<txt lang="kyh">
+					<w>
+						<m lemma="4172">mah'íitnihich</m>
+					</w>.
+				</txt>
+				<trans lang="eng">It's morning.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_03" audio-start-time="1:06:25">
+				<txt lang="kyh">
+					<w>
+						<m lemma="4716">payêem</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w>
+						<m lemma="4172">mah'íitnihich</m>
+					</w>.
+				</txt>
+				<trans lang="eng">It's morning.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_05" audio-start-time="1:06:38">
+				<txt lang="kyh">
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w>
+						<m lemma="4171">mah'íit</m>
+					</w>.
+				</txt>
+				<trans lang="eng">It's getting morning.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_06" audio-start-time="1:07:00">
+				<txt lang="kyh">
+					<w>
+						<m lemma="1144">chími</m>
+					</w>
+					<w gl="you get up">
+						<m lemma="1418">i</m>
+						<m lemma="1788">kfúuksip</m>
+					</w>
+					<w>
+						<m lemma="4716">payêem</m>
+					</w>.
+				</txt>
+				<trans lang="eng">It's time to get up!</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_07" audio-start-time="1:07:14">
+				<txt lang="kyh">
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w>
+						<m lemma="1144">chími</m>
+					</w>
+					<w gl="you get up">
+						<m lemma="1418">i</m>
+						<m lemma="1788">kfúuksip</m>
+					</w>.
+				</txt>
+				<trans lang="eng">It's time to get up!</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_08" audio-start-time="1:07:30">
+				<txt lang="kyh">
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w>
+						<m lemma="3745">kári</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Right now.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_09" audio-start-time="1:07:59">
+				<txt lang="kyh">
+					<w>
+						<m lemma="1100">chêech</m>
+					</w>
+					<w gl="you guys get ready!">
+						<m lemma="3829">kii</m>
+						<m lemma="3746">kárih</m>
+						<m lemma="1419">i</m>
+					</w>!
+				</txt>
+				<trans lang="eng">You all get ready fast!</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_10" audio-start-time="1:08:32">
+				<txt lang="kyh">
+					<w>
+						<m lemma="1144">chími</m>
+					</w>
+					<w gl="you guys get ready!">
+						<m lemma="3829">kii</m>
+						<m lemma="3746">kárih</m>
+						<m lemma="1419">i</m>
+					</w>!
+				</txt>
+				<trans lang="eng">You all get ready!</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_11" audio-start-time="1:09:16">
+				<txt lang="kyh">
+					<w>
+						<m lemma="1656">iim</m>
+					</w>
+					<w gl="you did">
+						<m lemma="5506">t</m>
+						<m lemma="1418">ée</m>
+					</w>
+					<w>
+						<m lemma="3746">káriha</m>
+					</w>?
+				</txt>
+				<trans lang="eng">Are you ready yet?</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_12" audio-start-time="1:09:19">
+				<txt lang="kyh">
+					<w>
+						<m lemma="1656">iim</m>
+					</w>
+					<w gl="you did">
+						<m lemma="5506">t</m>
+						<m lemma="1418">ée</m>
+					</w>
+					<w>
+						<m lemma="3746">káriha</m>
+					</w>
+					<w>
+						<m lemma="1402">hum</m>
+					</w>?
+				</txt>
+				<trans lang="eng">Are you ready yet?</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_13" audio-start-time="1:09:47">
+				<txt lang="kyh">
+					<w gl="you have woken up">
+						<m lemma="5506">t</m>
+						<m lemma="1418">i</m>
+						<m lemma="3439">txâarihva</m>
+					</w>
+					<w>
+						<m lemma="1402">hum</m>
+					</w>?
+				</txt>
+				<trans lang="eng">Are you waking up?</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_14" audio-start-time="1:10:30">
+				<txt lang="kyh">
+					<w gl="you have gotten ready">
+						<m lemma="5506">t</m>
+						<m lemma="1418">i</m>
+						<m lemma="3746">káriha</m>
+					</w>
+					<w>
+						<m lemma="1402">hum</m>
+					</w>?
+				</txt>
+				<trans lang="eng">Are you ready?</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_15" audio-start-time="1:10:36">
+				<txt lang="kyh">
+					<w gl="it has become day">
+						<m lemma="5506">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="5469">súpaaha</m>
+					</w>.
+				</txt>
+				<trans lang="eng">It's day.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_16" audio-start-time="1:11:01">
+				<txt lang="kyh">
+					<w>
+						<m lemma="67">áav</m>
+					</w>
+					<w gl="wash it!">
+						<m lemma="4443">paatv</m>
+						<m lemma="1419">i</m>
+					</w>!
+				</txt>
+				<trans lang="eng">Wash your face!</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_17" audio-start-time="1:11:17">
+				<txt lang="kyh">
+					<w>
+						<m lemma="1144">chími</m>
+					</w>
+					<w>
+						<m lemma="3930">koovúra</m>
+					</w>
+					<w>
+						<m lemma="67">áav</m>
+					</w>
+					<w gl="you guys wash it!">
+						<m lemma="3829">kiik</m>
+						<m lemma="4443">páatv</m>
+						<m lemma="1419">i</m>
+					</w>!
+				</txt>
+				<trans lang="eng">You all wash your faces!</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_18" audio-start-time="1:11:34">
+				<txt lang="kyh">
+					<w gl="comb your hair!">
+						<m lemma="2830">iptáxatih</m>
+						<m lemma="1419">i</m>
+					</w>!
+				</txt>
+				<trans lang="eng">Comb your hair!</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_19" audio-start-time="1:11:47">
+				<txt lang="kyh">
+					<w>
+						<m lemma="3930">koovúra</m>
+					</w>
+					<w gl="you guys comb your hair!">
+						<m lemma="3829">kii</m>
+						<m lemma="2830">ptáxatih</m>
+						<m lemma="1419">i</m>
+					</w>!
+				</txt>
+				<trans lang="eng">You all comb your hair!</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_20" audio-start-time="1:11:59">
+				<txt lang="kyh">
+					<w gl="your teeth">
+						<m lemma="4407">pa</m>
+						<m lemma="4238">mí</m>
+						<m lemma="6635">vu</m>
+					</w>
+					<w gl="wash them!">
+						<m lemma="5023">pithxáh</m>
+						<m lemma="1419">i</m>
+					</w>!
+				</txt>
+				<trans lang="eng">Brush your teeth!</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_21" audio-start-time="1:12:21">
+				<txt lang="kyh">
+					<w>
+						<m lemma="3930">koovúra</m>
+					</w>
+					<w gl="your teeth">
+						<m lemma="4407">pa</m>
+						<m lemma="4245">mikún</m>
+						<m lemma="6635">vu</m>
+					</w>
+					<w gl="you guys wash them!">
+						<m lemma="3829">kiik</m>
+						<m lemma="5023">píthxah</m>
+						<m lemma="1419">i</m>
+					</w>!
+				</txt>
+				<trans lang="eng">You all brush your teeth!</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_22" audio-start-time="1:12:36">
+				<txt lang="kyh">
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w>
+						<m lemma="820">ávahiv</m>
+					</w>.
+				</txt>
+				<trans lang="eng">It's time to eat.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_23" audio-start-time="1:12:49">
+				<txt lang="kyh">
+					<w>
+						<m lemma="1660">iimkun</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="you guys are hungry">
+						<m lemma="3939">ku</m>
+						<m lemma="6924">xúriha</m>
+					</w>?
+				</txt>
+				<trans lang="eng">Are you guys hungry?</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_24" audio-start-time="1:13:01">
+				<txt lang="kyh">
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="you guys are hungry">
+						<m lemma="3939">ku</m>
+						<m lemma="6924">xúriha</m>
+					</w>
+					<w>
+						<m lemma="1402">hum</m>
+					</w>?
+				</txt>
+				<trans lang="eng">Are you guys hungry?</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_25" audio-start-time="1:13:12">
+				<txt lang="kyh">
+					<w gl="you had">
+						<m lemma="5506">t</m>
+						<m lemma="1418">ée</m>
+					</w>
+					<w>
+						<m lemma="6924">xúriha</m>
+					</w>
+					<w>
+						<m lemma="1402">hum</m>
+					</w>?
+				</txt>
+				<trans lang="eng">Are you hungry?</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_26" audio-start-time="1:13:25">
+				<txt lang="kyh">
+					<w>
+						<m lemma="1281">fâat</m>
+					</w>
+					<w>
+						<m lemma="1656">iim</m>
+					</w>
+					<w gl="you are going to eat it">
+						<m lemma="1418">i</m>
+						<m lemma="814">'áv</m>
+						<m lemma="1379">eesh</m>
+					</w>?
+				</txt>
+				<trans lang="eng">What are you going to eat?</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_27" audio-start-time="1:13:40">
+				<txt lang="kyh">
+					<w>
+						<m lemma="1281">fâat</m>
+					</w>
+					<w>	
+						<m lemma="1660">iimkun</m>
+					</w>
+					<w gl="you guys are going to eat it">
+						<m lemma="3939">ku</m>
+						<m lemma="814">'áv</m>
+						<m lemma="1379">eesh</m>
+					</w>?
+				</txt>
+				<trans lang="eng">What are you guys going to eat?</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_28" audio-start-time="1:13:53">
+				<txt lang="kyh">
+					<w>
+						<m lemma="1281">fâat</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w>
+						<m lemma="3930">koovúra</m>
+					</w>
+					<w gl="we are going to eat it">
+						<m lemma="4370">nu</m>
+						<m lemma="814">'áv</m>
+						<m lemma="1379">eesh</m>
+					</w>?
+				</txt>
+				<trans lang="eng">What are we all going to eat?</trans>
+			</s>
+		</paragraph>
+		<!-- <paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_29" audio-start-time="1:13:57" display="hide">
+				<txt lang="kyh">
+					<w>
+						<m lemma="1281">fâat</m>
+					</w>
+					<w>
+						<m lemma="1656">iim</m>
+					</w>
+					<w>
+						<m lemma="3930">koovúra</m>
+					</w>
+					<w gl="we are going to eat it">
+						<m lemma="4370">nu</m>
+						<m lemma="814">'áv</m>
+						<m lemma="1379">eesh</m>
+					</w>?
+				</txt>
+				<trans lang="eng">What are we all going to eat?</trans>
+			</s>
+		</paragraph> -->
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_30" audio-start-time="1:14:27">
+				<txt lang="kyh">
+					<w>
+						<m lemma="1281">fâat</m>
+					</w>
+					<w gl="we are going to eat it">
+						<m lemma="4370">nu</m>
+						<m lemma="814">'am</m>
+						<m lemma="6648">vunâa</m>
+						<m lemma="1379">vish</m>
+					</w>?
+				</txt>
+				<trans lang="eng">What are we all going to be eating?</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_31" audio-start-time="1:14:38">
+				<txt lang="kyh">
+					<w>
+						<m lemma="1144">chími</m>
+					</w>
+					<w gl="let's eat!">
+						<m lemma="4370">nu</m>
+						<m lemma="814">'am</m>
+					</w>!
+				</txt>
+				<trans lang="eng">Let's eat!</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_32" audio-start-time="1:14:44">
+				<txt lang="kyh">
+					<w>
+						<m lemma="1144">chími</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w>
+						<m lemma="820">ávahiv</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Let's eat!</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_33" audio-start-time="1:15:19">
+				<txt lang="kyh">
+					<w>
+						<m lemma="5541">taay</m>
+					</w>
+					<w>
+						<m lemma="6675">vúra</m>
+					</w>
+					<w gl="feed me!">
+						<m lemma="4294">na</m>
+						<m lemma="249">'ákih</m>
+						<m lemma="1419">i</m>
+					</w>!
+				</txt>
+				<trans lang="eng">Feed me a lot!</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_34" audio-start-time="1:15:21">
+				<txt lang="kyh">
+					<w>
+						<m lemma="3969">kúkuum</m>
+					</w>
+					<w>
+						<m lemma="5541">taay</m>
+					</w>
+					<w>
+						<m lemma="6675">vúra</m>
+					</w>
+					<w gl="feed me!">
+						<m lemma="4294">na</m>
+						<m lemma="249">'ákih</m>
+						<m lemma="1419">i</m>
+					</w>!
+				</txt>
+				<trans lang="eng">Feed me a lot again!</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_35" audio-start-time="1:16:40">
+				<txt lang="kyh">
+					<w gl="you had">
+						<m lemma="5506">t</m>
+						<m lemma="1419">ée</m>
+					</w>
+					<w>
+						<m lemma="2222">kvúrishrih</m>
+					</w>
+					<w>
+						<m lemma="1402">hum</m>
+					</w>?
+				</txt>
+				<trans lang="eng">Are you tired?</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_36" audio-start-time="1:16:48">
+				<txt lang="kyh">
+					<w>
+						<m lemma="4299">naa</m>
+					</w>
+					<w>
+						<m lemma="6675">vúra</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="I am tired">
+						<m lemma="4296">nee</m>
+						<m lemma="2222">kvúrishrih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">I'm tired.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_37" audio-start-time="1:17:03">
+				<txt lang="kyh">
+					<w gl="you are going to rest">
+						<m lemma="1418">i</m>
+						<m lemma="2856">pûunv</m>
+						<m lemma="1379">eesh</m>
+					</w>
+					<w>
+						<m lemma="1402">hum</m>
+					</w>?
+				</txt>
+				<trans lang="eng">Do you want to rest?</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_38" audio-start-time="1:17:27">
+				<txt lang="kyh">
+					<w gl="I am going to rest">
+						<m lemma="4349">ni</m>
+						<m lemma="2856">pûunv</m>
+						<m lemma="1379">eesh</m>
+					</w>.
+				</txt>
+				<trans lang="eng">I'm going to take a rest.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_39" audio-start-time="1:17:34">
+				<txt lang="kyh">
+					<w gl="I am going to rest">
+						<m lemma="4349">ni</m>
+						<m lemma="2856">pûunv</m>
+						<m lemma="1379">eesh</m>
+					</w>
+					<w>
+						<m lemma="6675">vúra</m>
+					</w>.
+				</txt>
+				<trans lang="eng">I'm going to take a rest.</trans>
+			</s>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_40" audio-start-time="1:17:46">
+				<txt lang="kyh">
+					<w>
+						<m lemma="1656">iim</m>
+					</w>
+					<w>
+						<m lemma="3752">káru</m>
+					</w>.
+				</txt>
+				<trans lang="eng">You too.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_41" audio-start-time="1:17:56">
+				<txt lang="kyh">
+					<w>	
+						<m lemma="1144">chími</m>
+					</w>
+					<w gl="let's rest!">
+						<m lemma="4370">nú</m>
+						<m lemma="2856">puunv</m>
+						<m lemma="1419">i</m>
+					</w>!
+				</txt>
+				<trans lang="eng">Let's (you and I) rest!</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_42" audio-start-time="1:17:59">
+				<txt lang="kyh">
+					<w>
+						<m lemma="1109">chí</m>
+					</w>
+					<w gl="let's rest!">
+						<m lemma="4370">nú</m>
+						<m lemma="2856">puunv</m>
+						<m lemma="1419">i</m>
+					</w>!
+				</txt>
+				<trans lang="eng">Let's (you and I) rest!</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_43" audio-start-time="1:18:12">
+				<txt lang="kyh">
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="I am sleepy">
+						<m lemma="4296">née</m>
+						<m lemma="2189">kviit-ha</m>
+					</w>.
+				</txt>
+				<trans lang="eng">I am sleepy</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_44" audio-start-time="1:18:29">
+				<txt lang="kyh">
+					<w>
+						<m lemma="1660">iimkun</m>
+					</w>
+					<w gl="you guys sleep!">
+						<m lemma="3829">kii</m>
+						<m lemma="2189">kvíit-hi</m>
+						<m lemma="4298">naa</m>
+					</w>!
+				</txt>
+				<trans lang="eng">You all go to sleep!</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_45" audio-start-time="1:18:43">
+				<txt lang="kyh">
+					<w gl="put on your shoes!">
+						<m lemma="2880">ipyukúkuh</m>
+						<m lemma="1419">i</m>
+					</w>
+					<w gl="your shoes">
+						<m lemma="4407">pa</m>
+						<m lemma="4238">mi</m>
+						<m lemma="7154">yukúkuh</m>
+					</w>!
+				</txt>
+				<trans lang="eng">Put on your shoes!</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_46" audio-start-time="1:19:01">
+				<txt lang="kyh">
+					<w gl="you guys put on your shoes!">
+						<m lemma="3829">kii</m>
+						<m lemma="2880">pyukúkuh</m>
+						<m lemma="1419">i</m>
+					</w>!
+				</txt>
+				<trans lang="eng">You guys put on your shoes!</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_47" audio-start-time="1:19:13">
+				<txt lang="kyh">
+					<w gl="you guys put on your shoes!">
+						<m lemma="3829">kii</m>
+						<m lemma="2880">pyukúkuh</m>
+						<m lemma="1419">i</m>
+					</w>
+					<w gl="your shoes">
+						<m lemma="4407">pa</m>
+						<m lemma="4238">mi</m>
+						<m lemma="7154">yukúkuh</m>
+					</w>,
+					<w>
+						<m language="english">Andrew</m>
+					</w>
+					<w>
+						<m lemma="3752">káru</m>
+					</w>
+					<w>
+						<m language="english">Line</m>
+					</w>!
+				</txt>
+				<trans lang="eng">Andrew and Line, put on your shoes!</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_48" audio-start-time="1:19:27">
+				<txt lang="kyh">
+					<w>
+						<m lemma="1660">iimkun</m>
+					</w>
+					<w gl="you guys take off your shoes!">
+						<m lemma="3829">kii</m>
+						<m lemma="5065">piyukúkuhsur</m>
+						<m lemma="6380">oo</m>
+					</w>!
+				</txt>
+				<trans lang="eng">You guys take off your shoes!</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_49" audio-start-time="1:19:38">
+				<txt lang="kyh">
+					<w gl="you guys take off your shoes!">
+						<m lemma="3829">kii</m>
+						<m lemma="5065">piyukúkuhsur</m>
+						<m lemma="6380">oo</m>
+					</w>!
+				</txt>
+				<trans lang="eng">You guys take off your shoes!</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_50" audio-start-time="1:19:55">
+				<txt lang="kyh">
+					<w gl="you guys take off your clothes">
+						<m lemma="3829">kiik</m>
+						<m lemma="4984">pishnakaríshuk</m>
+						<m lemma="6380">va</m>
+					</w>
+					<w gl="your clothes">
+						<m lemma="4407">pa</m>
+						<m lemma="4245">mikún</m>
+						<m lemma="5230">saanva</m>
+					</w>!
+				</txt>
+				<trans lang="eng">You guys take off your clothes.</trans>
+			</s>
+		</paragraph>
+		<!-- <paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_51" audio-start-time="1:20:09" display="hide">
+				<txt lang="kyh">
+					<w>
+						<m lemma="1660">iimkun</m>
+					</w>
+					<w gl="you guys take off your clothes">
+						<m lemma="3829">kiik</m>
+						<m lemma="4984">pishnakaríshuk</m>
+						<m lemma="6380">va</m>
+					</w>
+					<w>
+						<m lemma="3906">kóo</m>
+					</w>
+					<w gl="your clothes">
+						<m lemma="4407">pa</m>
+						<m lemma="4245">mikún</m>
+						<m lemma="5230">saanva</m>
+					</w>!
+				</txt>
+				<trans lang="eng">You guys take off your clothes.</trans>
+			</s> 
+		</paragraph> -->
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_D_52" audio-start-time="1:21:23">
+				<txt lang="kyh">
+					<w gl="you guys sleep!">
+						<m lemma="3829">kii</m>
+						<m lemma="2189">kvíit-hi</m>
+						<m lemma="4298">naa</m>
+					</w>!
+				</txt>
+				<trans lang="eng">You guys go to sleep!</trans>
+			</s>
+		</paragraph>
+	</data>
+</text>
+						
+		
+		
+							
+						
+			
+			
+						
+					
+				
+				
+					
+		
+					
+						
+						
+					
+			
+					
+				
+						
+						
+		
+			
+						
+					
+					
+					
+						
+						
+						
+				
+				
+                
+                

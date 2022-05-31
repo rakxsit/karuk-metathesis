@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="JPH_KT-01b">
+    <metadata>
+        <title>"How Buzzard Became Bald"</title>
+        <author>
+            <alph>Yâas</alph>
+        </author>
+        <date>1930</date>
+        <publication>J. P. Harrington, <em>International Journal of American Linguistics</em> 6
+            (1930), pp. 125-126, Text 1b</publication>
+	    <pdf filename="JPH_KT-01b.pdf" caption="Published text scan"/><!-- is this ok to post, copyright wise?-->
+	    <note publish="yes">This text retains Harrington's spelling in some cases (e.g., writing double consonants, writing a small y and w for consonants that have these sounds following them). Long vowels, ', ch, th, sh, and accent (where possible) are written using the current spelling system.</note><!-- add note about glottal marks when I figure out what's going on-->
+
+<!-- version with palatalization/labialization and gemination-->
+    </metadata>
+    <data>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w id="JPH_KT-01b:1" head="JPH_KT-01b:8" synrel="DIS">
+                        <m lemma="6570">víri</m>
+                    </w>
+                    <w id="JPH_KT-01b:2" head="JPH_KT-01b:8" synrel="DIS">
+                        <m lemma="6383">vaa</m>
+                    </w>
+                   <!-- <w>
+                        <m lemma="6847">xás</m>
+                    </w> this is not in published version-->
+                    <w gl="after it" id="JPH_KT-01b:3" head="JPH_KT-01b:8" synrel="ADV">
+                        <m lemma="4260">mu</m>
+                        <m lemma="1503">'íffuth</m>
+                    </w>
+                    <w id="JPH_KT-01b:4" head="JPH_KT-01b:8" synrel="SBJ">
+                        <m lemma="4966">pirishk<sup>y</sup>âarim</m>
+                    </w>
+                    <w id="JPH_KT-01b:5" head="JPH_KT-01b:8" synrel="TAM"><m lemma="5506">ta</m></w>
+                    <w id="JPH_KT-01b:6" head="JPH_KT-01b:8" synrel="TAM"><m lemma="2671">'íp</m><!-- ta'ip one word in published version-->
+                    </w>
+                    <w id="JPH_KT-01b:7" head="JPH_KT-01b:4" synrel="APOS">
+                        <m lemma="6307">uum</m>
+                    </w>
+                    <w id="JPH_KT-01b:8" head="0" synrel="PRED">
+                        <m lemma="4213">máruk</m>
+                    </w>,
+                    <w id="JPH_KT-01b:9" head="JPH_KT-01b:12" synrel="ADV">
+                        <m lemma="3969">kúkkuum</m>
+                    </w>
+                    <w id="JPH_KT-01b:10" head="JPH_KT-01b:12" synrel="DIS">
+                        <m lemma="3745">kári</m>
+                    </w>
+                    <w id="JPH_KT-01b:11" head="JPH_KT-01b:12" synrel="COMP">
+                        <m lemma="6383">vaa</m>
+                    </w>
+                    <w gl="they did that way" id="JPH_KT-01b:12" head="0" synrel="PRED">
+                        <m lemma="3977">kun</m>
+                        <m lemma="4086">kúpha</m>
+                        <m lemma="1369">'anik</m>
+                    </w>
+                    <w gl="the First People" id="JPH_KT-01b:13" head="JPH_KT-01b:12" synrel="SBJ">
+                        <m lemma="4407" id="JPH_KT-01b:14" head="JPH_KT-01b:13" synrel="ATR">p</m>
+                        <m lemma="2252">eekxaréeyav</m></w>,
+                   <w id="JPH_KT-01b:15" head="JPH_KT-01b:17" synrel="COMP">
+                        <m lemma="792">atipimámvaan</m>
+                    </w>
+                    <w id="JPH_KT-01b:16" head="JPH_KT-01b:15" synrel="COORD">
+                        <m lemma="126">achvúun</m>
+                    </w>
+                    <w id="JPH_KT-01b:17" head="JPH_KT-01b:18" synrel="SBJ">
+                        <m lemma="6756">xákkaan</m>
+                    </w>
+                    <w gl="they fought" id="JPH_KT-01b:18" head="0" synrel="PRED">
+                        <m lemma="3977">kun</m>
+                        <m lemma="6474">váthth</m>
+                        <m lemma="1369">êen'nik</m>
+                    </w>.
+		</txt>
+                <trans lang="eng">Then after Grizzly Bear was already up the hill, again the <em>Ikxareyavs</em> did it, Buzzard and Hookbill had a fight.</trans>
+            </s>
+            <s>
+                <txt lang="kyh"> 
+					"<w id="JPH_KT-01b:19" head="JPH_KT-01b:21" synrel="COMP">
+                        <m lemma="1656">iim</m>
+                    </w>
+                    <w id="JPH_KT-01b:20" head="JPH_KT-01b:22" synrel="DIS">
+                        <m lemma="6675">vúra</m>
+                    </w>
+                    <w id="JPH_KT-01b:21" head="JPH_KT-01b:22" synrel="SBJ">
+						<m lemma="1670">îin</m>
+					</w>
+                    <w gl="you will not kill me" id="JPH_KT-01b:22" head="JPH_KT-01b:26" synrel="QUOT">
+						<m lemma="5082" id="JPH_KT-01b:23" head="JPH_KT-01b:22" synrel="NEG">pu</m>
+						<m lemma="4294">n</m>
+						<m lemma="3580">êek<sup>y</sup>ár</m>
+						<m lemma="1379">eesh</m>
+						<m lemma="1371">ara</m>
+					</w>?" 
+					<w id="JPH_KT-01b:24" head="JPH_KT-01b:26" synrel="SBJ"><!-- accent should probably be the second one according to WB (although somewhat unclear), but JPH writes both; possibly because really iyk not iik? ?-->
+                        <m lemma="792">atipimámvaan</m>
+                    </w>
+                    <w id="JPH_KT-01b:25" head="JPH_KT-01b:26" synrel="IO">
+                        <m lemma="126">achvúun</m>
+                    </w>
+                    <w gl="he told him" id="JPH_KT-01b:26" head="0" synrel="PRED">
+						<m lemma="6175">ú</m>
+						<m lemma="2733">peer</m>
+						<m lemma="1369">anik</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">"You are not going to kill me?" said Buzzard to Hookbill.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="JPH_KT-01b:27" head="JPH_KT-01b:29" synrel="DIS">
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w id="JPH_KT-01b:28" head="JPH_KT-01b:29" synrel="SBJ">
+                        <m lemma="126">achvúun</m>
+                    </w>
+                    <w gl="he said" id="JPH_KT-01b:29" head="0" synrel="PRED">
+                        <m lemma="6175">u</m>
+                        <m lemma="4823">ppiip</m>
+                    </w>: 
+					"<w id="JPH_KT-01b:30" head="JPH_KT-01b:31" synrel="COMP">
+						<m lemma="4299">naa</m>
+					</w>
+                    <w id="JPH_KT-01b:31" head="JPH_KT-01b:32" synrel="SBJ">
+						<m lemma="1670">îin</m>
+					</w>
+                    <w gl="I shall not kill you" id="JPH_KT-01b:32" head="JPH_KT-01b:29" synrel="QUOT">
+						<m lemma="5082" id="JPH_KT-01b:33" head="JPH_KT-01b:32" synrel="NEG">pu</m>
+						<m lemma="3845">kin</m>
+						<m lemma="3580">îik<sup>y</sup>ár</m>
+						<m lemma="1379">eesh</m>
+						<m lemma="1371">ara</m>
+					</w>,<!-- accent should probably be the second one according to WB (although somewhat unclear), but JPH writes both-->
+					<w id="JPH_KT-01b:34" head="JPH_KT-01b:38" synrel="DIS">
+                        <m lemma="6383">vaa</m>
+                    </w>
+                    <w id="JPH_KT-01b:35" head="JPH_KT-01b:38" synrel="DIS">
+                        <m lemma="6675">vúra</m>
+                    </w>
+                    <w id="JPH_KT-01b:36" head="JPH_KT-01b:37" synrel="ATR">
+                        <m lemma="4715">páy</m>
+                    </w>
+                    <w id="JPH_KT-01b:37" head="JPH_KT-01b:38" synrel="COMP">
+                        <m lemma="3922">k<sup>y</sup>ôomahich</m>
+                    </w>
+                    <w gl="I shall do to you" id="JPH_KT-01b:38" head="JPH_KT-01b:29" synrel="QUOT">
+                        <m lemma="4370">nu</m>
+                        <m lemma="2657">níshsh</m>
+                        <m lemma="1379">eesh</m>
+                    </w>."
+		  </txt>
+                <trans lang="eng">Then Hookbill said: "I am not going to kill you, this is all that I'm going to do to you."</trans>
+            </s>
+	    <s>
+                <txt lang="kyh">
+                    <w id="JPH_KT-01b:39" head="JPH_KT-01b:40" synrel="DIS">
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w gl="he picked him up" id="JPH_KT-01b:40" head="0" synrel="PRED">
+                        <m lemma="6175">u</m>
+                        <m lemma="1225">'êechip</m>
+                    </w>
+                    <w id="JPH_KT-01b:41" head="JPH_KT-01b:43" synrel="DIS">
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w gl="in the fireplace" id="JPH_KT-01b:42" head="JPH_KT-01b:43" synrel="COMP">
+                        <m lemma="197">ahíram</m>
+                        <m lemma="232">ak</m>
+                    </w>
+                    <w gl="he held it in the fire" id="JPH_KT-01b:43" head="0" synrel="PRED">
+                        <m lemma="6175">ú</m>
+                        <m lemma="3616">yuunkuri</m><!-- into water directional used instead of into fire-->
+                    </w>
+                    <w gl="his head" id="JPH_KT-01b:44" head="JPH_KT-01b:43" synrel="OBJ">
+                        <m lemma="4407" id="JPH_KT-01b:45" head="JPH_KT-01b:44" synrel="ATR">pa</m>
+                        <m lemma="4260">mu</m>
+                        <m lemma="969">xváa</m>
+                    </w>,
+					<w id="JPH_KT-01b:46" head="JPH_KT-01b:49" synrel="SBJ">
+                        <m lemma="126">achvúun</m>
+                    </w>
+                    <w id="JPH_KT-01b:47" head="JPH_KT-01b:48" synrel="POSS">
+                        <m lemma="792">atipimámvaan</m>
+                    </w>
+                    <w gl="his hair" id="JPH_KT-01b:48" head="JPH_KT-01b:49" synrel="OBJ">
+                        <m lemma="4260">mu</m>
+                        <m lemma="969">xvâa</m>
+                    </w>
+                    <w gl="he burned it off" id="JPH_KT-01b:49" head="0" synrel="PRED">
+                        <m lemma="6175">u</m>
+                        <m lemma="3838">kimfíruraa</m>
+                        <m lemma="1369">nik</m>
+                    </w>.
+		</txt>
+                <trans lang="eng">And he picked him up and held his head in the fireplace, Hookbill burnt Buzzard's hair off.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="JPH_KT-01b:50" head="JPH_KT-01b:52" synrel="DIS">
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w id="JPH_KT-01b:51" head="JPH_KT-01b:52" synrel="COMP">
+						<m lemma="1657">îim</m>
+					</w>
+                    <w gl="he threw him outdoors" id="JPH_KT-01b:52" head="0" synrel="PRED">
+                        <m lemma="6175">u</m>
+                        <m lemma="7282">táchyuunnupuk</m>
+                        <m lemma="1369">anik</m>
+                    </w>.</txt>
+                <trans lang="eng">Then he threw him outdoors.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="JPH_KT-01b:53" head="JPH_KT-01b:54" synrel="DIS">
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w gl="he told him" id="JPH_KT-01b:54" head="0" synrel="PRED">
+                        <m lemma="6175">ú</m>
+                        <m lemma="2733">ppeer</m>
+                        <m lemma="1369">anik</m>
+                    </w>,
+                    <w id="JPH_KT-01b:55" head="JPH_KT-01b:56" synrel="COMP">
+                        <m lemma="126">achvúun</m>
+                    </w>
+                    <w id="JPH_KT-01b:56" head="JPH_KT-01b:57" synrel="SBJ">
+                        <m lemma="1670">îin</m>
+                    </w>
+                    <w gl="he told him" id="JPH_KT-01b:57" head="0" synrel="PRED">
+                        <m lemma="3977">kun</m>
+                        <m lemma="2733">íppeer</m>
+                        <m lemma="1369">anik</m>
+                    </w>: "
+					<w id="JPH_KT-01b:58" head="JPH_KT-01b:62" synrel="TAM">
+						<m lemma="6881">xáy faat</m>
+					</w><!-- written as two words in published version-->
+                    <w id="JPH_KT-01b:59" head="JPH_KT-01b:62" synrel="TAM">
+						<m lemma="1729">ík</m>
+					</w>
+                    <w id="JPH_KT-01b:60" head="JPH_KT-01b:62" synrel="DIS">
+                        <m lemma="6675">vúra</m>
+                    </w>
+                    <w id="JPH_KT-01b:61" head="JPH_KT-01b:62" synrel="ADV">
+						<m lemma="4385">ôok</m>
+					</w>
+                    <w gl="you come around again" id="JPH_KT-01b:62" head="JPH_KT-01b:57" synrel="QUOT">
+                        <m lemma="1418">i</m>
+                        <m lemma="4469">páfyuk</m>
+					</w>,
+					<w id="JPH_KT-01b:63" head="JPH_KT-01b:67" synrel="SBJ">
+                        <m lemma="1656">iim</m>
+                    </w>
+                    <w id="JPH_KT-01b:64" head="JPH_KT-01b:67" synrel="DIS">
+                        <m lemma="6675">vúra</m>
+                    </w>
+                    <w gl="not here" id="JPH_KT-01b:65" head="JPH_KT-01b:67" synrel="ADV">
+                        <m lemma="5082" id="JPH_KT-01b:66" head="JPH_KT-01b:67" synrel="NEG">pu</m>
+                        <m lemma="4385">'ôok</m>
+                    </w>
+                    <w gl="you will not be going around" id="JPH_KT-01b:67" head="JPH_KT-01b:57" synrel="QUOT">
+                        <m lemma="6683">vúrayvu</m>
+                        <m lemma="6035">tih</m>
+                        <m lemma="1379">eesh</m>
+                        <m lemma="1371">ara</m>
+                    </w>."
+		</txt>
+                <trans lang="eng">And Hookbill told him: "You must never come around here again, you are not going to come around here."</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w id="JPH_KT-01b:68" head="JPH_KT-01b:70" synrel="DIS">
+                        <m lemma="6570">viri</m>
+                    </w>
+                    <w id="JPH_KT-01b:69" head="JPH_KT-01b:70" synrel="TAM">
+                        <m lemma="5506">ta</m><!-- written together as one word with verb in published version-->
+                    </w>
+                    <w id="JPH_KT-01b:70" head="0" synrel="PRED">
+                        <m lemma="6781">xánnahishich</m>
+                    </w>
+                    <w id="JPH_KT-01b:71" head="JPH_KT-01b:72" synrel="SBJ">
+                        <m lemma="3930">koovúra</m>
+                    </w>
+                    <w gl="they pitched on him" id="JPH_KT-01b:72" head="0" synrel="PRED">
+                        <m lemma="3977">kun</m>
+                        <m lemma="1839">íkmuum</m>
+                    </w>
+                    <w id="JPH_KT-01b:73" head="JPH_KT-01b:72" synrel="OBJ">
+                        <m lemma="126">achvúun</m>
+                    </w>,
+					<w id="JPH_KT-01b:74" head="JPH_KT-01b:75" synrel="OBJ">
+                        <m lemma="792">atipimámvaan</m>
+                    </w>
+                    <w gl="they felt sorry for him" id="JPH_KT-01b:75" head="0" synrel="PRED">
+                        <m lemma="3977">kun</m>
+                        <m lemma="3913">koohímmach'va</m>
+                    </w>. 
+				</txt>
+                <trans lang="eng">Then they all pitched on to Hookbill, they felt sorry for Buzzard.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="JPH_KT-01b:76" head="JPH_KT-01b:77" synrel="DIS">
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w gl="they told him" id="JPH_KT-01b:77" head="0" synrel="PRED">
+                        <m lemma="3977">kun</m>
+                        <m lemma="2733">íppéer</m>
+                    </w>: "
+					<w id="JPH_KT-01b:78" head="JPH_KT-01b:84" synrel="SBJ">
+                        <m lemma="1656">iim</m>
+                    </w>
+                    <w id="JPH_KT-01b:79" head="JPH_KT-01b:78" synrel="ATR">
+						<m lemma="3752">k<sup>y</sup>áru</m>
+					</w>
+                    <w id="JPH_KT-01b:80" head="JPH_KT-01b:84" synrel="DIS">
+                        <m lemma="6675">vura</m>
+                    </w>
+                    <w id="JPH_KT-01b:81" head="JPH_KT-01b:84" synrel="TAM">
+						<m lemma="6881">xáy faat</m>
+					</w><!-- written as two words in published version-->
+                    <w id="JPH_KT-01b:82" head="JPH_KT-01b:84" synrel="TAM">
+						<m lemma="1729">ík</m>
+					</w>
+                    <w id="JPH_KT-01b:83" head="JPH_KT-01b:84" synrel="ADV">
+						<m lemma="4385">ôok</m>
+					</w>
+                    <w gl="you come around again" id="JPH_KT-01b:84" head="JPH_KT-01b:77" synrel="QUOT">
+                        <m lemma="1418">i</m>
+                        <m lemma="4469">páfyuk</m>
+					</w>,
+					<w id="JPH_KT-01b:85" head="JPH_KT-01b:90" synrel="SBJ">
+                        <m lemma="1656">iim</m>
+                    </w>
+                    <w id="JPH_KT-01b:86" head="JPH_KT-01b:85" synrel="ATR">
+                        <m lemma="3752">k<sup>y</sup>áru</m>
+                    </w>
+                    <w id="JPH_KT-01b:87" head="JPH_KT-01b:90" synrel="DIS">
+                        <m lemma="6675">vura</m>
+                    </w>
+                    <w gl="not here" id="JPH_KT-01b:88" head="JPH_KT-01b:90" synrel="ADV">
+                        <m lemma="5082" id="JPH_KT-01b:89" head="JPH_KT-01b:90" synrel="NEG">pu</m>
+                        <m lemma="4385">'ôok</m>
+                    </w>
+                    <w gl="you will not stay" id="JPH_KT-01b:90" head="JPH_KT-01b:77" synrel="QUOT"> 
+                        <m lemma="1974">ikr</m>
+                        <m lemma="1379">êevish</m>
+                        <m lemma="1371">ara</m>
+                    </w>," 
+					<w id="JPH_KT-01b:91" head="JPH_KT-01b:92" synrel="IO">
+                        <m lemma="126">achvúun</m>
+                    </w>
+                    <w gl="they told him" id="JPH_KT-01b:92" head="0" synrel="PRED">
+                        <m lemma="3977">kun</m>
+                        <m lemma="2733">íppéer</m>
+                    </w>.
+		</txt>
+                <trans lang="eng">And they told him: "You yourself must not come around here, you too are not going to stay here," they told Hookbill.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="JPH_KT-01b:93" head="JPH_KT-01b:95" synrel="DIS">
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w id="JPH_KT-01b:94" head="JPH_KT-01b:95" synrel="SBJ">
+                        <m lemma="126">achvúun</m>
+                    </w>
+                    <w gl="he said" id="JPH_KT-01b:95" head="0" synrel="PRED">
+                        <m lemma="6175">u</m>
+                        <m lemma="4823">ppiip</m>
+                    </w>: "
+					<w id="JPH_KT-01b:96" head="JPH_KT-01b:99" synrel="DIS">
+                        <m lemma="6383">vaa</m>
+                    </w>
+                    <w id="JPH_KT-01b:97" head="JPH_KT-01b:99" synrel="DIS">
+                        <m lemma="6675">vúra</m>
+                    </w>
+                    <w id="JPH_KT-01b:98" head="JPH_KT-01b:99" synrel="ADV">
+						<m lemma="4385">ôok</m>
+					</w>
+                    <w gl="they will be singing yet" id="JPH_KT-01b:99" head="JPH_KT-01b:95" synrel="QUOT">
+                        <m lemma="3977">kun</m>
+                        <m lemma="4511">pakkúriihvu</m>
+                        <m lemma="6035">tih</m>
+                        <m lemma="1379">eesh</m>
+                    </w>
+                    <w gl="my song" id="JPH_KT-01b:100" head="JPH_KT-01b:99" synrel="OBJ">
+                        <m lemma="4326">nani</m>
+                        <m lemma="4509">pákkuri</m>
+                    </w>
+                    <w id="JPH_KT-01b:101" head="JPH_KT-01b:103" synrel="TAM"><!-- synrel="ADV"-->
+						<m lemma="6734">xáat</m>
+					</w>
+                    <w id="JPH_KT-01b:102" head="JPH_KT-01b:103" synrel="SBJ">
+						<m lemma="4299">naa</m>
+					</w>
+                    <w gl="not here" id="JPH_KT-01b:103" head="JPH_KT-01b:95" synrel="QUOT"> 
+                        <m lemma="5082" id="JPH_KT-01b:104" head="JPH_KT-01b:103" synrel="NEG">pu</m>
+                        <m lemma="4385">'ôok</m>
+                        <m lemma="1371">hara</m>
+                    </w>." 
+				</txt>
+                <trans lang="eng">Then Hookbill said: "They will be singing my song, no matter if I am not
+                    here."</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w id="JPH_KT-01b:105" head="JPH_KT-01b:108" synrel="DIS">
+                        <m lemma="3745">kári</m>
+                    </w>
+                    <w id="JPH_KT-01b:106" head="JPH_KT-01b:108" synrel="DIS">
+                        <m lemma="6847">xas</m><!-- written as one word in published version-->
+                    </w>
+                    <w id="JPH_KT-01b:107" head="JPH_KT-01b:108" synrel="SBJ">
+                        <m lemma="126">achvúun</m>
+                    </w>
+                    <w gl="he traveled" id="JPH_KT-01b:108" head="0" synrel="PRED">
+                        <m lemma="6175">u</m>
+                        <m lemma="205">'áhoo</m>
+                        <m lemma="1369">nik</m>
+                    </w>. 
+				</txt>
+                <trans lang="eng">Then Hookbill traveled.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="JPH_KT-01b:109" head="JPH_KT-01b:114" synrel="SBJ">
+                        <m lemma="6307">uum</m>
+                    </w>
+                    <w id="JPH_KT-01b:110" head="JPH_KT-01b:114" synrel="DIS">
+                        <m lemma="6675">vúra</m>
+                    </w>
+                    <w id="JPH_KT-01b:111" head="JPH_KT-01b:114" synrel="DIS">
+                        <m lemma="6383">vaa</m>
+                    </w>
+                    <w id="JPH_KT-01b:112" head="JPH_KT-01b:114" synrel="DIS">
+                        <m lemma="3745">kári</m>
+                    </w>
+                    <w id="JPH_KT-01b:113" head="JPH_KT-01b:114" synrel="ADV">
+                        <m lemma="3670">k<sup>y</sup>áan</m>
+                    </w>
+                    <w gl="they are singing it" id="JPH_KT-01b:114" head="0" synrel="PRED">
+                        <m lemma="3977">kun</m>
+                        <m lemma="4511">pakúriihvu</m>
+                        <m lemma="6035">ti</m>
+                    </w>
+                    <w gl="his song" id="JPH_KT-01b:115" head="JPH_KT-01b:114" synrel="OBJ">
+                        <m lemma="4407" id="JPH_KT-01b:116" head="JPH_KT-01b:115" synrel="ATR">pa</m>
+                        <m lemma="4260">mu</m>
+                        <m lemma="4509">pákkuri</m>
+                    </w>
+                    <w id="JPH_KT-01b:117" head="JPH_KT-01b:115" synrel="POSS">
+                        <m lemma="126">achvuun</m>
+                    </w>. 
+				</txt>
+                <trans lang="eng">They are still singing Hookbill's song there [in the Amekyaram
+                    sweathouse].</trans>
+            </s>
+        </paragraph>
+        <note>New vocabulary item tachyuunupuk. <!--has been added-->And ook-ha?<!-- I don't think so (CSS)--></note>
+    </data>
+</text>

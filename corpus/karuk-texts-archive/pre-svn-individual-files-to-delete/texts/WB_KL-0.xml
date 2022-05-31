@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-0">
+    <metadata>
+        <title>"Swearing"</title>
+        <author>Julia <alph>Starritt</alph></author>
+        <date>1957</date>
+        <publication>William Bright, <em>The Karok Language</em> (1957), pp. 142-149, Text With
+            Analysis</publication>
+    </metadata>
+    <data>
+        <paragraph>
+            <s>
+                <kar>
+                    <w gl="the Indian"><m id="4407">pa</m><m id="506">'áraar</m></w>
+                    <w><m id="6307">uum</m></w>
+                    <w gl="he doesn't say"><m id="5082">pu</m><m id="2767">'ipítih</m><m id="1371"
+                            >ara</m></w>
+                    <w gl="his child"><m id="4407">pa</m><m id="4260">mú</m><m id="511"
+                        >'arama</m></w>
+                    <w gl="his name"><m id="4260">mú</m><m id="3322">thvuy</m></w>
+                    <w gl="when he dies"><m id="4408">pa</m><m id="5506">t</m><m id="6175">u</m><m
+                            id="3441">'ív</m><m id="1358">ahaak</m></w>. </kar>
+                <eng>The Indian did not say his child's name when it died.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w><m id="3752">káru</m></w>
+                    <w><m id="6675">vúra</m></w>
+                    <w><m id="3930">koovúra</m></w>
+                    <w gl="when his relatives"><m id="4408">pa</m><m id="4260">mu</m><m id="507"
+                            >'áraar</m><m id="584">as</m></w>
+                    <w><m id="5506">tá</m></w>
+                    <w gl="when they die"><m id="3977">kun</m><m id="3441">'ív</m><m id="1358"
+                            >ahaak</m></w>
+                    <w gl="he doesn't say"><m id="5082">pu</m><m id="2767">'ipítih</m><m id="1371"
+                            >ara</m></w>
+                    <w gl="their names"><m id="4264">mukun</m><m id="3322">'íthvuy</m></w>. </kar>
+                <eng>And when any of his relatives died, he did not say their names.</eng>
+            </s>
+            <s>
+                <kar> "<w><m id="6381">vaa</m></w>
+                    <w><m id="6307">uum</m></w>" <w gl="they say"><m id="3977">kun</m><m id="4823"
+                            >ipí</m><m id="6035">ti</m></w> "<w><m id="5012">pitaxyárih</m></w>." </kar>
+                <eng>That, they said, was "swearing."</eng>
+            </s>
+            <s>
+                <kar>
+                    <w><m id="6847">xás</m></w>
+                    <w><m id="1361">hâari</m></w>
+                    <w><m id="5506">tá</m></w>
+                    <w gl="they name him again"><m id="3977">kun</m><m id="2674">ip</m><m id="3320"
+                            >íthvuuymath</m></w>
+                    <w><m id="4248">míta</m></w>
+                    <w gl="the deceased person"><m id="4407">pa</m><m id="3795">kêemish</m></w>
+                    <w gl="his name"><m id="4260">mú</m><m id="3322">thvuy</m></w>. </kar>
+                <eng>Sometimes they name someone again with the name of the deceased.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w gl="so"><m id="6570">víri</m><m id="6383">va</m></w>
+                    <w><m id="3745">kári</m></w>
+                    <w><m id="6307">uum</m></w>
+                    <w><m id="5506">tá</m></w>
+                    <w gl="they say"><m id="3977">kun</m><m id="2767">ipíti</m></w>
+                    <w gl="the name"><m id="4407">p</m><m id="3322">eethvuy</m></w>, <w><m id="6675"
+                            >vúra</m></w>
+                    <w gl="not harmful"><m id="5082">pu</m><m id="1407">húun</m><m id="1371"
+                            >hara</m></w>. </kar>
+                <eng>Then they could still say the name, and no harm was done.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <kar>
+                    <w><m id="6847">xás</m></w>
+                    <w><m id="1361">hâari</m></w>
+                    <w><m id="6675">vúra</m></w>
+                    <w><m id="505">ára</m></w>
+                    <w gl="he isn't thinking"><m id="5082">pu</m><m id="6939">xú</m><m id="6035"
+                            >tih</m><m id="1371">ara</m></w>, <w><m id="6570">víri</m></w>
+                    <w><m id="6675">vúra</m></w>
+                    <w gl="he"><m id="5506">t</m><m id="6175">óo</m></w>
+                    <w><m id="4823">piip</m></w>
+                    <w gl="the name"><m id="4407">p</m><m id="3322">eethvuy</m></w>. </kar>
+                <eng>Sometimes a person just wasn't thinking, so he said the name.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w><m id="5163">púyava</m></w>
+                    <w><m id="5506">tá</m></w>
+                    <w gl="they get angry at him"><m id="3977">kun</m><m id="3545"
+                        >ixvíphuunish</m></w>, <w><m id="6847">xás</m></w>
+                    <w><m id="5506">tá</m></w>
+                    <w gl="they become enemies"><m id="3977">kun</m><m id="6401">váasan</m><m
+                            id="1356">ha</m></w>. </kar>
+                <eng>Then they got angry at him and became his enemies.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w><m id="5163">púyava</m></w>
+                    <w><m id="6307">uum</m></w>
+                    <w><m id="1281">fâat</m></w>
+                    <w gl="he pays"><m id="5506">t</m><m id="6175">u</m><m id="6305">'ûukar</m></w>. </kar>
+                <eng>Then he paid something.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w><m id="6847">xás</m></w>
+                    <w><m id="5506">tá</m></w>
+                    <w gl="they speak to him again"><m id="3977">kun</m><m id="2674">ip</m><m
+                            id="1210">chúphuunish</m></w>. </kar>
+                <eng>Then they spoke to him again.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w><m id="1361">hâari</m></w>
+                    <w><m id="3412">itrôop</m></w>
+                    <w gl="he pays"><m id="5506">t</m><m id="6175">u</m><m id="6305">'ûukar</m></w>
+                    <w><m id="3752">káru</m></w>
+                    <w><m id="1361">hâari</m></w>
+                    <w><m id="6675">vúra</m></w>
+                    <w><m id="3409">itráhyar</m></w>. </kar>
+                <eng>Sometimes he paid five dollars and sometimes ten.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <kar>
+                    <w><m id="6847">xás</m></w>
+                    <w><m id="1361">hâari</m></w>
+                    <w><m id="6675">vúra</m></w>
+                    <w><m id="6307">uum</m></w>
+                    <w gl="the person"><m id="4407">pa</m><m id="506">'áraar</m></w>
+                    <w gl="when peculiar"><m id="4408">pa</m><m id="1408">húunta</m><m id="1358"
+                            >haak</m></w>
+                    <w><m id="505">ára</m></w>
+                    <w><m id="6675">vúra</m></w>
+                    <w gl="he swears"><m id="5506">t</m><m id="6175">u</m><m id="5011"
+                            >pitaxyárih</m></w>. </kar>
+                <eng>Sometimes when a person was peculiar, he "swore" (on purpose).</eng>
+            </s>
+            <s>
+                <kar>
+                    <w><m id="6847">xás</m></w>
+                    <w gl="when"><m id="4408">pa</m><m id="5506">tá</m></w>
+                    <w gl="when they tell him"><m id="3977">kun</m><m id="2733">ípeer</m><m
+                            id="1358">ahaak</m></w> "<w><m id="1281">fâat</m></w>
+                    <w><m id="3611">iyúrish</m></w>" <w><m id="6847">xás</m></w>
+                    <w gl="when he refuses"><m id="4408">pa</m><m id="5506">t</m><m id="6175"
+                            >u</m><m id="6328">'ûuri</m><m id="1358">haak</m></w>
+                    <w><m id="5163">púyava</m></w>
+                    <w><m id="6307">uum</m></w>
+                    <w><m id="1361">hâari</m></w>
+                    <w><m id="505">ára</m></w>
+                    <w><m id="6381">vaa</m></w>
+                    <w><m id="4059">kúth</m></w>
+                    <w gl="PERF"><m id="5506">t</m><m id="6175">óo</m></w>
+                    <w><m id="5845">tháaniv</m></w>. </kar>
+                <eng>When they told him to pay something and he refused, then sometimes a person was
+                    killed because of it.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w><m id="1816">íkiich</m></w>
+                    <w><m id="3752">káru</m></w>
+                    <w><m id="6675">vúra</m></w>
+                    <w gl="his brother"><m id="4260">mu</m><m id="6081">típa</m></w>
+                    <w><m id="3752">káru</m></w>
+                    <w gl="his mother's brother"><m id="4260">mu</m><m id="6902">xúkam</m></w>
+                    <w><m id="3752">káru</m></w>
+                    <w><m id="6675">vúra</m></w>
+                    <w><m id="234">akâay</m></w>
+                    <w><m id="6675">vúra</m></w>
+                    <w gl="his relative"><m id="4407">pa</m><m id="4260">mu</m><m id="507"
+                        >'áraar</m></w>. </kar>
+                <eng>Maybe too it would be his brother or his uncle or any relative of his.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w><m id="6381">vaa</m></w>
+                    <w><m id="6307">uum</m></w>
+                    <w gl="Indian law"><m id="506">arará</m><m id="4087">kuupha</m></w>. </kar>
+                <eng>That was Indian law.</eng>
+            </s>
+        </paragraph>
+    </data>
+</text>

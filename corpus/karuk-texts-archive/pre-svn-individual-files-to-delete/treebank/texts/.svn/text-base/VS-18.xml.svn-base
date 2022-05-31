@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="VS-18" audio-source="karuk-2013-01-27-vs-1">
+    <metadata>
+        <title>Sentences about comparisons</title>
+        <author>Vina <alph>Smith</alph></author>
+        <date>2013</date>
+        <publication>Unpublished (recorded by Line Mikkelsen, Clare Sandy, Erik Maier, and Florrine Super on January 27th, 2013)</publication>
+		<genre type="elicitation"/>
+    </metadata>
+    <data>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2013-01-27-vs-1_A_01" audio-start-time="3:03">
+				<txt lang="kyh">
+					<w gl="the snake">
+						<m lemma="4407">pa</m>
+						<m lemma="454">'ápsuun</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w>
+						<m lemma="6675">vúra</m>
+					</w>
+					<w>
+						<m lemma="6397">vâaram</m>
+					</w>
+					<w gl="the rope">
+						<m lemma="4407">pa</m>
+						<m lemma="33">'áan</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w>
+						<m lemma="2810">ipshûunkinich</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The snake is longer than the rope. (The snake is long, the rope is short)</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2013-01-27-vs-1_A_02" audio-start-time="4:32">
+				<txt lang="kyh">
+					<w gl="the snake">
+						<m lemma="4407">pa</m>
+						<m lemma="454">'ápsuun</m>
+					</w>
+					<w>
+						<m lemma="3752">káru</m>
+					</w>
+					<w gl="the rope">
+						<m lemma="4407">pa</m>
+						<m lemma="33">'áan</m>
+					</w>
+					<w>
+						<m lemma="6756">xákaan</m>
+					</w>
+					<w>
+						<m lemma="6675">vúra</m>
+					</w>
+					<w>
+						<m lemma="7049">yav</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The snake is as long as the rope. (The snake and the rope are both good)</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2013-01-27-vs-1_A_03" audio-start-time="6:21">
+				<txt lang="kyh">
+					<w>
+						<m lemma="4715">páy</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w gl="the snake">
+						<m lemma="4407">pa</m>
+						<m lemma="454">'ápsuun</m>
+					</w>
+					<w>
+						<m lemma="6675">vúra</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w>
+						<m lemma="6397">vâaram</m>
+					</w>.
+				</txt>
+				<trans lang="eng">This snake is the longest snake.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2013-01-27-vs-1_A_04" audio-start-time="11:58">
+				<txt lang="kyh">
+					<w>
+						<m lemma="4352">nîinamich</m>
+					</w>
+					<w gl="the cup">
+						<m lemma="4407">pa</m>
+						<m lemma="665">'ásip</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The cup is little.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2013-01-27-vs-1_A_05" audio-start-time="14:58">
+				<txt lang="kyh">
+					<w gl="big ones">
+						<m lemma="3779">kêech</m>
+						<m lemma="584">as</m> 
+					</w>
+					<w>
+						<m lemma="6675">vúra</m>
+					</w>
+					<w gl="the quails">
+						<m lemma="4407">pa</m>
+						<m lemma="5575">takâakaa</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The quails are big.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+ <s spkr="VS" audio="karuk-2013-01-27-vs-1_B_01" audio-start-time="16:02">
+                        <txt lang="kyh"> 
+			<w gl="the small quails">
+			<m lemma= "4407">pa</m>
+			<m lemma= "5575">takaakaa</m>
+			<m lemma= "6128">tunvêech</m>
+			<m lemma= "584">as</m>	
+			</w>
+			<w>
+			<m lemma= "3670">káan</m>
+			</w>
+			<w gl="they are hiding">
+			<m lemma= "3977">kun</m>
+			<m lemma= "1441">'íchunvu</m>
+			<m lemma= "4298">naa</m>
+			<m lemma= "6035">tih</m>
+			</w>.</txt>
+			<trans lang="eng">The little quails are hiding there.</trans>
+			</s>
+			</paragraph>
+			<paragraph>
+ <s spkr="VS" audio="karuk-2013-01-27-vs-1_B_02" audio-start-time="16:46">
+                        <txt lang="kyh"> 
+			<w gl="they are hiding">
+			<m lemma= "3977">kun</m>
+			<m lemma= "1441">'íchunvu</m>
+			<m lemma= "4298">naa</m>
+			<m lemma= "6035">tih</m>
+			</w>
+			<w>
+			<m lemma= "3670">káan</m>
+			</w>.</txt>
+			<trans lang="eng">They are hiding there.</trans>
+			</s>
+			</paragraph>
+			<paragraph>
+ <s spkr="VS" audio="karuk-2013-01-27-vs-1_B_03" audio-start-time="17:02">
+                        <txt lang="kyh"> 
+			<w gl="the small quails">
+			<m lemma= "4407">pa</m>
+			<m lemma= "5575">takaakaa</m>
+			<m lemma= "6128">tunvêech</m>
+			<m lemma= "584">as</m>	
+			</w>
+			<w gl="they are hiding">
+			<m lemma= "3977">kun</m>
+			<m lemma= "1441">'íchunvu</m>
+			<m lemma= "4298">naa</m>
+			<m lemma= "6035">tih</m>
+			</w>.</txt>
+			<trans lang="eng">The little quails are hiding.</trans>
+			</s>
+			</paragraph>
+			<paragraph>
+<s spkr="VS" audio="karuk-2013-01-27-vs-1_B_04" audio-start-time="20:54">
+                       <txt lang="kyh">
+		        <w gl="I don't know">
+			<m lemma= "5082">pu</m>
+			<m lemma= "4295">na</m>
+			<m lemma= "44">'aapúnmu</m>
+			<m lemma= "6035">tih</m>
+			<m lemma= "1371">ara</m>
+			</w>. </txt>
+			<trans lang="eng">I don't know.</trans>
+			</s>
+			</paragraph>
+			<paragraph>
+<s spkr="VS" audio="karuk-2013-01-27-vs-1_B_05" audio-start-time="21:30">
+                       <txt lang="kyh">
+			<w>
+			<m lemma= "6675">vúra</m>
+			</w>
+		        <w gl="we were looking for them">
+			<m lemma= "4370">nu</m>
+			<m lemma= "414">'ápim</m>
+			<m lemma= "6035">tih</m>
+			</w>. </txt>
+			<trans lang="eng">We were looking for them.</trans>
+			</s>
+			</paragraph>
+			<paragraph>
+<s spkr="VS" audio="karuk-2013-01-27-vs-1_B_06" audio-start-time="22:47">
+                       <txt lang="kyh">
+		        <w gl="our arms">
+			<m lemma= "4407">pa</m>
+			<m lemma= "4327">nanu</m>
+			<m lemma= "806">'átraax</m>
+			</w>
+			<w>
+			<m lemma= "6675">vúra</m>
+			</w>
+			<w>
+			<m lemma= "6307">uum</m>
+			</w>
+			<w>
+			<m lemma= "2810">ipshûunkinich</m>
+			</w>. </txt>
+			<trans lang="eng">Our arms are too short.</trans>
+			</s>
+			</paragraph>
+		        <paragraph>
+<s spkr="VS" audio="karuk-2013-01-27-vs-1_B_07" audio-start-time="26:34">
+                      <txt lang="kyh">
+			<w>
+			<m lemma= "6383">vaa</m>
+		        </w>
+			<w>
+			<m lemma= "3999">kúnish</m>
+		        </w>
+			<w gl="they looked like">
+			<m lemma= "3977">kun</m>
+			<m lemma= "2572">imúsahi</m>
+			<m lemma= "6035">ti</m>
+			</w>
+		        <w gl="the leaves">
+			<m lemma= "4407">pá</m>
+			<m lemma= "5218">saan</m>
+		        </w>. </txt>
+		<trans lang="eng">They (the quails) are the same color as the leaves.</trans>
+			</s>
+			</paragraph>
+		        <paragraph>
+<s spkr="VS" audio="karuk-2013-01-27-vs-1_B_08" audio-start-time="28:07">
+                      <txt lang="kyh">
+			<w>
+			<m lemma= "3999">kúnish</m>
+		        </w>
+			<w gl="it was dry">
+			<m lemma= "5506">t</m>
+			<m lemma= "6175">u</m>
+			<m lemma= "3448">váxrah</m>
+			</w>. </txt>
+			<trans lang="eng">They (leaves) were kind of dry.</trans>
+			</s>
+			</paragraph>
+		        <paragraph>
+<s spkr="VS" audio="karuk-2013-01-27-vs-1_B_09" audio-start-time="29:56">
+                      <txt lang="kyh">
+			<w gl="the big ones">
+			<m lemma= "4407">pa</m>
+			<m lemma= "3779">kêech</m>
+			<m lemma= "584">as</m>
+			</w>
+			<w>
+			<m lemma= "6675">vúra</m>
+		        </w>
+			<w>
+			<m lemma= "5506">tá</m>
+		        </w>
+			<w gl="they flew away">
+			<m lemma= "3977">kun</m>
+			<m lemma= "2274">íkxiipshur</m>
+			</w>. </txt>
+			<trans lang="eng">The big ones flew away.</trans>
+			</s>
+			</paragraph>
+		        <paragraph>
+<s spkr="VS" audio="karuk-2013-01-27-vs-1_B_10" audio-start-time="30:15">
+                        <txt lang="kyh">
+			<w gl="the big ones">
+			<m lemma= "4407">pa</m>
+			<m lemma= "3779">kêech</m>
+			<m lemma= "584">as</m>
+			</w>
+			<w gl="they flew away">
+			<m lemma= "3977">kun</m>
+			<m lemma= "2274">íkxiipshur</m>
+			</w>. </txt>
+			<trans lang="eng">The big ones flew away.</trans>
+			</s>
+			</paragraph>
+		        <paragraph>
+<s spkr="VS" audio="karuk-2013-01-27-vs-1_B_11" audio-start-time="30:24">
+			<txt lang="kyh"> 
+                        <w>
+			<m lemma= "5506">tá</m>
+		        </w>
+			<w gl="they flew away">
+			<m lemma= "3977">kun</m>
+			<m lemma= "2274">íkxiipshur</m>
+			</w>. </txt>
+			<trans lang="eng">They flew away.</trans>
+			</s>
+</paragraph>
+ <paragraph>
+            <s spkr="VS" audio="karuk-2013-01-27-vs-1_C_01" audio-start-time="34:55">
+                <txt lang="kyh">
+                    <w gl="your brother">
+						<m lemma="4407">pa</m>
+						<m lemma="4238">mi</m>
+						<m lemma="6081">típa</m>
+					</w>
+					<w>
+						<m lemma="2733">ipêen</m>
+					</w>
+					<w>
+						<m lemma="4385">ôok</m>
+					</w>
+					<w>
+						<m lemma="4297">naa</m>
+					</w>.
+				</txt>
+                <trans lang="eng">Go get your brother.</trans>
+            </s>
+        </paragraph>
+		<paragraph>
+            <s spkr="VS" audio="karuk-2013-01-27-vs-1_C_02" audio-start-time="35:23">
+                <txt lang="kyh">
+                    <w gl="your brother">
+						<m lemma="4238">mi</m>
+						<m lemma="6081">típa</m>
+					</w>
+					<w>
+						<m lemma="2733">ipêen</m>
+					</w>
+					<w>
+						<m lemma="4385">ôok</m>
+					</w>
+					<w>
+						<m lemma="4297">naa</m>
+					</w>.
+				</txt>
+                <trans lang="eng">Go get your brother.</trans>
+            </s>
+        </paragraph>
+		<paragraph>
+            <s spkr="VS" audio="karuk-2013-01-27-vs-1_C_03" audio-start-time="37:04">
+                <txt lang="kyh">
+                    <w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w>
+						<m lemma="5156">puxich</m>
+					</w>
+					<w gl="We will know">
+						<m lemma="4370">nu</m>
+						<m lemma="3213">'ítap</m>
+						<m lemma="1379">eesh</m>
+					</w>
+					<w gl="the Karuk language">
+						<m lemma="4407">pa</m>
+						<m lemma="506">'arará</m>
+						<m lemma="1380">hih</m>
+					</w>.
+				</txt>
+                <trans lang="eng">We are trying to learn the Karuk language.</trans>
+            </s>
+        </paragraph>
+		<paragraph>
+            <s spkr="VS" audio="karuk-2013-01-27-vs-1_C_05" audio-start-time="43:32">
+                <txt lang="kyh">
+                    <w>
+						<m lemma="4299">naa</m>
+					</w>
+					<w>
+						<m lemma="2810">ipshûunkinich</m>
+					</w>
+					 <w>
+						<m lemma="3978">kúna</m>
+					</w>
+					<w gl="my brother">
+						<m lemma="4407">pa</m>
+						<m lemma="4326">nani</m>
+						<m lemma="6081">típa</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w>
+						<m lemma="6397">vâaram</m>
+					</w>.
+				</txt>
+                <trans lang="eng">My brother is taller than me. (I'm short, but my brother is tall.)</trans>
+            </s>
+        </paragraph>
+		<paragraph>
+            <s spkr="VS" audio="karuk-2013-01-27-vs-1_C_06" audio-start-time="44:22">
+                <txt lang="kyh">
+                    <w>
+						<m lemma="4715">pay</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w>
+						<m lemma="2810">ipshûunkinich</m>
+					</w>.
+					<w>
+						<m lemma="4715">pay</m>
+					</w>
+					<w>
+						<m language="English">cup</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w>
+						<m lemma="6397">vâaram</m>
+					</w>.
+				</txt>
+                <trans lang="eng">That cup is smaller than this cup. (That (cup) is short. This cup is tall.)</trans>
+            </s>
+        </paragraph>
+		<paragraph>
+            <s spkr="VS" audio="karuk-2013-01-27-vs-1_C_07" audio-start-time="44:42">
+                <txt lang="kyh">
+					 <w>
+						<m lemma="4715">pay</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w gl="my coffee cup">
+						<m lemma="4407">pa</m>
+						<m lemma="4326">nani</m>
+						<m lemma="3703">kafih'ásip</m>
+					</w>
+					<w>
+						<m lemma="2810">ipshûunkinich</m>
+					</w>.
+				</txt>
+                <trans lang="eng">My coffee cup is short.</trans>
+            </s>
+        </paragraph>
+	</data>
+</text>

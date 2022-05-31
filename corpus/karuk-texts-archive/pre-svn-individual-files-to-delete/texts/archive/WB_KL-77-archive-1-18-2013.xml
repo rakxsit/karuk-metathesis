@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-77">
+    <metadata>
+        <title>"The Living-house"</title>
+        <author>Julia <alph>Starritt</alph></author>
+        <date>1957</date>
+        <publication>William Bright, <em>The Karok Language</em> (1957), pp. 290-291, Text 77</publication>
+    </metadata>
+    <data>
+		<paragraph>
+			<s>
+				<kar>	
+					<w gl="the Indian house">
+						<m id="4407">pa</m>
+						<m id="539">'arareekrívraam</m>
+					</w>
+					<w>
+						<m id="6307">uum</m>
+					</w>
+					<w gl="not high">
+						<m id="5082">pu</m>
+						<m id="196">'á'hinva</m>
+						<m id="1371">hara</m>
+					</w>, 
+					<w>
+						<m id="7035">yakún</m>
+					</w>
+					<w gl="the boards">
+						<m id="4407">pa</m>
+						<m id="1719">'íivhar</m>
+					</w>
+					<w gl="short ones">
+						<m id="2810">ipshûunkinich</m>
+						<m id="584">as</m>
+					</w>.
+				</kar>
+				<eng>The Indian house was not high; you see, the boards were short.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w>
+						<m id="">sú'</m>
+					</w>
+					<w gl="it was dug into the ground">
+						<m id="6175">u</m>
+						<m id="2914">'íripkurih</m>
+						<m id="6378">va</m>
+					</w>.
+				</kar>
+				<eng>And it was dug down into the ground.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w>
+						<m id="5">áachip</m>
+					</w>
+					<w gl="it was a fireplace">
+						<m id="197">ahírsm</m>
+						<m id="1356">hi</m>
+						<m id="6035">tih</m>
+					</w>.
+				</kar>
+				<eng>And there was a fireplace in the center.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w gl="on the inside">
+						<m id="4407">pa</m>
+						<m id="1671">'iinâak</m>
+					</w>
+					<w>
+						<m id="1719">íivhar</m>
+					</w>
+					<w gl="it was placed around">
+						<m id="6175">u</m>
+						<m id="5957">thiiv</m>
+						<m id="6443">várayv</m>
+						<m id="168">ahi</m>
+						<m id="6035">tih</m>
+					</w>.
+				</kar>
+				<eng>And on the inside boards were placed around.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w gl="their floor">
+						<m id="4407">pa</m>
+						<m id="4264">mukun</m>
+						<m id="1694">'îirish</m>
+					</w>
+					<w>
+						<m id="6307">uum</m>
+					</w>
+					<w>
+                        <m id="6675">vúra</m>
+                    </w>
+					<w>
+						<m id="7247">yuux</m>
+					</w>.
+				</kar>
+				<eng>And their floor was just earth.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w>
+						<m id="6677">vuráakir</m>
+					</w>
+					<w gl="it stood">
+						<m id="6175">u</m>
+						<m id="1646">'íihya</m>
+					</w>
+					<w>
+						<m id="6383">vaa</m>
+					</w>
+					<w>
+						<m id="3670">káan</m>
+					</w>
+					<w>
+						<m id="1671">iinâak</m>
+					</w>.
+				</kar>
+				<eng>And a ladder stood there inside.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w>
+						<m id="6383">vaa</m>
+					</w>
+					<w>
+						<m id="3670">káan</m>
+					</w>
+					<w gl="they walked">
+						<m id="3977">kun</m>
+						<m id="205">'áhoo</m>
+						<m id="6035">ti</m>
+					</w>
+					<w gl="when outside">
+						<m id="4408">pa</m>
+						<m id="1649">'îikam</m>
+					</w>
+					<w>
+						<m id="5506">tá</m>
+					</w>
+					<w gl="they came outdoors">
+						<m id="3977">kun</m>
+						<m id="6618">vôonupuk</m>
+						<m id="1358">ahaak</m>
+					</w>.
+				</kar>
+				<eng>And they walked on that when they went outside.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w gl="the boards">
+						<m id="4407">pa</m>
+						<m id="1719">'íivhar</m>
+					</w>
+					<w>
+						<m id="6307">uum</m>
+					</w>
+					<w gl="short ones">
+						<m id="2810">ipshûunkinich</m>
+						<m id="584">as</m>
+					</w>
+					<w gl="that the house">
+						<m id="4408">p</m>
+						<m id="2032">eekrívraam</m>
+					</w>
+					<w gl="it was made with">
+						<m id="6175">u</m>
+						<m id="2336">kyâar</m>
+						<m id="168">ahi</m>
+						<m id="6035">tih</m>
+					</w>.
+				</kar>
+				<eng>And the boards were short that the house was made with.</eng>
+				<note>ukyâarahitih might be id2335. under the current analysis, pa'íivhar was the second object of ukyâarahitih and raised out. Bright's translation suggests this analysis.</note>
+			</s>
+			<s>
+				<kar>
+					<w gl="on the roof">
+						<m id="4407">p</m>
+						<m id="3444">eev'ávahkam</m>
+					</w>
+					<w gl="broad boards">
+						<m id="1719">ivhara</m>
+						<m id="6087">tírih</m>
+						<m id="5200">shas</m>
+					</w>
+					<w gl="it was put on">
+						<m id="6175">u</m>
+						<m id="3560">yaakóo</m>
+						<m id="168">hi</m>
+						<m id="6035">tih</m>
+					</w>.
+				</kar>
+				<eng>And broad boards were put on the roof.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w gl="his door">
+						<m id="4407">pa</m>
+						<m id="4260">mu</m>
+						<m id="1186">chivchákar</m>
+					</w>
+					<w>
+						<m id="3752">káru</m>
+					</w>
+					<w>
+						<m id="6307">uum</m>
+					</w>
+					<w>
+						<m id="2810">ipshûunkinich</m>
+					</w>.
+				</kar>
+				<eng>And their door was low too.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="5155">púxay</m>
+					</w>
+					<w>
+                        <m id="6675">vúra</m>
+                    </w>
+					<w gl="he would not stand up">
+						<m id="1615">ihyárih</m>
+						<m id="1379">eesh</m>
+						<m id="1371">ara</m>
+					</w>
+					<w gl="when">
+						<m id="4408">pa</m>
+						<m id="5506">tá</m>
+					</w>
+					<w>
+						<m id="1657">îim</m>
+					</w>
+					<w>
+						<m id="4077">kúuk</m>
+					</w>
+					<w>
+						<m id="5506">tá</m>
+					</w>
+					<w gl="they went">
+						<m id="3977">kun</m>
+						<m id="6306">'úum</m>
+						<m id="1358">ahaak</m>
+					</w>, 
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w>
+                        <m id="6675">vúra</m>
+                    </w>
+					<w>
+						<m id="5506">tá</m>
+					</w>
+					<w gl="they crawled out">
+						<m id="3977">kun</m>
+						<m id="6618">vôonupuk</m>
+					</w>.
+				</kar>
+				<eng>They didn't stand up when they went outside, they just crawled out.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w>
+						<m id="583">ás</m>
+					</w>
+					<w gl="it was laid">
+						<m id="6175">u</m>
+						<m id="5957">thíiv</m>
+						<m id="168">ahi</m>
+						<m id="6035">ti</m>
+					</w>
+					<w>
+						<m id="3460">ivíthvaaykam</m>
+					</w>.
+				</kar>
+				<eng>And rocks were laid in front of the house.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w gl="on the inside">
+						<m id="4407">pa</m>
+						<m id="1671">'iinâak</m>
+					</w>
+					<w gl="above the fire">
+						<m id="10">ah</m>
+						<m id="821">'ávahkam</m>
+					</w>
+					<w gl="they were stretched around">
+						<m id="6175">u</m>
+						<m id="5344">sasípiithva</m>
+					</w>
+					<w gl="little poles">
+						<m id="5530">taskana</m>
+						<m id="6128">tunvêech</m>
+						<m id="584">as</m>
+					</w>.
+				</kar>
+				<eng>And on the inside, above the fire, little poles were stretched around.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w gl="it was made">
+						<m id="6175">u</m>
+						<m id="2348">kyâa</m>
+						<m id="168">hi</m>
+						<m id="6035">ti</m>
+					</w>
+					<w gl="so that there">
+						<m id="4408">pa</m>
+						<m id="3670">káan</m>
+					</w>
+					<w gl="they dried">
+						<m id="3977">kun</m>
+						<m id="3446">iváxraahmath</m>
+						<m id="6035">ti</m>
+					</w>
+					<w gl="the fish">
+						<m id="4407">pa</m>
+						<m id="30">'áama</m>
+					</w>
+					<w>
+						<m id="3752">káru</m>
+					</w>
+					<w>
+                        <m id="6675">vúra</m>
+                    </w>
+					<w>
+						<m id="1281">fâat</m>
+					</w>
+					<w>
+                        <m id="6675">vúra</m>
+                    </w>
+					<w gl="that they had">
+						<m id="4408">pa</m>
+						<m id="3977">kun</m>
+						<m id="5526">tâarahi</m>
+						<m id="6035">tih</m>
+					</w>.
+				</kar>
+				<eng>And they were made so that they dried fish there and whatever (else) they had.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w>
+						<m id="41">âapun</m>
+					</w>
+					<w>
+                        <m id="6675">vúra</m>
+                    </w>
+					<w>
+						<m id="6307">uum</m>
+					</w>
+					<w gl="that it was a lot">
+						<m id="4408">p</m>
+						<m id="6175">oo</m>
+						<m id="5542">tâayhi</m>
+						<m id="6035">ti</m>
+					</w>
+					<w gl="their baskets">
+						<m id="4407">pa</m>
+						<m id="4264">mukun</m>
+						<m id="665">'ásip</m>
+					</w>
+					<w>
+						<m id="3752">káru</m>
+					</w>
+					<w>
+                        <m id="6675">vúra</m>
+                    </w>
+					<w>
+						<m id="1281">fâat</m>
+					</w>
+					<w>
+                        <m id="6675">vúra</m>
+                    </w>
+					<w gl="that they had">
+						<m id="4408">pa</m>
+						<m id="3977">kun</m>
+						<m id="5526">tâarahi</m>
+						<m id="6035">ti</m>
+					</w>
+					<w gl="when they would cook">
+						<m id="4408">pa</m>
+						<m id="3977">kun</m>
+						<m id="2465">imnísh</m>
+						<m id="1379">eesh</m>
+					</w>.
+				</kar>
+				<eng>And on the floor were their cooking baskets and whatever else they had when they were going to cook.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w gl="the men">
+						<m id="4407">pa</m>
+						<m id="833">'ávansa</m>
+					</w>
+					<w>
+                        <m id="6675">vúra</m>
+                    </w>
+					<w>
+						<m id="3809">kích</m>
+					</w>
+					<w gl="their chairs">
+						<m id="4264">mukun</m>
+						<m id="2031">'ikrívkir</m>
+					</w>
+					<w gl="it was a lot">
+						<m id="6175">u</m>
+						<m id="5542">tâayhi</m>
+						<m id="6035">ti</m>
+					</w>.
+				</kar>
+				<eng>And only the men's seats were there.</eng>
+			</s>
+			<s>
+				<kar>
+					<w gl="the women">
+						<m id="4407">pa</m>
+						<m id="656">'asiktávaan</m>
+					</w>
+					<w>
+						<m id="6309">uumkun</m>
+					</w>
+					<w>
+                        <m id="6675">vúra</m>
+                    </w>
+					<w>
+						<m id="41">âapun</m>
+					</w>
+					<w gl="that they sit">
+						<m id="4408">pa</m>
+						<m id="3977">kun</m>
+						<m id="508">'áraarahi</m>
+						<m id="6035">tih</m>
+					</w>.
+				</kar>
+				<eng>The women sat on the ground.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="1361">hâari</m>
+					</w>
+					<w gl="deerskin blanket">
+						<m id="5135">pufích</m>
+						<m id="6399">vaas</m>
+					</w>
+					<w gl="it was spread">
+						<m id="6175">u</m>
+						<m id="4652">pathrív</m>
+						<m id="168">ahi</m>
+						<m id="6035">tih</m>
+					</w>, 
+					<w gl="so">
+						<m id="6570">víri</m>
+						<m id="6383">va</m>
+					</w>
+					<w>
+						<m id="3670">káan</m>
+					</w>
+					<w gl="the women">
+						<m id="4407">pa</m>
+						<m id="656">'asiktávaan</m>
+						<m id="5200">sas</m>
+					</w>
+					<w gl="they sat">
+						<m id="3977">kun</m>
+						<m id="508">'áraarahi</m>
+						<m id="6035">tih</m>
+					</w>.
+				</kar>
+				<eng>Sometimes a deerskin blanket was spread, and the women sat on that.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w gl="the baby">
+						<m id="4407">pa</m>
+						<m id="7197">yupsítanich</m>
+					</w>
+					<w>
+						<m id="6307">uum</m>
+					</w>
+					<w gl="in the baby basket">
+						<m id="5907">thaxtúuy</m>
+						<m id="232">ak</m>
+					</w>
+					<w>
+                        <m id="6675">vúra</m>
+                    </w>
+					<w>
+						<m id="5502">sú'</m>
+					</w>
+					<w gl="it sat">
+						<m id="6175">ú</m>
+						<m id="1974">krii</m>
+					</w>.
+				</kar>
+				<eng>And the baby was inside a baby-basket.</eng>
+			</s>
+			<s>
+				<kar>	
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w gl="she held it">
+						<m id="3977">kun</m>
+						<m id="3113">íshtaak</m>
+						<m id="6035">ti</m>
+					</w>
+					<w>
+						<m id="1361">hâari</m>
+					</w>
+					<w gl="its grandmother">
+						<m id="4407">pa</m>
+						<m id="4260">mu</m>
+						<m id="3834">kit</m>
+						<m id="1670">'íin</m>
+					</w>.
+				</kar>
+				<eng>And sometimes it was held by its grandmother.</eng>
+			</s>
+		</paragraph>
+	</data>
+</text>
+					
+						
+				
+						
+					

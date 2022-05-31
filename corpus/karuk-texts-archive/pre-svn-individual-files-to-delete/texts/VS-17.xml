@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="VS-17" audio-source="karuk-2010-07-23-ag-vs-4">
+  <metadata>
+    <title>Sentences: questions and answers, verb tenses</title>
+    <author> Vina <alph>Smith</alph>
+    </author>
+    <date>2010</date>
+    <publication> Unpublished (recorded by Andrew Garrett on July 23, 2010) </publication>
+  </metadata>
+  <data>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_01" audio-start-time="0:35">
+	<kar>
+	  <w>
+	    <m id="1396">hôoy</m>
+	  </w>
+	  <w gl="the cat">
+	    <m id="4407">pa</m>
+	    <m id="5120">púsihich</m>
+	</w>?</kar>
+	<eng>Where is the cat?</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_02" audio-start-time="0:55">
+	<kar>
+	  <w gl="the cat">
+	    <m id="4407">pa</m>
+	    <m id="5120">púsihich</m>
+	  </w>
+	  <w>
+	    <m id="1402">húm</m>
+	  </w>
+	  <w gl="you have it">
+	    <m id="1418">i</m>
+	    <m id="5916">thiiná</m>
+	    <m id="6035">ti</m>
+	</w>?</kar>
+	<eng>Do you have a cat?</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_03" audio-start-time="1:13">
+	<kar>
+	  <w>
+	    <m id="1357">hãã</m>
+	  </w>
+	  <w gl="the cat">
+	    <m id="4407">pa</m>
+	    <m id="5120">púsihich</m>
+	  </w>
+	  <w gl="I have it">
+	    <m id="4349">ni</m>
+	    <m id="5916">thiiná</m>
+	    <m id="6035">ti</m>
+	</w>.</kar>
+	<eng>Yes, I have a cat.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_04" audio-start-time="1:46">
+	<kar>
+	  <w gl="the cat">
+	    <m id="4407">pa</m>
+	    <m id="5120">púsihich</m>
+	  </w>
+	  <w>
+	    <m id="1402">úm</m>
+	  </w>
+	  <w gl="you have">
+	    <m id="5506">t</m>
+	    <m id="1418">ee</m>
+	  </w>
+	  <w>
+	    <m id="4155">mah</m>
+	</w>?</kar>
+	<eng>Did you see the cat?</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_05" audio-start-time="2:01">
+	<kar>
+	  <w>
+	    <m id="1357">hãã</m>
+	  </w>
+	  <w>
+	    <m id="5506">tá</m>
+	  </w>
+	  <w gl="I see it">
+	    <m id="4349">ni</m>
+	    <m id="4155">mah</m>
+	  </w>
+	  <w gl="the cat">
+	    <m id="4407">pa</m>
+	    <m id="5120">púsihich</m>
+	</w>.</kar>
+	<eng>Yes, I do see the cat.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_06" audio-start-time="2:18">
+	<kar>
+	  <w>
+	    <m id="5136">pûuhara</m>
+	  </w>
+	  <w gl="I do not see it">
+	    <m id="5082">pu</m>
+	    <m id="4295">na</m>
+	    <m id="4155">máah</m>
+	    <m id="6035">tih</m>
+	    <m id="1371">ara</m>
+	  </w>
+	  <w gl="the cat">
+	    <m id="4407">pa</m>
+	    <m id="5120">púsihich</m>
+	</w>.</kar>
+	<eng>No, I do not see the cat.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_07" audio-start-time="9:37">
+	<kar>
+	  <w>
+	    <m id="7205">yuraschíshiih</m>
+	  </w>
+	  <w>
+	    <m id="5506">tá</m>
+	  </w>
+	  <w gl="I see it">
+	    <m id="4349">ni</m>
+	    <m id="4155">mah</m>
+	</w>.</kar>
+	<eng>I see the horse.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_08" audio-start-time="9:53">
+	<kar>
+	  <w gl="the horse">
+	    <m id="4407">pa</m>
+	    <m id="7205">yuraschíshiih</m>
+	  </w>
+	  <w gl="it has">
+	    <m id="5506">t</m>
+	    <m id="6175">óo</m>
+	  </w>
+	  <w>
+	    <m id="2195">kviip</m>
+	  </w>
+	  <w>
+	    <m id="3011">íshkih</m>
+	</w>.</kar>
+	<eng>The horse runs fast.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_09" audio-start-time="10:11">
+	<kar>
+	  <w gl="the horse">
+	    <m id="4407">pa</m>
+	    <m id="7205">yuraschíshiih</m>
+	  </w>
+	  <w gl="I am sitting on it">
+	    <m id="4349">ni</m>
+	    <m id="4085">kûuntakoo</m>
+	</w>.</kar>
+	<eng>I am riding on the horse.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_10" audio-start-time="10:45">
+	<kar>
+	  <w gl="the horse">
+	    <m id="4407">pa</m>
+	    <m id="7205">yuraschíshiih</m>
+	  </w>
+	  <w gl="you are sitting on it">
+	    <m id="1418">i</m>
+	    <m id="4085">kûuntakoo</m>
+	  </w>
+	  <w>
+	    <m id="1402">húm</m>
+	</w>?</kar>
+	<eng>Did you ride the horse?</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_11" audio-start-time="13:06">
+	<kar>
+	  <w>
+	    <m id="3011">íshkih</m>
+	  </w>
+	  <w>
+	    <m id="1402">úm</m>
+	  </w>
+	  <w gl="it has">
+	    <m id="5506">t</m>
+	    <m id="6175">óo</m>
+	  </w>
+	  <w>
+	    <m id="2279">kxip</m>
+	</w>?</kar>
+	<eng>Does it fly fast?</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_12" audio-start-time="14:06">
+	<kar>
+	  <w gl="the eagle">
+	    <m id="4407">pa</m>
+	    <m id="1215">chúufish</m>
+	  </w>
+	  <w>
+	    <m id="1054">chaka'îimich</m>
+	  </w>
+	  <w gl="it has">
+	    <m id="5506">t</m>
+	    <m id="6175">óo</m>
+	  </w>
+	  <w>
+	    <m id="2279">kxip</m>
+	</w>.</kar>
+	<eng>The eagle flies slowly.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_13" audio-start-time="20:50">
+	<kar>
+	  <w>
+	    <m id="30">áama</m>
+	  </w>
+	  <w>
+	    <m id="1402">húm</m>
+	  </w>
+	  <w gl="you will eat it">
+	    <m id="1418">i</m>
+	    <m id="814">'áv</m>
+	    <m id="1379">eesh</m>
+	</w>?</kar>
+	<eng>Are you going to eat salmon?</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_14" audio-start-time="21:13">
+	<kar>
+	  <w>
+	    <m id="1357">hãã</m>
+	  </w>
+	  <w>
+	    <m id="30">áama</m>
+	  </w>
+	  <w gl="I will eat it">
+	    <m id="4349">ni</m>
+	    <m id="814">'áv</m>
+	    <m id="1379">eesh</m>
+	</w>.</kar>
+	<eng>Yes, I am going to eat salmon.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_15" audio-start-time="21:27">
+	<kar>
+	  <w>
+	    <m id="6307">uum</m>
+	  </w>
+	  <w>
+	    <m id="4716">payêem</m>
+	  </w>
+	  <w>
+	    <m id="6307">uum</m>
+	  </w>
+	  <w>
+	    <m id="30">áama</m>
+	  </w>
+	  <w gl="he will eat it">
+	    <m id="6175">u</m>
+	    <m id="814">'áv</m>
+	    <m id="1379">eesh</m>
+	</w>.</kar>
+	<eng>He is going to eat salmon now.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_16" audio-start-time="21:34">
+	<kar>
+	  <w>
+	    <m id="3930">koovúra</m>
+	  </w>
+	  <w>
+	    <m id="30">áama</m>
+	  </w>
+	  <w gl="we will eat it">
+	    <m id="4370">nu</m>
+	    <m id="814">'áv</m>
+	    <m id="1379">eesh</m>
+	</w>.</kar>
+	<eng>We are all going to eat salmon.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_17" audio-start-time="21:41">
+	<kar>
+	  <w>
+	    <m id="1144">chími</m>
+	  </w>
+	  <w>
+	    <m id="30">áama</m>
+	  </w>
+	  <w gl="we eat it">
+	    <m id="4370">nu</m>
+	    <m id="814">'áva</m>
+	</w>.</kar>
+	<eng>Let's eat salmon.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_18" audio-start-time="22:16">
+	<kar>
+	  <w>
+	    <m id="30">áama</m>
+	  </w>
+	  <w gl="I will cook it">
+	    <m id="4370">ni</m>
+	    <m id="2465">mnísh</m>
+	    <m id="1379">eesh</m>
+	</w>.</kar>
+	<eng>I am going to cook salmon.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_19" audio-start-time="22:32">
+	<kar>
+	  <w>
+	    <m id="2766">ipít</m>
+	  </w>
+	  <w>
+	    <m id="30">áama</m>
+	  </w>
+	  <w gl="I cook it">
+	    <m id="4370">ní</m>
+	    <m id="2465">mnish</m>
+	</w>.</kar>
+	<eng>Yesterday I cooked salmon.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_20" audio-start-time="22:49">
+	<kar>
+	  <w>
+	    <m id="1656">iim</m>
+	  </w>
+	  <w>
+	    <m id="30">áama</m>
+	  </w>
+	  <w gl="you are cooking it">
+	    <m id="1418">í</m>
+	    <m id="2465">mniish</m>
+	    <m id="6035">ti</m>
+	</w>.</kar>
+	<eng>You cooked salmon.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_21" audio-start-time="23:10">
+	<kar>
+	  <w>
+	    <m id="30">áama</m>
+	  </w>
+	  <w>
+	    <m id="1402">úm</m>
+	  </w>
+	  <w gl="you like it">
+	    <m id="1418">i</m>
+	    <m id="6580">víshtaan</m>
+	    <m id="6035">ti</m>
+	</w>?</kar>
+	<eng>Do you like salmon?</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_22" audio-start-time="23:36">
+	<kar>
+	  <w>
+	    <m id="1357">hãã</m>
+	  </w>
+	  <w>
+	    <m id="30">áama</m>
+	  </w>
+	  <w gl="I like it">
+	    <m id="4349">ni</m>
+	    <m id="6580">víshtaan</m>
+	    <m id="6035">ti</m>
+	</w>.</kar>
+	<eng>Yes, I like salmon.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_23" audio-start-time="23:46">
+	<kar>
+	  <w>
+	    <m id="1357">hãã</m>
+	  </w>
+	  <w>
+	    <m id="4299">naa</m>
+	  </w>
+	  <w>
+	    <m id="30">áama</m>
+	  </w>
+	  <w>
+	    <m id="3752">karu</m>
+	  </w>
+	  <w gl="I like it">
+	    <m id="4349">ni</m>
+	    <m id="6580">víshtaan</m>
+	    <m id="6035">ti</m>
+	</w>.</kar>
+	<eng>Yes, I also like salmon.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_24" audio-start-time="24:41">
+	<kar>
+	  <w>
+	    <m id="1375">hárivari</m>
+	  </w>
+	  <w gl="the salmon">
+	    <m id="4407">pa</m>
+	    <m id="30">'áama</m>
+	  </w>
+	  <w gl="we will eat it">
+	    <m id="4370">nu</m>
+	    <m id="814">'áv</m>
+	    <m id="1379">eesh</m>
+	</w>?</kar>
+	<eng>When will we eat salmon?</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_25" audio-start-time="25:07">
+	<kar>
+	  <w>
+	    <m id="6309">uumkun</m>
+	  </w>
+	  <w>
+	    <m id="1375">hárivari</m>
+	  </w>
+	  <w gl="the salmon">
+	    <m id="4407">pa</m>
+	    <m id="30">'áama</m>
+	  </w>
+	  <w gl="they will eat it">
+	    <m id="3977">kun</m>
+	    <m id="814">áv</m>
+	    <m id="1379">eesh</m>
+	</w>?</kar>
+	<eng>When will they eat salmon?</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_26" audio-start-time="25:27">
+	<kar>
+	  <w gl="salt it">
+	    <m id="7115">yúfish</m>
+	    <m id="1356">i</m>
+	  </w>
+	  <w gl="the salmon">
+	    <m id="4407">pa</m>
+	    <m id="30">'áama</m>
+	</w>.</kar>
+	<eng>Salt the fish.</eng>
+      </s>
+<note> yufishi (verb, meaning to salt something) needs a dictionary number </note>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_27" audio-start-time="27:23">
+	<kar>
+	  <w>
+	    <m id="3011">íshkih</m>
+	  </w>
+	  <w gl="it is swimming">
+	    <m id="6175">u</m>
+	    <m id="1909">kpúuh</m>
+	    <m id="6035">ti</m>
+	</w>.</kar>
+	<eng>It swims fast.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_28" audio-start-time="28:05">
+	<kar>
+	  <w>
+	    <m id="3011">íshkih</m>
+	  </w>
+	  <w>
+	    <m id="1402">úm</m>
+	  </w>
+	  <w gl="the eel">
+	    <m id="4407">pa</m>
+	    <m id="264">'ákraah</m>
+	  </w>
+	  <w gl="it is swimming">
+	    <m id="6175">u</m>
+	    <m id="1909">kpúuh</m>
+	    <m id="6035">ti</m>
+	</w>?</kar>
+	<eng>Does the eel swim fast?</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_29" audio-start-time="28:32">
+	<kar>
+	  <w gl="you like it">
+	    <m id="1418">i</m>
+	    <m id="6580">víshtaan</m>
+	    <m id="6035">tih</m>
+	  </w>
+	  <w>
+	    <m id="1402">húm</m>
+	  </w>
+	  <w gl="the eel">
+	    <m id="4407">pa</m>
+	    <m id="264">'ákraah</m>
+	</w>?</kar>
+	<eng>Do you like eels?</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_30" audio-start-time="29:13">
+	<kar>
+	  <w>
+	    <m id="1281">fâat</m>
+	  </w>
+	  <w gl="kind of drink">
+	    <m id="3970">kuma</m>
+	    <m id="2936">'ish</m>
+	</w>?</kar>
+	<eng>What kind of drink (do you like)?</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_31" audio-start-time="29:59">
+	<kar>
+	  <w>
+	    <m id="????">arará'ish</m>
+	  </w>
+	  <w gl="I like it">
+	    <m id="4349">ni</m>
+	    <m id="6580">víshtaan</m>
+	    <m id="6035">ti</m>
+	</w>.</kar>
+	<eng>I like to drink the indian drink.</eng>
+<note> arara'ish "indian drink" needs to be assigned a dictionary #</note>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_32" audio-start-time="31:35">
+	<kar>
+	  <w>
+	    <m id="2940">íshaha</m>
+	  </w>
+	  <w>
+	    <m id="5506">tá</m>
+	  </w>
+	  <w gl="I drink it">
+	    <m id="4349">ni</m>
+	    <m id="2936">'ish</m>
+	</w>.</kar>
+	<eng>I am drinking water.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_33" audio-start-time="31:49">
+	<kar>
+	  <w gl="the water">
+	    <m id="4407">pa</m>
+	    <m id="2940">'íshah</m>
+	  </w>
+	  <w gl="I drink it">
+	    <m id="4349">ni</m>
+	    <m id="2936">'ísh</m> 
+	    <m id="1379">eesh</m>	
+	  </w>.</kar>
+	<eng>I am going to drink water.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_34" audio-start-time="31:57">
+	<kar>
+	  <w gl="the water">
+	    <m id="4407">pa</m>
+	    <m id="2940">'íshaha</m>
+	  </w>
+	  <w>
+	    <m id="1402">húm</m>
+	  </w>
+	  <w gl="you drink it">
+	    <m id="1418">i</m>
+	    <m id="2936">'ísh</m> 
+	    <m id="1379">eesh</m>	
+	  </w>?</kar>
+	<eng>Do you want to drink water?</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_35" audio-start-time="32:42">
+	<kar>
+	  <w>
+	    <m id="4299">naa</m>
+	  </w>
+	  <w>
+	    <m id="7115">yúfish</m>
+	  </w>
+	  <w gl="I like it">
+	    <m id="4349">ni</m>
+	    <m id="6580">víshtaan</m>
+	    <m id="6035">ti</m>
+	</w>.</kar>
+	<eng>I like salt.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_36" audio-start-time="33:43">
+	<kar>
+	  <w>
+	    <m id="1144">chími</m>
+	  </w>
+	  <w gl="the deer meat">
+	    <m id="4407">pa</m>
+	    <m id="5093">pufích'iish</m>
+	  </w>
+	  <w gl="we cook it">
+	    <m id="4370">nu</m>
+	    <m id="2465">mnísh</m>
+	    <m id="1379">eesh</m>
+	</w>.</kar>
+	<eng>Let's cook deer meat.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_37" audio-start-time="34:20">
+	<kar>
+	  <w>
+	    <m id="1660">iimkun</m>
+	  </w>
+	  <w gl="the deer meat">
+	    <m id="4407">pa</m>
+	    <m id="5093">pufích'iish</m>
+	  </w>
+	  <w gl="you all will cook it">
+	    <m id="3939">ku</m>
+	    <m id="2465">mnísh</m>
+	    <m id="1379">eesh</m>
+	</w>?</kar>
+	<eng>Are you all going to cook the deer meat?</eng>
+<note> why no use of hum for Y/N question?</note>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_38" audio-start-time="34:50">
+	<kar>
+	  <w>
+	    <m id="1357">hãã</m>
+	  </w>
+	  <w>
+	    <m id="3930">koovúra</m>
+	  </w>
+	  <w gl="we will cook it">
+	    <m id="4370">nu</m>
+	    <m id="2465">mnísh</m>
+	    <m id="1379">eesh</m>
+	  </w>
+	  <w gl="the deer meat">
+	    <m id="4407">pa</m>
+	    <m id="5093">pufích'iish</m>
+	</w>.</kar>
+	<eng>Yes, we are all going to cook deer meat.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_39" audio-start-time="35:09">
+	<kar>
+	  <w>
+	    <m id="5136">pûuhara</m>
+	  </w>
+	  <w gl="the deer meat">
+	    <m id="4407">pa</m>
+	    <m id="5093">pufích'iish</m>
+	  </w>
+	  <w gl="we will not cook it">
+	    <m id="5082">pu</m>
+	    <m id="3844">kin</m>
+	    <m id="2465">imnísh</m>
+	    <m id="1379">eesh</m>
+	    <m id="1371">ara</m>
+	</w>.</kar>
+	<eng>No, we are not going to cook deer meat.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_40" audio-start-time="35:23">
+	<kar>
+	  <w gl="the deer meat">
+	    <m id="4407">pa</m>
+	    <m id="5093">pufích'iish</m>
+	  </w>
+	  <w>
+	    <m id="1402">úm</m>
+	  </w>
+	  <w gl="I like it">
+	    <m id="1418">i</m>
+	    <m id="6580">víshtaan</m>
+	    <m id="6035">ti</m>
+	</w>?</kar>
+	<eng>Do you like deer meat?</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_41" audio-start-time="35:36">
+	<kar>
+	  <w>
+	    <m id="6307">uum</m>
+	  </w>
+	  <w gl="the deer meat">
+	    <m id="4407">pa</m>
+	    <m id="5093">pufich'íish</m>
+	  </w>
+	  <w gl="he likes it">
+	    <m id="6175">u</m>
+	    <m id="6580">víshtaan</m>
+	    <m id="6035">ti</m>
+	</w>.</kar>
+	<eng>He likes deer meat.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_42" audio-start-time="36:16">
+	<kar>
+	  <w>
+	    <m id="2766">ipít</m>
+	  </w>
+	  <w gl="we are cooking it">
+	    <m id="4370">nu</m>
+	    <m id="2465">mníish</m>
+	    <m id="6035">tih</m>
+	  </w>
+	  <w gl="the deer meat">
+	    <m id="4407">pa</m>
+	    <m id="5093">pufich'íish</m>
+	</w>.</kar>
+	<eng>Yesterday we cooked deer meat.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_43" audio-start-time="37:16">
+	<kar>
+	  <w gl="salt it">
+	    <m id="7115">yúfish</m>
+	    <m id="1356">i</m>
+	  </w>
+	  <w gl="the deer meat">
+	    <m id="4407">pa</m>
+	    <m id="5093">pufich'íish</m>
+	</w>.</kar>
+	<eng>Salt the deer meat.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_44" audio-start-time="37:27">
+	<kar>
+	  <w>
+	    <m id="4299">naa</m>
+	  </w>
+	  <w>
+	    <m id="2671">íp</m>
+	  </w>
+	  <w gl="I salt it">
+	    <m id="4349">ni</m>
+	    <m id="7115">yúfish</m>
+	    <m id="1356">i</m>
+	    <m id="6035">tih</m>
+	  </w>
+	  <w gl="the deer meat">
+	    <m id="4407">pa</m>
+	    <m id="5093">pufích'iish</m>
+	</w>.</kar>
+	<eng>I put salt on the deer meat.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_45" audio-start-time="39:06">
+	<kar>
+	  <w>
+	    <m id="2766">ipít</m>
+	  </w>
+	  <w>
+	    <m id="6360">uxraah</m>
+	  </w>
+	  <w gl="we ate it">
+	    <m id="4370">nu</m>
+	    <m id="814">'áv</m>
+	    <m id="738">at</m>
+	</w>.</kar>
+	<eng>Yesterday we ate berries.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_46" audio-start-time="39:29">
+	<kar>
+	  <w>
+	    <m id="4716">payêem</m>
+	  </w>
+	  <w>
+	    <m id="6360">uxraah</m>
+	  </w>
+	  <w gl="we are eating it">
+	    <m id="4370">nu</m>
+	    <m id="814">'áam</m>
+	    <m id="6035">ti</m>
+	</w>.</kar>
+	<eng>We are eating berries now.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_47" audio-start-time="40:14">
+	<kar>
+	  <w>
+	    <m id="6360">uxraah</m>
+	  </w>
+	  <w gl="I like it">
+	    <m id="4349">ni</m>
+	    <m id="6580">víshtaan</m>
+	    <m id="6035">ti</m>
+	</w>.</kar>
+	<eng>I like berries.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_48" audio-start-time="40:27">
+	<kar>
+	  <w>
+	    <m id="1656">iim</m>
+	  </w>
+	  <w>
+	    <m id="6360">uxraah</m>
+	  </w>
+	  <w gl="you like it">
+	    <m id="1418">i</m>
+	    <m id="6580">víshtaan</m>
+	    <m id="6035">ti</m>
+	</w>?</kar>
+	<eng>Do you like berries?</eng>
+<note> conflict between particle and translation: why no hum in Y/N question? </note>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_49" audio-start-time="43:03">
+	<kar>
+	  <w>
+	    <m id="2766">ipít</m>
+	  </w>
+	  <w gl="the acorn soup">
+	    <m id="4407">pa</m>
+	    <m id="6965">xuun</m>
+	  </w>
+	  <w gl="we ate it">
+	    <m id="4370">nu</m>
+	    <m id="814">'áv</m>
+	    <m id="738">at</m>
+	</w>.</kar>
+	<eng>Yesterday we ate acorn soup.</eng>
+      </s>
+    </paragraph>
+  </data>
+</text>

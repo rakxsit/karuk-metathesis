@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="LA-VS-01" audio-source="karuk_2010-05-01_arg3">
+    <metadata>
+        <title>Sentences with verb paradigms</title>
+        <author>Lucille <alph>Albers</alph> and Vina Smith</author>
+        <date>2010</date>
+        <publication>Unpublished (recorded by Alice Gaby, Andrew Garrett, and Line Mikkelsen on May
+            1, 2010)</publication>
+		<genre type="elicitation"/>
+    </metadata>
+    <data>
+        <paragraph>
+            <s spkr="LA" audio="ag1-01" audio-start-time="0:58">
+                <txt lang="kyh">
+                    <w gl="on the mouth"><m lemma="421">apmáan</m><m lemma="232">ak</m></w>
+                    <w><m lemma="257">aknap</m></w>. </txt>
+                <trans lang="eng">I'm going to slap your mouth.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="ag1-02" audio-start-time="11:30">
+                <txt lang="kyh">
+                    <w><m lemma="5506">tá</m></w>
+                    <w gl="I see"><m lemma="4349">ni</m><m lemma="4155">mah</m></w>. </txt>
+                <trans lang="eng">I see it.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="ag1-03" audio-start-time="12:24">
+                <txt lang="kyh">
+                    <w gl="I am looking at it"><m lemma="4349">ní</m><m lemma="2570">muus</m><m lemma="6035"
+                            >tih</m></w>. </txt>
+                <trans lang="eng">I am looking at it.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="ag1-04" audio-start-time="12:30">
+                <txt lang="kyh">
+                    <w gl="I am looking at it"><m lemma="4349">ní</m><m lemma="2570">muus</m><m lemma="6035"
+                            >tih</m></w>. </txt>
+                <trans lang="eng">I am looking at it.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="ag1-05" audio-start-time="13:19">
+                <txt lang="kyh">
+                    <w><m lemma="2766">ipít</m></w>
+		    <w><m lemma="2676">íp</m></w>
+                    <w gl="I saw it"><m lemma="4349">ni</m><m lemma="4155">máh</m><m
+                            lemma="738">at</m></w>. </txt>
+                <trans lang="eng">I saw it yesterday.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="ag1-06" audio-start-time="14:44">
+                <txt lang="kyh">
+                    <w><m lemma="2766">ipít</m></w>
+                    <w gl="I saw it"><m lemma="4349">ni</m><m lemma="4155">máh</m><m lemma="738">at</m></w>. </txt>
+                <trans lang="eng">I saw it yesterday.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="ag1-07" audio-start-time="15:09">
+                <txt lang="kyh">
+                    <w><m lemma="5506">tá</m></w>
+                    <w gl="I throw it"><m lemma="4349">ni</m><m lemma="4625">path</m></w>. </txt>
+                <trans lang="eng">I throw it.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="ag1-08" audio-start-time="15:30">
+                <txt lang="kyh">
+                    <w><m lemma="5506">tá</m></w>
+                    <w gl="I throw it"><m lemma="4349">ni</m><m lemma="4625">path</m></w>. </txt>
+                <trans lang="eng">I throw it.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="ag1-09" audio-start-time="15:58">
+                <txt lang="kyh">
+                    <w><m lemma="4385">ôok</m></w>
+                    <w gl="throw here"><m lemma="4431">páathraa</m></w>. </txt>
+                <trans lang="eng">Throw it here.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="ag1-10" audio-start-time="17:35">
+                <txt lang="kyh">
+                    <w><m lemma="4717">páykuuk</m></w>
+                    <w><m lemma="4625">path</m></w>. </txt>
+                <trans lang="eng">Throw it over there</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="ag1-11" audio-start-time="18:22">
+                <txt lang="kyh">
+                    <w><m lemma="2766">ipít</m></w>
+                    <w gl="you throw here"><m lemma="1418">i</m><m lemma="4431">páathraa</m></w>. </txt>
+                <trans lang="eng">Yesterday you threw it.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="ag1-12" audio-start-time="18:53">
+                <txt lang="kyh">
+                    <w><m lemma="2766">ipit</m></w>
+                    <w gl="you throw here"><m lemma="1418">i</m><m lemma="4431">pathraa</m></w>. </txt>
+                <trans lang="eng">Yesterday you threw it.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="ag1-13" audio-start-time="21:01">
+                <txt lang="kyh">
+                    <w gl="I am talking"><m lemma="4349">ni</m><m lemma="1218">chuuphí</m><m lemma="6035"
+                            >tih</m></w>. </txt>
+                <trans lang="eng">I am talking.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="ag1-14" audio-start-time="21:12">
+                <txt lang="kyh">
+                    <w gl="I am talking"><m lemma="4349">ni</m><m lemma="1218">chuuphí</m><m lemma="6035"
+                            >tih</m></w>. </txt>
+                <trans lang="eng">I am talking.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="ag1-15" audio-start-time="21:31">
+                <txt lang="kyh">
+                    <w gl="he is talking"><m lemma="6175">u</m><m lemma="1218">chuuphí</m><m lemma="6035"
+                            >tih</m></w>. </txt>
+                <trans lang="eng">He is talking.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="ag1-16" audio-start-time="22:11">
+                <txt lang="kyh">
+                    <w gl="he jumped"><m lemma="5506">t</m><m lemma="6175">ú</m><m lemma="2996">skak</m></w>. </txt>
+                <trans lang="eng">He jumped.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="ag1-17" audio-start-time="25:09">
+                <txt lang="kyh">
+                    <w gl="I will go fishing"><m lemma="4349">ni</m><m lemma="3163">shxâar</m><m lemma="1379"
+                            >eesh</m></w>. </txt>
+                <trans lang="eng">I'm going to go fishing.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="ag1-18" audio-start-time="25:28">
+                <txt lang="kyh">
+                    <w><m lemma="2766">ipít</m></w>
+                    <w gl="I go fishing"><m lemma="4349">ni</m><m lemma="3163">shxâar</m></w>. </txt>
+                <trans lang="eng">Yesterday I went fishing.</trans>
+            </s>
+        </paragraph>
+    </data>
+</text>

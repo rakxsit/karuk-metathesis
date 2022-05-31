@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-56">
+    <metadata>
+        <title>"The Flood"</title>
+        <author>Mamie <alph>Offield</alph></author>
+        <date>1957</date>
+        <publication>William Bright, <em>The Karok Language</em> (1957), pp. 262-263, Text 56
+        </publication>
+    </metadata>
+    <data>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w gl="the earth"><m lemma="4407">pe</m><m lemma="3257">ethívthaaneen</m></w>
+                    <w><m lemma="50">aas</m></w>
+                    <w gl="it collected"><m lemma="6175">u</m><m lemma="2674">p</m><m lemma="1711">iithr</m><m
+                            lemma="1369">ánik</m></w>.</txt>
+                <trans lang="eng">Water collected on the earth.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="3745">kári</m></w>
+                    <w><m lemma="6847">xás</m></w>
+                    <w><m lemma="656">asiktâan</m></w>
+                    <w gl="they were told"><m lemma="3843">kin</m>
+                        <m lemma="2733">ipéer</m></w>
+                    "<w><m lemma="1144">chími</m></w>
+                    <w gl="big storage basket"><m lemma="5422">shipnúk</m><m lemma="3668">aam</m></w>
+                    <w gl="you weave"><m lemma="3829">kiik</m><m lemma="6545">vîik</m><m lemma="1419"
+                        >i</m></w>."</txt>
+                <trans lang="eng">And the women were told, "Weave a big storage basket."</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="3745">kári</m></w>
+                    <w><m lemma="6847">xás</m></w>
+                    <w gl="they wove"><m lemma="3977">kun</m><m lemma="6545">vik</m></w>.</txt>
+                <trans lang="eng">So they wove.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w><m lemma="6675">vúra</m></w>
+                    <w><m lemma="6839">xára</m></w>
+                    <w gl="they wove"><m lemma="3977">kun</m><m lemma="6555">vikúur</m></w>.</txt>
+                <trans lang="eng">And they wove for a long time.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6675">vúra</m></w>
+                    <w><m lemma="5543">táayva</m></w>
+                    <w gl="they wove around"><m lemma="3977">kun</m><m lemma="6545">vík</m><m lemma="5191"
+                            >roon</m></w>
+                    <w><m lemma="1421">icháaniich</m></w>.</txt>
+                <trans lang="eng">They wove several strands at one time.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="3745">kári</m></w>
+                    <w><m lemma="6847">xás</m></w>
+                    <w gl="they finished weaving"><m lemma="4408">pa</m><m lemma="3977">kun</m><m
+                            lemma="2845">ípthith</m></w>
+                    <w><m lemma="3748">kári</m></w>
+                    <w><m lemma="6847">xás</m></w>
+                    <w><m lemma="981">axváha</m></w>
+                    <w gl="they rubbed it"><m lemma="3977">kun</m><m lemma="3642">iyvúruk</m></w>.</txt>
+                <trans lang="eng">And when they finished weaving, they smeared it with pitch.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="5163">púyava</m></w>
+                    <w gl="the water"><m lemma="4407">pá</m><m lemma="50">'aas</m></w>
+                    <w gl="it collected"><m lemma="6175">u</m><m lemma="2674">p</m><m lemma="1711">iithr</m>
+                        <m lemma="1369">ánik</m></w>.</txt>
+                <trans lang="eng">So the water collected.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6383">vaa</m></w>
+                    <w><m lemma="3870">káan</m></w>
+                    <w><m lemma="5502">sú'</m></w>
+                    <w gl="they got into it"><m lemma="3977">kun</m><m lemma="3491">ívyiihramnih</m>
+                        <m lemma="1369">anik</m></w>, <w><m lemma="6383">vaa</m></w>
+                    <w gl="they floated around"><m lemma="6175">u</m><m lemma="5970">thivrúhuthun</m>
+                        <m lemma="1369">anik</m></w>.</txt>
+                <trans lang="eng">(The people) got inside (the basket) there, they floated around that way.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6383">vaa</m></w>
+                    <w><m lemma="3971">kumá'ii</m></w>
+                    <w><m lemma="4716">payêem</m></w>
+                    <w><m lemma="506">áraar </m></w>
+                    <w gl="they are living"><m lemma="3977">kun</m><m lemma="508">'áraarahi</m>
+                        <m lemma="6035">tih</m></w>.</txt>
+                <trans lang="eng">That's why people are living now.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6570">víri</m></w>
+                    <w><m lemma="6383">vaa</m></w>
+                    <w gl="they told them"><m lemma="3841">kin</m><m lemma="2733">ípeer</m><m lemma="1369"
+                            >anik</m></w>
+                    "<w><m lemma="1412">hûutva</m></w>
+                    <w><m lemma="3904">kóo</m></w>
+                    <w><m lemma="3257">ithívthaaneen</m></w>
+                    <w gl="it exists"><m lemma="6175">u</m><m lemma="5845">thaanêe</m>
+                        <m lemma="1358">haak</m></w>,
+                    <w><m lemma="6881">xáyfaat</m></w>
+                    <w><m lemma="1729">ik</m></w>
+                    <w><m lemma="3969">kúkuum</m></w>
+                    <w><m lemma="6675">vúra</m></w>
+                    <w><m lemma="6383">vaa</m></w>
+                    <w gl="you must not weave that way"><m lemma="3939">ku</m><m lemma="4004">kup</m><m
+                            lemma="2674">eep</m>
+                        <m lemma="6545">vík</m><m lemma="169">aha</m></w>."</txt>
+                <trans lang="eng">(But) they were told, "However long the earth exists, you musn't weave that way
+                    (several strands at a time) again."</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="7157">yukun</m></w>
+                    <w gl="world coming to an end"><m lemma="3257">ithivthaaneen</m>
+                        <m lemma="5519">taaníha</m></w>.</txt>
+                <trans lang="eng">You see, (it will be) the end of the world.</trans>
+            </s>
+        </paragraph>
+    </data>
+</text>

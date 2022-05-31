@@ -1,0 +1,128 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.00000000000000000000
+xmax = 1.31958333333333333037
+tiers? <exists>
+size = 4
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "transcription - words"
+        xmin = 0.000000000000
+        xmax = 1.319583333333
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0.00000000000000000000
+            xmax = 0.44000000000000000222
+            text = ""
+        intervals [2]:
+            xmin = 0.44000000000000000222
+            xmax = 0.69999999999999995559
+            text = "too"
+        intervals [3]:
+            xmin = 0.69999999999999995559
+            xmax = 0.72999999999999998224
+            text = ""
+        intervals [4]:
+            xmin = 0.72999999999999998224
+            xmax = 1.04000000000000003553
+            text = "xuriha"
+        intervals [5]:
+            xmin = 1.04000000000000003553
+            xmax = 1.31958333333333333037
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "transcription - phones"
+        xmin = 0.000000000000
+        xmax = 1.319583333333
+        intervals: size = 12
+        intervals [1]:
+            xmin = 0.00000000000000000000
+            xmax = 0.44000000000000000222
+            text = "sil"
+        intervals [2]:
+            xmin = 0.44000000000000000222
+            xmax = 0.48999999999999999112
+            text = "T"
+        intervals [3]:
+            xmin = 0.48999999999999999112
+            xmax = 0.69999999999999995559
+            text = "OW1"
+        intervals [4]:
+            xmin = 0.69999999999999995559
+            xmax = 0.72999999999999998224
+            text = "sp"
+        intervals [5]:
+            xmin = 0.72999999999999998224
+            xmax = 0.76000000000000000888
+            text = "HH"
+        intervals [6]:
+            xmin = 0.76000000000000000888
+            xmax = 0.86999999999999999556
+            text = "UH0"
+        intervals [7]:
+            xmin = 0.86999999999999999556
+            xmax = 0.90000000000000002220
+            text = "R"
+        intervals [8]:
+            xmin = 0.90000000000000002220
+            xmax = 0.93000000000000004885
+            text = "IH0"
+        intervals [9]:
+            xmin = 0.93000000000000004885
+            xmax = 1.01000000000000000888
+            text = "HH"
+        intervals [10]:
+            xmin = 1.01000000000000000888
+            xmax = 1.04000000000000003553
+            text = "AH0"
+        intervals [11]:
+            xmin = 1.04000000000000003553
+            xmax = 1.30000000000000004441
+            text = "sp"
+        intervals [12]:
+            xmin = 1.30000000000000004441
+            xmax = 1.31958333333333333037
+            text = ""
+    item [3]:
+        class = "IntervalTier"
+        name = "targetseq"
+        xmin = 0.000000000000
+        xmax = 1.319583333333
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.00000000000000000000
+            xmax = 0.72999999999999998224
+            text = ""
+        intervals [2]:
+            xmin = 0.72999999999999998224
+            xmax = 0.86999999999999999556
+            text = "xu"
+        intervals [3]:
+            xmin = 0.86999999999999999556
+            xmax = 1.31958333333333333037
+            text = ""
+    item [4]:
+        class = "IntervalTier"
+        name = "targetphone"
+        xmin = 0.000000000000
+        xmax = 1.319583333333
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0.00000000000000000000
+            xmax = 0.72999999999999998224
+            text = ""
+        intervals [2]:
+            xmin = 0.72999999999999998224
+            xmax = 0.76000000000000000888
+            text = "HH"
+        intervals [3]:
+            xmin = 0.76000000000000000888
+            xmax = 0.86999999999999999556
+            text = "UH0"
+        intervals [4]:
+            xmin = 0.86999999999999999556
+            xmax = 1.31958333333333333037
+            text = ""

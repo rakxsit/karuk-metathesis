@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-66">
+    <metadata>
+        <title>"How the Rube Family Was Named"</title>
+        <author>Julia <alph>Starritt</alph></author>
+        <date>1957</date>
+        <publication>William Bright, <em>The Karok Language</em> (1957), pp. 278-281, Text
+            66</publication>
+    </metadata>
+    <data>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-66:1" head="WB_KL-66:2" synrel="ATR">
+						<m lemma="7097">yítha</m>
+					</w>
+                    <w id="WB_KL-66:2" head="WB_KL-66:4" synrel="SBJ">
+						<m lemma="506">áraar</m>
+					</w>
+                    <w id="WB_KL-66:3" head="WB_KL-66:4" synrel="COMP">
+						<m lemma="500">apxantínihich</m>
+					</w>
+                    <w gl="he worked for" id="WB_KL-66:4" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="2355">kyavíichvihi</m>
+						<m lemma="6035">tih</m>
+						<m lemma="1369">anik</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">A certain Indian once worked for a white man.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-66:5" head="WB_KL-66:10" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w id="WB_KL-66:6" head="WB_KL-66:7" synrel="POSS">
+						<m lemma="3219">ithâan</m>
+					</w>
+                    <w gl="some winter" id="WB_KL-66:7" head="WB_KL-66:10" synrel="ADV">
+						<m lemma="3970">kum</m>
+						<m lemma="3178">éeshyaav</m>
+					</w>
+                    <w id="WB_KL-66:8" head="WB_KL-66:10" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w id="WB_KL-66:9" head="WB_KL-66:10" synrel="ADV">
+						<m lemma="5156">puxích</m>
+					</w>
+                    <w gl="it rained" id="WB_KL-66:10" head="0" synrel="PRED">
+						<m lemma="5506" id="WB_KL-66:11" head="WB_KL-66:10" synrel="TAM">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="4644">páthrih</m>
+					</w>, 
+					<w gl="the water" id="WB_KL-66:12" head="WB_KL-66:14" synrel="SBJ">
+						<m lemma="4407" id="WB_KL-66:13" head="WB_KL-66:12" synrel="ATR">pa</m>
+						<m lemma="2940">'íshaha</m>
+					</w>
+                    <w gl="it rose" id="WB_KL-66:14" head="0" synrel="PRED">
+						<m lemma="5506" id="WB_KL-66:15" head="WB_KL-66:14" synrel="TAM">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="6186">'uh</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">And one winter it rained hard, the water rose.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-66:16" head="WB_KL-66:19" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w gl="the white man" id="WB_KL-66:17" head="WB_KL-66:19" synrel="SBJ">
+						<m lemma="4407" id="WB_KL-66:18" head="WB_KL-66:17" synrel="ATR">p</m>
+						<m lemma="500">aapxantínihich</m>
+					</w>
+                    <w gl="he says" id="WB_KL-66:19" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="4823">píip</m>
+					</w> "
+					<w id="WB_KL-66:20" head="WB_KL-66:22" synrel="TAM">
+						<m lemma="1144">chími</m>
+					</w>
+                    <w id="WB_KL-66:21" head="WB_KL-66:22" synrel="ADV">
+						<m lemma="3669">kâam</m>
+					</w>
+                    <w gl="go away" id="WB_KL-66:22" head="WB_KL-66:19" synrel="QUOT">
+						<m lemma="6396">vâaram</m>
+						<m lemma="1419">i</m>
+					</w>
+                    <w id="WB_KL-66:23" head="WB_KL-66:19" synrel="ADV">
+						<m lemma="4752">peevapithváram</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">And the white man said, "Go upriver to the store!</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-66:24" head="0" synrel="PRED">
+						<m lemma="5317">sáran</m>
+					</w>
+                    <w id="WB_KL-66:25" head="WB_KL-66:24" synrel="OBJ">
+						<m lemma="5372">sii</m>
+					</w>
+                    <w id="WB_KL-66:26" head="WB_KL-66:27" synrel="DIS">
+						<m lemma="3752">káru</m>
+					</w>
+                    <w id="WB_KL-66:27" head="WB_KL-66:25" synrel="COORD">
+						<m lemma="7115">yúfish</m>
+					</w>
+                    <w id="WB_KL-66:28" head="WB_KL-66:29" synrel="DIS">
+						<m lemma="3752">káru</m>
+					</w>
+                    <w id="WB_KL-66:29" head="WB_KL-66:25" synrel="COORD">
+						<m lemma="715">asúxiim</m>
+					</w>
+                    <w id="WB_KL-66:30" head="WB_KL-66:31" synrel="DIS">
+						<m lemma="3752">káru</m>
+					</w>
+                    <w id="WB_KL-66:31" head="WB_KL-66:25" synrel="COORD">
+						<m language="english">rope</m>
+					</w>." 
+				</txt>
+                <trans lang="eng">Go get nails and salt and sugar and rope!"</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-66:32" head="WB_KL-66:34" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w id="WB_KL-66:33" head="WB_KL-66:34" synrel="TAM">
+						<m lemma="6174">ta'ítam</m>
+					</w>
+                    <w gl="he went" id="WB_KL-66:34" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="6396">vâaram</m>
+						<m lemma="1378">aheen</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">So the Indian went.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-66:35" head="WB_KL-66:36" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w gl="he was naming" id="WB_KL-66:36" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="3324">thvuyâana</m>
+						<m lemma="6035">ti</m>
+					</w>
+                    <w id="WB_KL-66:37" head="WB_KL-66:39" synrel="TAM"><!-- synrel="SUB" ípa is a contraction of pa SUB and ipa TAM, so what should this one be? Should we have two tags or a compound tag? -->
+						<m lemma="2671">ípa</m><!-- head="WB_KL-66:39" synrel="TAM" perhaps to have two we have one synrel on the word and one synrel on the morpheme, but this is somewhat arbitrary--> 
+					</w>
+                    <w id="WB_KL-66:38" head="WB_KL-66:39" synrel="ADV">
+						<m lemma="3906">kóo</m>
+					</w>
+                    <w gl="they said" id="WB_KL-66:39" head="WB_KL-66:36" synrel="COMP">
+						<m lemma="3977">kun</m>
+						<m lemma="2733">ípeer</m>
+						<m lemma="738">at</m>
+					</w> "
+					<w id="WB_KL-66:40" head="WB_KL-66:39" synrel="QUOT">
+						<m lemma="2176">ikvan</m>
+					</w>." 
+				</txt>
+                <trans lang="eng">And he was naming all that they had told him to buy.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-66:41" head="WB_KL-66:42" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w gl="he arrives" id="WB_KL-66:42" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="6306">'uum</m>
+					</w>, 
+					<w gl="to the creek" id="WB_KL-66:43" head="WB_KL-66:42" synrel="ADV">
+						<m lemma="4407" id="WB_KL-66:44" head="WB_KL-66:43" synrel="ATR">pa</m>
+						<m lemma="6026">thúuf</m>
+						<m lemma="232">ak</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">And he got to the creek.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-66:45" head="WB_KL-66:48" synrel="DIS">
+						<m lemma="7037">yána</m>
+					</w>
+                    <w id="WB_KL-66:46" head="WB_KL-66:48" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w id="WB_KL-66:47" head="WB_KL-66:48" synrel="ADV">
+						<m lemma="3779">kêech</m>
+					</w>
+                    <w gl="it had risen" id="WB_KL-66:48" head="0" synrel="PRED">
+						<m lemma="5506" id="WB_KL-66:49" head="WB_KL-66:48" synrel="TAM">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="6186">'uh</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">He saw that it had risen high.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-66:50" head="WB_KL-66:51" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w gl="he wades in" id="WB_KL-66:51" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="1299">fáath</m>
+						<m lemma="3744">kar</m>
+					</w>, 
+					<w id="WB_KL-66:52" head="WB_KL-66:55" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w id="WB_KL-66:53" head="WB_KL-66:55" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w id="WB_KL-66:54" head="WB_KL-66:55" synrel="ADV">
+						<m lemma="3999">kúnish</m>
+					</w>
+                    <w gl="he fears" id="WB_KL-66:55" head="0" synrel="PRED">
+						<m lemma="5506" id="WB_KL-66:56" head="WB_KL-66:55" synrel="TAM">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="1019">'ay</m>
+					</w>,
+                    <w gl="the water" id="WB_KL-66:57" head="WB_KL-66:55" synrel="OBJ">
+						<m lemma="4407" id="WB_KL-66:58" head="WB_KL-66:57" synrel="ATR">pa</m>
+						<m lemma="2940">'íshaha</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">Then he waded in, but he was sort of afraid of the water.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-66:59" head="WB_KL-66:62" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w id="WB_KL-66:60" head="WB_KL-66:62" synrel="TAM"><!-- synrel="ADV" -->
+						<m lemma="1144">chími</m>
+						<m lemma="6383" id="WB_KL-66:61" head="WB_KL-66:62" synrel="DIS">va</m>
+					</w>
+                    <w gl="he falls down" id="WB_KL-66:62" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="2376">kyívish</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">And suddenly he fell down.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-66:63" head="WB_KL-66:65" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w id="WB_KL-66:64" head="WB_KL-66:67" synrel="ATR">
+						<m lemma="3930">koovúra</m>
+					</w>
+                    <w gl="he forgot" id="WB_KL-66:65" head="0" synrel="PRED">
+						<m lemma="5506" id="WB_KL-66:66" head="WB_KL-66:65" synrel="TAM">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="4406">p</m>
+						<m lemma="2806">ipshinvárihva</m>
+					</w>
+                    <w gl="the name" id="WB_KL-66:67" head="WB_KL-66:65" synrel="OBJ">
+						<m lemma="4407" id="WB_KL-66:68" head="WB_KL-66:67" synrel="ATR">p</m>
+						<m lemma="3322">éethvuy</m>
+					</w>, 
+					<w id="WB_KL-66:69" head="WB_KL-66:70" synrel="TAM"><!-- same issue as with ipa in sentence above, it is both sub and tam -->
+						<m lemma="2671">ípa</m>
+					</w>
+                    <w gl="they said" id="WB_KL-66:70" head="WB_KL-66:65" synrel="COMP">
+						<m lemma="3977">kun</m>
+						<m lemma="2733">ípeer</m>
+						<m lemma="738">at</m>
+					</w> "
+					<w id="WB_KL-66:71" head="WB_KL-66:70" synrel="QUOT">
+						<m lemma="2176">ikvan</m>
+					</w>." 
+				</txt>
+                <trans lang="eng">And he forgot all the names that they had told him to buy.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-66:72" head="WB_KL-66:76" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w id="WB_KL-66:73" head="WB_KL-66:77" synrel="ATR"><!-- head="WB_KL-66:76" synrel="ADV" but looking at the examples, I doubt this word is truly an ADV as the dictionary says -->
+						<m lemma="7076">yícheech</m>
+					</w>
+                    <w id="WB_KL-66:74" head="WB_KL-66:76" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w id="WB_KL-66:75" head="WB_KL-66:77" synrel="ATR"><!-- synrel="DIS" -->
+						<m lemma="3809">kích</m>
+					</w>
+                    <w gl="he remembers" id="WB_KL-66:76" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="4865">pikrôok</m>
+					</w> "
+					<w id="WB_KL-66:77" head="WB_KL-66:76" synrel="QUOT">
+						<m>rúup</m>
+					</w>." 
+				</txt>
+                <trans lang="eng">And he only remembered one thing, "rúup."</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-66:78" head="WB_KL-66:82" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w gl="when he goes upriver" id="WB_KL-66:79" head="WB_KL-66:82" synrel="ADV">
+						<m lemma="4408" id="WB_KL-66:80" head="WB_KL-66:79" synrel="SUB">p</m>
+						<m lemma="6175">oo</m>
+						<m lemma="567">'árihroov</m>
+					</w>
+                    <w id="WB_KL-66:81" head="WB_KL-66:84" synrel="ATR"><!-- synrel="DIS" -->
+						<m lemma="3809">kích</m>
+					</w>
+                    <w gl="he was saying" id="WB_KL-66:82" head="0" synrel="PRED">
+						<m lemma="4408" id="WB_KL-66:83" head="WB_KL-66:82" synrel="SUB">p</m>
+						<m lemma="6175">oo</m>
+						<m lemma="4823">pí</m>
+						<m lemma="6035">ti</m>
+					</w> "
+					<w id="WB_KL-66:84" head="WB_KL-66:82" synrel="QUOT">
+						<m>rúup</m>
+					</w>, 
+					<w id="WB_KL-66:85" head="WB_KL-66:84" synrel="COORD"><!-- if this were outside of a quote, it would be head="0" and a FRAG, but then when its under a quote we have to make it a COORD dependent which is not parallel to its other analysis -->
+						<m>rúup</m>
+					</w>." 
+				</txt>
+                <trans lang="eng">So as he went upriver he was saying nothing but "rúup, rúup."</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-66:86" head="WB_KL-66:87" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w gl="he arrives" id="WB_KL-66:87" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="6306">'uum</m>
+					</w>, 
+					<w gl="the store" id="WB_KL-66:88" head="WB_KL-66:87" synrel="ADV">
+						<m lemma="4407" id="WB_KL-66:89" head="WB_KL-66:88" synrel="ATR">pa</m>
+						<m lemma="4752">peevapithváram</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">Then he arrived at the store.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-66:90" head="WB_KL-66:91" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w gl="they say" id="WB_KL-66:91" head="0" synrel="PRED">
+						<m lemma="3977">kun</m>
+						<m lemma="2733">ipêer</m>
+					</w> "
+					<w id="WB_KL-66:92" head="WB_KL-66:93" synrel="OBJ">
+						<m lemma="1281">fâat</m>
+					</w>
+                    <w gl="we will give you" id="WB_KL-66:93" head="WB_KL-66:91" synrel="QUOT">
+						<m lemma="4408" id="WB_KL-66:94" head="WB_KL-66:93" synrel="SUB">pa</m>
+						<m lemma="4370">nu</m>
+						<m lemma="249">'ákih</m>
+						<m lemma="1379">eesh</m>
+					</w>." 
+				</txt>
+                <trans lang="eng">And they said to him, "What can we give you?"</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh"> 
+					"
+					<w id="WB_KL-66:95" head="0" synrel="FRAG">
+						<m>rúup</m>
+					</w>, 
+					<w id="WB_KL-66:96" head="0" synrel="FRAG">
+						<m>rúup</m>
+					</w>." 
+				</txt>
+                <trans lang="eng">"rúup, rúup."</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+					<w id="WB_KL-66:97" head="WB_KL-66:100" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w gl="the white man" id="WB_KL-66:98" head="WB_KL-66:100" synrel="SBJ">
+						<m lemma="4407" id="WB_KL-66:99" head="WB_KL-66:98" synrel="ATR">p</m>
+						<m lemma="500">aapxantínihich</m>
+					</w>
+                    <w gl="he says" id="WB_KL-66:100" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="4823">píip</m>
+					</w> "
+					<w id="WB_KL-66:101" head="WB_KL-66:102" synrel="DIS"><!-- head="WB_KL-66:100" synrel="QUOT" and then no syntax within the English phrase? -->
+						<m language="english">Oh</m>
+					</w>,
+					<w id="WB_KL-66:102" head="WB_KL-66:100" synrel="QUOT"><!-- how to indicate that a quote is a fragment since frag is a synrel? should we have instead a fragment attribute? -->
+                        <m language="english">rope</m>
+					</w>!" 
+				</txt>
+                <trans lang="eng">And the white man (the storekeeper) said, "Oh, rope!"</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-66:103" head="WB_KL-66:104" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w gl="he gives" id="WB_KL-66:104" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="1227">'êe</m>
+					</w>
+                    <w gl="the rope" id="WB_KL-66:105" head="WB_KL-66:104" synrel="OBJ">
+						<m lemma="4407" id="WB_KL-66:106" head="WB_KL-66:105" synrel="ATR">pá</m>
+						<m lemma="33">'aan</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">And he gave him the rope.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-66:107" head="WB_KL-66:110" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w gl="the storekeeper" id="WB_KL-66:108" head="WB_KL-66:110" synrel="SBJ">
+						<m lemma="4407" id="WB_KL-66:109" head="WB_KL-66:108" synrel="ATR">pa</m>
+						<m lemma="4751">peevapíthvaan</m>
+					</w>
+                    <w gl="he says" id="WB_KL-66:110" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="4823">píip</m>
+					</w> "
+					<w id="WB_KL-66:111" head="WB_KL-66:110" synrel="QUOT">
+						<m lemma="1281">fâat</m>
+					</w>
+                    <w id="WB_KL-66:112" head="WB_KL-66:111" synrel="ATR"><!-- synrel="DIS" -->
+						<m lemma="3978">kúna</m>
+					</w>." 
+				</txt>
+                <trans lang="eng">And the storekeeper said, "What else?"</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-66:113" head="WB_KL-66:114" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w gl="he says" id="WB_KL-66:114" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="4823">píip</m>
+					</w> "
+					<w id="WB_KL-66:115" head="WB_KL-66:117" synrel="ADV">
+						<m lemma="4236">man'áta</m>
+					</w>, 
+					<w id="WB_KL-66:116" head="WB_KL-66:117" synrel="TAM">
+						<m lemma="5506">tá</m>
+					</w>
+                    <w gl="I don't remember" id="WB_KL-66:117" head="WB_KL-66:114" synrel="QUOT">
+						<m lemma="5082" id="WB_KL-66:118" head="WB_KL-66:117" synrel="NEG">pu</m>
+						<m lemma="4295">na</m>
+						<m lemma="4865">pikrôok</m>
+						<m lemma="1371">ara</m>
+					</w>." 
+				</txt>
+                <trans lang="eng">And he said, "I don’t know, I've forgotten."</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-66:119" head="WB_KL-66:122" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w id="WB_KL-66:120" head="WB_KL-66:123" synrel="APOS">
+						<m lemma="6383">vaa</m>
+					</w>
+                    <w id="WB_KL-66:121" head="WB_KL-66:122" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w gl="he names" id="WB_KL-66:122" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="4406">p</m>
+						<m lemma="3320">íthvuuymath</m>
+					</w>
+                    <w id="WB_KL-66:123" head="WB_KL-66:122" synrel="COMP">
+						<m>rúup</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">So they named him Rube.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-66:124" head="WB_KL-66:129" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w id="WB_KL-66:125" head="WB_KL-66:129" synrel="ADV">
+						<m lemma="4716">payêem</m>
+					</w>
+                    <w id="WB_KL-66:126" head="WB_KL-66:129" synrel="DIS">
+						<m lemma="6383">vaa</m>
+					</w>
+                    <w id="WB_KL-66:127" head="WB_KL-66:129" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w gl="their name" id="WB_KL-66:128" head="WB_KL-66:129" synrel="SBJ">
+						<m lemma="4264">mukun</m>
+						<m lemma="3322">'íthvuy</m>
+					</w>
+                    <w id="WB_KL-66:129" head="0" synrel="PRED">
+						<m>rúup</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">And now (his descendants') name is Rube.</trans>
+            </s>
+        </paragraph>
+    </data>
+</text>

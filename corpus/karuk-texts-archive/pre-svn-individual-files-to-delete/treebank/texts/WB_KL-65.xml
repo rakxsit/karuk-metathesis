@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-65">
+    <metadata>
+        <title>"The White Man's Gifts"</title>
+        <author>Nettie <alph>Reuben</alph></author>
+        <date>1957</date>
+        <publication>William Bright, <em>The Karok Language</em> (1957), pp. 278-279, Text 65</publication>
+    </metadata>
+    <data>
+		<paragraph>
+			<s>
+				<txt lang="kyh">	
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w gl="when the white men">
+						<m lemma="4408">pa</m>
+						<m lemma="500">'apxantínihich</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they stopped">
+						<m lemma="3977">kun</m>
+						<m lemma="3909">kôoha</m>
+					</w>
+					<w gl="when they fought">
+						<m lemma="4408">pa</m>
+						<m lemma="3977">kun</m>
+						<m lemma="6474">váthii</m>
+						<m lemma="6648">naa</m>
+					</w>
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="the Indians">
+						<m lemma="4407">pa</m>
+						<m lemma="506">'áraar</m>
+					</w>
+					<w>
+						<m lemma="167">afyíiv</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they saw them">
+						<m lemma="3843">kín</m>
+						<m lemma="4155">mah</m>
+					</w>.
+				</txt>
+				<trans lang="eng">When the white men finished fighting, then they were friendly to the Indians.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they got together">
+						<m lemma="3977">kun</m>
+						<m lemma="7073">yíchaachha</m>
+					</w>.
+				</txt>
+				<trans lang="eng">They got together with them.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3758">káruma</m>
+					</w>
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w gl="the Indians">
+						<m lemma="4407">pa</m>
+						<m lemma="506">'áraar</m>
+						<m lemma="5200">as</m>
+					</w>
+					<w>
+						<m lemma="3745">kári</m>
+					</w>	
+					<w gl="the Indians">
+						<m lemma="4407">pa</m>
+						<m lemma="506">'áraar</m>
+						<m lemma="5200">as</m>
+					</w>
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w gl="they were afraid">
+						<m lemma="3977">kun</m>
+						<m lemma="59">'áathvu</m>
+						<m lemma="4298">naa</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">(But) the fact was, the Indians were still afraid.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w gl="they told them">
+						<m lemma="3843">kin</m>
+						<m lemma="2733">ípeen</m>
+						<m lemma="6035">ti</m>
+					</w> "
+					<w>
+						<m lemma="3794">kêemish</m>
+					</w>
+					<w gl="the white men">
+						<m lemma="4407">pa</m>
+						<m lemma="500">'apxantínihich</m>
+						<m lemma="5200">as</m>
+					</w>."
+				</txt>
+				<trans lang="eng">They were told that the white men were devils.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w gl="the money">
+						<m lemma="4407">p</m>
+						<m lemma="3054">eeshpúk</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they gave them">
+						<m lemma="3843">kin</m>
+						<m lemma="1227">'éeh</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Then (the whites) gave them money (i.e., coins).</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w gl="they thought">
+						<m lemma="3977">kun</m>
+						<m lemma="6939">xú</m>
+						<m lemma="6035">ti</m>
+					</w> "
+					<w>
+						<m lemma="583">as</m>
+					</w>."
+				</txt>
+				<trans lang="eng">(The Indians) thought they were rocks.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="5163">púyava</m>
+					</w>
+					<w>
+						<m lemma="5328">sáruk</m>
+					</w>
+					<w>
+						<m lemma="708">astíip</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they went">
+						<m lemma="3977">kun</m>
+						<m lemma="3481">ivyíhish</m>
+					</w>.
+				</txt>
+				<trans lang="eng">So they went down to the river bank.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they skipped them on the water">
+						<m lemma="3977">kun</m>
+						<m lemma="6054">tiishtîishha</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And they skipped them on the water.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w gl="they camped">
+						<m lemma="3977">kun</m>
+						<m lemma="2186">ikvêeshri</m>
+					</w>
+					<w gl="the white men">
+						<m lemma="4407">pa</m>
+						<m lemma="500">'apxantínihich</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The white men were camped.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="they told them">
+						<m lemma="3843">kin</m>
+						<m lemma="2733">ipêer</m>
+					</w> "
+					<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w>
+						<m lemma="1729">ík</m>
+					</w>
+					<w gl="you will go">
+						<m lemma="3939">kú</m>
+						<m lemma="3489">vyiihm</m>
+						<m lemma="1379">eesh</m>
+					</w>."
+				</txt>
+				<trans lang="eng">And they told (the Indians) to come there.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="they went">
+						<m lemma="3977">kun</m>
+						<m lemma="3489">ívyiihma</m>
+					</w>.
+				</txt>
+				<trans lang="eng">So they came.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="the flour">
+						<m lemma="4407">p</m>
+						<m lemma="2484">eempúr</m>
+					</w>
+					<w gl="they gave them">
+						<m lemma="3843">kin</m>
+						<m lemma="249">'ákih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And (the whites) gave them flour.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w gl="little sacks">
+						<m lemma="5145">puvish</m>
+						<m lemma="6128">tunvêech</m>
+						<m lemma="5200">as</m>
+					</w>
+				</txt>
+				<trans lang="eng">It was (in) little sacks.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="they went back home">
+						<m lemma="3977">kun</m>
+						<m lemma="4695">pávyiihship</m>
+					</w>
+					<w gl="the Indians">
+						<m lemma="4407">pa</m>
+						<m lemma="506">'áraar</m>
+					</w>
+				</txt>
+				<trans lang="eng">Then the Indians went back home.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="when they came back">
+						<m lemma="4408">pa</m>
+						<m lemma="3977">kun</m>
+						<m lemma="4691">pávyiihma</m>
+					</w>
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="they poured it out">
+						<m lemma="3977">kun</m>
+						<m lemma="2674">p</m>
+						<m lemma="3634">iyvêeshrih</m>
+						<m lemma="6380">va</m>
+					</w>
+					<w gl="the flour">
+						<m lemma="4407">p</m>
+						<m lemma="2484">eempúr</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And when they got home, then they poured out the flour.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="the cloth">
+						<m lemma="4407">pa</m>
+						<m lemma="4202">makáyvaas</m>
+					</w>
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+						<m lemma="3809">kích</m>
+					</w>
+					<w>
+						<m lemma="5654">tápas</m>
+					</w>
+					<w gl="they made">
+						<m lemma="3977">kun</m>
+						<m lemma="2348">íkyav</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And they kept only the cloth.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w gl="Indian treasure">
+						<m lemma="506">arará</m>
+						<m lemma="6319">'uup</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they made">
+						<m lemma="3977">kun</m>
+						<m lemma="2348">íkyav</m>
+					</w>.
+				</txt>
+				<trans lang="eng">They made Indian treasure of it.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+						<m lemma="3978">kúna</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they gave them">
+						<m lemma="3843">kin</m>
+						<m lemma="249">'ákih</m>
+					</w>
+					<w>
+						<m lemma="2728">ipchimákananach</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Then in addition they gave them handkerchiefs.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="so">
+						<m lemma="6570">víri</m>
+						<m lemma="6383">va</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they did">
+						<m lemma="3977">kun</m>
+						<m lemma="4086">kuupha</m>
+					</w>
+					<w gl="the world-renewal ceremony">
+						<m lemma="4407">pa</m>
+						<m lemma="2888">'írahiv</m>
+					</w>
+					<w>
+						<m lemma="5562">tah</m>
+					</w>,
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they put on">
+						<m lemma="3977">kun</m>
+						<m lemma="4766">pifkutíshiiprin</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Then (the Indians) made the world-renewal ceremony, they put (the handkerchiefs) on.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+						<m lemma="6675">vúra</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they thought that way about them">
+						<m lemma="3977">kun</m>
+						<m lemma="6977">xúusunish</m>
+					</w> "
+					<w>
+						<m lemma="7022">yaas'ára</m>
+					</w>."
+				</txt>
+				<trans lang="eng">Then people thought they were rich.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w gl="the handkerchiefs">
+						<m lemma="4407">p</m>
+						<m lemma="2728">eepchimákananach</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they put them on across their chests">
+						<m lemma="3977">kun</m>
+						<m lemma="2674">ip</m>
+						<m lemma="5622">tákvar</m>
+					</w>.
+				</txt>
+				<trans lang="eng">They put on the handkerchiefs across their chests.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w gl="the handkerchiefs">
+						<m lemma="4407">p</m>
+						<m lemma="2728">eepchimákananach</m>
+					</w>
+					<w>
+						<m lemma="78">aaxkúnish</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The handkerchiefs were red.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w gl="the flour sacks">
+						<m lemma="4407">p</m>
+						<m lemma="2486">eempurávaas</m>
+					</w>
+					<w gl="when they did the deerskin dance">
+						<m lemma="4408">pa</m>
+						<m lemma="5506">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="6641">vuhvúhi</m>
+						<m lemma="6648">naa</m>
+					</w>
+					<w>
+						<m lemma="5163">púyava</m>
+					</w>
+					<w gl="when they carried blades in the deerskin dance">
+						<m lemma="4408">pa</m>
+						<m lemma="5506">ta</m>
+						<m lemma="3977">kun</m>
+						<m lemma="2188">íkviipvarayva</m>
+					</w>
+					<w>
+						<m lemma="5163">púyava</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they put them around their waists">
+						<m lemma="3977">kun</m>
+						<m lemma="5365">síchakvutva</m>
+					</w>, 
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they put them on as dresses">
+						<m lemma="3977">kun</m>
+						<m lemma="2674">ip</m>
+						<m lemma="7027">yáfus</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And when they did the deerskin dance, when they carried the obsidian blades, they wore the flour bags around their waist, they put them on that way, as dresses.</trans>
+			</s>
+		</paragraph>
+	</data>
+</text>
+		

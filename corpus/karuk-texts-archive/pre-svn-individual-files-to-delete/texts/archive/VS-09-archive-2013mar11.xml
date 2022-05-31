@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="VS-09" audio-source="karuk-2011-12-21-vs-6">
+  <metadata>
+    <title>Sentences with relative clauses, negation, commands</title>
+    <author> Vina <alph>Smith</alph>
+    </author>
+    <date>2011</date>
+    <publication> Unpublished (recorded by Andrew Garrett and Line Mikkelsen on December 21, 2011) </publication>
+  </metadata>
+  <data>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_01" audio-start-time="1:22">
+	<kar>
+	  <w gl="the man">
+	    <m id="4407">pa</m>
+	    <m id="833">'ávansa</m>
+	  </w>
+	  <w>
+	    <m id="4528">panámniik</m>
+	  </w>
+	  <w gl="he lives">
+	    <m id="6175">ú</m>
+	<m id="1974">krii</m></w>.</kar>
+	<eng>The man lives in Orleans.</eng>
+      </s>
+    </paragraph>
+<paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_02" audio-start-time="1:57">
+	<kar>
+	  <w>
+	    <m id="2671">íp</m>
+	  </w>
+	  <w gl="I see him">
+	    <m id="4349">ni</m>
+	    <m id="4155">máh</m>
+	  </w>
+	  <w gl="the man">
+	    <m id="4407">pa</m>
+	    <m id="833">'ávansa</m></w>.</kar>
+	<eng>I saw the man.</eng>
+      </s>
+    </paragraph>
+<paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_03" audio-start-time="3:06">
+	<kar>
+	  <w gl="the man">
+	    <m id="4407">pa</m>
+	    <m id="833">'ávansa</m>
+	  </w>
+	  <w>
+	    <m id="2671">íp</m>
+	  </w>
+	  <w gl="I saw him">
+	    <m id="4349">ni</m>
+	    <m id="4155">máh</m>
+	    <m id="738">at</m>
+	  </w>
+	  <w>
+	    <m language="english">Orleans</m>
+	  </w>
+	  <w gl="he lives">
+	    <m id="6175">ú</m>
+	    <m id="1974">krii</m></w>.</kar>
+	<eng>I saw the man who lives in Orleans.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_04" audio-start-time="4:23">
+	<kar>
+	  <w gl="the man">
+	    <m id="4407">pa</m>
+	    <m id="833">'ávansa</m>
+	  </w>
+	  <w>
+	    <m language="english">Orleans</m>
+	  </w>
+	  <w gl="he lives">
+	    <m id="6175">ú</m>
+	    <m id="1974">krii</m>
+	  </w>
+	  <w> 
+	    <m id="1670">îin</m>
+	  </w>
+	  <w>
+	    <m id="2674">íp</m>
+	  </w>
+	  <w gl="I saw him">
+	    <m id="4294">na</m>
+	    <m id="4155">máh</m>
+	    <m id="738">at</m></w>.</kar>
+	<eng>The man who lives in Orleans saw me.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_05" audio-start-time="4:36">
+	<kar>
+	  <w gl="the man">
+	    <m id="4407">pa</m>
+	    <m id="833">'ávansa</m>
+	  </w>
+	  <w>
+	    <m language="english">Orleans</m>
+	  </w>
+	  <w gl="he lives">
+	    <m id="6175">ú</m>
+	    <m id="1974">krii</m>
+	  </w>
+	  <w>
+	    <m id="2674">íp</m>
+	  </w>
+	  <w> 
+	    <m id="1670">îin</m>
+	  </w>
+	  <w gl="I saw him">
+	    <m id="4294">na</m>
+	    <m id="4155">máh</m>
+	    <m id="738">at</m></w>.</kar>
+	<eng>The man who lives in Orleans saw me.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_06" audio-start-time="5:06">
+	<kar>
+	  <w gl="the man">
+	    <m id="4407">pa</m>
+	    <m id="833">'ávansa</m>
+	  </w>
+	  <w> 
+	    <m id="1670">îin</m>
+	  </w>
+	  <w gl="he sees me">
+	    <m id="4294">née</m>
+	    <m id="2570">mus</m>
+	    <m id="6035">tih</m>
+	  </w>
+	  <w>
+	    <m language="english">Orleans</m>
+	  </w>
+	  <w gl="coming from">
+	    <m id="514">aramsîiprin</m>
+	    <m id="6035">ti</m></w>.</kar>
+	<eng>The man who came from Orleans saw me.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_07" audio-start-time="5:20">
+	<kar>
+	  <w gl="the man">
+	    <m id="4407">pa</m>
+	    <m id="833">'ávansa</m>
+	  </w>
+	  <w>
+	    <m language="english">Orleans</m>
+	  </w>
+	  <w gl="coming from">
+	    <m id="514">aramsîiprin</m>
+	    <m id="6035">tih</m>
+	  </w>
+	  <w>
+	    <m id="1656">iim</m>
+	  </w>
+	  <w> 
+	    <m id="1670">îin</m>
+	  </w>
+	  <w gl="he sees me">
+	    <m id="4294">née</m>
+	    <m id="2570">mus</m>
+	    <m id="6035">ti</m></w>.</kar>
+	<eng>The man who came from Orleans saw me.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_08" audio-start-time="6:38">
+	<kar>
+	  <w gl="the man">
+	    <m id="4407">pa</m>
+	    <m id="833">'ávansa</m>
+	  </w>
+	  <w>
+	    <m id="5506">tá</m>
+	  </w>
+	  <w gl="he falls down">
+	    <m id="6175">u</m>
+	    <m id="2376">kyívishrih</m></w>.</kar>
+	<eng>The man fell.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_09" audio-start-time="8:32">
+	<kar>
+	  <w gl="the man">
+	    <m id="4407">pa</m>
+	    <m id="833">'ávansa</m>
+	  </w>
+	  <w gl="Orleans">
+	    <m id="4408">pa</m>
+	    <m language="english">Orleans</m>
+	  </w>
+	  <w gl="coming from">
+	    <m id="514">aramsîiprin</m>
+	    <m id="6035">tih</m>
+	  </w>
+	  <w gl="he falls down">
+	    <m id="6175">u</m>
+	    <m id="2376">kyívishrih</m></w>.</kar>
+	<eng>The man who lives in Orleans fell.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_10" audio-start-time="9:33">
+	<kar>
+	  <w>
+	    <m id="6381">vaa</m>
+	  </w>
+	  <w gl="the man">
+	    <m id="4407">pa</m>
+	    <m id="833">'ávansa</m>
+	  </w>
+	  <w gl="I know him">
+	    <m id="4349">ni</m>
+	    <m id="5010">pítap</m>
+	<m id="6035">ti</m></w>.</kar>
+	<eng>I know that man.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_11" audio-start-time="10:52">
+	<kar>
+	  <w>
+	    <m id="6381">vaa</m>
+	  </w>
+	  <w gl="I know him">
+	    <m id="4349">ni</m>
+	    <m id="5010">pítap</m>
+	    <m id="6035">tih</m>
+	  </w>
+	  <w gl="the man">
+	    <m id="4407">pa</m>
+	    <m id="833">'ávansa</m>
+	  </w>
+	  <w>
+	    <m id="4528">panámniik</m>
+	  </w>
+	  <w gl="coming from">
+	    <m id="514">aramsîiprin</m>
+	    <m id="6035">ti</m></w>.</kar>
+	<eng>I know the man who lives in Orleans.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_12" audio-start-time="11:30">
+	<kar>
+	  <w>
+	    <m id="6381">vaa</m>
+	  </w>
+	  <w>
+	    <m id="2671">íp</m>
+	  </w>
+	  <w gl="I talk to him">
+	    <m id="4349">ni</m>
+	    <m id="1210">chuphûunish</m>
+	    <m id="6035">tih</m>
+	  </w>
+	  <w gl="the man">
+	    <m id="4407">pa</m>
+	    <m id="833">'ávansa</m></w>.</kar>
+	<eng>I talked to that man.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_13" audio-start-time="12:17">
+	<kar>
+	  <w gl="I talk to him">
+	    <m id="4349">ni</m>
+	    <m id="1210">chuphûunish</m>
+	  </w>
+	  <w gl="the man">
+	    <m id="4407">pa</m>
+	    <m id="833">'ávansa</m>
+	  </w>
+	  <w gl="Orleans">
+	    <m id="4408">pa</m>
+	    <m language="english">Orleans</m>
+	  </w>
+	  <w gl="he lives">
+	    <m id="6175">ú</m>
+	    <m id="1974">krii</m></w>.</kar>
+	<eng>I talked to the man who lives in Orleans.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_14" audio-start-time="12:40">
+	<kar>
+	  <w gl="the man">
+	    <m id="4407">pa</m>
+	    <m id="833">'ávansa</m>
+	  </w>
+	  <w> 
+	    <m id="1670">îin</m>
+	  </w>
+	  <w gl="he knows me">
+	    <m id="4349">ni</m>
+	    <m id="5010">pítap</m>
+	    <m id="6035">ti</m></w>.</kar>
+	<eng>The man knows me.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_15" audio-start-time="18:34">
+	<kar>
+	  <w> 
+	    <m id="7197">yupsítanich</m>
+	  </w>
+	  <w gl="PERF-3SG subject 3SG/PL object">
+	    <m id="5506">t</m>
+	    <m id="6175">óo</m>
+	  </w>
+	  <w gl="it cried">
+	    <m id="3518">xrára</m></w>.</kar>
+	<eng>The baby cried.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_16" audio-start-time="19:14">
+	<kar>
+	  <w> 
+	    <m id="4299">naa</m>
+	  </w>
+	  <w>
+	    <m id="5506">tá</m>
+	  </w>
+	  <w gl="I cry">
+	    <m id="4294">nee</m>
+	    <m id="3518">xrára</m></w>.</kar>
+	<eng>I am crying.</eng>
+	<notes> means currently the speaker is crying </notes>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_17" audio-start-time="19:33">
+	<kar>
+	  <w> 
+	    <m id="4299">naa</m>
+	  </w>
+	  <w gl="I do not cry">
+	    <m id="5082">pu</m>
+	    <m id="4294">nee</m>
+	    <m id="3518">xrára</m>
+	    <m id="6035">tih</m>
+	    <m id="1371">ara</m></w>.</kar>
+	<eng>I am not crying.</eng>
+	<notes> means currently the speaker is not crying </notes>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_18" audio-start-time="20:01">
+	<kar>
+	  <w gl="the baby">
+	    <m id="4407">pa</m>
+	    <m id="7197">yupsítanich</m>
+	  </w>
+	  <w gl="I do not cry">
+	    <m id="5082">p</m>
+	    <m id="6175">u</m>
+	    <m id="3518">xrára</m>
+	    <m id="6035">ti</m></w>.</kar>
+	<eng>The baby is not crying.</eng>
+	<notes>Vina says that the –ara is often times left off if the speaker is cutting the word short; it would still mean the same thing; when WB "took the language down, everything was sort of cut short.”</notes>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_19" audio-start-time="21:37">
+	<kar>
+	  <w>
+	    <m id="6881">xáyfaat</m>
+	  </w>
+	  <w gl="you are crying">
+	    <m id="1418">i</m>
+	    <m id="3518">xrára</m>
+	    <m id="6035">ti</m></w>.</kar>
+	<eng>Don't cry.</eng>
+	<notes>Vina says that this is said to someone who is already crying </notes>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_20" audio-start-time="22:30">
+	<kar>
+	  <w>
+	    <m id="6881">xáyfaat</m>
+	  </w>
+	  <w gl="you cry">
+	    <m id="1418">i</m>
+	    <m id="3518">xrára</m></w>.</kar>
+	<eng>Don't cry.</eng>
+	<notes>Vina says that this is said to someone who is not yet crying, meaning "Don't start crying." </notes>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_21" audio-start-time="22:57">
+	<kar>
+	  <w>
+	    <m id="4299">naa</m>
+	  </w>
+	  <w gl="I will cry">
+	    <m id="4349">ni</m>
+	    <m id="3518">xrár</m>
+	    <m id="1379">eesh</m></w>.</kar>
+	<eng>I am going to cry.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_22" audio-start-time="23:35">
+	<kar>
+	  <w>
+	    <m id="6881">xáyfaat</m>
+	  </w>
+	  <w gl="you laugh">
+	    <m id="1418">í</m>
+	    <m id="2079">kshah</m></w>.</kar>
+	<eng>Don't laugh.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_23" audio-start-time="23:57">
+	<kar>
+	  <w>
+	    <m id="4299">naa</m>
+	  </w>
+	  <w gl="I am laughing">
+	    <m id="4349">ní</m>
+	    <m id="2079">kshaa</m>
+	    <m id="6035">ti</m></w>.</kar>
+	<eng>I am laughing.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_24" audio-start-time="24:00">
+	<kar>
+	  <w>
+	    <m id="4299">naa</m>
+	  </w>
+	  <w>
+	    <m id="5506">tá</m>
+	  </w>
+	  <w gl="I laugh">
+	    <m id="4349">ní</m>
+	    <m id="2079">kshah</m></w>.</kar>
+	<eng>I am laughing.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_25" audio-start-time="26:54">
+	<kar>
+	  <w>
+	    <m id="5506">tá</m>
+	  </w>
+	  <w gl="they are playing">
+	    <m id="3977">kun</m>
+	    <m id="2346">ikyámiichvu</m>
+	    <m id="4298">naa</m></w>.</kar>
+	<eng>They are all playing around.</eng>
+	<notes> meaning “They’re all teasing one another.”</notes>
+      </s>
+    </paragraph>
+  </data>
+</text>

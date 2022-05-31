@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="VS-05" audio-source="karuk-2011-12-21-vs-2">
+	<metadata>
+		<title>Sentences about personal states</title>
+		<author> Vina <alph>Smith</alph>
+		</author>
+		<date>2011</date>
+		<publication> Unpublished (recorded by Andrew Garrett on December 21, 2011) </publication>
+	</metadata>
+	<data>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2011-12-21-vs-2_01" audio-start-time="0:36">
+				<kar>
+					<w>
+						<m id="5506">tá</m>
+					</w>
+					<w gl="I am tired">
+						<m id="4296">nee</m>
+						<m id="2222">kvúrish</m></w>.</kar>
+				<eng>I am tired.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2011-12-21-vs-2_02" audio-start-time="0:57">
+				<kar>
+					<w>
+						<m id="5506">tá</m>
+					</w>
+					<w gl="I am tired">
+						<m id="4349">ni</m>
+						<m id="2222">kvúrishrih</m></w>.</kar>
+				<eng>I am getting tired.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2011-12-21-vs-2_03" audio-start-time="3:35">
+				<kar>
+					<w gl="not good">
+						<m id="5082">pú</m>
+						<m id="7049">yav</m>
+					</w>
+					<w gl="I am not feeling">
+						<m id="4349">ni</m>
+						<m id="2784">pmahoonkoona</m>
+						<m id="6035">tih</m><m id="1371">ara</m></w>.</kar>
+				<eng>There is something wrong with me.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2011-12-21-vs-2_04" audio-start-time="4:55">
+				<kar>
+					<w>
+						<m id="1410">hûut</m>
+					</w>
+					<w>
+						<m id="5506">tá</m>
+					</w>
+					<w gl="be the matter with me">
+						<m id="4349">ni</m>
+						<m id="1667">'iin</m></w>?</kar>
+				<eng>What is wrong with me?</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2011-12-21-vs-2_05" audio-start-time="5.32">
+				<kar>
+					<w>
+						<m id="1410">hûut</m>
+					</w>
+					<w gl="be the matter with you">
+						<m id="5506">t</m>
+						<m id="1418">i</m>
+						<m id="1667">'iin</m></w>?</kar>
+				<eng>What is wrong with you?</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2011-12-21-vs-2_06" audio-start-time="6:01">
+				<kar>
+					<w>
+						<m id="1410">hûut</m>
+					</w>
+					<w>
+						<m id="6307">uum</m>
+					</w>
+					<w gl="be the matter with him">
+						<m id="5506">t</m>
+						<m id="6175">u</m>
+						<m id="1667">'iin</m></w>?</kar>
+				<eng>What is the matter with him?</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2011-12-21-vs-2_07" audio-start-time="6:22">
+				<kar>
+					<w>
+						<m id="1410">hûut</m>
+					</w>
+					<w gl="the cat">
+						<m id="4407">pa</m>
+						<m id="5120">púsihich</m>
+					</w>
+					<w gl="be the matter with it">
+						<m id="5506">t</m>
+						<m id="6175">u</m>
+						<m id="1667">'iin</m></w>? </kar>
+				<eng>What is the matter with my cat?</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2011-12-21-vs-2_08" audio-start-time="6:52">
+				<kar>
+					<w gl="not good">
+						<m id="5082">pú</m>
+						<m id="7049">yav</m>
+					</w>
+					<w gl="I am feeling (something negative)">
+						<m id="4408">pa</m>
+						<m id="4295">née</m>
+						<m id="2784">pmahoonkoona</m>
+						<m id="6035">tih</m>
+						<m id="1371">ara</m></w>.</kar>
+				<eng>I am not feeling well.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2011-12-21-vs-2_09" audio-start-time="7:43">
+				<kar>
+					<w>
+						<m id="5506">tá</m>
+					</w>
+					<w gl="I am hungry">
+						<m id="4296">na</m>
+						<m id="6924">xúriha</m>
+					</w>
+					<w>
+						<m id="4299">naa</m></w>.</kar>
+				<eng>I am hungry.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2011-12-21-vs-2_10" audio-start-time="8:28">
+				<kar><w>
+						<m id="4299">naa</m>
+					</w>
+					<w>
+						<m id="5506">tá</m>
+					</w>
+					<w gl="I am hungry">
+						<m id="4296">na</m>
+						<m id="6924">xúriha</m></w>.</kar>
+				<eng>I am hungry.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2011-12-21-vs-2_11" audio-start-time="9:41">
+				<kar>
+					<w>
+						<m id="4299">naa</m>
+					</w>
+					<w>
+						<m id="6675">vúra</m>
+					</w>
+					<w>
+						<m id="5506">tá</m>
+					</w>
+					<w gl="I am hungry">
+						<m id="4296">na</m>
+						<m id="6924">xúriha</m>
+					</w>
+					<w>
+						<m id="5156">puxích</m></w>.</kar>
+				<eng>I am really hungry.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2011-12-21-vs-2_12" audio-start-time="10:06">
+				<kar>
+					<w>
+						<m id="4299">naa</m>
+					</w>
+					<w>
+						<m id="6675">vúra</m>
+					</w>
+					<w gl="I am not hungry">
+						<m id="5082">pu</m>
+						<m id="4295">na</m>
+						<m id="6924">xúrihi</m>
+						<m id="6035">tih</m>
+						<m id="1371">ara</m></w>.</kar>
+				<eng>I am not hungry.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2011-12-21-vs-2_13" audio-start-time="11:30">
+				<kar>
+					<w>
+						<m id="4171">máh’iit</m>
+					</w>
+					<w>
+						<m id="2671">íp</m>
+					</w>
+					<w gl="I was hungry">
+						<m id="4296">na</m>
+						<m id="6924">xúrihi</m>
+						<m id="6035">tih</m>
+						<m id="738">at</m>
+					</w>
+					<w>
+						<m id="4716">payêem</m>
+					</w>
+					<w>
+						<m id="6307">uum</m>
+					</w>
+					<w gl="I am not hungry">
+						<m id="5082">pu</m>
+						<m id="4295">na</m>
+						<m id="6924">xúrihi</m>
+						<m id="6035">tih</m>
+						<m id="1371">ara</m></w>.</kar>
+				<eng>I was hungry this morning, but now I am not hungry.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2011-12-21-vs-2_14" audio-start-time="11:50">
+				<kar>
+					<w>
+						<m id="4171">máh’iit</m>
+					</w>
+					<w gl="I was hungry">
+						<m id="4296">na</m>
+						<m id="6924">xúrihi</m>
+						<m id="6035">tih</m>
+						<m id="738">at</m></w>.</kar>
+				<eng>I was hungry this morning.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2011-12-21-vs-2_15" audio-start-time="12:12">
+				<kar>
+					<w>
+						<m id="4171">máh’iit</m>
+					</w>
+					<w>
+						<m id="2671">íp</m>
+					</w>
+					<w gl="I was hungry">
+						<m id="4296">na</m>
+						<m id="6924">xúrihi</m>
+						<m id="6035">tih</m>
+						<m id="738">at</m></w>.</kar>
+				<eng>I was hungry this morning.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2011-12-21-vs-2_16" audio-start-time="12:22">
+				<kar>
+					<w>
+						<m id="4716">payêem</m>
+					</w>
+					<w>
+						<m id="6307">uum</m>
+					</w>
+					<w gl="I am not hungry">
+						<m id="5082">pu</m>
+						<m id="4295">na</m>
+						<m id="6924">xúrihi</m>
+						<m id="6035">tih</m>
+						<m id="1371">ara</m></w>.</kar>
+				<eng>Now I am not hungry.</eng>
+			</s>
+		</paragraph>
+	</data>
+</text>

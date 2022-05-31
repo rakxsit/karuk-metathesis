@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="LA-01">
+    <metadata>
+        <title>Sentences about fear and going places</title>
+        <author>Lucille <alph>Albers</alph></author>
+        <date>2009</date>
+        <publication>Unpublished (recorded by Tamara Alexander on July 23, 2009; &#169; Karuk
+            Tribe)</publication>
+    </metadata>
+    <data>
+        <paragraph>
+            <s audio="ta1-1" audio-start-time="0:04">
+                <kar><w><m id="5506">tá</m></w>
+                    <w gl="I am afraid"><m id="4349">ná</m><m>'aathva</m></w>.</kar>
+                <eng>I'm scared.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s audio="ta1-2" audio-start-time="0:10">
+                <kar><w><m id="5506">tá</m></w>
+                    <w gl="I fear"><m id="4349">ni</m><m id="1019">'ay</m></w>.</kar>
+                <eng>I'm scared.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s audio="ta1-3" audio-start-time="0:58">
+                <kar><w><m id="1109">chí</m></w>
+                    <w gl="we are going swimming"><m id="4370">nu</m><m id="6299"
+                    >'úufithvar</m></w>.</kar>
+                <eng>Let's go swimming.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s audio="ta1-4" audio-start-time="1:32">
+                <kar><w><m id="1396">hôoy</m></w>
+                    <w gl="you go"><m id="5506">t</m><m id="1418">i</m><m id="6396"
+                    >vâaram</m></w>?</kar>
+                <eng>Where are you going?</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s audio="ta1-5" audio-start-time="1:38">
+                <kar><w><m id="4739">peepithváram</m></w>
+                    <w><m id="5506">tá</m></w>
+                    <w gl="I go"><m id="4349">ni</m><m id="6396">vâaram</m></w>.</kar>
+                <eng>I'm going to the store.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s audio="ta1-6" audio-start-time="1:48">
+                <kar><w><m id="1649">îikam</m></w>
+                    <w><m id="5506">tá</m></w>
+                    <w gl="I go"><m id="4349">ni</m><m id="6396">vâaram</m></w>.</kar>
+                <eng>I'm going outside.</eng>
+            </s>
+        </paragraph>
+    </data>
+</text>

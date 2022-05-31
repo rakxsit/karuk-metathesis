@@ -1,0 +1,204 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.00000000000000000000
+xmax = 3.14000000000000012434
+tiers? <exists>
+size = 4
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "transcription - words"
+        xmin = 0.000000000000
+        xmax = 3.140000000000
+        intervals: size = 7
+        intervals [1]:
+            xmin = 0.00000000000000000000
+            xmax = 0.39000000000000001332
+            text = ""
+        intervals [2]:
+            xmin = 0.39000000000000001332
+            xmax = 0.61999999999999999556
+            text = "vura"
+        intervals [3]:
+            xmin = 0.61999999999999999556
+            xmax = 0.86999999999999999556
+            text = "uum"
+        intervals [4]:
+            xmin = 0.86999999999999999556
+            xmax = 1.27000000000000001776
+            text = "kunish"
+        intervals [5]:
+            xmin = 1.27000000000000001776
+            xmax = 1.89999999999999991118
+            text = "pufaat"
+        intervals [6]:
+            xmin = 1.89999999999999991118
+            xmax = 2.89000000000000012434
+            text = "paxuntapan"
+        intervals [7]:
+            xmin = 2.89000000000000012434
+            xmax = 3.14000000000000012434
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "transcription - phones"
+        xmin = 0.000000000000
+        xmax = 3.140000000000
+        intervals: size = 29
+        intervals [1]:
+            xmin = 0.00000000000000000000
+            xmax = 0.39000000000000001332
+            text = "sil"
+        intervals [2]:
+            xmin = 0.39000000000000001332
+            xmax = 0.47999999999999998224
+            text = "V"
+        intervals [3]:
+            xmin = 0.47999999999999998224
+            xmax = 0.54000000000000003553
+            text = "UH0"
+        intervals [4]:
+            xmin = 0.54000000000000003553
+            xmax = 0.58999999999999996891
+            text = "R"
+        intervals [5]:
+            xmin = 0.58999999999999996891
+            xmax = 0.61999999999999999556
+            text = "AH0"
+        intervals [6]:
+            xmin = 0.61999999999999999556
+            xmax = 0.77000000000000001776
+            text = "UW1"
+        intervals [7]:
+            xmin = 0.77000000000000001776
+            xmax = 0.86999999999999999556
+            text = "M"
+        intervals [8]:
+            xmin = 0.86999999999999999556
+            xmax = 0.93999999999999994671
+            text = "K"
+        intervals [9]:
+            xmin = 0.93999999999999994671
+            xmax = 0.96999999999999997335
+            text = "UH0"
+        intervals [10]:
+            xmin = 0.96999999999999997335
+            xmax = 1.05000000000000004441
+            text = "N"
+        intervals [11]:
+            xmin = 1.05000000000000004441
+            xmax = 1.12999999999999989342
+            text = "IH0"
+        intervals [12]:
+            xmin = 1.12999999999999989342
+            xmax = 1.27000000000000001776
+            text = "SH"
+        intervals [13]:
+            xmin = 1.27000000000000001776
+            xmax = 1.37999999999999989342
+            text = "P"
+        intervals [14]:
+            xmin = 1.37999999999999989342
+            xmax = 1.40999999999999992006
+            text = "UH0"
+        intervals [15]:
+            xmin = 1.40999999999999992006
+            xmax = 1.57000000000000006217
+            text = "F"
+        intervals [16]:
+            xmin = 1.57000000000000006217
+            xmax = 1.69999999999999995559
+            text = "AA1"
+        intervals [17]:
+            xmin = 1.69999999999999995559
+            xmax = 1.89999999999999991118
+            text = "T"
+        intervals [18]:
+            xmin = 1.89999999999999991118
+            xmax = 1.92999999999999993783
+            text = "P"
+        intervals [19]:
+            xmin = 1.92999999999999993783
+            xmax = 1.95999999999999996447
+            text = "AH0"
+        intervals [20]:
+            xmin = 1.95999999999999996447
+            xmax = 1.98999999999999999112
+            text = "HH"
+        intervals [21]:
+            xmin = 1.98999999999999999112
+            xmax = 2.04000000000000003553
+            text = "UH0"
+        intervals [22]:
+            xmin = 2.04000000000000003553
+            xmax = 2.24000000000000021316
+            text = "N"
+        intervals [23]:
+            xmin = 2.24000000000000021316
+            xmax = 2.29999999999999982236
+            text = "T"
+        intervals [24]:
+            xmin = 2.29999999999999982236
+            xmax = 2.47000000000000019540
+            text = "AH0"
+        intervals [25]:
+            xmin = 2.47000000000000019540
+            xmax = 2.68999999999999994671
+            text = "P"
+        intervals [26]:
+            xmin = 2.68999999999999994671
+            xmax = 2.74000000000000021316
+            text = "AH0"
+        intervals [27]:
+            xmin = 2.74000000000000021316
+            xmax = 2.89000000000000012434
+            text = "N"
+        intervals [28]:
+            xmin = 2.89000000000000012434
+            xmax = 3.12000000000000010658
+            text = "sp"
+        intervals [29]:
+            xmin = 3.12000000000000010658
+            xmax = 3.14000000000000012434
+            text = ""
+    item [3]:
+        class = "IntervalTier"
+        name = "targetseq"
+        xmin = 0.000000000000
+        xmax = 3.140000000000
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.00000000000000000000
+            xmax = 1.27000000000000001776
+            text = ""
+        intervals [2]:
+            xmin = 1.27000000000000001776
+            xmax = 1.40999999999999992006
+            text = "pu"
+        intervals [3]:
+            xmin = 1.40999999999999992006
+            xmax = 3.14000000000000012434
+            text = ""
+    item [4]:
+        class = "IntervalTier"
+        name = "targetphone"
+        xmin = 0.000000000000
+        xmax = 3.140000000000
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0.00000000000000000000
+            xmax = 1.27000000000000001776
+            text = ""
+        intervals [2]:
+            xmin = 1.27000000000000001776
+            xmax = 1.37999999999999989342
+            text = "P"
+        intervals [3]:
+            xmin = 1.37999999999999989342
+            xmax = 1.40999999999999992006
+            text = "UH0"
+        intervals [4]:
+            xmin = 1.40999999999999992006
+            xmax = 3.14000000000000012434
+            text = ""

@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="VS-08" audio-source="karuk-2011-12-21-vs-5">
+  <metadata>
+    <title shorttitle="Sentences about possession, location">Sentences about possession, locatives; words for consonants and accent</title>
+    <author> Vina <alph>Smith</alph>
+    </author>
+    <date>2011</date>
+    <publication> Unpublished (recorded by Andrew Garrett, Line Mikkelsen, and Clare Sandy on December 21, 2011) </publication>
+	<genre type="elicitation"/>
+  </metadata>
+  <data>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_01" audio-start-time="2:29">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1396">hôoy</m>
+	  </w>
+	  <w gl="your pants">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4238">mi</m>
+	    <m lemma="5077">pôor</m></w>?</txt>
+	<trans lang="eng">Where are your pants?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_02" audio-start-time="4:26">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1396">hôoy</m>
+	  </w>
+	  <w gl="your rope">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4238">mi</m>
+	    <m lemma="33">'áan</m></w>?</txt>
+	<trans lang="eng">Where is your rope?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_03" audio-start-time="4:48">
+	<txt lang="kyh">
+	  <w gl="his rope">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4260">mu</m>
+	    <m lemma="33">'áan</m>
+	  </w>
+	  <w>
+	    <m lemma="6307">uum</m>
+	  </w>
+	  <w>
+	    <m lemma="1649">îikam</m></w>.</txt>
+	<trans lang="eng">His rope is outside.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_04" audio-start-time="7:19">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1396">hôoy</m>
+	  </w>
+	  <w>
+	    <m lemma="6307">uum</m>
+	  </w>
+	  <w gl="his stick">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4260">mu</m>
+	    <m lemma="215">'áhup</m></w>?</txt>
+	<trans lang="eng">Where is his stick?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_05" audio-start-time="7:54">
+	<txt lang="kyh">
+	  <w gl="his father">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4260">mu</m>
+	    <m lemma="236">'ákah</m>
+	  </w>
+	  <w>
+	    <m lemma="6307">uum</m>
+	  </w>
+	  <w>
+	    <m lemma="1649">îikam</m></w>.</txt>
+	<trans lang="eng">His father is outside.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_06" audio-start-time="9:16">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6881">xáyfaat</m>
+	  </w>
+	  <w gl="you drink">
+	    <m lemma="5506">t</m>
+	    <m lemma="1418">i</m>
+	    <m lemma="2936">'ish</m>
+	  </w>
+	  <w gl="my water">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4326">nani</m>
+	    <m lemma="2940">'íshaha</m></w>.</txt>
+	<trans lang="eng">Don't take my water.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_07" audio-start-time="11:23">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6307">uum</m>
+	  </w>
+	  <w gl="his bird">
+	    <m lemma="4260">mú</m>
+	    <m lemma="119">chviiv</m></w>?</txt>
+	<trans lang="eng">Is that his bird?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_08" audio-start-time="11:37">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6307">uum</m>
+	  </w>
+	  <w>
+	    <m lemma="6381">vaa</m>
+	  </w>
+	  <w gl="his bird">
+	    <m lemma="4260">mú</m>
+	    <m lemma="119">chviiv</m></w>?</txt>
+	<trans lang="eng">Is that his bird?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_09" audio-start-time="11:50">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6307">uum</m>
+	  </w>
+	  <w>
+	    <m lemma="6381">vaa</m>
+	  </w>
+	  <w gl="his bird">
+	    <m lemma="4260">mú</m>
+	    <m lemma="119">'achviiv</m></w>?</txt>
+	<trans lang="eng">Is that his bird?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_10" audio-start-time="13:14">
+	<txt lang="kyh">
+	  <w gl="the raccoon">
+	    <m lemma="4407">pa</m>
+	    <m lemma="310">'akvaat</m>
+	  </w>
+	  <w>
+	    <m lemma="1671">iinâak</m>
+	  </w>
+	  <w gl="it went">
+	    <m lemma="5506">t</m>
+	    <m lemma="6175">u</m>
+	    <m lemma="6306">'uum</m></w>.</txt>
+	<trans lang="eng">The raccoon came inside.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_11" audio-start-time="13:47">
+	<txt lang="kyh">
+	  <w gl="cat food">
+	    <m lemma="5120">púsihich</m>
+	    <m lemma="818">'avah</m>
+	  </w>
+	  <w gl="it did">
+	    <m lemma="5506">t</m>
+	    <m lemma="6175">u</m>
+	    <m lemma="815">'av</m>
+	  </w>
+	  <w gl="the raccoon">
+	    <m lemma="4407">pa</m>
+	    <m lemma="310">'akvaat</m></w>.</txt>
+	<trans lang="eng">The raccoon ate the catfood.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_12" audio-start-time="14:01">
+	<txt lang="kyh">
+	  <w gl="the raccoon">
+	    <m lemma="4407">pa</m>
+	    <m lemma="310">'akvaat</m>
+	  </w>
+	  <w>
+	    <m lemma="1671">iinâak</m>
+	  </w>
+	  <w gl="it did">
+	    <m lemma="5506">t</m>
+	    <m lemma="6175">u</m>
+	    <m lemma="6306">'uum</m>
+	  </w>
+	  <w>
+	    <m lemma="6847">xás</m>
+	  </w>
+	  <w>
+	    <m lemma="6383">vaa</m>
+	  </w>
+	  <w gl="the cat food">
+	    <m lemma="4407">pa</m>
+	    <m lemma="5120">púsihich</m>
+	    <m lemma="818">'avah</m>
+	  </w>	  
+	  <w gl="it ate">
+	    <m lemma="5506">t</m>
+	    <m lemma="6175">u</m>
+	    <m lemma="815">'av</m></w>.</txt>
+	<trans lang="eng">The raccoon came inside and ate the cat food.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_13" audio-start-time="14:11">
+	<txt lang="kyh">
+	  <w gl="he ate">
+	    <m lemma="5506">t</m>
+	    <m lemma="6175">u</m>
+	    <m lemma="815">'av</m></w>.</txt>
+	<trans lang="eng">He ate it.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_14" audio-start-time="14:59">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6881">xáyfaat</m>
+	  </w>
+	  <w gl="you touch it">
+	    <m lemma="5506">t</m>
+	    <m lemma="1418">i</m>
+	    <m lemma="135">'áfish</m>
+	  </w>
+	  <w gl="his snake">
+	    <m lemma="4260">mu</m>
+	    <m lemma="454">'ápsuun</m></w>.</txt>
+	<trans lang="eng">Don't touch his snake.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_15" audio-start-time="15:24">
+	<txt lang="kyh">
+	  <w gl="I am afraid of it">
+	    <m lemma="4349">ní</m>
+	    <m lemma="1019">'aay</m>
+	    <m lemma="6035">tih</m>
+	  </w>
+	  <w gl="his snake">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4260">mu</m>
+	    <m lemma="454">'ápsuun</m></w>.</txt>
+	<trans lang="eng">I am scared of his snake.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_16" audio-start-time="15:30">
+	<txt lang="kyh">
+	  <w gl="it am afraid of it">
+	    <m lemma="4349">ní</m>
+	    <m lemma="1019">'aay</m>
+	    <m lemma="6035">ti</m></w>.</txt>
+	<trans lang="eng">I am afraid of it.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_17" audio-start-time="17:19">
+	<txt lang="kyh">
+	  <w gl="my goose">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4326">nani</m>
+	    <m lemma="174">'aháknah</m>
+	  </w>
+	  <w gl="you did">
+	    <m lemma="5506">t</m>
+	    <m lemma="6175">ee</m>
+	  </w>
+	  <w gl="see it">
+	    <m lemma="4155">máh</m>
+	    <m lemma="4384">oo</m></w>?</txt>
+	<trans lang="eng">Did you see my goose?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_18" audio-start-time="18:12">
+	<txt lang="kyh">
+	  <w>
+	    <m language="english">Clare</m>
+	  </w>
+	  <w>
+	    <m lemma="6307">uum</m>
+	  </w>
+	  <w gl="she is afraid of it">
+	    <m lemma="5506">t</m>
+	    <m lemma="6175">u</m>
+	    <m lemma="1019">'ay</m>
+	  </w>
+	  <w gl="my goose">
+	    <m lemma="4407">pa</m>
+	    <m lemma="174">'aháknak</m></w>.</txt>
+	<trans lang="eng">Clare is afraid of geese.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_19" audio-start-time="18:49">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1396">hôoy</m>
+	  </w>
+	  <w gl="my dog">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4326">naní</m>
+	    <m lemma="1175">chishiih</m></w>?</txt>
+	<trans lang="eng">Where is my dog?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_20" audio-start-time="19:03">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="2766">ipít</m>
+	  </w>
+	  <w>
+	    <m lemma="2671">íp</m>
+	  </w>
+	  <w>
+	    <m lemma="1649">îikam</m>
+	  </w>
+	  <w gl="the dog">
+	    <m lemma="4407">pa</m>
+	    <m lemma="1175">chíshiih</m>
+	  </w>
+	  <w gl="it (animate) sits">
+	    <m lemma="6175">ú</m>
+	    <m lemma="1974">krii</m></w>.</txt>
+	<trans lang="eng">There was a dog outside yesterday.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_21" audio-start-time="19:28">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1175">chishíih</m>
+	  </w>
+	  <w>
+	    <m lemma="1649">îikam</m>
+	  </w>
+	  <w gl="it (animate) sits">
+	    <m lemma="6175">ú</m>
+	    <m lemma="1974">krii</m></w>.</txt>
+	<trans lang="eng">There was a dog sitting outside.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_22" audio-start-time="19:47">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1175">chishíih</m>
+	  </w>
+	  <w>
+	    <m lemma="1649">îikam</m>
+	  </w>
+	  <w gl="it is lying down">
+	    <m lemma="6175">u</m>
+	    <m lemma="5845">tháaniv</m></w>.</txt>
+	<trans lang="eng">There was a dog lying down outside.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_23" audio-start-time="19:53">
+	<txt lang="kyh">
+	  <w gl="my dog">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4326">nani</m>
+	    <m lemma="1175">chíshiih</m>
+	  </w>
+	  <w>
+	    <m lemma="1649">îikam</m>
+	  </w>
+	  <w gl="it is lying down">
+	    <m lemma="6175">ú</m>
+	    <m lemma="5845">tháaniv</m></w>.</txt>
+	<trans lang="eng">My dog is lying outside.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_24" audio-start-time="20:02">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1649">îikam</m>
+	  </w>
+	  <w gl="he (animate) was sitting">
+	    <m lemma="6175">ú</m>
+	    <m lemma="1974">krii</m></w>.</txt>
+	<trans lang="eng">He was sitting outside.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_25" audio-start-time="20:28">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1396">hôoy</m>
+	  </w>
+	  <w gl="your dog">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4238">mi</m>
+	    <m lemma="1175">chíshiih</m></w>?</txt>
+	<trans lang="eng">Where's your dog?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_26" audio-start-time="20:59">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1396">hôoy</m>
+	  </w>
+	  <w gl="your bag">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4238">mi</m>
+	    <m lemma="5145">pûuvish</m></w>?</txt>
+	<trans lang="eng">Where's your bag?</trans>
+      </s>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_27" audio-start-time="21:29">
+	<txt lang="kyh">
+	  <w gl="my bag">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4326">nani</m>
+	    <m lemma="5145">pûuvish</m>
+	  </w>
+	  <w>
+	    <m lemma="6307">uum</m>
+	  </w>
+	  <w>
+	    <m lemma="1671">iinâak</m></w>.</txt>
+	<trans lang="eng">My bag is inside.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_28" audio-start-time="22:14">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1396">hôoy</m>
+	  </w>
+	  <w gl="your cat">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4238">mi</m>
+	    <m lemma="5120">púsihich</m></w>?</txt>
+	<trans lang="eng">Where is your cat?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_29" audio-start-time="23:09">
+	<txt lang="kyh">
+	  <w gl="my cat">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4326">nani</m>
+	    <m lemma="5120">púsihich</m>
+	  </w>
+	  <w gl="it is sleeping">
+	    <m lemma="6175">u</m>
+	    <m lemma="2189">kviit-hí</m>
+	    <m lemma="6035">ti</m></w>.</txt>
+	<trans lang="eng">My cat is sleeping.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_30" audio-start-time="23:09">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6307">uum</m>
+	  </w>
+	  <w gl="it is sleeping">
+	    <m lemma="6175">u</m>
+	    <m lemma="2189">kviit-hí</m>
+	    <m lemma="6035">ti</m></w>.</txt>
+	<trans lang="eng">He is sleeping.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_31" audio-start-time="23:34">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1396">hôoy</m>
+	  </w>
+	  <w gl="your potato">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4238">mi</m>
+	    <m lemma="5128">putíruh</m></w>?</txt>
+	<trans lang="eng">Where is your potato?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_32" audio-start-time="24:13">
+	<txt lang="kyh">
+	  <w gl="my potato">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4326">nani</m>
+	    <m lemma="5128">putíruh</m>
+	  </w>
+	  <w>
+	    <m lemma="6307">uum</m>
+	  </w>
+	  <w>
+	    <m lemma="1649">îikam</m></w>.</txt>
+	<trans lang="eng">My potato is outside.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_34" audio-start-time="25:19">
+	<txt lang="kyh">
+	  <w gl="my dog">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4326">nani</m>
+	    <m lemma="1175">chíshiih</m>
+	  </w>
+	  <w>
+	    <m lemma="6307">uum</m>
+	  </w>
+	  <w>
+	    <m lemma="1649">îikam</m></w>.</txt>
+	<trans lang="eng">My dog is outside.</trans>
+      </s>
+    </paragraph>    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_35" audio-start-time="28:19">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="4413">páah</m>
+	  </w>
+	  <w>
+	    <m lemma="6307">uum</m>
+	  </w>
+	  <w gl="the cat">
+	    <m lemma="4407">pa</m>
+	    <m lemma="5120">púsihich</m>
+	  </w>
+	  <w gl="it (animate) is sitting">
+	    <m lemma="6175">ú</m>
+	    <m lemma="1974">krii</m></w>.</txt>
+	<trans lang="eng">The cat is in the boat.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_36" audio-start-time="29:13">
+	<txt lang="kyh">
+	  <w gl="my hat">
+	    <m lemma="5120">pa</m>
+	    <m lemma="4326">naní</m>
+	    <m lemma="483">pxaan</m>
+	  </w>
+	  <w>
+	    <m lemma="6307">uum</m>
+	  </w>
+	  <w>
+	    <m lemma="4413">páah</m>
+	  </w>
+	  <w gl="it (inanimate) is lying">
+	    <m lemma="6175">u</m>
+	    <m lemma="5957">thiv</m></w>.</txt>
+	<trans lang="eng">My hat is in the boat.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_37" audio-start-time="29:39">
+	<txt lang="kyh">
+	  <w gl="the cat">
+	    <m lemma="4407">pa</m>
+	    <m lemma="5120">púsihich</m>
+	  </w>
+	  <w>
+	    <m lemma="6307">uum</m>
+	  </w>
+	  <w gl="in the boat">
+	    <m lemma="4413">páah</m>
+	    <m lemma="232">ak</m>
+	  </w>
+	  <w gl="it (animate) is lying">
+	    <m lemma="6175">ú</m>
+	    <m lemma="1974">krii</m></w>.</txt>
+	<trans lang="eng">The cat is in the boat.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_38" audio-start-time="31:46">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="215">áhup</m>
+	  </w>
+	  <w gl="it was">
+	    <m lemma="5506">t</m>
+	    <m lemma="6175">óo</m>
+	  </w>
+	  <w>
+	    <m lemma="5919">thîishrih</m>
+	  </w>
+	  <w>
+	    <m lemma="3670">káan</m></w>.</txt>
+	<trans lang="eng">The wood was put down there.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_39" audio-start-time="31:53">
+	<txt lang="kyh">
+	  <w gl="it was">
+	    <m lemma="5506">t</m>
+	    <m lemma="6175">óo</m>
+	  </w>
+	  <w>
+	    <m lemma="5919">thîishrih</m>.</w></txt>
+	<trans lang="eng">It was laid down.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_40" audio-start-time="32:16">
+	<txt lang="kyh">
+	  <w gl="the wood">
+	    <m lemma="5120">pa</m>
+	    <m lemma="215">'áhup</m>
+	  </w>
+	  <w>
+	    <m lemma="6307">uum</m>
+	  </w>
+	  <w gl="it is burning">
+	    <m lemma="5506">t</m>
+	    <m lemma="6175">u</m>
+	    <m lemma="1677">'íinka</m></w>.</txt>
+	<trans lang="eng">The wood is burning.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_41" audio-start-time="33:00">
+	<txt lang="kyh">
+	  <w gl="the wood">
+	    <m lemma="5120">pa</m>
+	    <m lemma="215">'áhup</m>
+	  </w>
+	  <w>
+	    <m lemma="6307">uum</m>
+	  </w>
+	  <w>
+	    <m lemma="16">áak</m>
+	  </w>
+	  <w gl="it is burning">
+	    <m lemma="5506">t</m>
+	    <m lemma="6175">u</m>
+	    <m lemma="1677">'íinka</m></w>.</txt>
+	<trans lang="eng">The wood is burning in the fire.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_42" audio-start-time="33:39">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="4299">naa</m>
+	  </w>
+	  <w gl="my hat">
+	    <m lemma="5120">pa</m>
+	    <m lemma="4326">naní</m>
+	    <m lemma="483">'apxaan</m>
+	  </w>
+	  <w>
+	    <m lemma="6307">uum</m>
+	  </w>
+	  <w gl="I am wearing it on my head">
+	    <m lemma="4349">ní</m>
+	    <m lemma="3335">thxuuna</m>
+	    <m lemma="6035">ti</m></w>.</txt>
+	<trans lang="eng">I am wearing my hat on my head.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_43" audio-start-time="33:56">
+	<txt lang="kyh">
+	  <w gl="I am wearing it on my head">
+	    <m lemma="4349">ní</m>
+	    <m lemma="3335">thxuuna</m>
+	    <m lemma="6035">ti</m></w>.</txt>
+	<trans lang="eng">It is on my head.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_44" audio-start-time="35:26">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1281">fâat</m>
+	  </w>
+	  <w gl="it is lying on">
+	    <m lemma="6175">u</m>
+	    <m lemma="5985">thivtákoo</m>
+	  </w>
+	  <w gl="my head">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4238">mí</m>
+	    <m lemma="969">xvaah</m></w>?</txt>
+	<trans lang="eng">What is on your head (inanimate object)?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_45" audio-start-time="36:37">
+	<txt lang="kyh">
+	  <w gl="my head">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4326">ni</m>
+	    <m lemma="969">xvâah</m>
+	  </w>
+	  <w>
+	    <m lemma="6307">uum</m>
+	  </w>
+	  <w>
+	    <m lemma="7000">yâamach</m></w>.</txt>
+	<trans lang="eng">I have a pretty head.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_46" audio-start-time="37:20">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="7000">yâamach</m>
+	  </w>
+	  <w gl="your head">
+	    <m lemma="4238">mí</m>
+	    <m lemma="969">xvaah</m></w>.</txt>
+	<trans lang="eng">Your head is pretty.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_47" audio-start-time="38:15">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1281">fâat</m>
+	  </w>
+	  <w gl="it is lying on">
+	    <m lemma="6175">u</m>
+	    <m lemma="5845">tháaniv</m>
+	  </w>
+	  <w>
+	    <m lemma="3670">káan</m>
+	  </w>
+	  <w gl="the road">
+	    <m lemma="4407">pee</m>
+	    <m lemma="2472">mpaah</m></w>?</txt>
+	<trans lang="eng">What is lying on the road?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_48" audio-start-time="38:53">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="2472">impaah</m>
+	  </w>
+	  <w gl="the bag">
+	    <m lemma="4407">pa</m>
+	    <m lemma="5145">pûuvish</m>
+	  </w>
+	  <w gl="it is lying on">
+	    <m lemma="6175">u</m>
+	    <m lemma="5845">tháaniv</m></w>.</txt>
+	<trans lang="eng">There's a bag lying in the road.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_49" audio-start-time="41:18">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1285">fâatva</m>
+	  </w>
+	  <w>
+	    <m lemma="3670">káan</m>
+	  </w>
+	  <w gl="it (animate) is sitting">
+	    <m lemma="6175">ú</m>
+	    <m lemma="1974">krii</m>
+	  </w>
+	  <w gl="the nest">
+	    <m lemma="4407">pa</m>
+	    <m lemma="3683">káas</m></w>.</txt>
+	<trans lang="eng">There is something in the nest.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_50" audio-start-time="41:41">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="119">achviiv</m>
+	  </w>
+	  <w>
+	    <m lemma="6381">vaa</m>
+	  </w>
+	  <w>
+	    <m lemma="3670">káan</m>
+	  </w>
+	  <w gl="it is sitting on">
+	    <m lemma="6175">u</m>
+	    <m lemma="4085">kûuntakoo</m></w>.</txt>
+	<trans lang="eng">There is a bird sitting there.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_51" audio-start-time="42:00">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="119">achviiv</m>
+	  </w>
+	  <w>
+	    <m lemma="6381">vaa</m>
+	  </w>
+	  <w>
+	    <m lemma="3670">káan</m>
+	  </w>
+	  <w gl="it (animate) is sitting">
+	    <m lemma="6175">ú</m>
+	    <m lemma="1974">krii</m></w>.</txt>
+	<trans lang="eng">A bird is sitting there.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_52" audio-start-time="43:22">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="234">akâay</m>
+	  </w>
+	  <w>
+	    <m lemma="6381">vaa</m>
+	  </w>
+	  <w>
+	    <m lemma="3670">káan</m>
+	  </w>
+	  <w gl="he (animate) is sitting">
+	    <m lemma="6175">ú</m>
+	    <m lemma="1974">krii</m>
+	  </w>
+	  <w gl="the chair">
+	    <m lemma="4407">pa</m>
+	    <m lemma="2031">'ikrívkir</m></w>.</txt>
+	<trans lang="eng">There is someone sitting there in the chair.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_53" audio-start-time="44:21">
+	<txt lang="kyh">
+	  <w gl="the rock">
+	    <m lemma="4407">pa</m>
+	    <m lemma="583">'as</m>
+	  </w>
+	  <w>
+	    <m lemma="4429">paathkúrih</m>
+	  </w>
+	  <w gl="in the water">
+	    <m lemma="4407">pa</m>
+	    <m lemma="2940">'íshah</m>
+	    <m lemma="232">ak</m></w>.</txt>
+	<trans lang="eng">Throw the rock into the water.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_54" audio-start-time="45:04">
+	<txt lang="kyh">
+	  <w gl="I will jump into water">
+	    <m lemma="4349">ni</m>
+	    <m lemma="2993">shkáakurih</m>
+	    <m lemma="1379">eesh</m></w>.</txt>
+	<trans lang="eng">I am going to jump in the water.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_55" audio-start-time="45:18">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1396">hôoy</m>
+	  </w>
+	  <w gl="you are going">
+	    <m lemma="5506">t</m>
+	    <m lemma="1418">i</m>
+	    <m lemma="6396">vâaram</m></w>?</txt>
+	    <trans lang="eng">Where are you going?</trans>
+      </s>
+      <s>
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="4299">naa</m>
+	  </w>
+	  <w gl="I will jump into water">
+	    <m lemma="4349">ni</m>
+	    <m lemma="2993">shkáakurih</m>
+	    <m lemma="1379">eesh</m></w>.</txt>
+	<trans lang="eng">I am going to jump in the water.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_56" audio-start-time="46:58">
+	<txt lang="kyh">
+	  <w gl="you sit it on top of">
+	    <m lemma="1418">i</m>
+	    <m lemma="5877">tháan</m>
+	    <m lemma="5572">takoo</m>
+	  </w>
+	  <w>
+	    <m lemma="6381">vaa</m>
+	  </w>
+	  <w>
+	    <m lemma="3670">káan</m>
+	  </w>
+	  <w gl="in the tree">
+	    <m lemma="2682">ípah</m>
+	    <m lemma="232">ak</m></w>.</txt>
+	<trans lang="eng">Put it in the tree.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_57" audio-start-time="47:50">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6381">vaa</m>
+	  </w>
+	  <w>
+	    <m lemma="3670">káan</m>
+	  </w>
+	  <w>
+	    <m lemma="5145">pûuvish</m>
+	  </w>
+	  <w>
+	    <m lemma="5886">thárishrih</m></w>.</txt>
+	<trans lang="eng">Put it in the bag.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_58" audio-start-time="49:35">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="421">apmáan</m>
+	  </w>
+	  <w>
+	    <m lemma="5919">thîishrih</m></w>.</txt>
+	<trans lang="eng">Put it in your mouth.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_59" audio-start-time="50:46">
+	<txt lang="kyh">
+	  <w gl="the dog">
+	    <m lemma="4407">pa</m>
+	    <m lemma="1175">chíshiih</m>
+	  </w>
+	  <w>
+	    <m lemma="1671">iinâak</m>
+	  </w>
+	  <w>
+	    <m lemma="6606">vôonfuruk</m></w>.</txt>
+	<trans lang="eng">Put the dog in the house.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_60" audio-start-time="51:14">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6381">vaa</m>
+	  </w>
+	  <w>
+	    <m lemma="3670">káan</m>
+	  </w>
+	  <w>
+	    <m lemma="2671">íp</m>
+	  </w>
+	  <w gl="I slept">
+	    <m lemma="4349">ni</m>
+	    <m lemma="1978">krîishrih</m>
+	    <m lemma="738">at</m>
+	  </w>
+	  <w gl="at the house">
+	    <m lemma="4407">pa</m>
+	    <m lemma="2032">krívraam</m>
+	    <m lemma="232">ak</m></w>.</txt>
+	<trans lang="eng">I stayed the night at that house.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_61" audio-start-time="55:58">
+	<txt lang="kyh">
+	  <w gl="the pencil">
+	    <m lemma="4407">pa</m>
+	    <m lemma="2312">'ikxúrikar</m>
+	  </w>
+	  <w gl="you will put it">
+	    <m lemma="1418">i</m>
+	    <m lemma="3609">yúun</m>
+	    <m lemma="4022">kurih</m>
+	    <m lemma="1379">eesh</m>
+	  </w>
+	  <w>
+	    <m lemma="4719">pay'ôok</m></w>.</txt>
+	<trans lang="eng">You are gonna put the pencil there.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_62" audio-start-time="56:59">
+	<txt lang="kyh">
+	  <w gl="you are hungry">
+	    <m lemma="5506">t</m>
+	    <m lemma="1418">ee</m>
+	    <m lemma="6924">xúriha</m>
+	  </w>
+	  <w>
+	    <m lemma="1402">hum</m></w>?</txt>
+	<trans lang="eng">Are you hungry?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-5_63" audio-start-time="57:05">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1656">iim</m>
+	  </w>
+	  <w>
+	    <m lemma="3752">karu</m>
+	  </w>
+	  <w gl="you are hungry">
+	    <m lemma="5506">t</m>
+	    <m lemma="1418">ee</m>
+	    <m lemma="6924">xúriha</m></w>.</txt>
+	<trans lang="eng">You are hungry, too.</trans>
+      </s>
+    </paragraph>
+  </data>
+</text>

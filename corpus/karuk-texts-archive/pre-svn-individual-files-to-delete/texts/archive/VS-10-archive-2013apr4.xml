@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="VS-10" audio-source="karuk-2011-12-21-vs-7">
+  <metadata>
+    <title>Sentences with words for accent</title>
+    <author> Vina <alph>Smith</alph>
+    </author>
+    <date>2011</date>
+    <publication> Unpublished (recorded by Andrew Garrett, Line Mikkelsen, and Clare Sandy on December 21, 2011) </publication>
+  </metadata>
+  <data>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-7_01" audio-start-time="2:06">
+	<kar>
+	  <w>
+	    <m id="6381">vaa</m>
+	  </w>
+	  <w>
+	    <m id="3670">káan</m>
+	  </w>
+	  <w gl="the peppernut">
+	    <m id="4407">pa</m>
+	    <m id="4412">paah</m>
+	    </w>
+	    <w>
+	    <m id="1649">îikam</m>
+	    </w>
+	  <w>
+	    <m id="2766">ipít</m></w>.</kar>
+	<eng>There was a peppernut outside yesterday.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-7_02" audio-start-time="4:20">
+	<kar>
+	  <w>
+	    <m id="6381">vaa</m>
+	  </w>
+	  <w>
+	    <m id="3670">káan</m>
+	  </w>
+	  <w>
+	    <m id="2766">ipít</m>
+	  </w>
+	  <w gl="the redfish">
+	    <m id="4407">pa</m>
+	    <m id="1124">chiipich</m>
+	    </w>
+	  <w gl="it (animate) sits">
+	    <m id="6175">ú</m>
+	    <m id="1974">krii</m></w>.</kar>
+	<eng>There was a redfish outside yesterday.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-7_03" audio-start-time="5:37">
+	<kar>
+	  <w>
+	    <m id="2766">ipít</m>
+	  </w>
+	    <w>
+	    <m id="1649">îikam</m>
+	    </w>
+	    <w>
+	    <m id="6307">uum</m>
+	    </w>
+	  <w gl="the swamp robin">
+	    <m id="4407">pá</m>
+	    <m id="106">'achkuun</m>
+	    </w>
+	  <w gl="it (animate) sits">
+	    <m id="6175">ú</m>
+	    <m id="1974">krii</m></w>.</kar>
+	<eng>There was a swamp robin outside yesterday.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-7_04" audio-start-time="7:10">
+	<kar>
+	  <w>
+	    <m id="2766">ipít</m>
+	  </w>
+	  <w>
+	    <m id="2671">íp</m>
+	  </w>
+	    <w>
+	    <m id="1649">îikam</m>
+	    </w>
+	  <w gl="the rat">
+	    <m id="4407">pa</m>
+	    <m id="108">'achnaat</m>
+	    </w>
+	  <w gl="it (animate) sits">
+	    <m id="6175">ú</m>
+	    <m id="1974">krii</m></w>.</kar>
+	<eng>There was a rat outside yesterday.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-7_05" audio-start-time="7:23">
+	<kar>
+	  <w>
+	    <m id="2766">ipít</m>
+	  </w>
+	  <w>
+	    <m id="2671">íp</m>
+	  </w>
+	    <w>
+	    <m id="1649">îikam</m>
+	    </w>
+	  <w gl="it (animate) sits">
+	    <m id="6175">ú</m>
+	    <m id="1974">krii</m>
+	    </w>
+	  <w gl="the rat">
+	    <m id="4407">pa</m>
+	    <m id="108">'achnaat</m></w>.</kar>
+	<eng>There was a rat outside yesterday.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-7_06" audio-start-time="8:49">
+	<kar>
+	  <w>
+	    <m id="2766">ipít</m>
+	  </w>
+	  <w>
+	    <m id="2671">íp</m>
+	  </w>
+	    <w>
+	    <m id="1649">îikam</m>
+	    </w>
+	  <w gl="the bobcat">
+	    <m id="4407">pa</m>
+	    <m id="320">'ákviish</m>
+	    </w>
+	  <w gl="it (animate) sat">
+	    <m id="6175">ú</m>
+	    <m id="1974">kree</m>
+	    <m id="738">t</m></w>.</kar>
+	<eng>There was a bobcat outside yesterday.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-7_07" audio-start-time="9:00">
+	<kar>
+	  <w>
+	    <m id="2766">ipít</m>
+	  </w>
+	  <w>
+	    <m id="2671">íp</m>
+	  </w>
+	    <w>
+	    <m id="1649">îikam</m>
+	    </w>
+	  <w gl="the bobcat">
+	    <m id="4407">pa</m>
+	    <m id="320">'ákviish</m>
+	    </w>
+	  <w gl="it (animate) sits">
+	    <m id="6175">ú</m>
+	    <m id="1974">krii</m></w>.</kar>
+	<eng>There was a bobcat outside yesterday.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-7_08" audio-start-time="16:15">
+	<kar>
+	    <w>
+	    <m id="1218">chúupha</m>
+	    </w>
+	  <w gl=" you know it">
+	    <m id="5506">t</m>
+	    <m id="1418">i</m>
+	    <m id="3213">'ítap</m>
+	    <m id="6035">tih</m>
+	    </w>
+	    <w>
+	    <m id="1402">hum</m>
+	    </w>
+	  <w gl="the Indian language">
+	    <m id="4408">pá</m>
+	    <m id="506">'arara</m>
+	    <m id="1380">hih</m></w>?</kar>
+	<eng>Do you know the Indian language?</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-7_09" audio-start-time="17:44">
+	<kar>
+	  <w>
+	    <m id="5506">tá</m>
+	  </w>
+	  <w gl="he taught me">
+	    <m id="4294">née</m>
+	    <m id="2090">kshupih</m></w>.</kar>
+	<eng>He made me understand.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-7_10" audio-start-time="19:46">
+	<kar>
+	  <w gl="it feels">
+	    <m id="6175">u</m>
+	    <m id="6939">xus</m>
+	    </w>
+	    <w>
+	    <m id="6738">xâatik</m>
+	    </w>
+	  <w gl="I learn">
+	    <m id="4349">ni</m>
+	    <m id="3213">'ítap</m></w>.</kar>
+	<eng>I wanted to learn.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-7_11" audio-start-time="22:44">
+	<kar>
+	  <w>
+	    <m id="4715">páy</m>
+	  </w>
+	  <w gl="the bag">
+	    <m id="4407">pa</m>
+	    <m id="5145">pûuvish</m>
+	    </w>
+	  <w gl="it is heavy">
+	    <m id="6175">u</m>
+	    <m id="2802">pshéek</m></w>.</kar>
+	<eng>The bag is heavy.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-7_12" audio-start-time="23:01">
+	<kar>
+	  <w>
+	    <m id="4715">páy</m>
+	  </w>
+	  <w gl="the bag">
+	    <m id="4407">pa</m>
+	    <m id="5145">pûuvish</m>
+	    </w>
+	  <w>
+	    <m id="6675">vúra</m>
+	  </w>
+	    <w>
+	    <m id="6307">uum</m>
+	    </w>
+	  <w gl="it is heavy">
+	    <m id="6175">u</m>
+	    <m id="2802">pshéek</m></w>.</kar>
+	<eng>The bag is very heavy.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-7_13" audio-start-time="23:27">
+	<kar>
+	  <w>
+	    <m id="2766">ipít</m>
+	  </w>
+	  <w gl="my bag">
+	    <m id="4407">pa</m>
+	    <m id="4326">nani</m>
+	    <m id="5145">pûuvish</m>
+	    </w>
+	  <w gl="it is heavy">
+	    <m id="6175">u</m>
+	    <m id="2802">pshéek</m></w>.</kar>
+	<eng>My bag was heavy yesterday.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-7_14" audio-start-time="24:01">
+	<kar>
+	  <w>
+	    <m id="2766">ipít</m>
+	  </w>
+	  <w gl="the bag">
+	    <m id="4407">pa</m>
+	    <m id="5145">pûuvish</m>
+	    </w>
+	  <w gl="it is heavy">
+	    <m id="6175">u</m>
+	    <m id="2802">pshéek</m></w>.</kar>
+	<eng>The bag was heavy yesterday.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-7_15" audio-start-time="24:26">
+	<kar>
+
+	  <w gl="??">
+	    <m id="4408">pa</m>
+	    <m id="4299">naa</m>
+	  </w>
+	  <w gl="it is heavy">
+	    <m id="4349">ni</m>
+	    <m id="2802">'ipshéek</m>
+	    <m id="6035">ti</m>
+	  </w>
+	  <w>
+	    <m id="4715">pay</m>
+	  </w>
+	  <w>
+	    <m id="5145">pûuvish</m></w>.</kar>
+	<eng>It was the bag that made me heavy.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-7_16" audio-start-time="25:44">
+	<kar>
+	  <w>
+	    <m id="1656">iim</m>
+	  </w>
+	  <w gl="you did">
+	    <m id="5506">t</m>
+	    <m id="1418">ee</m>
+	    </w>
+	  <w>
+	    <m id="2802">'ipshéek</m></w>.</kar>
+	<eng>You are getting heavy.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-7_17" audio-start-time="26:09">
+	<kar>
+	  <w>
+	    <m id="4299">naa</m>
+	  </w>
+	  <w>
+	    <m id="3752">káru</m>
+	  </w>
+	    <w>
+	    <m id="5506">tá</m>
+	    </w>
+	  <w gl="I am heavy">
+	    <m id="4349">ni</m>
+	    <m id="2802">'ipshéek</m></w>.</kar>
+	<eng>I am also getting heavy.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-7_18" audio-start-time="27:07">
+	<kar>
+	  <w>
+	    <m id="4299">naa</m>
+	  </w>
+	  <w gl="I am getting heavy">
+	    <m id="4349">ni</m>
+	    <m id="2802">pshéek</m>
+	    <m id="6035">ti</m></w>.</kar>
+	<eng>I am getting heavy.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-7_19" audio-start-time="27:08">
+	<kar>
+	  <w>
+	    <m id="4299">naa</m>
+	  </w>
+	  <w>
+	    <m id="3752">káru</m>
+	  </w>
+	  <w gl="I am getting heavy">
+	    <m id="4349">ni</m>
+	    <m id="2802">'ipshéek</m>
+	    <m id="6035">ti</m></w>.</kar>
+	<eng>I am also getting heavy.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-7_20" audio-start-time="31:15">
+	<kar>
+	  <w gl="he did">
+	    <m id="5506">t</m>
+	    <m id="6175">óo</m>
+	    </w>
+	  <w>
+	    <m id="???">hyeehiva</m></w>.</kar>
+	<eng>He is hollering.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-7_21" audio-start-time="46:36">
+	<kar>
+	  <w>
+	    <m id="5170">pi'êep</m>
+	  </w>
+	  <w>
+	    <m id="4782">pihnêefich</m>
+	  </w>
+	  <w>
+	    <m id="6381">vaa</m>
+	  </w>
+	  <w>
+	    <m id="3670">káan</m>
+	  </w>
+	  <w gl="it (animate) sits">
+	    <m id="6175">ú</m>
+	    <m id="1974">krii</m></w>.</kar>
+	<eng>Long ago Coyote lived there.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-7_22" audio-start-time="46:59">
+	<kar>
+	    <w>
+	    <m id="234">akâay</m>
+	    </w>
+	  <w>
+	    <m id="6381">vaa</m>
+	  </w>
+	  <w>
+	    <m id="3670">káan</m>
+	  </w>
+	  <w gl="it (animate) sat">
+	    <m id="6175">ú</m>
+	    <m id="1974">kree</m>
+	    <m id="1369">nik</m>
+	    </w>
+	  <w>
+	    <m id="5170">pi'êep</m></w>?</kar>
+	<eng>Who lived there long ago?</eng>
+      </s>
+    </paragraph>
+  </data>
+</text>

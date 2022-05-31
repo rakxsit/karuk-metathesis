@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-22">
+    <metadata>
+        <title>"Old Man Turtle Dances"</title>
+        <author>Lottie <alph>Beck</alph></author>
+        <date>1957</date>
+        <publication>William Bright, <em>The Karok Language</em> (1957), pp. 214-215, Text
+            22</publication>
+    </metadata>
+    <data>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="3725">kahyúras</m>
+                    </w>
+                    <w>
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w gl="they gather">
+                        <m lemma="3977">kun</m>
+                        <m lemma="7073">yíchaachha</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">They gathered at Klamath Lakes.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="82">ayu'âach</m>
+                    </w>
+                    <w>
+                        <m lemma="4715">páy</m>
+                    </w>
+                    <w gl="the one which is flowing downstream">
+                        <m lemma="4408">pa</m>
+                        <m lemma="5212">saamnúp</m>
+                        <m lemma="168">ahi</m>
+                        <m lemma="6035">tih</m>
+                        <m lemma="369">an</m>
+                    </w>
+                    <w>
+                        <m lemma="1109">chí</m>
+                    </w>
+                    <w gl="they were going to dance from the lake mouth">
+                        <m lemma="3977">kun</m>
+                        <m lemma="1643">'íihrupaa</m>
+                        <m lemma="1379">vish</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">It was because they were going to dance downriver that way the stream
+                    flows.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w gl="the young men">
+                        <m lemma="4407">pa</m>
+                        <m lemma="7025">yáan'iiftihan</m>
+                        <m lemma="5200">sa</m>
+                    </w>
+                    <w>
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w gl="They arrive">
+                        <m lemma="3977">kun</m>
+                        <m lemma="3489">ívyiihma</m>
+                    </w>
+                    <w>
+                        <m lemma="3752">káru</m>
+                    </w>
+                    <w gl="the women">
+                        <m lemma="4407">pa</m>
+                        <m lemma="656">'asiktávaan</m>
+                        <m lemma="5200">sas</m>
+                    </w>.
+                </txt>
+                <trans lang="eng"> And the young men and the women arrived.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6570">víri</m>
+                    </w>
+                    <w>
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w>
+                        <m lemma="3745">kári</m>
+                    </w>
+                    <w gl="SUB-soon">
+                        <m lemma="4408">pa</m>
+                        <m lemma="1109">chí</m>
+                    </w>
+                    <w gl="they were going to dance down">
+                        <m lemma="3977">kun</m>
+                        <m lemma="1643">'íihrupaa</m>
+                        <m lemma="1379">vish</m>
+                    </w>,
+                    <w>
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w>
+                        <m lemma="646">asaxvuhpihnîich</m>
+                    </w>
+                    <w gl="PERF-he">
+                        <m lemma="5506">tó</m>
+                        <m lemma="6175">o</m>
+                    </w>
+                    <w gl="wants to">
+                        <m lemma="3317">thvoonha</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">It was time for them to dance down, and then Old Man Turtle wanted to.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6570">víri</m>
+                    </w>
+                    <w gl="they tell">
+                        <m lemma="3977">kun</m>
+                        <m lemma="2733">ipêer</m>
+                    </w>''
+                    <w>
+                        <m lemma="1400">hôoy íf</m>
+                    </w>
+                    <w>
+                        <m lemma="7056">yaxéek</m>
+                    </w>
+                    <w gl="you will arrive there">
+                        <m lemma="1418">i</m>
+                        <m lemma="6306">'úum</m>
+                        <m lemma="1379">eesh</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">They told him, "You can't get there.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="82">ayu'âach</m>
+                    </w>
+                    <w gl="the women">
+                        <m lemma="4407">pa</m>
+                        <m lemma="656">'asiktávaan</m>
+                    </w>
+                    <w>
+                        <m lemma="6307">uum</m>
+                    </w>
+                    <w gl="young">
+                        <m lemma="7025">yáan'iiftihan</m>
+                        <m lemma="5200">sa</m>
+                    </w>.''
+                </txt>
+                <trans lang="eng">It's because the women are young."</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="646">asaxvuhpihnîich</m>
+                    </w>
+                    <w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+                    <w gl="PERF-he">
+                        <m lemma="5506">tó</m>
+                        <m lemma="6175">o</m>
+                    </w>
+                    <w>
+                        <m lemma="3317">thvoonha</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">Old Man Turtle just wanted to.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">''
+                    <w>
+                        <m lemma="4299">naa</m>
+                    </w>
+                    <w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+                    <w>
+                        <m lemma="3905">kóo</m>
+                    </w>
+                    <w>
+                        <m lemma="7049">yáv</m>
+                    </w>
+                    <w gl="the.anyone">
+                        <m lemma="4407">pa</m>
+                        <m lemma="235">'akâayva</m>
+                    </w>
+                    <w gl="any young man">
+                        <m lemma="3970">kuma</m>
+                        <m lemma="7025">yáan'iiftihan</m>
+                    </w>.''
+                </txt>
+                <trans lang="eng">"I'm just as good as any young man."</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="4420">pâanpay</m>
+                    </w>
+                    <w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+                    <w>
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w gl="they agree">
+                        <m lemma="3977">kun</m>
+                        <m lemma="1145">chímiha</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">Finally, they agreed.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6174">ta'ítam</m>
+                    </w>
+                    <w>
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w gl="they are ready">
+                        <m lemma="3977">kun</m>
+                        <m lemma="3746">káriha</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">So they were ready.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="646">asuxvuypihnîich</m>
+                    </w>
+                    <w>
+                        <m lemma="5">áachip</m>
+                    </w>
+                    <w gl="PERF-he">
+                        <m lemma="5506">tó</m>
+                        <m lemma="6175">o</m>
+                    </w>
+                    <w>
+                        <m lemma="1617">hyárihish</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">Old Man Turtle stood in the middle.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w gl="he locked arms with">
+                        <m lemma="6175">u</m>
+                        <m lemma="22">'aakrúprih</m>
+                        <m lemma="6035">tih</m>
+                    </w>
+                    <w gl="the women">
+                        <m lemma="4407">pa</m>
+                        <m lemma="656">'asiktávaan</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">He locked arms with the women.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w>
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w gl="they dance down from upriver">
+                        <m lemma="3977">kun</m>
+                        <m lemma="1644">'íihvarak</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">Then they danced down from upriver.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w gl="after a while">
+                        <m lemma="4420">pâanpay</m>
+                        <m lemma="6444">vari</m>
+                    </w>
+                    <w>
+                        <m lemma="646">asaxvuhpihnîich</m>
+                    </w>
+                    <w gl="PERF-he">
+                        <m lemma="5506">tó</m>
+                        <m lemma="6175">o</m>
+                    </w>
+                    <w>
+                        <m lemma="1792">kfuuyshur</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">Finally Old Man Turtle got tired.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6570">víri</m>
+                    </w>
+                    <w gl="he was singing">
+                        <m lemma="6175">u</m>
+                        <m lemma="561">'arihishrîih</m>
+                        <m lemma="6380">vu</m>
+                        <m lemma="6035">ti</m>
+                    </w>''
+                    <w gl="matêe kéeyish âapun">matêe kéeyish âapun</w>''.
+                </txt>
+                <trans lang="eng">He was singing "matêe kéeyish âapun".</trans>
+				<note publish="yes">Bright: "matêe 'wait a moment!'; kéeyish, no meaning; âapun '(down) on the ground.'"</note>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+                    <w>
+                        <m lemma="6381">vaa</m>
+                    </w>
+                    <w gl="they were dancing down from upriver">
+                        <m lemma="3977">kun</m>
+                        <m lemma="1525">'íih</m>
+                        <m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">They kept dancing that way.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="4420">pâanpay</m>
+                    </w>
+                    <w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+                    <w gl="PERF-he">
+                        <m lemma="5506">tó</m>
+                        <m lemma="6175">o</m>
+                    </w>
+                    <w gl="he is weeping">
+                        <m lemma="3518">xrára</m>
+                        <m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">Finally he was weeping.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">''
+                    <w>matêe kéeyish âapun</w>.
+                </txt>
+                <trans lang="eng">"matêe kéeyish âapun</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w gl="I am tired">
+                        <m lemma="4296">n</m>
+                        <m lemma="1792">éekfuuyshur</m>
+                    </w>.''
+                </txt>
+                <trans lang="eng">I'm tired."</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+                    <w>
+                        <m lemma="6381">vaa</m>
+                    </w>
+                    <w gl="they were dancing down from upriver">
+                        <m lemma="3977">kun</m>
+                        <m lemma="1525">'íih</m>
+                        <m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">They kept dancing that way.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="4420">pâanpay</m>
+                    </w>
+                    <w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+                    <w>
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w gl="they were dragging him">
+                        <m lemma="3977">kun</m>
+                        <m lemma="3378">ithyúru</m>
+                        <m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">Finally they were dragging him.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="3670">káan</m>
+                    </w>
+                    <w>
+                        <m lemma="4357">ník</m>
+                    </w>
+                    <w gl="he was crying">
+                        <m lemma="6175">u</m>
+                        <m lemma="3518">xrarâa</m>
+                        <m lemma="6380">vu</m>
+                        <m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">He gave a cry now and then.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+                    <w>
+                        <m lemma="6381">vaa</m>
+                    </w>
+                    <w>
+                        <m lemma="5">áachip</m>
+                    </w>
+                    <w>
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w gl="they dance down from upriver">
+                        <m lemma="3977">kun</m>
+                        <m lemma="1644">'íihvarak</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">They danced down from upriver that way to the middle (of their course).</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w gl="his arms">
+                        <m lemma="4407">pa</m>
+                        <m lemma="4260">mú</m>
+                        <m lemma="806">traax</m>
+                    </w>
+                    <w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+                    <w>
+                        <m lemma="3809">kích</m>
+                    </w>
+                    <w>
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w gl="they were carrying (two objects)">
+                        <m lemma="3977">kun</m>
+                        <m lemma="39">'áaphu</m>
+                        <m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">They were just carrying his arms.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w gl="that.way">
+                        <m lemma="6381">vaa</m>
+                    </w>
+                    <w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+                    <w>
+                        <m lemma="3670">káan</m>
+                    </w>
+                    <w>
+                        <m lemma="646">asaxvuhpihnîich</m>
+                    </w>
+                    <w gl="he transforms">
+                        <m lemma="6175">u</m>
+                        <m lemma="2773">pkêevish</m>
+                    </w>
+                    <w>
+                        <m lemma="600">asánaamkarak</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">Old Man Turtle was transformed there at asánaamkarak.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6307">uum</m>
+                    </w>
+                    <w gl="the women">
+                        <m lemma="4407">pa</m>
+                        <m lemma="656">'asiktávaan</m>
+                    </w>
+                    <w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+                    <w>
+                        <m lemma="6381">vaa</m>
+                    </w>
+                    <w gl="they were dancing away downriver">
+                        <m lemma="3977">kun</m>
+                        <m lemma="1642">'íihrupu</m>
+                        <m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">The women kept dancing downriver that way.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w gl="they were carrying (two objects)">
+                        <m lemma="3977">kun</m>
+                        <m lemma="39">'áaphu</m>
+                        <m lemma="6035">ti</m>
+                    </w>
+                    <w>
+                        <m lemma="646">asaxvuhpihnîich</m>
+                    </w>
+                    <w gl="his arms">
+                        <m lemma="4260">mú</m>
+                        <m lemma="806">traax</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">They were carrying Old Man Turtle's arms.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w gl="SUB-into the ocean">
+                        <m lemma="4408">pa</m>
+                        <m lemma="7204">yúras</m>
+                        <m lemma="232">ak</m>
+                    </w>
+                    <w gl="they jump (into water)">
+                        <m lemma="3977">kun</m>
+                        <m lemma="1742">'íkakurih</m>
+                    </w>,
+                    <w>
+                        <m lemma="3745">kári</m>
+                    </w>
+                    <w>
+                        <m lemma="6381">vaa</m>
+                    </w>
+                    <w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+                    <w gl="they were carrying (two objects)">
+                        <m lemma="3977">kun</m>
+                        <m lemma="39">'áaphu</m>
+                        <m lemma="6035">ti</m>
+                    </w>
+                    <w gl="his arms">
+                        <m lemma="4407">pa</m>
+                        <m lemma="4260">mú</m>
+                        <m lemma="806">traax</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">And when they jumped into the ocean, they were still carrying his arms.</trans>
+            </s>
+        </paragraph>
+    </data>
+</text>

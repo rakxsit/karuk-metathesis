@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-72">
+    <metadata>
+        <title>"Elk Hunting"</title>
+        <author>Nettie <alph>Reuben</alph></author>
+        <date>1957</date>
+        <publication>William Bright, <em>The Karok Language</em> (1957), pp. 286-287, Text
+            72</publication>
+    </metadata>
+    <data>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-72:1" head="WB_KL-72:2" synrel="OBJ">
+						<m lemma="3186">íshyuux</m>
+					</w>
+                    <w gl="they chased into water" id="WB_KL-72:2" head="0" synrel="PRED">
+						<m lemma="3977">kun</m>
+						<m lemma="3646">iyvúnkurih</m>
+						<m lemma="6632">vu</m>
+						<m lemma="6035">ti</m>
+					</w>
+                    <w gl="the dogs" id="WB_KL-72:3" head="WB_KL-72:5" synrel="COMP">
+						<m lemma="4407" id="WB_KL-72:4" head="WB_KL-72:3" synrel="ATR">pa</m>
+						<m lemma="1175">chishih</m>
+						<m lemma="1670" id="WB_KL-72:5" head="WB_KL-72:2" synrel="SBJ">'íin</m>
+					</w>.
+					</txt>
+                <trans lang="eng">The dogs used to herd elk in (to ravines).</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w gl="when" id="WB_KL-72:6" head="WB_KL-72:8" synrel="TAM">
+						<m lemma="4408" id="WB_KL-72:7" head="WB_KL-72:8" synrel="SUB">pa</m>
+						<m lemma="5506">t</m>
+						<m lemma="6175">óo</m>
+					</w>
+                    <w id="WB_KL-72:8" head="WB_KL-72:12" synrel="ADV">
+						<m lemma="2999">skákavruk</m>
+					</w>
+                    <w id="WB_KL-72:9" head="WB_KL-72:12" synrel="ADV">
+						<m lemma="3670">káan</m>
+					</w>
+                    <w id="WB_KL-72:10" head="WB_KL-72:12" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w id="WB_KL-72:11" head="WB_KL-72:12" synrel="TAM"> 
+						<m lemma="5506">tá</m>
+					</w>
+                    <w gl="they killed it" id="WB_KL-72:12" head="0" synrel="PRED">
+						<m lemma="3977">kun</m>
+						<m lemma="3580">íykar</m>
+					</w>.
+				</txt>
+                <trans lang="eng">When (an elk) jumped down over a bank (and disabled itself), then (the dogs)
+                    killed it there.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w gl="when" id="WB_KL-72:13" head="WB_KL-72:15" synrel="DIS">
+						<m lemma="4408" id="WB_KL-72:14" head="WB_KL-72:15" synrel="SUB">pa</m>
+						<m lemma="3745">kári</m>
+					</w>
+                    <w id="WB_KL-72:15" head="WB_KL-72:17" synrel="ADV">
+						<m lemma="781">athkuritárahiv</m>
+					</w>
+                    <w id="WB_KL-72:16" head="WB_KL-72:17" synrel="TAM">
+						<m lemma="5506">tá</m>
+					</w>
+                    <w gl="they went to hunt" id="WB_KL-72:17" head="0" synrel="PRED">
+						<m lemma="3977">kun</m>
+						<m lemma="307">'ákunvan</m>
+						<m lemma="6380">va</m>
+					</w>.
+				</txt>
+                <trans lang="eng">When it was hunting season, they went hunting.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w gl="so" id="WB_KL-72:18" head="WB_KL-72:22" synrel="DIS">
+						<m lemma="6570">víri</m>
+						<m lemma="6383" id="WB_KL-72:19" head="WB_KL-72:22" synrel="DIS">va</m>
+					</w>
+                    <w gl="night after night" id="WB_KL-72:20" head="WB_KL-72:22" synrel="ADV">
+						<m lemma="3241">itheekxarám</m>
+						<m lemma="6413">va</m>
+					</w>
+                    <w id="WB_KL-72:21" head="WB_KL-72:22" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w gl="that they sang good-luck songs for hunting" id="WB_KL-72:22" head="0" synrel="PRED">
+						<m lemma="4408" id="WB_KL-72:23" head="WB_KL-72:22" synrel="SUB">pa</m>
+						<m lemma="3977">kun</m>
+						<m lemma="4889">pikvahrúpukva</m>
+					</w>.
+				</txt>
+                <trans lang="eng">They made hunting medicine, night after night.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w gl="you see" id="WB_KL-72:24" head="WB_KL-72:34" synrel="DIS">
+						<m lemma="5160">púya</m>
+						<m lemma="6383" id="WB_KL-72:25" head="WB_KL-72:34" synrel="DIS">va</m>
+					</w>
+                    <w gl="when it had become day" id="WB_KL-72:26" head="WB_KL-72:34" synrel="ADV">
+						<m lemma="4408" id="WB_KL-72:27" head="WB_KL-72:26" synrel="SUB">pa</m>
+						<m lemma="5506" id="WB_KL-72:28" head="WB_KL-72:26" synrel="TAM">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="5469">súpaah</m>
+						<m lemma="1358">aak</m>
+					</w>
+                    <w gl="you see" id="WB_KL-72:29" head="WB_KL-72:34" synrel="DIS">
+						<m lemma="5160">púya</m>
+						<m lemma="6383" id="WB_KL-72:30" head="WB_KL-72:34" synrel="DIS">va</m>
+					</w>
+                    <w id="WB_KL-72:31" head="WB_KL-72:32" synrel="COMP">
+						<m lemma="6222">ukráam</m>
+					</w>
+                    <w id="WB_KL-72:32" head="WB_KL-72:34" synrel="COMP">
+						<m lemma="4076">kúuk</m>
+					</w>
+                    <w id="WB_KL-72:33" head="WB_KL-72:34" synrel="TAM">
+						<m lemma="5506">tá</m>
+					</w>
+                    <w gl="they ran to there" id="WB_KL-72:34" head="0" synrel="PRED">
+						<m lemma="3977">kun</m>
+						<m lemma="1562">ihmárava</m>
+					</w>, 
+					<w id="WB_KL-72:35" head="WB_KL-72:36" synrel="TAM">
+						<m lemma="5506">tá</m>
+					</w>
+                    <w gl="they bathed" id="WB_KL-72:36" head="0" synrel="PRED">
+						<m lemma="3977">kun</m>
+						<m lemma="4443">páatvu</m>
+						<m lemma="4298">naa</m>
+					</w>
+                    <w gl="the men" id="WB_KL-72:37" head="15" synrel="SBJ">
+						<m lemma="4407" id="WB_KL-72:38" head="WB_KL-72:37" synrel="ATR">pa</m>
+						<m lemma="833">'ávans</m>
+						<m lemma="584">as</m>
+					</w>.
+				</txt>
+                <trans lang="eng">When day came, they went to a pond, the men bathed.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-72:39" head="WB_KL-72:41" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w id="WB_KL-72:40" head="WB_KL-72:41" synrel="OBJ">
+						<m lemma="50">aas</m>
+					</w>
+                    <w gl="they drank it" id="WB_KL-72:41" head="0" synrel="PRED">
+						<m lemma="3977">kun</m>
+						<m lemma="2936">'íish</m>
+						<m lemma="6648">vunaa</m>
+					</w>.	
+				</txt>
+                <trans lang="eng">Then they ate a meal.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w gl="you see" id="WB_KL-72:42" head="WB_KL-72:46" synrel="DIS">
+						<m lemma="5160">púya</m>
+						<m lemma="6383" id="WB_KL-72:43" head="WB_KL-72:46" synrel="DIS">va</m>
+					</w>
+                    <w id="WB_KL-72:44" head="WB_KL-72:46" synrel="OBJ">
+						<m lemma="50">aas</m>
+					</w>
+                    <w id="WB_KL-72:45" head="WB_KL-72:46" synrel="TAM">
+						<m lemma="5506">tá</m>
+					</w>
+                    <w gl="they finished drinking" id="WB_KL-72:46" head="0" synrel="PRED">
+						<m lemma="3977">kun</m>
+						<m lemma="4983">píshmara</m>
+						<m lemma="4298">naa</m>
+					</w>.
+				</txt>
+                <trans lang="eng">Then they finished eating.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-72:47" head="WB_KL-72:56" synrel="DIS">
+						<m lemma="3745">kári</m>
+					</w>
+                    <w id="WB_KL-72:48" head="WB_KL-72:56" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w id="WB_KL-72:49" head="WB_KL-72:56" synrel="DIS">
+						<m lemma="6570">víri</m>
+					</w>
+                    <w gl="their bows" id="WB_KL-72:50" head="WB_KL-72:56" synrel="OBJ">
+						<m lemma="4407" id="WB_KL-72:51" head="WB_KL-72:50" synrel="ATR">pa</m>
+						<m lemma="4264">mukun</m>
+						<m lemma="6952">xúskaamhar</m>
+					</w>
+                    <w gl="so" id="WB_KL-72:52" head="WB_KL-72:56" synrel="DIS">
+						<m lemma="6570">víri</m>
+						<m lemma="6383" id="WB_KL-72:53" head="WB_KL-72:56" synrel="DIS">va</m>
+					</w>
+                    <w gl="in fire" id="WB_KL-72:54" head="WB_KL-72:56" synrel="ADV">
+						<m lemma="16">áak</m>
+					</w>
+                    <w id="WB_KL-72:55" head="WB_KL-72:56" synrel="TAM">
+						<m lemma="5506">tá</m>
+					</w>
+                    <w gl="they heated bows" id="WB_KL-72:56" head="0" synrel="PRED">
+						<m lemma="3977">kun</m>
+						<m lemma="5395">símku</m>
+					</w>
+                    <w id="WB_KL-72:57" head="WB_KL-72:58" synrel="COMP">
+						<m lemma="379">ánam</m>
+					</w>
+                    <w id="WB_KL-72:58" head="WB_KL-72:56" synrel="ADV">
+						<m lemma="4281">múuk</m>
+					</w>.
+				</txt>
+                <trans lang="eng">Then they heated their bows by the fire, with medicine.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-72:59" head="WB_KL-72:62" synrel="DIS">
+						<m lemma="3745">kári</m>
+					</w>
+                    <w id="WB_KL-72:60" head="WB_KL-72:62" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w id="WB_KL-72:61" head="WB_KL-72:62" synrel="TAM">
+						<m lemma="5506">tá</m>
+					</w>
+                    <w gl="they left" id="WB_KL-72:62" head="0" synrel="PRED">
+						<m lemma="3977">kun</m>
+						<m lemma="3496">ívyiihship</m>
+					</w>, 
+					<w id="WB_KL-72:63" head="WB_KL-72:64" synrel="TAM">
+						<m lemma="5506">tá</m>
+					</w>
+                    <w gl="they went hunting" id="WB_KL-72:64" head="0" synrel="PRED">
+						<m lemma="3977">kun</m>
+						<m lemma="307">'ákunvan</m>
+						<m lemma="6380">va</m>
+					</w>.
+					</txt>
+                <trans lang="eng">Then they went off, they went hunting.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w gl="not yet" id="WB_KL-72:65" head="WB_KL-72:70" synrel="NEG">
+						<m lemma="5151">puv</m>
+						<m lemma="1729" id="WB_KL-72:66" head="WB_KL-72:70" synrel="DIS">éek</m>
+					</w>
+                    <w id="WB_KL-72:67" head="WB_KL-72:70" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w id="WB_KL-72:68" head="WB_KL-72:70" synrel="ADV">
+						<m lemma="1447">uchvánihich</m>
+					</w>
+                    <w gl="it had" id="WB_KL-72:69" head="WB_KL-72:70" synrel="TAM">
+						<m lemma="5506">t</m>
+						<m lemma="6175">óo</m>
+					</w>
+                    <w id="WB_KL-72:70" head="0" synrel="PRED">
+						<m lemma="1974">krii</m>
+					</w>, 
+					<w id="WB_KL-72:71" head="WB_KL-72:72" synrel="TAM">
+						<m lemma="5506">tá</m>
+					</w>
+                    <w gl="they gathered again" id="WB_KL-72:72" head="0" synrel="PRED">
+						<m lemma="3977">kun</m>
+						<m lemma="4684">pavyíhish</m>
+					</w>.
+				</txt>
+                <trans lang="eng">(The sun) was not yet well out, (when) they got back.</trans>
+				<note>The initial u of uchvánihich is unexpected, but it cannot be u- 3sg sbj as there is no verbalizing morphology on the word.</note>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-72:73" head="WB_KL-72:74" synrel="ATR">
+						<m lemma="3930">koovúra</m>
+					</w>
+                    <w gl="the elk" id="WB_KL-72:74" head="WB_KL-72:77" synrel="OBJ">
+						<m lemma="4407" id="WB_KL-72:75" head="WB_KL-72:74" synrel="ATR">pa</m>
+						<m lemma="3186">'íshyuux</m>
+					</w>
+                    <w id="WB_KL-72:76" head="WB_KL-72:77" synrel="TAM">
+						<m lemma="5506">tá</m>
+					</w>
+                    <w gl="they carried it" id="WB_KL-72:77" head="0" synrel="PRED">
+						<m lemma="3977">kun</m>
+						<m lemma="5898">thathvíshriih</m>
+						<m lemma="6380">va</m>
+					</w>.
+				</txt>
+                <trans lang="eng">They all carried the elk home.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w gl="you see" id="WB_KL-72:78" head="WB_KL-72:81" synrel="DIS">
+						<m lemma="5160">púya</m>
+						<m lemma="6381" id="WB_KL-72:79" head="WB_KL-72:81" synrel="SBJ">va</m>
+					</w>
+                    <w id="WB_KL-72:80" head="WB_KL-72:81" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w id="WB_KL-72:81" head="0" synrel="PRED">
+						<m lemma="3809">kich</m>
+					</w>.
+				</txt>
+                <trans lang="eng">So that's all.</trans>
+            </s>
+        </paragraph>
+    </data>
+</text>

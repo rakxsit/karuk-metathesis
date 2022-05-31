@@ -1,0 +1,104 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 1.5834013605442177
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "transcription - words"
+		xmin = 0.0
+		xmax = 1.5834013605442177
+		intervals: size = 4
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.0800
+				text = ""
+			intervals [2]:
+				xmin = 0.0800
+				xmax = 0.4300
+				text = "kunish"
+			intervals [3]:
+				xmin = 0.4300
+				xmax = 1.3500
+				text = "upathriheesh"
+			intervals [4]:
+				xmin = 1.3500
+				xmax = 1.5834013605442177
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "transcription - phones"
+		xmin = 0.0
+		xmax = 1.5834013605442177
+		intervals: size = 17
+			intervals [1]:
+				xmin = 0.0000
+				xmax = 0.0800
+				text = "sil"
+			intervals [2]:
+				xmin = 0.0800
+				xmax = 0.1500
+				text = "K"
+			intervals [3]:
+				xmin = 0.1500
+				xmax = 0.1800
+				text = "UH0"
+			intervals [4]:
+				xmin = 0.1800
+				xmax = 0.2700
+				text = "N"
+			intervals [5]:
+				xmin = 0.2700
+				xmax = 0.3000
+				text = "IH0"
+			intervals [6]:
+				xmin = 0.3000
+				xmax = 0.4300
+				text = "SH"
+			intervals [7]:
+				xmin = 0.4300
+				xmax = 0.4600
+				text = "UH0"
+			intervals [8]:
+				xmin = 0.4600
+				xmax = 0.5900
+				text = "P"
+			intervals [9]:
+				xmin = 0.5900
+				xmax = 0.6700
+				text = "AH0"
+			intervals [10]:
+				xmin = 0.6700
+				xmax = 0.8800
+				text = "TH"
+			intervals [11]:
+				xmin = 0.8800
+				xmax = 0.9300
+				text = "R"
+			intervals [12]:
+				xmin = 0.9300
+				xmax = 0.9700
+				text = "IH0"
+			intervals [13]:
+				xmin = 0.9700
+				xmax = 1.0700
+				text = "HH"
+			intervals [14]:
+				xmin = 1.0700
+				xmax = 1.2300
+				text = "EY1"
+			intervals [15]:
+				xmin = 1.2300
+				xmax = 1.3500
+				text = "SH"
+			intervals [16]:
+				xmin = 1.3500
+				xmax = 1.5600
+				text = "sp"
+			intervals [17]:
+				xmin = 1.5600
+				xmax = 1.5834013605442177
+				text = ""

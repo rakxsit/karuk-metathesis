@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="VS-18c" audio-source="karuk-2013-01-27-vs-1">
+    <metadata>
+        <title>Elicited sentences</title>
+        <author>Vina <alph>Smith</alph></author>
+        <date>2013</date>
+        <publication>Unpublished (recorded by Line Mikkelsen, Clare Sandy, Erik Maier, and Florrine Super on January 27th, 2013)</publication>
+    </metadata>
+    <data>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2013-01-27-vs-1_C_01" audio-start-time="34:55">
+                <kar>
+                    <w gl="your brother">
+						<m id="4407">pa</m>
+						<m id="4238">mi</m>
+						<m id="6081">típa</m>
+					</w>
+					<w>
+						<m id="2733">ipêen</m>
+					</w>
+					<w>
+						<m id="4385">ôok</m>
+					</w>
+					<w>
+						<m id="4297">naa</m>
+					</w>.
+				</kar>
+                <eng>Go get your brother.</eng>
+            </s>
+        </paragraph>
+		<paragraph>
+            <s spkr="VS" audio="karuk-2013-01-27-vs-1_C_02" audio-start-time="35:23">
+                <kar>
+                    <w gl="your brother">
+						<m id="4238">mi</m>
+						<m id="6081">típa</m>
+					</w>
+					<w>
+						<m id="2733">ipêen</m>
+					</w>
+					<w>
+						<m id="4385">ôok</m>
+					</w>
+					<w>
+						<m id="4297">naa</m>
+					</w>.
+				</kar>
+                <eng>Go get your brother.</eng>
+            </s>
+        </paragraph>
+		<paragraph>
+            <s spkr="VS" audio="karuk-2013-01-27-vs-1_C_03" audio-start-time="37:04">
+                <kar>
+                    <w>
+						<m id="6307">uum</m>
+					</w>
+					<w>
+						<m id="5156">puxich</m>
+					</w>
+					<w gl="We will know">
+						<m id="4370">nu</m>
+						<m id="3213">'ítap</m>
+						<m id="1379">eesh</m>
+					</w>
+					<w gl="the Karuk language">
+						<m id="4407">pa</m>
+						<m id="506">'arará</m>
+						<m id="1380">hih</m>
+					</w>.
+				</kar>
+                <eng>We are trying to learn the Karuk language.</eng>
+            </s>
+        </paragraph>
+		<paragraph>
+            <s spkr="VS" audio="karuk-2013-01-27-vs-1_C_05" audio-start-time="43:32">
+                <kar>
+                    <w>
+						<m id="4299">naa</m>
+					</w>
+					<w>
+						<m id="2810">ipshûunkinich</m>
+					</w>
+					 <w>
+						<m id="3978">kúna</m>
+					</w>
+					<w gl="my brother">
+						<m id="4407">pa</m>
+						<m id="4326">nani</m>
+						<m id="6081">típa</m>
+					</w>
+					<w>
+						<m id="6307">uum</m>
+					</w>
+					<w>
+						<m id="6397">vâaram</m>
+					</w>.
+				</kar>
+                <eng>My brother is taller than me. (I'm short, but my brother is tall.)</eng>
+            </s>
+        </paragraph>
+		<paragraph>
+            <s spkr="VS" audio="karuk-2013-01-27-vs-1_C_06" audio-start-time="44:22">
+                <kar>
+                    <w>
+						<m id="4715">pay</m>
+					</w>
+					<w>
+						<m id="6307">uum</m>
+					</w>
+					<w>
+						<m id="2810">ipshûunkinich</m>
+					</w>.
+					<w>
+						<m id="4715">pay</m>
+					</w>
+					<w>
+						<m language="English">cup</m>
+					</w>
+					<w>
+						<m id="6307">uum</m>
+					</w>
+					<w>
+						<m id="6397">vâaram</m>
+					</w>.
+				</kar>
+                <eng>That cup is smaller than this cup. (That (cup) is short. This cup is tall.)</eng>
+            </s>
+        </paragraph>
+		<paragraph>
+            <s spkr="VS" audio="karuk-2013-01-27-vs-1_C_07" audio-start-time="44:42">
+                <kar>
+					 <w>
+						<m id="4715">pay</m>
+					</w>
+					<w>
+						<m id="6307">uum</m>
+					</w>
+					<w gl="my coffee cup">
+						<m id="4407">pa</m>
+						<m id="4326">nani</m>
+						<m id="3703">kafih'ásip</m>
+					</w>
+					<w>
+						<m id="2810">ipshûunkinich</m>
+					</w>.
+				</kar>
+                <eng>My coffe cup is short.</eng>
+            </s>
+        </paragraph>
+    </data>
+</text>

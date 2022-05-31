@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-26">
+  <metadata>
+    <title>"Duck Hawk and His Wife"</title>
+    <author> Chester <alph>Pepper</alph></author>
+    <date>1957</date>
+    <publication>William Bright, <em>The Karok Language</em> (1957), pp. 220, Text 26</publication>
+  </metadata>
+  <data>
+    <paragraph>
+      <s> 
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6383">vaa</m>
+	  </w>
+	  <w gl="he did it">
+	    <m lemma="6175">u</m>
+	    <m lemma="4086">kúphaa</m>
+	    <m lemma="1369">nik</m>
+	  </w>
+	  <w>
+	    <m lemma="7274">á 'iknêechhan</m></w>.</txt>
+	<trans lang="eng">Duck Hawk did this.</trans>
+      </s>
+      <s>
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="4385">ôok</m>
+	  </w>
+	  <w gl="his wife">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4260">mu</m>
+	    <m lemma="1576">hrôoha</m>
+	  </w>
+	  <w gl="she lives">
+	    <m lemma="6175">ú</m>
+	    <m lemma="1974">krii</m></w>.</txt>
+	<trans lang="eng">His wife lived here.</trans>
+      </s>
+      <s>
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6847">xás</m>
+	  </w>
+	  <w>
+	    <m lemma="6096">tíshraam</m>
+	  </w>
+	  <w gl="he has a mistress">
+	    <m lemma="6175">u</m>
+	    <m lemma="1477">fmaanahîichva</m></w>.</txt>
+	<trans lang="eng">And he had a mistress in Scott Valley.</trans>
+      </s>
+      <s>
+	<txt lang="kyh">
+	  <w gl="he came back">
+	    <m lemma="5506">t</m>
+	    <m lemma="6175">u</m>
+	    <m lemma="2694">'ípak</m></w>.</txt>
+	<trans lang="eng">He came back (from Scott Valley).</trans>
+      </s>
+      <s>
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6103">tishravará'iivreer</m>
+	  </w>
+	  <w>
+	    <m lemma="7040">yanéekva</m>
+	  </w>
+	  <w gl="his falls">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4260">mu</m>
+	    <m lemma="1668">'îin</m>
+	  </w>
+	  <w gl="it is thundering">
+	    <m lemma="6175">u</m>
+	    <m lemma="5963">thivnúru</m>
+	    <m lemma="6035">tih</m></w>.</txt>
+	<trans lang="eng">On Etna Mountain he heard his falls thundering (at Katimin).</trans>
+<note>not sure if the pa- is determiner or nominalizer; I took the sentence to mean 'he recognized that his falls were thundering.'-- evidentials are discourse</note>
+      </s>
+      <s>
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="3969">kúkuum</m>
+	  </w>
+	  <w gl="he has">
+	    <m lemma="5506">t</m>
+	    <m lemma="6175">óo</m>
+	  </w>
+	  <w>
+	    <m lemma="2860">pvâaram</m></w>.</txt>
+	<trans lang="eng">He was going home again.</trans>
+      </s>
+      <s>
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="7097">yítha</m>
+	  </w>
+	  <w gl="his child">
+	    <m lemma="4260">mú</m>
+	    <m lemma="511">'arama</m>
+	  </w>
+	  <w gl="he lives">
+	    <m lemma="6175">ú</m>
+	    <m lemma="1974">krii</m>
+	  </w>
+	  <w>
+	    <m lemma="3752">káru</m>
+	  </w>
+	  <w gl="his wife">
+	    <m lemma="4260">mu</m>
+	    <m lemma="1576">hrôoha</m></w>.</txt>
+	<trans lang="eng">His one child and his wife lived there.</trans>
+      </s>
+      <s>
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1494">ifuchtîimich</m>
+	  </w>
+	  <w gl="that he looked over his shoulder">
+	    <m lemma="4408">p</m>
+	    <m lemma="6175">oo</m>
+	    <m lemma="2674">p</m>
+	    <m lemma="3432">itvâavnuk</m>
+	    <m lemma="1369">anik</m>
+	  </w>
+	  <w>
+	    <m lemma="7038">yánava</m>
+	  </w>	  
+	  <w>
+	    <m lemma="5105">pura fátaak</m></w>.</txt>
+	<trans lang="eng">The last time he looked over, (the falls) were nowhere to be seen.</trans>
+<note>WB has purafátaak listed as two words.</note>
+      </s>
+      <s>
+	<txt lang="kyh">
+	  <w gl="it is not thundering">
+	    <m lemma="5082">pu</m>
+	    <m lemma="5963">thivnúru</m>
+	    <m lemma="6035">tih</m>
+	    <m lemma="1371">ara</m>
+	  </w>
+	  <w gl="his falls">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4260">mu</m>
+	    <m lemma="1668">'íin</m></w>.</txt>
+	<trans lang="eng">His falls weren't thundering.</trans>
+<note>WB places acute accent on 'falls', not circumflex.</note>
+      </s>
+      <s>
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6847">xás</m>
+	  </w>
+	  <w gl="he is thinking">
+	    <m lemma="6175">u</m>
+	    <m lemma="6939">xú</m>
+	    <m lemma="6035">tih</m>
+	  </w>,
+	  "<w>
+	    <m lemma="5506">tá</m>
+	  </w>
+	  <w gl="she spoils me">
+	    <m lemma="4294">na</m>
+	    <m lemma="5825">tayvárarimka</m>
+	  </w>
+	  <w gl="my falls">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4326">nani</m>
+	    <m lemma="1668">'íin</m></w>."</txt>
+	<trans lang="eng">And he thought, "She's spoiled my falls."</trans>
+<note>WB places acute accent on 'falls', not circumflex.</note>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s>
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="3745">kári</m>
+	  </w>
+	  <w>
+	    <m lemma="6847">xás</m>
+	  </w>
+	  <w gl="he goes back">
+	    <m lemma="6175">u</m>
+	    <m lemma="2860">pvâaram</m></w>.</txt>
+	<trans lang="eng">So he went home.</trans>
+      </s>
+      <s>
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="4385">ôok</m>
+	  </w>
+	  <w gl="he came back">
+	    <m lemma="6175">u</m>
+	    <m lemma="2694">'ipak</m></w>.</txt>
+	<trans lang="eng">He returned here.</trans>
+      </s>
+      <s>
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6847">xás</m>
+	  </w>
+	  <w>
+	    <m lemma="652">aseeshtákak</m>
+	  </w>
+	  <w gl="when he looks over his shoulder">
+	    <m lemma="4408">p</m>
+	    <m lemma="6175">oo</m>
+	    <m lemma="2674">p</m>
+	    <m lemma="3432">itvâavnuk</m>
+	  </w>
+	  <w>
+	    <m lemma="4147">mâam</m>
+	  </w>
+	  <w>
+	    <m lemma="4717">páykuuk</m>
+	  </w>
+	  <w gl="he sees">
+	    <m lemma="6175">u</m>
+	    <m lemma="4155">mah</m>
+	  </w>,
+	  <w>
+	    <m lemma="5506">tá</m>
+	  </w>
+	  <w gl="they were climbing uphill">
+	    <m lemma="3977">kun</m>
+	    <m lemma="2674">p</m>
+	    <m lemma="1498">ífukraa</m>
+	  </w>
+	  <w gl="his child">
+	    <m lemma="4260">mú</m>
+	    <m lemma="511">'arama</m>
+	  </w>
+	  <w>
+	    <m lemma="6756">xákaan</m>
+</w>.</txt>
+	<trans lang="eng">And when he looked over at aseeshtákak, he saw here right there uphill, she and her child were climbing uphill.</trans>
+<note>not sure about the climbing verb here- dictionary lists ífukuraa as 'pl. climb uphill', however WB lists verb as ifukraa.</note>
+      </s>
+      <s>
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6847">xás</m>
+	  </w>
+	  <w>
+	    <m lemma="6383">vaa</m>
+	  </w>
+	  <w>
+	    <m lemma="6675">vúra</m>
+	  </w>
+	  <w>
+	    <m lemma="3670">káan</m>
+	  </w>
+	  <w gl="he knelt down (on one knee)">
+	    <m lemma="6175">u</m>
+	    <m lemma="4630">pathakhíish</m></w>.</txt>
+	<trans lang="eng">So he knelt down there.</trans>
+<note>WB puts acute accent on kneeling verb, however online dictionary has circumflex.</note>
+      </s>
+      <s>
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6847">xás</m>
+	  </w>
+	  <w>
+	    <m lemma="6174">ta'ítam</m>
+	  </w>
+	  <w gl="he shot her">
+	    <m lemma="6175">u</m>
+	    <m lemma="3995">kúniihka</m>
+	  </w>
+	  <w gl="his wife">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4260">mu</m>
+	    <m lemma="1576">hrôoha</m></w>.</txt>
+	<trans lang="eng">And he shot his wife.</trans>
+      </s>
+      <s>
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="5163">púyava</m>
+	  </w>
+	  <w>
+	    <m lemma="3670">káan</m>
+	  </w>
+	  <w gl="she rolls into a hollow">
+	    <m lemma="6175">u</m>
+	    <m lemma="5604">tákniihkurih</m></w>.</txt>
+	<trans lang="eng">She rolled in (to a hollow) there.</trans>
+      </s>
+      <s>
+	<txt lang="kyh">
+	  <w gl="she rolls around">
+	    <m lemma="6175">u</m>
+	    <m lemma="5606">tákniihvarayva</m></w>.</txt>
+	<trans lang="eng">She rolled around.</trans>
+      </s>
+      <s>
+	<txt lang="kyh">
+	  <w gl="so">
+	    <m lemma="6570">víri</m>
+	    <m lemma="6383">va</m>
+	  </w>
+	  <w>
+	    <m lemma="3971">kumá'ii</m>
+	  </w>
+	  <w gl="they are saying">
+	    <m lemma="3977">kun</m>
+	    <m lemma="2733">ípeen</m>
+	    <m lemma="6175">ti</m>
+	  </w>
+	  "<w>
+	    <m lemma="6982">xúux</m>
+	  </w>
+	  <w gl="her little rolling-place">
+	    <m lemma="4260">mu</m>
+	    <m lemma="2036">krivruh</m>
+	    <m lemma="6380">vá</m>
+	    <m lemma="5172">nam</m>
+	    <m lemma="1420">ich</m></w>."</txt>
+	<trans lang="eng">For that reason they call it "xuux's little rolling-place."</trans>
+	<note publish="yes">Bright: "Duck Hawk's wife is here called xuux; this name designates an extinct and possibly only legendary animal, identified by some informants with the grizzly bear and by others with the African lion."</note>
+      </s>
+    </paragraph>
+    </data>
+</text>

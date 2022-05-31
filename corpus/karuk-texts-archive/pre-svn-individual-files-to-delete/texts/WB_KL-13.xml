@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-13">
+    <metadata>
+        <title>"Coyote's Gambling Song"</title>
+        <author>Chester <alph>Pepper</alph></author>
+        <date>1957</date>
+        <publication>William Bright, <em>The Karok Language</em> (1957), pp. 198-201, Text
+            13</publication>
+        <audio filename="LA78.1-008_1"
+            sourcelink="http://cla.berkeley.edu/item/10145?tab=description">"Karok audio recordings" (1949), California Language Archive, Item LA 78, Segment 8</audio>
+		<note publish="yes">Bright: "The content of this story suggests that it is actually a medicine formula, to be recited by gamblers for good luck. It lacks, however, a closing remark to the effect that 'Mankind will do likewise,' which is a usual part of such formulas."</note>
+    </metadata>
+    <data>
+        <paragraph>
+            <s spkr="CP" audio="LA78.1-008_1-1" audio-start-time="0:18">
+                <kar>
+                    <w><m id="6383">vaa</m></w>
+                    <w gl="they did"><m id="3977">kun</m><m id="4086">kúpha</m><m id="1369"
+                        >anik</m></w>, <w><m id="3219">ithâan</m></w>. </kar>
+                <eng>They did this way once.</eng>
+            </s>
+            <s spkr="CP" audio="LA78.1-008_1-2" audio-start-time="0:20">
+                <kar>
+                    <w gl="the god">
+                        <m id="4407">p</m>
+                        <m id="2252">eekxaréeyav</m>
+                    </w>
+                    <w>
+                        <m id="7074">yíchakanach</m>
+                    </w>
+                    <w>
+                        <m id="3930">koovúra</m>
+                    </w>
+                    <w gl="they come together">
+                        <m id="3977">kun</m>
+                        <m id="4521">pamfipishniháyaacha.</m>
+                    </w>
+                </kar>
+                <eng>The gods all gathered together.</eng>
+            </s>
+            <s spkr="CP" audio="LA78.1-008_1-3" audio-start-time="0:23">
+                <kar>
+                    <w gl="they gathered again"><m id="3977">kun</m><m id="4684">pavyíhishrih</m><m
+                            id="1369">anik</m></w>. </kar>
+                <eng>They had assembled.</eng>
+            </s>
+            <s spkr="CP" audio="LA78.1-008_1-4" audio-start-time="0:25">
+                <kar>
+                    <w><m id="3745">kári</m></w>
+                    <w><m id="6847">xás</m></w>
+                    <w gl="they think"><m id="3977">kun</m><m id="6939">xú</m><m id="6035"
+                        >tih</m></w>, "<w><m id="1144">chími</m></w>
+                    <w gl="we gamble"><m id="4370">nú</m><m id="3288">thtiit</m><m id="6648"
+                            >vunaa</m></w>." </kar>
+                <eng>And they thought, "Let's gamble."</eng>
+            </s>
+            <s spkr="CP" audio="LA78.1-008_1-5" audio-start-time="0:29">
+                <kar>
+                    <w><m id="6174">ta'ítam</m></w>
+                    <w gl="they gamble"><m id="3977">kun</m><m id="3288">íthtiit</m><m id="6648"
+                            >vunaa</m></w>. </kar>
+                <eng>So they gambled.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="CP" audio="LA78.1-008_1-6" audio-start-time="0:32">
+                <kar>
+                    <w><m id="4420">pâanpay</m></w>
+                    <w><m id="6383">vaa</m></w>
+                    <w><m id="5506">tá</m></w>
+                    <w gl="they do"><m id="3977">kun</m><m id="4086">kúupha</m></w>. </kar>
+                <eng>Finally they did this way.</eng>
+            </s>
+            <s spkr="CP" audio="LA78.1-008_1-7" audio-start-time="0:33">
+                <kar>
+                    <w gl="one side"><m id="411">ápap</m><m id="3731">kam</m></w>
+                    <w><m id="5506">tá</m></w>
+                    <w gl="they beat them"><m id="3843">kin</m><m id="1110">chífich</m></w>. </kar>
+                <eng>One side beat them (on the other side).</eng>
+            </s>
+            <s spkr="CP" audio="LA78.1-008_1-8" audio-start-time="0:36">
+                <kar>
+                    <w><m id="6675">vúra</m></w>
+                    <w><m id="3930">koovúra</m></w>
+                    <w><m id="5506">tá</m></w>
+                    <w gl="they win from"><m id="3977">kun</m><m id="4702">paxeep</m><m id="1021"
+                            >áyaachha</m></w>, <w gl="their possession"><m id="4407">pa</m><m
+                            id="4264">mukún</m><m id="6319">'uup</m></w>. </kar>
+                <eng>They won all their property from them.</eng>
+            </s>
+            <s spkr="CP" audio="LA78.1-008_1-9" audio-start-time="0:39">
+                <kar>
+                    <w><m id="6675">vúra</m></w>
+                    <w><m id="5506">tá</m></w>
+                    <w gl="they beat them"><m id="3843">kin</m><m id="1110">chífich</m></w>. </kar>
+                <eng>They beat them.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="CP" audio="LA78.1-008_1-10" audio-start-time="0:42">
+                <kar>
+                    <w gl="in a little while"><m id="6779">xánahich</m><m id="6444">vari</m></w>
+                    <w><m id="924">axmáy</m></w>
+                    <w gl="he arrives"><m id="6175">u</m><m id="205">'áhoo</m></w>, <w><m id="4782"
+                            >pihnêefich</m></w>. </kar>
+                <eng>In a little while, suddenly Coyote came.</eng>
+            </s>
+            <s spkr="CP" audio="LA78.1-008_1-11" audio-start-time="0:48">
+                <kar>
+                    <w><m id="6174">ta'ítam</m></w>
+                    <w gl="they dealt"><m id="3977">kun</m><m id="5694">tárih</m><m id="1378"
+                            >een</m></w>. </kar>
+                <eng>So they dealt him the "cards".</eng>
+            </s>
+            <s spkr="CP" audio="LA78.1-008_1-12" audio-start-time="0:52">
+                <kar>
+                    <w><m id="6847">xás</m></w>
+                    <w gl="he says"><m id="6175">u</m><m id="4823">piip</m></w>, "<w><m id="4299"
+                            >naa</m></w>
+                    <w><m id="6675">vúra</m></w>
+                    <w gl="my song"><m id="4364">nini</m><m id="4509">pákuri</m></w>
+                    <w gl="I will sing"><m id="4349">ni</m><m id="4511">pakúriihv</m><m id="1379"
+                            >eesh</m></w>, <w gl="when I shuffle"><m id="4408">pa</m><m id="4349"
+                            >ni</m><m id="1268">'éethkaanv</m><m id="1358">ahaak</m></w>." </kar>
+                <eng>And he said, "I'm going to sing my song as I shuffle the 'cards'."</eng>
+            </s>
+            <s spkr="CP" audio="LA78.1-008_1-13" audio-start-time="0:58">
+                <kar>
+                    <w><m id="6174">ta'ítam</m></w>
+                    <w gl="he shuffled"><m id="6175">u</m><m id="1268">'éethkaanva</m><m id="1378"
+                            >heen</m></w>. </kar>
+                <eng>So he shuffled the "cards".</eng>
+            </s>
+            <s spkr="CP" audio="LA78.1-008_1-14" audio-start-time="0:59">
+                <kar>
+                    <w><m id="6174">ta'ítam</m></w>
+                    <w gl="he sang"><m id="6175">u</m><m id="4511">pakurîihva</m><m id="1378"
+                            >heen</m></w>. </kar>
+                <eng>And he sang.</eng>
+            </s>
+            <s spkr="CP" audio="LA78.1-008_1-15" audio-start-time="1:03">
+                <kar>"<w>ayiyihanijanee</w>
+                    <w>hanijaaneeya</w>."</kar>
+                <eng>"ayiyihanijanee hanijaaneeya."</eng>
+				<note publish="yes">Bright: "Coyote's song consists of these meaningless syllables, repeated over and over. No significant pitch or stress can be determined for this sequence; the word-division which is written indicates the phrasing of the melody, rather than a juncture phoneme. The phone 'j,' which has not been found in any other Karuk material, is like that in English 'judge.'"</note>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="CP" audio="LA78.1-008_1-16" audio-start-time="1:46">
+                <kar>
+                    <w><m id="1096">chavúra</m></w>
+                    <w><m id="3930">koovúra</m></w>
+                    <w><m id="3515">ixráam</m></w>
+                    <w gl="he wins back"><m id="6175">u</m><m id="4907">pikyafipáyaachha</m></w>, <w
+                        gl="recently"><m id="4408">pa</m><m id="2671">'ípa</m></w>
+                    <w><m id="3905">kóo</m></w>
+                    <w gl="they won from them"><m id="3843">kin</m><m id="4702">páxeep</m><m
+                            id="738">at</m></w>. </kar>
+                <eng>Finally he won back all the stakes, as much as they had won away.</eng>
+            </s>
+            <s spkr="CP" audio="LA78.1-008_1-17" audio-start-time="1:49">
+                <kar>
+                    <w gl="the god"><m id="4407">p</m><m id="2252">eekxaréeyav</m></w>
+                    <w><m id="6675">vúra</m></w>
+                    <w><m id="3515">ixráam</m></w>
+                    <w gl="he wins back"><m id="6175">u</m><m id="4907">pikyafipáyaachha</m></w>. </kar>
+                <eng>He won back the stakes from the gods.</eng>
+            </s>
+            <s spkr="CP" audio="LA78.1-008_1-18" audio-start-time="1:52">
+                <kar>
+                    <w><m id="3745">kári</m></w>
+                    <w><m id="6847">xás</m></w>
+                    <w gl="he gets up"><m id="6175">u</m><m id="4406">p</m><m id="6613"
+                        >vôonsip</m></w>. </kar>
+                <eng>Then he got up.</eng>
+            </s>
+            <s spkr="CP" audio="LA78.1-008_1-19" audio-start-time="1:53">
+                <kar>
+                    <w><m id="6847">xás</m></w>
+                    <w><m id="6174">ta'ítam</m></w>
+                    <w gl="he went back"><m id="6175">u</m><m id="2690">'ípahoo</m><m id="1378"
+                            >heen</m></w>. </kar>
+                <eng>And he went on again.</eng>
+            </s>
+            <s spkr="CP" audio="LA78.1-008_1-20" audio-start-time="1:55">
+                <kar>
+                    <w><m id="5160">púya</m></w>
+                    <w><m id="6383">vaa</m></w>
+                    <w><m id="6675">vúra</m></w>
+                    <w><m id="3809">kich</m></w>. </kar>
+                <eng>So that's all.</eng>
+            </s>
+        </paragraph>
+    </data>
+</text>

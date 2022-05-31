@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="VS-16" audio-source="karuk-2010-07-23-ag-vs-3">
+  <metadata>
+    <title>Sentences: questions</title>
+    <author> Vina <alph>Smith</alph>
+    </author>
+    <date>2010</date>
+    <publication> Unpublished (recorded by Andrew Garrett on July 23, 2010) </publication>
+	<genre type="elicitation"/>
+  </metadata>
+  <data>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-3_01" audio-start-time="0:43">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1281">fâat</m>
+	  </w>
+	  <w gl="you are making">
+	    <m lemma="1418">i</m>
+	    <m lemma="2348">kyâa</m>
+	    <m lemma="6035">ti</m></w>?</txt>
+	<trans lang="eng">What are you making?</trans>
+<note>  faat teekyaati or faat ikyaati? </note>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-3_02" audio-start-time="1:08">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1281">fâat</m>
+	  </w>
+	  <w gl="you did make it">
+	    <m lemma="5506">t</m>
+	    <m lemma="1418">ee</m>
+	    <m lemma="2348">kyâa</m>
+	    <m lemma="6035">ti</m></w>?</txt>
+	<trans lang="eng">What did you make?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-3_03" audio-start-time="1:25">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1281">fâat</m>
+	  </w>
+	  <w gl="you will make">
+	    <m lemma="1418">i</m>
+	    <m lemma="2348">kyáv</m>
+	    <m lemma="1379">eesh</m></w>?</txt>
+	<trans lang="eng">What will you make?</trans>
+<note> faat teekyaveesh or faat ikyaveesh </note>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-3_04" audio-start-time="1:59">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1281">fâat</m>
+	  </w>
+	  <w gl="you will make">
+	    <m lemma="5506">t</m>
+	    <m lemma="1418">ee</m>
+	    <m lemma="2348">kyáv</m></w>?</txt>
+	<trans lang="eng">What did you make?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-3_05" audio-start-time="2:39">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1281">fâat</m>
+	  </w>
+	  <w gl="you are doing">
+	    <m lemma="1418">i</m>
+	    <m lemma="4007">kupavêenahi</m></w>?</txt>
+	<trans lang="eng">What are you doing?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-3_06" audio-start-time="4:25">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1281">fâat</m>
+	  </w>
+	  <w gl="kind of food">
+	    <m lemma="3970">kuma</m>
+	    <m lemma="815">'áv</m></w>?</txt>
+	<trans lang="eng">What kind of food is it?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-3_07" audio-start-time="4:53">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1281">fâat</m>
+	  </w>
+	  <w gl="kind of food">
+	    <m lemma="3970">kuma</m>
+	    <m lemma="815">'áv</m>
+	  </w>
+	  <w gl="that you will cook">
+	    <m lemma="4408">p</m>
+	    <m lemma="1418">ee</m>
+	    <m lemma="2465">mnísh</m>
+	    <m lemma="1379">eesh</m></w>?</txt>
+	<trans lang="eng">What kind of food are you gonna cook?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-3_08" audio-start-time="6:00">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1281">fâat</m>
+	  </w>
+	  <w gl="kind of car">
+	    <m lemma="3970">kum</m>
+	    <m lemma="3363">éethyura</m>
+	  </w>
+	  <w gl="that you will buy">
+	    <m lemma="4408">p</m>
+	    <m lemma="1418">ee</m>
+	    <m lemma="2178">kvárar</m>
+	    <m lemma="1379">eesh</m></w>?</txt>
+	<trans lang="eng">What kind of car are you gonna buy?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-3_09" audio-start-time="6:11">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1281">fâat</m>
+	  </w>
+	  <w gl="kind of boat">
+	    <m lemma="3970">kuma</m>
+	    <m lemma="4413">páah</m>
+	  </w>
+	  <w gl="that you will make">
+	    <m lemma="4408">p</m>
+	    <m lemma="1418">ee</m>
+	    <m lemma="2348">kyáv</m>
+	    <m lemma="1379">eesh</m></w>?</txt>
+	<trans lang="eng">What kind of boat are you gonna make?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-3_10" audio-start-time="6:32">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1281">fâat</m>
+	  </w>
+	  <w gl="kind of food">
+	    <m lemma="3970">kuma</m>
+	    <m lemma="815">'áva</m>
+	  </w>
+	  <w gl="that you like">
+	    <m lemma="4408">p</m>
+	    <m lemma="1418">ee</m>
+	    <m lemma="6580">víshtan</m>
+		<m lemma="6035">ti</m></w>?</txt>
+	<trans lang="eng">What kind of food do you like to eat?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-3_11" audio-start-time="7:37">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="30">áama</m>
+	  </w>
+	  <w gl="I will eat">
+	    <m lemma="4349">ni</m>
+	    <m lemma="814">'áv</m>
+	    <m lemma="1379">eesh</m></w>.</txt>
+	<trans lang="eng">I am going to eat salmon.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-3_12" audio-start-time="8:23">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1410">hûut</m>
+	  </w>
+	  <w>
+	    <m lemma="6307">uum</m>
+	  </w>
+	  <w gl="your boat">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4238">mí</m>
+	    <m lemma="4413">paah</m>
+	  </w>
+	  <w gl="you are making">
+	    <m lemma="1418">i</m>
+	    <m lemma="2348">kyâa</m>
+	    <m lemma="6035">ti</m></w>?</txt>
+	<trans lang="eng">How did you make your boat?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-3_13" audio-start-time="9:22">
+	<txt lang="kyh">
+	  <w gl="the salmon">
+	    <m lemma="4407">pa</m>
+	    <m lemma="30">'áama</m>
+	  </w>
+	  <w>
+	    <m lemma="1410">hûut</m>
+	  </w>
+	  <w gl="you are cooking it">
+	    <m lemma="1418">í</m>
+	    <m lemma="2465">mniish</m>
+	    <m lemma="6035">ti</m></w>?</txt>
+	<trans lang="eng">How do you cook your salmon?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-3_14" audio-start-time="14:39">
+	<txt lang="kyh">
+	  <w gl="the cat">
+	    <m lemma="4407">pa</m>
+	    <m lemma="5120">púsihich</m>
+	  </w>
+	  <w gl="in the tree">
+	    <m lemma="2682">ípah</m>
+	    <m lemma="232">ak</m>
+	  </w>
+	  <w>
+	    <m lemma="7273">á'</m>
+	  </w>
+	  <w gl="it sits">
+	    <m lemma="6175">ú</m>
+	    <m lemma="1974">krii</m></w>.</txt>
+	<trans lang="eng">The cat is in the tree.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-3_15" audio-start-time="16:46">
+	<txt lang="kyh">
+	  <w gl="the keys">
+	    <m lemma="4407">pa</m>
+	    <m lemma="3827">kihara</m>
+	  </w>
+	  <w>
+	    <m lemma="5145">pûuvish</m>
+	  </w>
+	  <w>
+	    <m lemma="5848">tháankurih</m></w>.</txt>
+	<trans lang="eng">Put the keys in the bag.</trans>
+      </s>
+    </paragraph>
+  </data>
+</text>

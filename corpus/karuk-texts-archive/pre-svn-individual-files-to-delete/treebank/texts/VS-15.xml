@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="VS-15" audio-source="karuk-2010-07-23-ag-vs-2">
+  <metadata>
+    <title>Sentences about animals, questions</title>
+    <author> Vina <alph>Smith</alph>
+    </author>
+    <date>2010</date>
+    <publication> Unpublished (recorded by Andrew Garrett on July 23, 2010) </publication>
+	<genre type="elicitation"/>
+  </metadata>
+  <data>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-2_01" audio-start-time="0:27">
+	<txt lang="kyh">
+	  <w gl="the pig">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4318">nákish</m>
+	  </w>
+	  <w>
+	    <m lemma="6307">uum</m>
+	  </w>
+	  <w>
+	    <m lemma="1003">axvíthirar</m></w>.</txt>
+	<trans lang="eng">The pig is dirty.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-2_02" audio-start-time="0:52">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1396">hôoy</m>
+	  </w>
+	  <w gl="the pig">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4318">nákish</m></w>?</txt>
+	<trans lang="eng">Where is the pig?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-2_03" audio-start-time="1:04">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1396">hôoy</m>
+	  </w>
+	  <w gl="the pig">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4326">nani</m>
+	    <m lemma="4318">nákish</m></w>?</txt>
+	<trans lang="eng">Where's my pig?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-2_04" audio-start-time="1:23">
+	<txt lang="kyh">
+	  <w gl="the pig">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4318">nákish</m>
+	  </w>
+	  <w gl="I have it">
+	    <m lemma="4349">ni</m>
+	    <m lemma="5916">thíina</m>
+	    <m lemma="6035">ti</m></w>.</txt>
+	<trans lang="eng">I have a pig.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-2_05" audio-start-time="2:33">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1175">chishíih</m>
+	  </w>
+	  <w gl="I have it">
+	    <m lemma="4349">ni</m>
+	    <m lemma="5916">thíina</m>
+	    <m lemma="6035">ti</m></w>.</txt>
+	<trans lang="eng">I have a dog.</trans>
+      </s>
+    </paragraph>
+  </data>
+</text>

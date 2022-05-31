@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-26">
+  <metadata>
+    <title>"Duck Hawk and His Wife"</title>
+    <author> Chester <alph>Pepper</alph></author>
+    <date>1957</date>
+    <publication>William Bright, <em>The Karok Language</em> (1957), pp. 220, Text 26</publication>
+  </metadata>
+  <data>
+    <paragraph>
+      <s> 
+	<kar>
+	  <w>
+	    <m id="6383">vaa</m>
+	  </w>
+	  <w gl="he did it">
+	    <m id="6175">u</m>
+	    <m id="4086">kúphaa</m>
+	    <m id="1369">nik</m>
+	  </w>
+	  <w>
+	    <m id="7274">á 'iknêechhan</m></w>.</kar>
+	<eng>Duck Hawk did this.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w>
+	    <m id="4385">ôok</m>
+	  </w>
+	  <w gl="his wife">
+	    <m id="4407">pa</m>
+	    <m id="4086">mu</m>
+	    <m id="1576">hrôoha</m>
+	  </w>
+	  <w gl="she lives">
+	    <m id="6175">ú</m>
+	    <m id="1974">krii</m></w>.</kar>
+	<eng>His wife lived here.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w>
+	    <m id="6847">xás</m>
+	  </w>
+	  <w>
+	    <m id="6096">tíshraam</m>
+	  </w>
+	  <w gl="he has a mistress">
+	    <m id="6175">u</m>
+	    <m id="1477">fmaanahîichva</m></w>.</kar>
+	<eng>And he had a mistress in Scott Valley.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w gl="he came back">
+	    <m id="5506">t</m>
+	    <m id="6175">u</m>
+	    <m id="2694">'ípak</m></w>.</kar>
+	<eng>He came back (from Scott Valley).</eng>
+      </s>
+      <s>
+	<kar>
+	  <w>
+	    <m id="6103">tishravará'iivreer</m>
+	  </w>
+	  <w>
+	    <m id="7040">yanéekva</m>
+	  </w>
+	  <w gl="his falls">
+	    <m id="4407">pa</m>
+	    <m id="4086">mu</m>
+	    <m id="1668">'îin</m>
+	  </w>
+	  <w gl="it is thundering">
+	    <m id="6175">u</m>
+	    <m id="5963">thivnúru</m>
+	    <m id="6035">tih</m></w>.</kar>
+	<eng>On Etna Mountain he heard his falls thundering (at Katimin).</eng>
+<note>not sure if the pa- is determiner or nominalizer; I took the sentence to mean 'he recognized that his falls were thundering.'-- evidentials are discourse</note>
+      </s>
+      <s>
+	<kar>
+	  <w>
+	    <m id="3969">kúkuum</m>
+	  </w>
+	  <w gl="he has">
+	    <m id="5506">t</m>
+	    <m id="6175">óo</m>
+	  </w>
+	  <w>
+	    <m id="2860">pvâaram</m></w>.</kar>
+	<eng>He was going home again.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w>
+	    <m id="7097">yítha</m>
+	  </w>
+	  <w gl="his child">
+	    <m id="4260">mú</m>
+	    <m id="511">'arama</m>
+	  </w>
+	  <w gl="he lives">
+	    <m id="6175">ú</m>
+	    <m id="1974">krii</m>
+	  </w>
+	  <w>
+	    <m id="3752">káru</m>
+	  </w>
+	  <w gl="his wife">
+	    <m id="4260">mu</m>
+	    <m id="1576">hrôoha</m></w>.</kar>
+	<eng>His one child and his wife lived there.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w>
+	    <m id="1493">ifuchtîimich</m>
+	  </w>
+	  <w gl="that he looked over his shoulder">
+	    <m id="4408">p</m>
+	    <m id="6175">oo</m>
+	    <m id="2674">p</m>
+	    <m id="3432">itvâavnuk</m>
+	    <m id="1369">anik</m>
+	  </w>
+	  <w>
+	    <m id="7038">yánava</m>
+	  </w>	  
+	  <w>
+	    <m id="5105">pura fátaak</m></w>.</kar>
+	<eng>The last time he looked over, (the falls) were nowhere to be seen.</eng>
+<note>WB has purafátaak listed as two words.</note>
+      </s>
+      <s>
+	<kar>
+	  <w gl="it is not thundering">
+	    <m id="5082">p</m>
+	    <m id="6175">u</m>
+	    <m id="5963">thivnúru</m>
+	    <m id="6035">tih</m>
+	    <m id="1371">ara</m>
+	  </w>
+	  <w gl="his falls">
+	    <m id="4407">pa</m>
+	    <m id="4260">mu</m>
+	    <m id="1668">'íin</m></w>.</kar>
+	<eng>His falls weren't thundering.</eng>
+<note>WB places acute accent on 'falls', not circumflex.</note>
+      </s>
+      <s>
+	<kar>
+	  <w>
+	    <m id="6847">xás</m>
+	  </w>
+	  <w gl="he is thinking">
+	    <m id="6175">u</m>
+	    <m id="6939">xú</m>
+	    <m id="6035">tih</m>
+	  </w>,
+	  "<w>
+	    <m id="5506">tá</m>
+	  </w>
+	  <w gl="she spoils me">
+	    <m id="4294">na</m>
+	    <m id="5825">tayvárarimka</m>
+	  </w>
+	  <w gl="my falls">
+	    <m id="4407">pa</m>
+	    <m id="4326">nani</m>
+	    <m id="1668">'íin</m></w>."</kar>
+	<eng>And he thought, "She's spoiled my falls."</eng>
+<note>WB places acute accent on 'falls', not circumflex.</note>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s>
+	<kar>
+	  <w>
+	    <m id="3745">kári</m>
+	  </w>
+	  <w>
+	    <m id="6847">xás</m>
+	  </w>
+	  <w gl="he goes back">
+	    <m id="6175">u</m>
+	    <m id="2860">pvâaram</m></w>.</kar>
+	<eng>So he went home.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w>
+	    <m id="4385">ôok</m>
+	  </w>
+	  <w gl="he came back">
+	    <m id="6175">u</m>
+	    <m id="2694">'ipak</m></w>.</kar>
+	<eng>He returned here.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w>
+	    <m id="6847">xás</m>
+	  </w>
+	  <w>
+	    <m id="652">aseeshtákak</m>
+	  </w>
+	  <w gl="when he looks over his shoulder">
+	    <m id="4408">p</m>
+	    <m id="6175">oo</m>
+	    <m id="2674">p</m>
+	    <m id="3432">itvâavnuk</m>
+	  </w>
+	  <w>
+	    <m id="4147">mâam</m>
+	  </w>
+	  <w>
+	    <m id="4717">páykuuk</m>
+	  </w>
+	  <w gl="he sees">
+	    <m id="6175">u</m>
+	    <m id="4155">mah</m>
+	  </w>,
+	  <w>
+	    <m id="5506">tá</m>
+	  </w>
+	  <w gl="they were climbing uphill">
+	    <m id="3977">kun</m>
+	    <m id="2674">p</m>
+	    <m id="1498">ífukraa</m>
+	  </w>
+	  <w gl="his child">
+	    <m id="4260">mú</m>
+	    <m id="511">'arama</m>
+	  </w>
+	  <w>
+	    <m id="6756">xákaan</m>
+</w>.</kar>
+	<eng>And when he looked over at aseeshtákak, he saw here right there uphill, she and her child were climbing uphill.</eng>
+<note>not sure about the climbing verb here- dictionary lists ífukuraa as 'pl. climb uphill', however WB lists verb as ifukraa.</note>
+      </s>
+      <s>
+	<kar>
+	  <w>
+	    <m id="6847">xás</m>
+	  </w>
+	  <w>
+	    <m id="6383">vaa</m>
+	  </w>
+	  <w>
+	    <m id="6675">vúra</m>
+	  </w>
+	  <w>
+	    <m id="3670">káan</m>
+	  </w>
+	  <w gl="he knelt down (on one knee)">
+	    <m id="6175">u</m>
+	    <m id="4630">pathakhíish</m></w>.</kar>
+	<eng>So he knelt down there.</eng>
+<note>WB puts acute accent on kneeling verb, however online dictionary has circumflex.</note>
+      </s>
+      <s>
+	<kar>
+	  <w>
+	    <m id="6847">xás</m>
+	  </w>
+	  <w>
+	    <m id="6174">ta'ítam</m>
+	  </w>
+	  <w gl="he shot her">
+	    <m id="6175">u</m>
+	    <m id="3995">kúniihka</m>
+	  </w>
+	  <w gl="his wife">
+	    <m id="4407">pa</m>
+	    <m id="4260">mu</m>
+	    <m id="1576">hrôoha</m></w>.</kar>
+	<eng>And he shot his wife.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w>
+	    <m id="5163">púyava</m>
+	  </w>
+	  <w>
+	    <m id="3670">káan</m>
+	  </w>
+	  <w gl="she rolls into a hollow">
+	    <m id="6175">u</m>
+	    <m id="5604">tákniihkurih</m></w>.</kar>
+	<eng>She rolled in (to a hollow) there.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w gl="she rolls around">
+	    <m id="6175">u</m>
+	    <m id="5606">tákniihvarayva</m></w>.</kar>
+	<eng>She rolled around.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w gl="so">
+	    <m id="6570">víri</m>
+	    <m id="6383">va</m>
+	  </w>
+	  <w>
+	    <m id="3971">kumá'ii</m>
+	  </w>
+	  <w gl="they are saying">
+	    <m id="3977">kun</m>
+	    <m id="2733">ípeen</m>
+	    <m id="6175">ti</m>
+	  </w>
+	  "<w>
+	    <m id="6982">xúux</m>
+	  </w>
+	  <w gl="her little rolling-place">
+	    <m id="4260">mu</m>
+	    <m id="2036">krivruh</m>
+	    <m id="6380">vá</m>
+	    <m id="5172">nam</m>
+	    <m id="1420">ich</m></w>."</kar>
+	<eng>For that reason they call it "xuux's little rolling-place."</eng>
+	<note publish="yes">Bright: "Duck Hawk's wife is here called xuux; this name designates an extinct and possibly only legendary animal, identified by some informants with the grizzly bear and by others with the African lion."</note>
+      </s>
+    </paragraph>
+    </data>
+</text>

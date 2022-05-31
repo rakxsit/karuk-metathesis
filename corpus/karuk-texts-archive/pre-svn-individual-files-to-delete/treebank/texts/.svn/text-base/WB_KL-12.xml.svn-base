@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-12">
+    <metadata>
+        <title>"Coyote Tries to Reach the Sun"</title>
+        <author>Chester <alph>Pepper</alph></author>
+        <date>1957</date>
+        <publication>William Bright, <em>The Karok Language</em> (1957), pp. 198-199, Text
+            12</publication>
+    </metadata>
+    <data>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6383">vaa</m></w>
+                    <w gl="he did"><m lemma="6175">u</m><m lemma="4086">kúpha</m><m lemma="1369">anik</m></w>
+                    <w><m lemma="4782">pihnêefich</m></w>
+                    <w><m lemma="6307">uum</m></w>. </txt>
+                <trans lang="eng">Coyote did this way.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="4147">mâam</m></w>
+                    <w gl="the sun"><m lemma="4407">pa</m><m lemma="4094">kúusra</m></w>
+                    <w gl="it rose"><m lemma="5506">t</m><m lemma="6175">u</m><m lemma="6450"
+                        >váruprav</m></w>. </txt>
+                <trans lang="eng">The sun rose just uphill.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w gl="he thinks"><m lemma="6175">u</m><m lemma="6939">xú</m><m lemma="6035">tih</m></w>,
+                        "<w gl="uphill from here"><m lemma="3940">ku</m><m lemma="4147">mâam</m></w>
+                    <w gl="it lives"><m lemma="6175">ú</m><m lemma="1974">krii</m></w>, <w gl="the sun"><m
+                            lemma="4407">pa</m><m lemma="4094">kúusrah</m></w>." </txt>
+                <trans lang="eng">He thought, "The sun is just uphill from here."</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w gl="he thinks"><m lemma="6175">u</m><m lemma="6939">xú</m><m lemma="6035">tih</m></w>,
+                            "<w><m lemma="6383">vaa</m></w>
+                    <w><m lemma="5506">tá</m></w>
+                    <w><m lemma="3670">káan</m></w>
+                    <w gl="it lives"><m lemma="6175">ú</m><m lemma="1974">krii</m></w>, <w gl="the sun"><m
+                            lemma="4407">pa</m><m lemma="4094">kúusrah</m></w>." </txt>
+                <trans lang="eng">He thought, "The sun's right there."</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w gl="when he climbed over"><m lemma="4408">p</m><m lemma="6175">oo</m><m lemma="1781"
+                            >kfúkuvraa</m></w>, <w><m lemma="7038">yánava</m></w>
+                    <w><m lemma="3343">ithyáruk</m></w>
+                    <w><m lemma="6847">xás</m></w>
+                    <w gl="it rose"><m lemma="5506">t</m><m lemma="6175">u</m><m lemma="6450"
+                        >váruprav</m></w>
+                    <w gl="the sun"><m lemma="4407">pa</m><m lemma="4094">kúusrah</m></w>. </txt>
+                <trans lang="eng">When he climbed up over (the ridge), he saw the sun was rising across (above
+                    the next ridge).</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="1096">chavúra</m></w>
+                    <w gl="he does not see"><m lemma="5082">pu</m><m lemma="4155">mah</m><m lemma="1371"
+                            >ára</m></w>, <w><m lemma="1396">hôoy</m></w>
+                    <w gl="it came from"><m lemma="4408">p</m><m lemma="6175">oo</m><m lemma="514"
+                            >'aramsîipriv</m><m lemma="6035">tih</m></w>. </txt>
+                <trans lang="eng">In the end he didn't find where it came from.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w gl="thus"><m lemma="6570">víri</m><m lemma="6377">va</m></w>
+                    <w><m lemma="4782">pihnêefich</m></w>
+                    <w gl="he did"><m lemma="6175">u</m><m lemma="4086">kúpha</m><m lemma="1369"
+                    >anik</m></w>. </txt>
+                <trans lang="eng">Coyote did that.</trans>
+            </s>
+        </paragraph>
+    </data>
+</text>

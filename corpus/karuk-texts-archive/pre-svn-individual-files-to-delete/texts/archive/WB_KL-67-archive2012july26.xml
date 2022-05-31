@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <text id="WB_KL-67">
+		<metadata>
+			<title>"A Quack Doctor"</title>
+			<author>Julia <alph>Starritt</alph></author>
+			<date>1957</date>
+			<publication>William Bright, <em>The Karok Language</em> (1957), pp. 280-281</publication>
+		</metadata>
+		<data>
+			<paragraph>
+				<s>
+					<kar>
+				<w>
+					<m id="1361">hâari</m>
+				</w>
+				<w gl="the Indian doctors">
+					<m id="4407">pa</m>
+					<m id="1232">'êem</m>
+				</w>
+				<w gl="they practice deception">
+					<m id="3977">kun</m>
+					<m id="4869">píkshaayvu</m>
+					<m id="6035">tih</m>
+				</w>.
+					</kar>
+					<eng>Sometimes the Indian doctors practice deception.</eng>
+				</s>
+				<s>
+					<kar>
+				<w>
+					<m id="3753">káruk</m>
+				</w>
+				<w>
+					<m id="7097">yítha</m>
+				</w>
+				<w gl="doctor">
+					<m id="6376">va</m>
+					<m id="1232">'êem</m>
+				</w>
+				<w gl="she took it away from her">
+					<m id="3977">kun</m>
+					<m id="1265">'êetheep</m>
+					<m id="1369">anik</m>
+				</w>
+				<w gl="her 'pain'">
+					<m id="4260">mu</m>
+					<m id="548">'arátaanva</m>
+				</w>
+				<w gl="the preacher">
+					<m id="4407">pa</m>
+					<m>preacher</m>
+				</w>
+				<w gl="his wife">
+					<m id="4260">mu</m>
+					<m id="1576">hrooha</m>
+					<m id="1670">'íin</m>
+				</w>.
+					</kar>
+					<eng>The preacher's wife took the 'pain' (disease object) away from a certain doctor upriver.</eng>
+				</s>
+				<s>
+					<kar>
+				<w gl="the preacher">
+					<m id="4407">pa</m>
+					<m>preacher</m>
+				</w>
+				<w gl="his wife">
+					<m id="4260">mu</m>
+					<m id="1576">hrôoha</m>
+				</w>
+				<w gl="she suspected her">
+					<m id="6175">u</m>
+					<m id="5908">thaxustâa</m>
+					<m id="1369">nik</m>
+				</w>
+				<w gl="the doctor">
+					<m id="4407">pa</m>
+					<m id="1232">'éem</m>
+				</w>.
+					</kar>
+					<eng>The preacher's wife suspected the doctor</eng>
+				</s>
+				<s>
+					<kar>
+				<w>
+					<m id="6847">xás</m>
+				</w>
+				<w>
+					<m id="4076">kúuk</m>
+				</w>
+				<w gl="she went">
+					<m id="6175">u</m>
+					<m id="6306">'úum</m>
+					<m id="1369">anik</m>
+				</w>
+				<w gl="the preacher">
+					<m id="4407">pa</m>
+					<m>preacher</m>
+				</w>
+				<w gl="his wife">
+					<m id="4260">mu</m>
+					<m id="1576">hrôoha</m>
+				</w>.
+					</kar>
+					<eng>So the preacher's wife went there</eng>
+				</s>
+				<s>
+					<kar>
+				<w>
+					<m id="6847">xás</m>
+				</w>
+				<w gl="she watched">
+					<m id="6175">ú</m>
+					<m id="2585">muustih</m>
+					<m id="1369">anik</m>
+				</w>
+				<w gl="as the doctor">
+					<m id="4408">pa</m>
+					<m id="1232">'êem</m>
+				</w>
+				<w gl="the person">
+					<m id="4407">pa</m>
+					<m id="505">'ára</m>
+				</w>
+				<w gl="she sucked disease out of him">
+					<m id="6175">u</m>
+					<m id="4673">patumkôo</m>
+					<m id="6035">tih</m>
+				</w>.
+					</kar>
+					<eng>And she watched as the doctor sucked a person</eng>
+				</s>
+				<s>
+					<kar>
+				<w>
+					<m id="6847">xás</m>
+				</w>
+				<w gl="the doctor">
+					<m id="4407">pa</m>
+					<m id="1232">'êem</m>
+				</w>
+				<w gl="wide belt">
+					<m id="5366">sichakvutvara</m>
+					<m id="6087">tíri</m>
+				</w>
+				<w gl="she was wearing a belt">
+					<m id="6175">u</m>
+					<m id="5365">síchakvutvu</m>
+					<m id="6035">tih</m>
+				</w>.
+					</kar>
+					<eng>And the doctor was wearing a wide belt around her waist</eng>
+				</s>
+				<s>
+					<kar>
+				<w>
+					<m id="6847">xás</m>
+				</w>
+				<w>
+					<m id="3745">kári</m>
+				</w>
+				<w gl="the preacher">
+					<m id="4407">pa</m>
+					<m>preacher</m>
+				</w>
+				<w gl="his wife">
+					<m id="4260">mu</m>
+					<m id="1576">hrôoha</m>
+				</w>
+				<w gl="she saw">
+					<m id="6175">u</m>
+					<m id="4155">máh</m>
+				</w>
+				<w>
+					<m id="1281">fâat</m>
+				</w>
+				<w gl="she took out">
+					<m id="5506">t</m>
+					<m id="6175">u</m>
+					<m id="6259">'úrishuk</m>
+				</w>
+				<w gl="out of the belt">
+					<m id="5366">sichakvutvara</m>
+					<m id="5478">súruk</m>
+				</w>.
+					</kar>
+					<eng>And the preacher's wife saw her take something out of the belt.</eng>
+				</s>
+				<s>
+					<kar>
+				<w>
+					<m id="6847">xás</m>
+				</w>
+				<w>
+					<m id="3745">kári</m>
+				</w>
+				<w gl="when she displayed it">
+					<m id="4408">p</m>
+					<m id="6175">oo</m>
+					<m id="3134">'íshupish</m>
+				</w>
+				<w gl="the 'pain'">
+					<m id="4407">pa</m>
+					<m id="548">'arátaanva</m>
+				</w>
+				<w>
+					<m id="6847">xás</m>
+				</w>
+				<w gl="the preacher">
+					<m id="4407">pa</m>
+					<m>preacher</m>
+				</w>
+				<w gl="his wife">
+					<m id="4260">mu</m>
+					<m id="1576">hrooha</m>
+					<m id="1670">'íin</m>
+				</w>
+				<w gl="she took it away from her">
+					<m id="3977">kun</m>
+					<m id="843">áveep</m>
+				</w>
+				<w gl="the 'pain'">
+					<m id="4407">pa</m>
+					<m id="548">'arátaanva</m>
+				</w>.
+					</kar>
+					<eng>So when (the doctor) displaying the 'pain,' then the preacher's wife took the pain away from her.</eng>
+				</s>
+				<s>
+					<kar>
+				<w>
+					<m id="7038">yánava</m>
+				</w>
+				<w gl="a little mouse">
+					<m id="5384">sít</m>
+					<m id="375">'anamahach</m>
+				</w>, 
+				<w>
+					<m id="918">axicheekyamíichvar</m>
+				</w>.
+					</kar>
+					<eng>She saw it was a little mouse, a children's toy</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+				<w>
+					<m id="1383">hínupa</m>
+				</w>
+				<w>
+					<m id="4715">páy</m>
+				</w>
+				<w>
+					<m id="6307">uum</m>
+				</w>
+				<w>
+					<m id="6381">vaa</m>
+				</w>
+				<w gl="she was making mischief">
+					<m id="6175">u</m>
+					<m id="4007">kupavêenahi</m>
+					<m id="6035">ti</m>
+				</w>
+				<w>
+					<m id="744">atahári</m>
+				</w>.
+					</kar>
+					<eng>There (the doctor) was doing that mischief all the time</eng>
+				</s>
+				<s>
+					<kar>
+				<w gl="she was deceiving them">
+					<m id="6175">u</m>
+					<m id="4872">pikshayvûunish</m>
+					<m id="6648">vunaa</m>
+					<m id="6035">ti</m>
+				</w>
+				<w gl="the Indians">
+					<m id="4407">pa</m>
+					<m id="506">'áraar</m>
+				</w>.
+					</kar>
+					<eng>She was deceiving the Indians.</eng>
+				</s>
+				<s>
+					<kar>
+				<w>
+					<m id="3758">káruma</m>
+				</w>
+				<w>
+					<m id="3409">itráhyar</m>
+				</w>
+				<w>
+					<m id="3752">káru</m>
+				</w>
+				<w>
+					<m id="3412">itrôop</m>
+				</w>
+				<w gl="she charged">
+					<m id="6175">ú</m>
+					<m id="3323">thvuuy</m>
+					<m id="6035">ti</m>
+				</w>
+				<w gl="for">
+					<m id="4408">pa</m>
+					<m id="4059">kúth</m>
+				</w>
+				<w>
+					<m id="505">ára</m>
+				</w>
+				<w gl="she sucked disease out of him">
+					<m id="6175">u</m>
+					<m id="4673">patumkôo</m>
+					<m id="6035">tih</m>
+				</w>.
+					</kar>
+					<eng>The fact was, she charged fifteen (dollars) for sucking a person</eng>
+				</s>
+			</paragraph>
+		</data>
+	</text>
+				
+				
+				
+				
+				
+					
+				
+					

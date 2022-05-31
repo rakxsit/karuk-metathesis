@@ -1,0 +1,188 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.4780045351473925 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription - words" 
+        xmin = 0 
+        xmax = 2.478004535147 
+        intervals: size = 8 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.13 
+            text = "" 
+        intervals [2]:
+            xmin = 0.13 
+            xmax = 0.5 
+            text = "haa" 
+        intervals [3]:
+            xmin = 0.5 
+            xmax = 0.8 
+            text = "vura" 
+        intervals [4]:
+            xmin = 0.8 
+            xmax = 0.8481116576625457 
+            text = "" 
+        intervals [5]:
+            xmin = 0.8481116576625457 
+            xmax = 1.26 
+            text = "puxich" 
+        intervals [6]:
+            xmin = 1.26 
+            xmax = 1.45 
+            text = "ta" 
+        intervals [7]:
+            xmin = 1.45 
+            xmax = 2.1 
+            text = "neexrah" 
+        intervals [8]:
+            xmin = 2.1 
+            xmax = 2.4780045351473925 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "transcription - phones" 
+        xmin = 0 
+        xmax = 2.478004535147 
+        intervals: size = 23 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.13 
+            text = "sil" 
+        intervals [2]:
+            xmin = 0.13 
+            xmax = 0.19 
+            text = "HH" 
+        intervals [3]:
+            xmin = 0.19 
+            xmax = 0.5 
+            text = "AA1" 
+        intervals [4]:
+            xmin = 0.5 
+            xmax = 0.53 
+            text = "V" 
+        intervals [5]:
+            xmin = 0.53 
+            xmax = 0.63 
+            text = "UH0" 
+        intervals [6]:
+            xmin = 0.63 
+            xmax = 0.67 
+            text = "R" 
+        intervals [7]:
+            xmin = 0.67 
+            xmax = 0.8 
+            text = "AH0" 
+        intervals [8]:
+            xmin = 0.8 
+            xmax = 0.8481116576625457 
+            text = "sp" 
+        intervals [9]:
+            xmin = 0.8481116576625457 
+            xmax = 0.8833636392824342 
+            text = "P" 
+        intervals [10]:
+            xmin = 0.8833636392824342 
+            xmax = 0.9059719072814311 
+            text = "UH0" 
+        intervals [11]:
+            xmin = 0.9059719072814311 
+            xmax = 1.0291133786848072 
+            text = "HH" 
+        intervals [12]:
+            xmin = 1.0291133786848072 
+            xmax = 1.1055454968312113 
+            text = "IH0" 
+        intervals [13]:
+            xmin = 1.1055454968312113 
+            xmax = 1.26 
+            text = "CH" 
+        intervals [14]:
+            xmin = 1.26 
+            xmax = 1.35 
+            text = "T" 
+        intervals [15]:
+            xmin = 1.35 
+            xmax = 1.45 
+            text = "AH0" 
+        intervals [16]:
+            xmin = 1.45 
+            xmax = 1.56 
+            text = "N" 
+        intervals [17]:
+            xmin = 1.56 
+            xmax = 1.72 
+            text = "EY1" 
+        intervals [18]:
+            xmin = 1.72 
+            xmax = 1.9 
+            text = "HH" 
+        intervals [19]:
+            xmin = 1.9 
+            xmax = 1.93 
+            text = "R" 
+        intervals [20]:
+            xmin = 1.93 
+            xmax = 2.07 
+            text = "AH0" 
+        intervals [21]:
+            xmin = 2.07 
+            xmax = 2.1 
+            text = "HH" 
+        intervals [22]:
+            xmin = 2.1 
+            xmax = 2.46 
+            text = "sp" 
+        intervals [23]:
+            xmin = 2.46 
+            xmax = 2.4780045351473925 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "targetseq" 
+        xmin = 0 
+        xmax = 2.478004535147 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.8833636392824342 
+            text = "" 
+        intervals [2]:
+            xmin = 0.8833636392824342 
+            xmax = 1.1055454968312113 
+            text = "uxi" 
+        intervals [3]:
+            xmin = 1.1055454968312113 
+            xmax = 2.4780045351473925 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "targetphone" 
+        xmin = 0 
+        xmax = 2.478004535147 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.8833636392824342 
+            text = "" 
+        intervals [2]:
+            xmin = 0.8833636392824342 
+            xmax = 0.9059719072814311 
+            text = "UH0" 
+        intervals [3]:
+            xmin = 0.9059719072814311 
+            xmax = 1.0291133786848072 
+            text = "HH" 
+        intervals [4]:
+            xmin = 1.0291133786848072 
+            xmax = 1.1055454968312113 
+            text = "IH0" 
+        intervals [5]:
+            xmin = 1.1055454968312113 
+            xmax = 2.4780045351473925 
+            text = "" 

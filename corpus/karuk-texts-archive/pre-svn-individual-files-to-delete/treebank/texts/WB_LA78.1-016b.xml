@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_LA78.1-016b">
+    <metadata>
+        <title>"Coyote and the Sun"</title>
+        <author>Chester <alph>Pepper</alph></author>
+        <date>1949</date>
+        <publication>Unpublished (recorded by William Bright, 1949)</publication>
+        <audio filename="LA78.1-016b"
+            sourcelink="http://cla.berkeley.edu/item/10145?tab=description">"Karok audio recordings" (1949), California Language Archive, Item LA 78, Segment 16</audio>
+		<note publish="yes">This text was recorded by William Bright without Karuk transcriptions or English
+			free translations. Free translations were provided by Vina Smith (2013).</note>
+    </metadata>
+    <data>
+      <paragraph>
+	<s spkr="CP" audio="LA78.1-016b_01" audio-start-time="0:06">
+	  <txt lang="kyh">
+	    <w>
+			<m lemma="4782">pihnêefich</m>
+		</w>
+	    <w>
+			<m lemma="6307">uum</m>
+		</w>
+	    <w gl="he did that">
+			<m lemma="6383">v</m>
+			<m lemma="6175">oo</m>
+			<m lemma="4086">kúphaa</m>
+			<m lemma="1369">nik</m>
+		</w>.
+	  </txt>
+	  <trans lang="eng">Coyote did that.</trans>
+	</s>
+	<s spkr="CP" audio="LA78.1-016b_02" audio-start-time="0:10">
+	  <txt lang="kyh">
+	    <w>
+			<m lemma="6383">vaa</m>
+		</w>
+	    <w gl="he was thinking">
+			<m lemma="6175">u</m>
+			<m lemma="6939">xú</m>
+			<m lemma="6035">ti</m>
+		</w>
+	    <w gl="the sun">
+			<m lemma="4407">pa</m>
+			<m lemma="4094">kuusrah</m>
+		</w>
+	    <w>
+			<m lemma="1396">hôoy</m>
+		</w>
+	    <w gl="it had been coming from">
+			<m lemma="5506">t</m>
+			<m lemma="6175">u</m>
+			<m lemma="514">'aramsîipriv</m>
+			<m lemma="6035">tih</m></w>.
+	  </txt>
+	  <trans lang="eng">He's wondering where the sun is coming from.</trans>
+	</s>
+	<s spkr="CP" audio="LA78.1-016b_03" audio-start-time="0:16">
+	  <txt lang="kyh">
+	    <w>
+			<m lemma="4147">mâam</m>
+		</w>
+	    <w gl="when it had become day">
+			<m lemma="4408">pa</m>
+			<m lemma="5506">t</m>
+			<m lemma="6175">u</m>
+			<m lemma="5469">súpaaha</m>
+		</w>
+	    <w>
+			<m lemma="4217">muruk</m>
+		</w>
+	    <w gl="he had">
+			<m lemma="5506">t</m>
+			<m lemma="6175">oo</m>
+		</w>
+		<w>
+			<m lemma="3406">trâa</w>
+		</w>
+	    <w gl="it had risen up">
+			<m lemma="5506">t</m>
+			<m lemma="6175">u</m>
+			<m lemma="6402">váasip</m>
+		</w>.
+	  </txt>
+	  <trans lang="eng">Tomorrow [?]</trans>
+	  <note>Unclear transcription</note>
+	</s>
+	<s spkr="CP" audio="LA78.1-016b_04" audio-start-time="0:20">
+	  <txt lang="kyh">
+	    <w gl="uphill from">
+			<m lemma="3970">ku</m>
+			<m lemma="4147">máam</m>
+		</w>
+	    <w>
+			<m lemma="6675">vura</m>
+		</w>
+	    <w>
+			<m lemma="1396">hôoy</m>
+		</w>
+	    <w gl="he said">
+			<m lemma="6175">u</m>
+			<m lemma="4823">piip</m>
+		</w>
+	    <w gl="when it starts out">
+			<m lemma="4408">p</m>
+			<m lemma="6175">oo</m>
+			<m lemma="552">'aram</m>
+			<m lemma="5379">sîip</m>
+		</w>
+	    <w>
+			<m lemma="6383">vaa</m>
+		</w><!-- last syllables ? maybe -hara? -->
+	    <w gl="it has risen up">
+			<m lemma="5506">t</m>
+			<m lemma="6175">u</m>
+			<m lemma="6402">váasip</m>
+		</w>.
+	  </txt>
+	  <trans lang="eng">He comes from somewhere up in the hills, back of [?].</trans>
+	</s>
+	<s spkr="CP" audio="LA78.1-016b_05" audio-start-time="0:26">
+	  <txt lang="kyh">
+	    <w>
+			<m lemma="6847">xás</m>
+		</w>
+	    <w gl="he was thinking">
+			<m lemma="6175">u</m>
+			<m lemma="6939">xú</m>
+			<m lemma="6035">tih</m>
+		</w>
+	    <w>
+			<m lemma="3857">kíri</m>
+		</w>
+	    <w>
+			<m lemma="6383">vaa</m>
+		</w>
+	    <w>
+			<m lemma="3670">káan</m>
+		</w>
+	    <w gl="I arrive">
+			<m lemma="4349">ni</m>
+			<m lemma="6306">'úum</m>
+		</w>,
+	    <w gl="where">
+			<m lemma="4408">pa</m>
+			<m lemma="3670">kaan</m>
+		</w>
+	    <w>
+			<m lemma="4094">kuusrah</m>
+		</w>
+	    <w>
+			<m lemma="1396">hôoy</m>
+		</w>
+	    <w gl="he is starting out">
+			<m lemma="6175">u</m>
+			<m lemma="514">'aramsiipriv</m>
+			<m lemma="6035">tih</m>
+		</w>.
+	  </txt>
+	  <trans lang="eng">He's thinking he wants to go there, where the sun comes from.</trans>
+	</s>
+	<s spkr="CP" audio="LA78.1-016b_06" audio-start-time="0:36">
+	  <txt lang="kyh">
+	    <w>
+			<m lemma="5627">táma</m>
+		</w>
+	    <w gl="he climbed up from downhill">
+			<m lemma="6175">u</m>
+			<m lemma="1786">kfuukrâa</m>
+			<m lemma="1378">heen</m>
+		</w>.
+	  </txt>
+	  <trans lang="eng">Then he went up the hill.</trans>
+	  <note>alternate gloss: 'He's climbing the hill now.'</note>
+	</s>
+	<s spkr="CP" audio="LA78.1-016b_07" audio-start-time="0:40">
+	  <txt lang="kyh">
+	    <w>
+			<m lemma="1096">chavura</m>
+		</w>
+	    <w>
+			<m lemma="6383">vaa</m>
+		</w>
+	    <w>
+			<m lemma="3670">kaan</m>
+		</w>
+	    <w>
+			<m lemma="6307">uum</m>
+		</w>
+	    <w>
+			<m lemma="4213">máruk</m>
+		</w>
+	    <w gl="he climbed over it">
+			<m lemma="6175">u</m>
+			<m lemma="1781">kfúkuvraa</m>
+		</w>.
+	  </txt>
+	  <trans lang="eng">Then he had gotten there, up on top of the hill.</trans>
+	</s>
+	<s spkr="CP" audio="LA78.1-016b_08" audio-start-time="0:43">
+	  <txt lang="kyh">
+	    <w>yee</w>
+	    <w>yaxa</w>
+	    <w>ithyaruk</w>
+	    <w>xás</w>
+	    <w>uváasip</w>
+	    <w>pakuusrah</w>.
+	  </txt>
+	  <trans lang="eng">[There was the sun coming up across from him.]</trans>
+	  <note> VS didn't know verb, so didn't provide translation. This translation by CS.</note>
+	</s>
+	<s spkr="CP" audio="LA78.1-016b_09" audio-start-time="0:48">
+	  <txt lang="kyh">
+	    <w>kúkuum</w>
+	    <w>vúra</w>
+	    <w>u'áhoo</w>.
+	  </txt>
+	  <trans lang="eng">Then he was walking again.</trans>
+	</s>
+	<s spkr="CP" audio="LA78.1-016b_10" audio-start-time="0:50">
+	  <txt lang="kyh">
+	    <w>kukuum</w>
+	    <w>vura</w>
+	    <w>vaa</w>
+	    <w>kaan</w>
+	    <w>u'uum</w>.
+	  </txt>
+	  <trans lang="eng">Then he got there again.</trans>
+	</s>
+	<s spkr="CP" audio="LA78.1-016b_11" audio-start-time="0:53">
+	  <txt lang="kyh">
+	    <w>kukuum</w>
+	    <w>ithyaruk</w>
+	    <w>xás</w>
+	    <w>tuváasip</w>
+	    <w>pakuusrah</w>.
+	  </txt>
+	  <trans lang="eng">The sun arrived there.</trans><note>probably: Again, the sun rose across from him.</note>
+	</s>
+	<s spkr="CP" audio="LA78.1-016b_12" audio-start-time="0:56">
+	  <txt lang="kyh">
+	    <w>payêem</w>
+	    <w>vura</w>
+	    <w>hooyva</w>
+	    <w>u'aramsîip</w>
+	    <w>too</w>
+	    <w>aapunmuti</w>
+	    <w>uxuti</w>
+	    <w>kumâam</w>
+	    <w>vura</w>
+	    <w>upiip</w><!-- ? -->
+	    <w>pooaramsiiprivtih</w>.
+	  </txt>
+	  <trans lang="eng">He's thinking, where did it come from, it comes from up in the hill, but he still doesn't know where it comes from.</trans>
+	</s>
+	<s spkr="CP" audio="LA78.1-016b_13" audio-start-time="1:01">
+	  <txt lang="kyh">
+	    <w>viriva</w>
+	    <w>pihnêefich</w>
+	    <w>ukúphaanik</w>.
+	  </txt>
+	  <trans lang="eng">Coyote did that.</trans>
+	</s>
+	<s spkr="CP" audio="LA78.1-016b_14" audio-start-time="1:04">
+	  <txt lang="kyh">
+	    <w>vaa</w>
+	    <w>vúra</w>
+	    <w>kich</w>
+	  </txt>
+	  <trans lang="eng">That's all.</trans>
+	</s>
+      </paragraph>
+    </data>
+</text>

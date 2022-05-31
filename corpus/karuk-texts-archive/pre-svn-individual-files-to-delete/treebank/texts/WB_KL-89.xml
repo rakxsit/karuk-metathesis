@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-89">
+    <metadata>
+        <title>"A Birthday Party"</title>
+        <author>Julia <alph>Starritt</alph></author>
+        <date>1957</date>
+        <publication>William Bright, <em>The Karok Language</em> (1957), pp. 302-303, Text
+            89</publication>
+    </metadata>
+    <data>
+        <paragraph>
+            <s>
+                <txt lang="kyh"><w><m language="english">Ramona</m></w>
+                    <w><m lemma="6307">uum</m></w>
+                    <w><m lemma="3789">kêeks</m></w>
+                    <w gl="she is making"><m lemma="6175">u</m><m lemma="2348">kyâa</m><m lemma="6035"
+                        >ti</m></w>
+                    <w><m lemma="4385">óok</m></w>.</txt>
+                <trans lang="eng">Ramona is here making a cake.</trans>
+            </s>
+            <s>
+                <txt lang="kyh"><w gl="her little girl"><m lemma="4407">pa</m><m lemma="4260">mu</m><m lemma="7063"
+                            >yeenipaxvúhich</m></w>
+                    <w><m language="english">Roberta</m></w>
+                    <w><m lemma="4716">payêem</m></w>
+                    <w gl="her birthday"><m lemma="4260">mú</m><m lemma="1693">'iipma</m></w>.</txt>
+                <trans lang="eng">Today is her little girl Roberta's birthday.</trans>
+            </s>
+            <s>
+                <txt lang="kyh"><w gl="eight years"><m lemma="4115">kuyrakinivkiha</m><m lemma="1373">hárinay</m></w>
+                    <w gl="PERF"><m lemma="5506">t</m><m lemma="6175">óo</m></w>
+                    <w><m lemma="1974">krii</m></w>.</txt>
+                <trans lang="eng">She's eight years (old).</trans>
+            </s>
+            <s>
+                <txt lang="kyh"><w><m lemma="3972">kúmateech</m></w>
+                    <w><m lemma="6848">xasík</m></w>
+                    <w gl="they will eat"><m lemma="4408">pa</m><m lemma="3977">kun</m><m lemma="814"
+                            >'áv</m><m lemma="1379">eesh</m></w>
+                    <w gl="her cake"><m lemma="4407">pa</m><m lemma="4260">mu</m><m lemma="3789"
+                        >kéeks</m></w>.</txt>
+                <trans lang="eng">Later today they will eat her cake.</trans>
+            </s>
+            <s>
+                <txt lang="kyh"><w><m lemma="6309">uumkun</m></w>
+                    <w><m lemma="6675">vúra</m></w>
+                    <w gl="just"><m lemma="3809">kích</m><m lemma="1379">eesh</m></w>.</txt>
+                <trans lang="eng">It will just be them (i.e., the family).</trans>
+            </s>
+            <s>
+                <txt lang="kyh"><w><m lemma="5156">puxích</m></w>
+                    <w><m lemma="3999">kúnish</m></w>
+                    <w gl="it's raining"><m lemma="6175">u</m><m lemma="4644">páthriih</m><m lemma="6035"
+                            >tih</m></w>, <w><m lemma="6570">víri</m></w>
+                    <w gl="they do not think"><m lemma="5082">pu</m><m lemma="6939">xú</m><m lemma="6035"
+                            >tih</m><m lemma="399">ap</m></w> "<w><m lemma="3857">kíri</m></w>
+                    <w gl="we say"><m lemma="4370">nu</m><m lemma="2733">pêer</m></w>
+                    <w gl="the children"><m lemma="4407">pa</m><m lemma="920">axíitich</m><m lemma="584"
+                            >as</m></w> ' <w><m lemma="4385">ôok</m></w>
+                    <w><m lemma="3927">kóova</m></w>
+                    <w gl="we eat"><m lemma="4370">nu</m><m lemma="814">'am</m></w>.'"</txt>
+                <trans lang="eng">It's sort of raining hard, so they don't want to ask the (neighbor's) children
+                    to eat here with them.</trans>
+				<note publish="yes">Bright: "Literally, 'so they don't think, 'Let's tell the children, 'Let's eat here together!'''."</note>
+            </s>
+        </paragraph>
+    </data>
+</text>

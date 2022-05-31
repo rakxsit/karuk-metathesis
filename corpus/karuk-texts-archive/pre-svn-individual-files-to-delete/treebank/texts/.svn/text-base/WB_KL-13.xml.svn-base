@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-13">
+    <metadata>
+        <title>"Coyote's Gambling Song"</title>
+        <author>Chester <alph>Pepper</alph></author>
+        <date>1957</date>
+        <publication>William Bright, <em>The Karok Language</em> (1957), pp. 198-201, Text
+            13</publication>
+        <audio filename="LA78.1-008_1"
+            sourcelink="http://cla.berkeley.edu/item/10145?tab=description">"Karok audio recordings" (1949), California Language Archive, Item LA 78, Segment 8</audio>
+		<note publish="yes">Bright: "The content of this story suggests that it is actually a medicine formula, to be recited by gamblers for good luck. It lacks, however, a closing remark to the effect that 'Mankind will do likewise,' which is a usual part of such formulas."</note>
+    </metadata>
+    <data>
+        <paragraph>
+            <s spkr="CP" audio="LA78.1-008_1-1" audio-start-time="0:18">
+                <txt lang="kyh">
+                    <w id="WB_KL-13:1" head="WB_KL-13:2" synrel="COMP">
+						<m lemma="6383">vaa</m>
+					</w>
+                    <w gl="they did" id="WB_KL-13:2" head="0" synrel="PRED">
+						<m lemma="3977">kun</m>
+						<m lemma="4086">kúpha</m>
+						<m lemma="1369">anik</m>
+					</w>, 
+					<w id="WB_KL-13:3" head="WB_KL-13:2" synrel="ADV">
+						<m lemma="3219">ithâan</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">They did this way once.</trans>
+            </s>
+            <s spkr="CP" audio="LA78.1-008_1-2" audio-start-time="0:20">
+                <txt lang="kyh">
+                    <w gl="the god" id="WB_KL-13:4">
+                        <m lemma="4407" id="WB_KL-13:5" head="WB_KL-13:4" synrel="ATR">p</m>
+                        <m lemma="2252">eekxaréeyav</m>
+                    </w>
+                    <w id="WB_KL-13:6" head="WB_KL-13:8" synrel="ADV">
+                        <m lemma="7074">yíchakanach</m>
+                    </w>
+                    <w id="WB_KL-13:7" head="WB_KL-13:4" synrel="ATR"><!-- head="WB_KL-13:8" synrel="ADV" -->
+                        <m lemma="3930">koovúra</m>
+                    </w>
+                    <w gl="they come together" id="WB_KL-13:8" head="0" synrel="PRED">
+                        <m lemma="3977">kun</m>
+                        <m lemma="4521">pamfipishniháyaacha.</m>
+                    </w>
+                </txt>
+                <trans lang="eng">The gods all gathered together.</trans>
+            </s>
+            <s spkr="CP" audio="LA78.1-008_1-3" audio-start-time="0:23">
+                <txt lang="kyh">
+                    <w gl="they gathered again" id="WB_KL-13:9" head="0" synrel="PRED">
+						<m lemma="3977">kun</m>
+						<m lemma="4684">pavyíhishrih</m>
+						<m lemma="1369">anik</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">They had assembled.</trans>
+            </s>
+            <s spkr="CP" audio="LA78.1-008_1-4" audio-start-time="0:25">
+                <txt lang="kyh">
+                    <w id="WB_KL-13:10" head="WB_KL-13:12" synrel="DIS">
+						<m lemma="3745">kári</m>
+					</w>
+                    <w id="WB_KL-13:11" head="WB_KL-13:12" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w gl="they think" id="WB_KL-13:12" head="0" synrel="PRED">
+						<m lemma="3977">kun</m>
+						<m lemma="6939">xú</m>
+						<m lemma="6035">tih</m>
+					</w>, "
+					<w id="WB_KL-13:13" head="WB_KL-13:14" synrel="TAM">
+						<m lemma="1144">chími</m>
+					</w>
+                    <w gl="we gamble" id="WB_KL-13:14" head="WB_KL-13:12" synrel="QUOT">
+						<m lemma="4370">nú</m>
+						<m lemma="3288">thtiit</m>
+						<m lemma="6648">vunaa</m>
+					</w>." 
+				</txt>
+                <trans lang="eng">And they thought, "Let's gamble."</trans>
+            </s>
+            <s spkr="CP" audio="LA78.1-008_1-5" audio-start-time="0:29">
+                <txt lang="kyh">
+                    <w id="WB_KL-13:15" head="WB_KL-13:16" synrel="TAM">
+						<m lemma="6174">ta'ítam</m>
+					</w>
+                    <w gl="they gamble" id="WB_KL-13:16" head="0" synrel="PRED">
+						<m lemma="3977">kun</m>
+						<m lemma="3288">íthtiit</m>
+						<m lemma="6648">vunaa</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">So they gambled.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="CP" audio="LA78.1-008_1-6" audio-start-time="0:32">
+                <txt lang="kyh">
+                    <w id="WB_KL-13:17" head="WB_KL-13:20" synrel="ADV">
+						<m lemma="4420">pâanpay</m>
+					</w>
+                    <w id="WB_KL-13:18" head="WB_KL-13:20" synrel="COMP">
+						<m lemma="6383">vaa</m>
+					</w>
+                    <w id="WB_KL-13:19" head="WB_KL-13:20" synrel="TAM">
+						<m lemma="5506">tá</m>
+					</w>
+                    <w gl="they do" id="WB_KL-13:20" head="0" synstat="PRED">
+						<m lemma="3977">kun</m>
+						<m lemma="4086">kúupha</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">Finally they did this way.</trans>
+            </s>
+            <s spkr="CP" audio="LA78.1-008_1-7" audio-start-time="0:33">
+                <txt lang="kyh">
+                    <w gl="one side" id="WB_KL-13:21" head="WB_KL-13:23" synrel="SBJ">
+						<m lemma="411">ápap</m>
+						<m lemma="3731">kam</m>
+					</w>
+                    <w id="WB_KL-13:22" head="WB_KL-13:23" synrel="TAM">
+						<m lemma="5506">tá</m>
+					</w>
+                    <w gl="they beat them" id="WB_KL-13:23" head="0" synrel="PRED">
+						<m lemma="3843">kin</m>
+						<m lemma="1110">chífich</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">One side beat them (on the other side).</trans>
+            </s>
+            <s spkr="CP" audio="LA78.1-008_1-8" audio-start-time="0:36">
+                <txt lang="kyh">
+                    <w id="WB_KL-13:24" head="WB_KL-13:27" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w id="WB_KL-13:25" head="WB_KL-13:28" synrel="ATR">
+						<m lemma="3930">koovúra</m>
+					</w>
+                    <w id="WB_KL-13:26" head="WB_KL-13:27" synrel="TAM">
+						<m lemma="5506">tá</m>
+					</w>
+                    <w gl="they win from" id="WB_KL-13:27" head="0" synrel="PRED">
+						<m lemma="3977">kun</m>
+						<m lemma="4702">paxeep</m>
+						<m lemma="1021">áyaachha</m>
+					</w>, 
+					<w gl="their possession" id="WB_KL-13:28" head="WB_KL-13:27" synrel="OBJ">
+						<m lemma="4407" id="WB_KL-13:29" head="WB_KL-13:28" synrel="ATR">pa</m>
+						<m lemma="4264">mukún</m>
+						<m lemma="6319">'uup</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">They won all their property from them.</trans>
+            </s>
+            <s spkr="CP" audio="LA78.1-008_1-9" audio-start-time="0:39">
+                <txt lang="kyh">
+                    <w id="WB_KL-13:30" head="WB_KL-13:32" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w id="WB_KL-13:31" head="WB_KL-13:32" synrel="TAM">
+						<m lemma="5506">tá</m>
+					</w>
+                    <w gl="they beat them" id="WB_KL-13:32" head="0" synrel="PRED">
+						<m lemma="3843">kin</m>
+						<m lemma="1110">chífich</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">They beat them.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="CP" audio="LA78.1-008_1-10" audio-start-time="0:42">
+                <txt lang="kyh">
+                    <w gl="in a little while" id="WB_KL-13:33" head="WB_KL-13:35" synrel="ADV">
+						<m lemma="6779">xánahich</m>
+						<m lemma="6444">vari</m>
+					</w>
+                    <w id="WB_KL-13:34" head="WB_KL-13:35" synrel="ADV">
+						<m lemma="924">axmáy</m>
+					</w>
+                    <w gl="he arrives" id="WB_KL-13:35" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="205">'áhoo</m>
+					</w>, 
+					<w id="WB_KL-13:36" head="WB_KL-13:35" synrel="SBJ">
+						<m lemma="4782">pihnêefich</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">In a little while, suddenly Coyote came.</trans>
+            </s>
+            <s spkr="CP" audio="LA78.1-008_1-11" audio-start-time="0:48">
+                <txt lang="kyh">
+                    <w id="WB_KL-13:36" head="WB_KL-13:37" synrel="TAM">
+						<m lemma="6174">ta'ítam</m>
+					</w>
+                    <w gl="they dealt" id="WB_KL-13:37" head="0" synrel="PRED">
+						<m lemma="3977">kun</m>
+						<m lemma="5694">tárih</m>
+						<m lemma="1378">een</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">So they dealt him the "cards".</trans>
+            </s>
+            <s spkr="CP" audio="LA78.1-008_1-12" audio-start-time="0:52">
+                <txt lang="kyh">
+                    <w id="WB_KL-13:38" head="WB_KL-13:39" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w gl="he says" id="WB_KL-13:39" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="4823">piip</m>
+					</w>, "
+					<w id="WB_KL-13:40" head="WB_KL-13:43" synrel="SBJ">
+						<m lemma="4299">naa</m>
+					</w>
+                    <w id="WB_KL-13:41" head="WB_KL-13:43" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w gl="my song" id="WB_KL-13:42" head="WB_KL-13:43" synrel="OBJ">
+						<m lemma="4364">nini</m>
+						<m lemma="4509">pákuri</m>
+					</w>
+                    <w gl="I will sing" id="WB_KL-13:43" head="WB_KL-13:39" synrel="QUOT">
+						<m lemma="4349">ni</m>
+						<m lemma="4511">pakúriihv</m>
+						<m lemma="1379">eesh</m>
+					</w>, 
+					<w gl="when I shuffle" id="WB_KL-13:44" head="WB_KL-13:43" synrel="ADV">
+						<m lemma="4408" id="WB_KL-13:45" head="WB_KL-13:44" synrel="SUB">pa</m>
+						<m lemma="4349">ni</m>
+						<m lemma="1268">'éethkaanv</m>
+						<m lemma="1358">ahaak</m>
+					</w>." 
+				</txt>
+                <trans lang="eng">And he said, "I'm going to sing my song as I shuffle the 'cards'."</trans>
+            </s>
+            <s spkr="CP" audio="LA78.1-008_1-13" audio-start-time="0:58">
+                <txt lang="kyh">
+                    <w id="WB_KL-13:46" head="WB_KL-13:47" synrel="TAM">
+						<m lemma="6174">ta'ítam</m>
+					</w>
+                    <w gl="he shuffled" id="WB_KL-13:47" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="1268">'éethkaanva</m>
+						<m lemma="1378">heen</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">So he shuffled the "cards".</trans>
+            </s>
+            <s spkr="CP" audio="LA78.1-008_1-14" audio-start-time="0:59">
+                <txt lang="kyh">
+                    <w id="WB_KL-13:48" head="WB_KL-13:49" synrel="TAM">
+						<m lemma="6174">ta'ítam</m>
+					</w>
+                    <w gl="he sang" id="WB_KL-13:49" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="4511">pakurîihva</m>
+						<m lemma="1378">heen</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">And he sang.</trans>
+            </s>
+            <s spkr="CP" audio="LA78.1-008_1-15" audio-start-time="1:03">
+                <txt lang="kyh">"<w id="WB_KL-13:50" head="0" synrel="SONG">ayiyihanijanee</w> <!-- or have no syntactic information for them -->
+                    <w id="WB_KL-13:51" head="0" synrel="SONG">hanijaaneeya</w>."</txt>
+                <trans lang="eng">"ayiyihanijanee hanijaaneeya."</trans>
+				<note publish="yes">Bright: "Coyote's song consists of these meaningless syllables, repeated over and over. No significant pitch or stress can be determined for this sequence; the word-division which is written indicates the phrasing of the melody, rather than a juncture phoneme. The phone 'j,' which has not been found in any other Karok material, is like that in English 'judge.'"</note>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="CP" audio="LA78.1-008_1-16" audio-start-time="1:46">
+                <txt lang="kyh">
+                    <w id="WB_KL-13:52" head="WB_KL-13:55" synrel="DIS">
+						<m lemma="1096">chavúra</m>
+					</w>
+                    <w id="WB_KL-13:53" head="WB_KL-13:54" synrel="ATR">
+						<m lemma="3930">koovúra</m>
+					</w>
+                    <w id="WB_KL-13:54" head="WB_KL-13:55" synrel="OBJ">
+						<m lemma="3515">ixráam</m>
+					</w>
+                    <w gl="he wins back" id="WB_KL-13:55" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="4907">pikyafipáyaachha</m>
+					</w>, 
+					<w gl="recently" id="WB_KL-13:56" head="WB_KL-13:59" synrel="TAM">
+						<m lemma="4408" id="WB_KL-13:57" head="WB_KL-13:59" synrel="SUB">pa</m>
+						<m lemma="2671">'ípa</m>
+					</w>
+                    <w id="WB_KL-13:58" head="WB_KL-13:59" synrel="ADV">
+						<m lemma="3905">kóo</m>
+					</w>
+                    <w gl="they won from them" id="WB_KL-13:59" head="WB_KL-13:55" synrel="ADV">
+						<m lemma="3843">kin</m>
+						<m lemma="4702">páxeep</m>
+						<m lemma="738">at</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">Finally he won back all the stakes, as much as they had won away.</trans>
+            </s>
+            <s spkr="CP" audio="LA78.1-008_1-17" audio-start-time="1:49">
+                <txt lang="kyh">
+                    <w gl="the god" id="WB_KL-13:60" head="WB_KL-13:64" synrel="IO">
+						<m lemma="4407" id="WB_KL-13:61" head="WB_KL-13:60" synrel="ATR">p</m>
+						<m lemma="2252">eekxaréeyav</m>
+					</w>
+                    <w id="WB_KL-13:62" head="WB_KL-13:64" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w id="WB_KL-13:63" head="WB_KL-13:64" synrel="OBJ">
+						<m lemma="3515">ixráam</m>
+					</w>
+                    <w gl="he wins back" id="WB_KL-13:64" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="4907">pikyafipáyaachha</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">He won back the stakes from the gods.</trans>
+            </s>
+            <s spkr="CP" audio="LA78.1-008_1-18" audio-start-time="1:52">
+                <txt lang="kyh">
+                    <w id="WB_KL-13:65" head="WB_KL-13:67" synrel="DIS">
+						<m lemma="3745">kári</m>
+					</w>
+                    <w id="WB_KL-13:66" head="WB_KL-13:67" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w gl="he gets up" id="WB_KL-13:67" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="4406">p</m>
+						<m lemma="6613">vôonsip</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">Then he got up.</trans>
+            </s>
+            <s spkr="CP" audio="LA78.1-008_1-19" audio-start-time="1:53">
+                <txt lang="kyh">
+                    <w id="WB_KL-13:68" head="WB_KL-13:70" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w id="WB_KL-13:69" head="WB_KL-13:70" synrel="TAM">
+						<m lemma="6174">ta'ítam</m>
+					</w>
+                    <w gl="he went back" id="WB_KL-13:70" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="2690">'ípahoo</m>
+						<m lemma="1378">heen</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">And he went on again.</trans>
+            </s>
+            <s spkr="CP" audio="LA78.1-008_1-20" audio-start-time="1:55">
+                <txt lang="kyh">
+                    <w id="WB_KL-13:71" head="WB_KL-13:74" synrel="DIS">
+						<m lemma="5160">púya</m>
+					</w>
+                    <w id="WB_KL-13:72" head="WB_KL-13:74" synrel="SBJ">
+						<m lemma="6381">vaa</m>
+					</w>
+                    <w id="WB_KL-13:73" head="WB_KL-13:74" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w id="WB_KL-13:74" head="0" synrel="PRED">
+						<m lemma="3809">kich</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">So that's all.</trans>
+            </s>
+        </paragraph>
+    </data>
+</text>

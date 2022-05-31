@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-91">
+    <metadata>
+        <title>"A Blow-out"</title>
+        <author>Julia <alph>Starritt</alph></author>
+        <date>1957</date>
+        <publication>William Bright, <em>The Karok Language</em> (1957), pp. 304-305, Text
+            91</publication>
+		<note publish="yes">Bright: "This is an experience of another person, retold in the first person by the informant."</note>
+    </metadata>
+    <data>
+        <paragraph>
+            <s>
+                <kar><w><m id="3753">káruk</m></w>
+                    <w><m id="2671">íp</m></w>
+                    <w gl="I was going around"><m id="4349">ni</m><m id="1521">fyúku</m><m id="6035"
+                            >tih</m><m id="738">at</m></w>
+                    <w><m id="3211">ítam</m></w>.</kar>
+                <eng>Earlier today I was going around upriver.</eng>
+            </s>
+            <s>
+                <kar><w><m id="6847">xás</m></w>
+                    <w><m id="2861">ipvárakirak</m></w>
+                    <w gl="my car"><m id="4407">pa</m><m id="4364">nini</m><m id="210"
+                        >'ahtákni</m></w>
+                    <w gl="its shoe"><m id="4407">pa</m><m id="4260">mu</m><m id="7154"
+                        >yukúku</m></w>
+                    <w><m id="2671">íp</m></w>
+                    <w gl="it burst"><m id="6175">u</m><m id="4230">mátnuus</m><m id="738"
+                        >at</m></w>.</kar>
+                <eng>And on the way back down from upriver, my tire burst.</eng>
+            </s>
+            <s>
+                <kar><w><m id="6570">víri</m></w>
+                    <w><m id="3747">kárivari</m></w>
+                    <w><m id="3670">káan</m></w>
+                    <w gl="it sits"><m id="6175">u</m><m id="5845">tháaniv</m></w>.</kar>
+                <eng>(The car) is still sitting there.</eng>
+            </s>
+            <s>
+                <kar><w><m id="6570">víri</m></w>
+                    <w><m id="4738">peenvári</m></w>
+                    <w><m id="4716">payêem</m></w>
+                    <w gl="he is fixing it"><m id="6175">u</m><m id="4908">pikyâa</m><m id="6035"
+                            >tih</m></w>.</kar>
+                <eng>Ben Wilder is fixing it now.</eng>
+            </s>
+            <s>
+                <kar><w><m id="5163">púyava</m></w>
+                    <w gl="when I go back across river"><m id="4408">pa</m><m id="4349">ni</m><m
+                            id="2771">pkára</m><m id="1358">haak</m></w>
+                    <w><m id="4716">payêem</m></w>
+                    <w><m id="3753">káruk</m></w>
+                    <w><m id="3978">kúna</m></w>
+                    <w gl="I will go upriver"><m id="4349">ni</m><m id="567">'árihroov</m><m
+                            id="2937">ish</m></w>, <w gl="I will go drive back"><m id="4349"
+                            >ni</m><m id="4406">p</m><m id="5597">takníhar</m><m id="1379"
+                        >eesh</m></w>.</kar>
+                <eng>When I go back across-river now, I'll go upriver, I'll go drive back.</eng>
+            </s>
+        </paragraph>
+    </data>
+</text>

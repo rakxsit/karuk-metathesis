@@ -1,0 +1,124 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.00000000000000000000
+xmax = 1.15283446712018133873
+tiers? <exists>
+size = 4
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "transcription - words"
+        xmin = 0.000000000000
+        xmax = 1.152834467120
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0.00000000000000000000
+            xmax = 0.08999999999999999667
+            text = ""
+        intervals [2]:
+            xmin = 0.08999999999999999667
+            xmax = 0.50000000000000000000
+            text = "iikam"
+        intervals [3]:
+            xmin = 0.50000000000000000000
+            xmax = 0.93999999999999994671
+            text = "ukrii"
+        intervals [4]:
+            xmin = 0.93999999999999994671
+            xmax = 1.15283446712018133873
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "transcription - phones"
+        xmin = 0.000000000000
+        xmax = 1.152834467120
+        intervals: size = 11
+        intervals [1]:
+            xmin = 0.00000000000000000000
+            xmax = 0.08999999999999999667
+            text = "sil"
+        intervals [2]:
+            xmin = 0.08999999999999999667
+            xmax = 0.30999999999999999778
+            text = "IY1"
+        intervals [3]:
+            xmin = 0.30999999999999999778
+            xmax = 0.36999999999999999556
+            text = "K"
+        intervals [4]:
+            xmin = 0.36999999999999999556
+            xmax = 0.41999999999999998446
+            text = "AH0"
+        intervals [5]:
+            xmin = 0.41999999999999998446
+            xmax = 0.50000000000000000000
+            text = "M"
+        intervals [6]:
+            xmin = 0.50000000000000000000
+            xmax = 0.56000000000000005329
+            text = "UH0"
+        intervals [7]:
+            xmin = 0.56000000000000005329
+            xmax = 0.69999999999999995559
+            text = "K"
+        intervals [8]:
+            xmin = 0.69999999999999995559
+            xmax = 0.81999999999999995115
+            text = "R"
+        intervals [9]:
+            xmin = 0.81999999999999995115
+            xmax = 0.93999999999999994671
+            text = "IY1"
+        intervals [10]:
+            xmin = 0.93999999999999994671
+            xmax = 1.12999999999999989342
+            text = "sp"
+        intervals [11]:
+            xmin = 1.12999999999999989342
+            xmax = 1.15283446712018133873
+            text = ""
+    item [3]:
+        class = "IntervalTier"
+        name = ""
+        xmin = 0.000000000000
+        xmax = 1.152834467120
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.00000000000000000000
+            xmax = 0.08999999999999999667
+            text = ""
+        intervals [2]:
+            xmin = 0.08999999999999999667
+            xmax = 0.41999999999999998446
+            text = "iika"
+        intervals [3]:
+            xmin = 0.41999999999999998446
+            xmax = 1.15283446712018133873
+            text = ""
+    item [4]:
+        class = "IntervalTier"
+        name = ""
+        xmin = 0.000000000000
+        xmax = 1.152834467120
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0.00000000000000000000
+            xmax = 0.08999999999999999667
+            text = ""
+        intervals [2]:
+            xmin = 0.08999999999999999667
+            xmax = 0.30999999999999999778
+            text = "IY1"
+        intervals [3]:
+            xmin = 0.30999999999999999778
+            xmax = 0.36999999999999999556
+            text = "K"
+        intervals [4]:
+            xmin = 0.36999999999999999556
+            xmax = 0.41999999999999998446
+            text = "AH0"
+        intervals [5]:
+            xmin = 0.41999999999999998446
+            xmax = 1.15283446712018133873
+            text = ""

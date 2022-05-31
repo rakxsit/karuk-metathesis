@@ -1,0 +1,397 @@
+<text id="SD-VS-02" audio-source="karuk-2010-10-25-sd-vs-2">
+    <metadata>
+        <title>Elicited sentences</title>
+        <author>Sonny <alph>Davis</alph> and Vina Smith</author>
+        <date>2010</date>
+        <publication>Unpublished (recorded by Andrew Garrett and Line Mikkelsen on October 25,
+            2010)</publication>
+    </metadata>
+    <data>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_01" audio-start-time="7:10">
+                <kar>
+                    <w><m language="english">Medford</m></w>
+                    <w><m id="1144">chími</m></w>
+                    <w gl="I am going to go"><m id="4349">ni</m><m id="6396">vâaram</m><m id="1379"
+                            >eesh</m></w>.</kar>
+                <eng>I am going to go to Medford.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_02" audio-start-time="7:41">
+                <kar>
+                    <w gl="I am going to buy"><m id="4349">ní</m><m id="2176">kvaar</m><m id="1379"
+                            >eesh</m></w>
+                    <w><m id="6307">uum</m></w>
+                    <w gl="the car"><m id="4407">pa</m><m id="3363">thyur</m></w>. </kar>
+                <eng>I am going to buy a car.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_03" audio-start-time="7:45">
+                <kar>
+                    <w gl="I am going to buy"><m id="4349">ní</m><m id="2176">kvaar</m><m id="1379"
+                            >eesh</m></w>
+                    <w gl="the car"><m id="4407">pa</m><m id="3363">thyur</m></w>.</kar>
+                <eng>I'm going to buy a car.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-10-25-sd-vs-2_04" audio-start-time="8:04">
+                <kar>
+                    <w gl="the car"><m id="4407">pee</m><m id="3363">thyur</m></w>
+                    <w gl="I am going to buy"><m id="4349">ní</m><m id="2176">kvaar</m><m id="1379"
+                            >eesh</m></w>. </kar>
+                <eng>I am going to buy a car.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-10-25-sd-vs-2_05" audio-start-time="8:33">
+                <kar>
+                    <w><m id="3363">ithyuru</m></w>
+                    <w gl="I am going to buy"><m id="4349">ní</m><m id="2176">kvaar</m><m id="1379"
+                            >eesh</m></w>. </kar>
+                <eng>I am going to buy a car.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_06" audio-start-time="8:59">
+                <kar>
+                    <w gl="I am going to buy"><m id="4349">ní</m><m id="2176">kvaar</m><m id="1379"
+                            >eesh</m></w>
+                    <w>Medford</w>
+                    <w gl="the car"><m id="4407">pa</m><m id="3363">thyuru</m></w>
+                    <w><m id="1144">chími</m></w>
+                    <w gl="I am going to buy"><m id="4349">ní</m><m id="2176">kvaar</m><m id="1379"
+                            >eesh</m></w>. </kar>
+                <eng>I am going to Medford to buy a car.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_07" audio-start-time="9:39">
+                <kar>
+                    <w gl="I am going to look at"><m id="4349">ní</m><m id="2585">muustih</m><m
+                            id="1379">eesh</m></w>
+                    <w gl="the car"><m id="4407">pa</m><m id="3363">thyur</m></w>
+                    <w><m id="3752">káru</m></w>. </kar>
+                <eng>I am also going to look at a car.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-10-25-sd-vs-2_08" audio-start-time="11:17">
+                <kar>
+                    <w>Medford</w>
+                    <w gl="I am going to go"><m id="4349">ni</m><m id="6396">vâaram</m><m id="1379"
+                            >eesh</m></w>
+                    <w><m id="3363">ithyuru</m></w>
+                    <w gl="I am going to buy"><m id="4349">ní</m><m id="2176">kvaar</m><m id="1379"
+                            >eesh</m></w>. </kar>
+                <eng>I am going to Medford to buy a car.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_09" audio-start-time="13:19">
+                <kar>
+                    <w gl="I am driving"><m id="4349">ni</m><m id="3378">thyurí</m><m id="6035"
+                            >tih</m></w>
+                    <w gl="my car"><m id="4407">pa</m><m id="4326">naní</m><m id="3363"
+                        >thyur</m></w>.</kar>
+                <eng>I am driving my car.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-10-25-sd-vs-2_10" audio-start-time="13:36">
+                <kar>
+                    <w gl="I am driving"><m id="4349">ni</m><m id="3378">thyíru</m><m id="6035"
+                            >tih</m></w>
+                    <w gl="the car"><m id="4407">pee</m><m id="3363">thyur</m></w>.</kar>
+                <eng>I am driving the car.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-10-25-sd-vs-2_11" audio-start-time="15:09">
+                <kar>
+                    <w>Medford</w>
+                    <w gl="I am going to go"><m id="4349">ni</m><m id="6396">vâaram</m><m id="1379"
+                            >eesh</m></w>
+                    <w><m id="6381">vaa</m></w>
+                    <w><m id="3670">káan</m></w>
+                    <w gl="my sister"><m id="4407">pa</m><m id="4326">nani</m><m id="4046"
+                            >kústaan</m></w>
+                    <w gl="she lives"><m id="6175">ú</m><m id="1974">krii</m></w>. </kar>
+                <eng>I am going to Medford because my sister lives there.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-10-25-sd-vs-2_12" audio-start-time="15:41">
+                <kar>
+                    <w gl="the dog"><m id="4407">pa</m><m id="1175">chishíih</m></w>
+                    <w gl="he has">tóo<m id="5506">t</m><m id="6175">oo</m></w>
+                    <w gl="come back inside"><m id="2674">p</m><m id="6606">vôonfuruk</m></w>.</kar>
+                <eng>The dog came back inside.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-10-25-sd-vs-2_13" audio-start-time="15:49">
+                <kar>
+                    <w gl="he has">
+                        <m id="5506">t</m>
+                        <m id="6175">óo</m>
+                    </w>
+                    <w><m id="6924">xúrih</m>.</w>
+                </kar>
+                <eng>He's hungry.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_14" audio-start-time="16:02">
+                <kar>
+                    <w gl="he has">
+                        <m id="5506">t</m>
+                        <m id="6175">óo</m>
+                    </w>
+                    <w>
+                        <m id="6924">xúrih</m>
+                    </w>
+                </kar>
+                <eng>He's hungry.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-10-25-sd-vs-2_15" audio-start-time="16:04">
+                <kar>
+                    <w>
+                        <m id="6307">uum</m>
+                    </w>
+                    <w gl="he has">
+                        <m id="5506">t</m>
+                        <m id="6175">óo</m>
+                    </w>
+                    <w>
+                        <m id="6924">xúrih</m>
+                    </w>
+                </kar>
+                <eng>He's hungry.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_16" audio-start-time="18:16">
+                <kar>
+                    <w><m id="5135">púufich</m></w>
+                    <w><m id="1649">îikam</m></w>.</kar>
+                <eng>There is a deer outside.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_17" audio-start-time="18:32">
+                <kar>
+                    <w><m id="7055">yáxa</m></w>
+                    <w gl="the deer"><m id="4407">pa</m><m id="5135">púufich</m></w>
+                    <w><m id="1649">îikam</m></w>.</kar>
+                <eng>Look at the deer outside.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_18" audio-start-time="20:02">
+                <kar>
+                    <w gl="the deer"><m id="4407">pa</m><m id="5135">púufich</m></w>
+                    <w><m id="1671">îinaak</m></w>
+                    <w gl="it has come inside"><m id="5506">t</m><m id="6175">u</m><m id="6606"
+                            >vôonfuruk</m></w>.</kar>
+                <eng>The deer came inside.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-10-25-sd-vs-2_19" audio-start-time="20:17">
+                <kar>
+                    <w gl="the deer"><m id="4407">pa</m><m id="5135">púufich</m></w>
+                    <w><m id="1671">îinaak</m></w>
+                    <w gl="it has come inside"><m id="5506">t</m><m id="6175">u</m><m id="6606"
+                            >vôonfuruk</m></w>.</kar>
+                <eng>The deer came inside.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_20" audio-start-time="21:10">
+                <kar>
+                    <w><m id="1192">chôora</m></w>
+                    <w gl="up the hill"><m id="3940">ku</m><m id="4147">mâam</m></w>.</kar>
+                <eng>Lets go uphill!</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-10-25-sd-vs-2_21" audio-start-time="21:26">
+                <kar>
+                    <w gl="up the hill"><m id="3940">ku</m><m id="4147">mâam</m></w>
+                    <w gl="we go"><m id="4370">nú</m><m id="3496">vyiiship</m></w>.</kar>
+                <eng>Lets go uphill.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-10-25-sd-vs-2_22" audio-start-time="22:14">
+                <kar>
+                    <w><m id="2766">ipít</m></w>
+                    <w gl="uphill"><m id="3940">ku</m><m id="4147">mâam</m></w>
+                    <w gl="we go"><m id="4370">nú</m><m id="3496">vyiishipriv</m></w>. </kar>
+                <eng>Yesterday we went up the hill.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_23" audio-start-time="25:09">
+                <kar>
+                    <w gl="up the hill"><m id="3940">ku</m><m id="4147">mâam</m></w>
+                    <w><m id="5506">tá</m></w>
+                    <w gl="I got"><m id="4349">ni</m><m id="560">'árihish</m></w>.</kar>
+                <eng>I made it to the top of the hill.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_24" audio-start-time="26:23">
+                <kar>
+                    <w gl="downhill"><m id="3940">ku</m><m id="5207">sâam</m></w>
+                    <w gl="our garden"><m id="4407"/>pa<m id="4327">nanu</m><m id="6207"
+                        >úhthaam</m></w>.</kar>
+                <eng>Our garden is down the hill.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_25" audio-start-time="28:41">
+                <kar>
+                    <w><m id="3669">kâam</m></w>
+                    <w><m id="6307">uum</m></w>
+                    <w>Chester</w>
+                    <w gl="he lives"><m id="4408">pa</m><m id="6175">'u</m><m id="1974">kriiv</m><m
+                            id="6035">tih</m></w>.</kar>
+                <eng>Chester lives up the river a little ways.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-10-25-sd-vs-2_26" audio-start-time="29:15">
+                <kar>
+                    <w><m id="3669">kâam</m></w>
+                    <w gl="the deer"><m id="4407">pa</m><m id="5135">púufich</m></w>
+                    <w><m id="5506">tá</m></w>
+                    <w gl="I see"><m id="4349">ni</m><m id="4155">mah</m></w>.</kar>
+                <eng>I see the deer up the river.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_27" audio-start-time="29:55">
+                <kar>
+                    <w><m id="3735">káruk</m></w>
+                    <w><m id="5506">tá</m></w>
+                    <w gl="I go"><m id="4349">ni</m><m id="6396">vâaram</m></w>
+                    <w><m id="3735">káruk</m></w>
+                    <w gl="its person"><m id="6376">va</m><m id="506">árara</m><m id="584">s</m></w>
+                    <w><m id="5506">tá</m></w>
+                    <w gl="I am going to see"><m id="4349">ní</m><m id="2570">muus</m><m id="6035"
+                            >tih</m><m id="1379">eesh</m></w>. </kar>
+                <eng>I'm going upriver and I'll see someone (an Indian person) upriver.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_28" audio-start-time="30:06">
+                <kar>
+                    <w><m id="3735">káruk</m></w>
+                    <w gl="its person"><m id="6376">va</m><m id="506">árara</m></w>
+                    <w gl="I am going to see"><m id="4349">ní</m><m id="2570">muus</m><m id="6035"
+                            >tih</m><m id="1379">eesh</m></w>.</kar>
+                <eng>I am going to see a person who lives upriver.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_29" audio-start-time="30:56">
+                <kar>
+                    <w><m id="5506">tá</m></w>
+                    <w gl="I go back"><m id="4349">ni</m><m id="2860">pvâaram</m></w>.</kar>
+                <eng>I went back.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_30" audio-start-time="31:02">
+                <kar>
+                    <w gl="I'm going to go"><m id="4349">ni</m><m id="6396">vâaram</m><m id="1379"
+                            >eesh</m></w>.</kar>
+                <eng>I'm going to go.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_32" audio-start-time="34:27">
+                <kar>
+                    <w><m id="7233">yûum</m></w>
+                    <w><m id="5506">tá</m></w>
+                    <w gl="I see"><m id="4349">ni</m><m id="4155">mah</m></w>
+                    <w gl="the deer"><m id="4407">pa</m><m id="5135">púufich</m></w>.</kar>
+                <eng>I saw a deer downriver.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-10-25-sd-vs-2_33" audio-start-time="34:56">
+                <kar>
+                    <w><m id="7233">yûum</m></w>
+                    <w><m id="5135">púufich</m></w>
+                    <w><m id="5506">tá</m></w>
+                    <w gl="I see"><m id="4349">ni</m><m id="4155">mah</m></w>.</kar>
+                <eng>I saw a deer downriver.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_34" audio-start-time="35:20">
+                <kar>
+                    <w><m id="3343">ithyáruk</m></w>
+                    <w gl="the deer"><m id="4407">pa</m><m id="5135">púufich</m></w>
+                    <w><m id="5506">tá</m></w>
+                    <w gl="I see"><m id="4349">ni</m><m id="4155">mah</m></w>.</kar>
+                <eng>I see a deer across the river.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-10-25-sd-vs-2_35" audio-start-time="35:39">
+                <kar>
+                    <w><m id="3343">ithyáruk</m></w>
+                    <w><m id="5506">tá</m></w>
+                    <w gl="I see"><m id="4349">ni</m><m id="4155">mah</m></w>
+                    <w gl="the deer"><m id="4407">pa</m><m id="5135">púufich</m></w>.</kar>
+                <eng>I see a deer across the river.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_36" audio-start-time="36:27">
+                <kar>
+                    <w gl="when I was walking"><m id="4408">pa</m><m id="4349">ni</m><m id="205"
+                            >'áhoo</m><m id="6035">tih</m></w>
+                    <w><m id="6307">uum</m></w>
+                    <w><m id="3999">kúnish</m></w>
+                    <w gl="I saw"><m id="4349">ni</m><m id="4155">máh</m><m id="6035">at</m></w>
+                    <w gl="the deer"><m id="4407">pa</m><m id="5135">púufich</m></w>
+                    <w><m id="4179">pay'ôok</m></w>
+                    <w gl="it is living"><m id="6175">ú</m><m id="1974">kriiv</m><m id="6035"
+                            >tih</m></w>. </kar>
+                <eng>When I was walking, I saw where the deer lives.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_36" audio-start-time="36:35">
+                <kar>
+                    <w><m id="3999">kúnish</m></w>
+                    <w gl="he is sleeping"><m id="6175">ú</m><m id="2189">kviit-hi</m><m id="6307"
+                            >tih</m></w>
+                    <w><m id="4179">pay'ôok</m></w>.</kar>
+                <eng>He is making his bed right here.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_39" audio-start-time="37:22">
+                <kar>
+                    <w gl="when I was walking"><m id="4408">pa</m><m id="4349">ni</m><m id="205"
+                            >'áhoo</m><m id="6035">tih</m></w>
+                    <w gl="the deer"><m id="4407">pa</m><m id="5135">púufich</m></w>
+                    <w><m id="6307">uum</m></w>
+                    <w gl="his bed"><m id="4407">pa</m><m id="4260">mu</m><m>asímnaam</m></w>
+                    <w><m id="5506">tá</m></w>
+                    <w gl="I see"><m id="4349">ni</m><m id="4155">mah</m></w>.</kar>
+                <eng>When I was walking I saw the deer's bed.</eng>
+            </s>
+        </paragraph>
+    </data>
+</text>

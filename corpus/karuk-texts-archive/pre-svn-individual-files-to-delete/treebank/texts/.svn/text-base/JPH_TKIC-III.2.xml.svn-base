@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="JPH_TKIC-III.2">
+  <metadata>
+    <title>The Name of Tobacco</title>
+    <author> John P. <alph>Harrington</alph>
+    </author>
+    <date>1932</date>
+<publication>John Peabody Harrington, <em>Tobacco Among the Karuk Indians of California</em> (1932), pp. 44-45</publication>
+  </metadata>
+  <data>
+    <paragraph>
+      <s>
+	<txt lang="kyh">
+	  <w gl="downslope tobacco">
+	    <m lemma="5501">sah</m>
+	    <m lemma="1535">ihêeraha</m>
+	    </w>
+	  <w>
+	    <m lemma="3752">káru</m>
+	    </w>
+	  <w gl="upslope tobacco">
+	    <m lemma="4289">mah</m>
+	    <m lemma="1535">ihêeraha</m></w></txt>
+	<trans lang="eng">Downslope and upslope tobacco</trans>
+      </s>
+      </paragraph>
+     <paragraph>
+      <s>
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1535">ihêeraha</m>
+	    </w></txt>
+	<trans lang="eng">tobacco, tobacco plant; literally means "that which is smoked"</trans>
+      </s>
+      </paragraph>
+     <paragraph>
+      <s>
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6300">uuh</m>
+	    </w></txt>
+	<trans lang="eng">old name for tobacco</trans>
+      </s>
+      </paragraph>
+     <paragraph>
+      <s>
+	<txt lang="kyh">
+	  <w gl="tobacco excrement">
+	    <m lemma="6300">úh</m>
+	    <m lemma="8">af</m>
+	    </w></txt>
+	<trans lang="eng">nicotine; the pithy substance that accumulates in a Karuk smoking pipe</trans>
+      </s>
+      </paragraph>
+     <paragraph>
+      <s>
+	<txt lang="kyh">
+	  <w gl="penish excrement">
+	    <m lemma="5383">sísh</m>
+	    <m lemma="8">af</m>
+	    </w></txt>
+	<trans lang="eng">semen</trans>
+      </s>
+      </paragraph>
+     <paragraph>
+      <s>
+	<txt lang="kyh">
+	  <w gl="vagina excrement">
+	    <m lemma="6529">víth</m>
+	    <m lemma="8">af</m>
+	    </w></txt>
+	<trans lang="eng">mucus secretion of the vagina</trans>
+      </s>
+      </paragraph>
+     <paragraph>
+      <s>
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="8">aaf</m>
+	    </w></txt>
+	<trans lang="eng">excrement</trans>
+      </s>
+      </paragraph>
+     <paragraph>
+      <s>
+	<txt lang="kyh">
+	  <w gl="going toward tobacco">
+	    <m lemma="6300">uh</m>
+	    <m lemma="176">'áhakuv</m>
+	    </w></txt>
+	<trans lang="eng">name of one of the days of the new-year ceremony</trans>
+      </s>
+      </paragraph>
+     <paragraph>
+      <s>
+	<txt lang="kyh">
+	  <w gl="tobacco bone">
+	    <m lemma="6300">uh</m>
+	    <m lemma="176">'ípi</m>
+	    </w></txt>
+	<trans lang="eng">tobacco stem, tobacco stalk</trans>
+      </s>
+      </paragraph>
+    <paragraph>
+      <s>
+	<txt lang="kyh">
+	  <w gl="tobacco place">
+	    <m lemma="6300">uh</m>
+	    <m lemma="5120">raam</m>
+	    </w></txt>
+	<trans lang="eng">tobacco pipe of any kind</trans>
+      </s>
+      </paragraph>
+    <paragraph>
+      <s>
+	<txt lang="kyh">
+	  <w gl="tobacco storage basket">
+	    <m lemma="6300">uh</m>
+	    <m lemma="5423">sípnuuk</m>
+	    </w></txt>
+	<trans lang="eng">tobacco basket</trans>
+      </s>
+      </paragraph>
+    <paragraph>
+      <s>
+	<txt lang="kyh">
+	  <w gl="tobacco storage basket">
+	    <m lemma="6300">iheeraha</m>
+	    <m lemma="5423">sípnuuk</m>
+	    </w></txt>
+	<trans lang="eng">tobacco basket</trans>
+      </s>
+      </paragraph>
+    <paragraph>
+      <s>
+	<txt lang="kyh">
+	  <w gl="tobacco inserter instrument">
+	    <m lemma="6300">uh</m>
+	    <m lemma="5533">tat</m>
+	    <m lemma="6433">vára</m>
+	    <m lemma="504">ar</m>
+	    </w></txt>
+	<trans lang="eng">sweathouse tobacco lighting stick</trans>
+      </s>
+      </paragraph>
+    <paragraph>
+      <s>
+	<txt lang="kyh">
+	  <w gl="place to put tobacco">
+	    <m lemma="6300">uh</m>
+	    <m lemma="5533">thiishríh</m>
+	    <m lemma="5120">raam</m>
+	    </w></txt>
+	<trans lang="eng">placename, where they put tobacco</trans>
+      </s>
+      </paragraph>
+    <paragraph>
+      <s>
+	<txt lang="kyh">
+	  <w gl="place to spoil tobacco">
+	    <m lemma="6300">uh</m>
+	    <m lemma="5544">tayvará</m>
+	    <m lemma="5120">raam</m>
+	    </w></txt>
+	<trans lang="eng">placename, where they spoil tobacco</trans>
+      </s>
+      </paragraph>
+  </data>
+</text>

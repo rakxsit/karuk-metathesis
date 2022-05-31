@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="JPH_PHM-24-343a">
+	<metadata>
+		<title>"Bluejay Myth"</title>
+		<author>Phoebe <alph>Maddux</alph></author>
+		<date>1929</date>
+		<publication>Unpublished (recorded by Franz Boas, transcribed by John P.
+			Harrington)</publication>
+		<pdf filename="JPH_FILM-014_0126-0131_ms.pdf" caption="Manuscript scan"/>
+		<pdf filename="JPH_FILM-014_0136-0137_ms.pdf" caption="Typescript scan"/>
+		<!-- <audio filename="JPH_PHM-24-343a"
+            sourcelink="http://cla.berkeley.edu/item/12221">Phoebe A. Hearst Museum of Anthropology, Miscellaneous sound recordings Item 24-343</audio> -->
+	</metadata>
+	<data>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:1" head="0" synrel="INTERJ"><!-- synrel="?" -->
+						<m lemma="6221">uknîi</m>
+					</w>. 
+				</txt>
+				<trans lang="eng">Uknîi.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:2" head="JPH_PHM-24-343a:5" synrel="ADV">
+						<m lemma="739">ata</m>
+					</w>
+					<w id="JPH_PHM-24-343a:3" head="JPH_PHM-24-343a:5" synrel="ADV">
+						<m lemma="1372">hári</m>
+					</w>
+					<w id="JPH_PHM-24-343a:4" head="JPH_PHM-24-343a:5" synrel="DIS">
+						<m lemma="6383">vaa</m>
+					</w>
+					<w gl="they were living" id="JPH_PHM-24-343a:5" head="0" synrel="PRED">
+						<m lemma="3977">kun</m>
+						<m lemma="508">'áraarahi</m>
+						<m lemma="6035">tih</m>
+						<m lemma="1369">anik</m>
+					</w>.
+				</txt>
+				<trans lang="eng">They were living there.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:6" head="JPH_PHM-24-343a:11" synrel="ADV">
+						<m lemma="1096">chavúra</m>
+					</w>
+					<w id="JPH_PHM-24-343a:7" head="JPH_PHM-24-343a:11" synrel="ADV">
+						<m lemma="4420">pâanpay</m>
+					</w>
+					<w id="JPH_PHM-24-343a:8" head="JPH_PHM-24-343a:11" synrel="TAM"><!-- synrel="ADV" -->
+						<m lemma="1144">chím</m><!-- no chím variant of chími listed in dictionary -->
+					</w>
+					<w id="JPH_PHM-24-343a:9" head="JPH_PHM-24-343a:11" synrel="ADV">
+						<m lemma="924">axmay</m>
+					</w>
+					<w id="JPH_PHM-24-343a:10" head="JPH_PHM-24-343a:11" synrel="SBJ">
+						<m lemma="7096">yíth</m>
+					</w>
+					<w gl="she/he got sick" id="JPH_PHM-24-343a:11" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="3957">kúha</m>
+					</w>. 
+				</txt>
+				<trans lang="eng">Then all at once one of the people got sick.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:12" head="JPH_PHM-24-343a:16" synrel="APOS">
+						<m lemma="6307">uum</m>
+					</w>
+					<w id="JPH_PHM-24-343a:13" head="JPH_PHM-24-343a:12" synrel="ATR">
+						<m lemma="3752">káru</m>
+					</w>
+					<w id="JPH_PHM-24-343a:14" head="JPH_PHM-24-343a:15" synrel="ADV">
+						<m lemma="3670">káan</m>
+					</w>
+					<w gl="was living" id="JPH_PHM-24-343a:15" head="0" synrel="PRED">
+						<m lemma="6175">ú</m>
+						<m lemma="1974">krii</m>
+					</w>
+					<w id="JPH_PHM-24-343a:16" head="JPH_PHM-24-343a:15" synrel="SBJ">
+						<m lemma="3691">kachakâachich</m>
+					</w>. 
+				</txt>
+				<trans lang="eng">Bluejay was also living there.</trans>
+			</s>
+<!--
+						<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:12" head="JPH_PHM-24-343a:15" synrel="SBJ">
+						<m lemma="6307">uum</m>
+					</w>
+					<w id="JPH_PHM-24-343a:13" head="JPH_PHM-24-343a:12" synrel="ATR">
+						<m lemma="3752">káru</m>
+					</w>
+					<w id="JPH_PHM-24-343a:14" head="JPH_PHM-24-343a:15" synrel="ADV">
+						<m lemma="3670">káan</m>
+					</w>
+					<w gl="was living" id="JPH_PHM-24-343a:15" head="0" synrel="PRED">
+						<m lemma="6175">ú</m>
+						<m lemma="1974">krii</m>
+					</w>
+					<w id="JPH_PHM-24-343a:16" head="JPH_PHM-24-343a:12" synrel="APOS">
+						<m lemma="3691">kachakâachich</m>
+					</w>. 
+				</txt>
+				<trans lang="eng">Bluejay was also living there.</trans>
+			</s>
+-->
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:17" head="0" synrel="PRED">
+						<m lemma="1232">êem</m>
+					</w>
+					<w id="JPH_PHM-24-343a:18" head="JPH_PHM-24-343a:19" synrel="ATR">
+						<m lemma="3752">káru</m>
+					</w>
+					<w id="JPH_PHM-24-343a:19" head="JPH_PHM-24-343a:17" synrel="COORD">
+						<m lemma="471">apurúvaan</m>
+					</w>. 
+				</txt>
+				<trans lang="eng">She was a doctor and sorcerer.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:20" head="JPH_PHM-24-343a:21" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="they went to get her" id="JPH_PHM-24-343a:21" head="0" synrel="PRED">
+						<m lemma="3977">kun</m>
+						<m lemma="4845">píkaar</m>
+					</w>. 
+				</txt>
+				<trans lang="eng">They went to get her [Bluejay] [for a doctor].</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:22" head="JPH_PHM-24-343a:23" synrel="DIS">
+						<m lemma="7038">yánava</m>
+					</w>
+					<w gl="she was sick" id="JPH_PHM-24-343a:23" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="3957">kúhi</m>
+						<m lemma="6035">tih</m>
+					</w>. 
+				</txt>
+				<trans lang="eng">Behold she [that person, Bluejay] was sick.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:24" head="JPH_PHM-24-343a:28" synrel="DIS">
+						<m lemma="6570">víri</m>
+					</w>
+					<w id="JPH_PHM-24-343a:25" head="JPH_PHM-24-343a:28" synrel="ADV">
+						<m lemma="6308">ûum</m>
+					</w>
+					<w id="JPH_PHM-24-343a:26" head="JPH_PHM-24-343a:28" synrel="TAM">
+						<m lemma="5562">tá</m>
+					</w>
+					<w id="JPH_PHM-24-343a:27" head="JPH_PHM-24-343a:28" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+					<w gl="she answered" id="JPH_PHM-24-343a:28" head="0" synrel="PRED">
+						<m lemma="4408" id="JPH_PHM-24-343a:29" head="JPH_PHM-24-343a:28" synrel="SUB">p</m>
+						<m lemma="6175">oo</m>
+						<m lemma="1548">'íhivrik</m>
+					</w>. 
+				</txt>
+				<trans lang="eng">She could scarcely answer a question.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:30" head="JPH_PHM-24-343a:31" synrel="SBJ">
+						<m lemma="346">ámtaap</m>
+					</w>
+					<w gl="were on her" id="JPH_PHM-24-343a:31" head="0" synrel="PRED">
+						<m lemma="5506" id="JPH_PHM-24-343a:32" head="JPH_PHM-24-343a:31" synrel="TAM">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="1725">'íivtap</m>
+					</w>. 
+				</txt>
+				<trans lang="eng">She had put ashes on her blanket [to make it look as if she had been lying
+					there a long time].</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w gl="she was sick" id="JPH_PHM-24-343a:33" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="3957">kúhi</m>
+						<m lemma="6035">tih</m>
+					</w>. </txt>
+				<trans lang="eng">She was sick.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:34" head="JPH_PHM-24-343a:36" synrel="DIS">
+						<m lemma="3745">kári</m>
+					</w>
+					<w id="JPH_PHM-24-343a:35" head="JPH_PHM-24-343a:36" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="she went" id="JPH_PHM-24-343a:36" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="6396">vâaram</m>
+					</w>. 
+				</txt>
+				<trans lang="eng">Then she [Bluejay] went over there [to doctor her].</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:37" head="JPH_PHM-24-343a:38" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="she reached there" id="JPH_PHM-24-343a:38" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="6306">'uum</m>
+					</w>. </txt>
+				<trans lang="eng">She got there.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:39" head="JPH_PHM-24-343a:42" synrel="DIS">
+						<m lemma="7038">yánava</m>
+					</w>
+					<w gl="the sick one" id="JPH_PHM-24-343a:40" head="JPH_PHM-24-343a:42" synrel="SBJ">
+						<m lemma="4407" id="JPH_PHM-24-343a:41" head="JPH_PHM-24-343a:40" synrel="ATR">pa</m>
+						<m lemma="3960">kúhar</m>
+					</w>
+					<w gl="she was lying there" id="JPH_PHM-24-343a:42" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="5845">tháaniv</m>
+					</w>. 
+				</txt>
+				<trans lang="eng">Behold the sick one was lying there.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:43" head="JPH_PHM-24-343a:46" synrel="DIS">
+						<m lemma="3745">kári</m>
+					</w>			
+					<w id="JPH_PHM-24-343a:44" head="JPH_PHM-24-343a:46" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+					<w id="JPH_PHM-24-343a:45" head="JPH_PHM-24-343a:46" synrel="TAM">
+						<m lemma="6174">ta'ítam</m>
+					</w>
+					<w gl="she started to dance" id="JPH_PHM-24-343a:46" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="6464">vásmaahv</m>
+						<m lemma="1378">aheen</m>
+					</w>. </txt>
+				<trans lang="eng">Then she [Bluejay] started to dance.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:47" head="JPH_PHM-24-343a:49" synrel="DIS">
+						<m lemma="3745">kári</m>
+					</w>
+					<w ID="JPH_PHM-24-343a:48" head="JPH_PHM-24-343a:49" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="she started to sing" id="JPH_PHM-24-343a:49" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="561">'árihish</m>
+					</w>. 
+				</txt>
+				<trans lang="eng">She began to sing.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:50" head="0" synrel="SONG"><!-- synrel="?" -->
+						<m language="nonsense">pátaskay kinéh</m>
+					</w>
+				</txt>
+				<trans lang="eng">pátaskay kinéh</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:51" head="0" synrel="SONG"><!-- synrel="?" -->
+						<m language="nonsense">kâay kay kinéh</m>
+					</w>
+				</txt>
+				<trans lang="eng">kâay kay kinéh</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:52" head="0" synrel="SONG"><!-- synrel="?" -->
+						<m language="nonsense">pátaskay kinéh</m>
+					</w>
+				</txt>
+				<trans lang="eng">pátaskay kinéh</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:53" head="JPH_PHM-24-343a:55" synrel="OBJ">
+						<m lemma="7096">yíth</m>
+					</w>
+					<w id="JPH_PHM-24-343a:54" head="JPH_PHM-24-343a:53" synrel="ATR">
+						<m lemma="3978">kúna</m>
+					</w>
+					<w gl="she started to sing" id="JPH_PHM-24-343a:55" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="561">'árihish</m>
+					</w>. 
+				</txt>
+				<trans lang="eng">Then she sang another song.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:56" head="0" synrel="SONG"><!-- synrel="?" -->
+						<m lemma="470">apuroon</m>
+					</w>
+					<w id="JPH_PHM-24-343a:57" head="0" synrel="SONG"><!-- synrel="?" -->
+						<m lemma="470">aapuroon</m>
+					</w>
+				</txt>
+				<trans lang="eng">apuroon aapuroon</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:58" head="0" synrel="SONG"><!-- synrel="?" -->
+						<m lemma="470">apuroon</m>
+					</w>
+					<w id="JPH_PHM-24-343a:59" head="0" synrel="SONG"><!-- synrel="?" -->
+						<m lemma="470">aapuroon</m>
+					</w>
+				</txt>
+				<trans lang="eng">apuroon aapuroon</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:60" head="0" synrel="SONG"><!-- synrel="?" -->
+						<m lemma="470">apuroon</m>
+					</w>
+					<w id="JPH_PHM-24-343a:61" head="0" synrel="SONG"><!-- synrel="?" -->
+						<m lemma="470">aapuroon</m>
+					</w>
+				</txt>
+				<trans lang="eng">apuroon aapuroon</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:62" head="JPH_PHM-24-343a:64" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+					<w id="JPH_PHM-24-343a:63" head="JPH_PHM-24-343a:64" synrel="ADV">
+						<m lemma="3670">káan</m>
+					</w>
+					<w gl="she was dancing so hard" id="JPH_PHM-24-343a:64" head="0" synrel="PRED">
+						<m lemma="5506" id="JPH_PHM-24-343a:65" head="JPH_PHM-24-343a:64" synrel="TAM">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="5159">puxíchkaanva</m>
+					</w>
+					<w id="JPH_PHM-24-343a:66" head="JPH_PHM-24-343a:64" synrel="SBJ">
+						<m lemma="3691">kachakâachich</m>
+					</w>. 
+				</txt>
+				<trans lang="eng">Bluejay was dancing hard there.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:67" head="JPH_PHM-24-343a:69" synrel="DIS">
+						<m lemma="3745">kári</m> 
+					</w>
+					<w id="JPH_PHM-24-343a:68" head="JPH_PHM-24-343a:69" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="she sucked on her" id="JPH_PHM-24-343a:69" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="4670">pátumka</m>
+					</w>. 
+				</txt>
+				<trans lang="eng">Then she sucked her.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:70" head="JPH_PHM-24-343a:71" synrel="OBJ">
+						<m lemma="470">ápuroon</m>
+					</w>"
+					<w gl="she removed" id="JPH_PHM-24-343a:71" head="0" synrel="PRED">
+						<m lemma="5506" id="JPH_PHM-24-343a:72" head="JPH_PHM-24-343a:71" synrel="TAM">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="6334">'ûusur</m>
+					</w>. 
+				</txt>
+				<trans lang="eng">She removed the witchery.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:73" head="JPH_PHM-24-343a:75" synrel="DIS">
+						<m lemma="3745">kári</m> 
+					</w>
+					<w id="JPH_PHM-24-343a:74" head="JPH_PHM-24-343a:75" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="she said" id="JPH_PHM-24-343a:75" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="4823">piip</m>
+					</w>: "
+					<w id="JPH_PHM-24-343a:76" head="JPH_PHM-24-343a:82" synrel="OBJ">
+						<m lemma="6307">uum</m>
+					</w>
+					<w id="JPH_PHM-24-343a:77" head="JPH_PHM-24-343a:82" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+					<w id="JPH_PHM-24-343a:78" head="JPH_PHM-24-343a:82" synrel="COMP"><!-- head="JPH_PHM-24-343a:82" synrel="APOS" --><!-- synrel="ADV"-->
+						<m lemma="6383">vaa</m>
+					</w>
+					<w id="JPH_PHM-24-343a:79" head="JPH_PHM-24-343a:80" synrel="ATR">
+						<m lemma="4715">páy</m>
+					</w>
+					<w gl="somebody" id="JPH_PHM-24-343a:80" head="JPH_PHM-24-343a:81" synrel="COMP">
+						<m lemma="506">arara</m>
+						<m lemma="1670" id="JPH_PHM-24-343a:81" head="JPH_PHM-24-343a:82" synrel="SBJ">'îin</m>
+					</w>
+					<w gl="they are thinking" id="JPH_PHM-24-343a:82" head="JPH_PHM-24-343a:75" synrel="QUOT">
+						<m lemma="3977">kun</m>
+						<m lemma="6947">xúseen</m>
+						<m lemma="6035">tih</m>
+					</w>
+					<w id="JPH_PHM-24-343a:83" head="JPH_PHM-24-343a:85" synrel="TAM">
+						<m lemma="3857">kíri</m>
+					</w>
+					<w id="JPH_PHM-24-343a:84" head="JPH_PHM-24-343a:85" synrel="ADV">
+						<m lemma="41">âapun</m>
+					</w>
+					<w gl="she lies" id="JPH_PHM-24-343a:85" head="JPH_PHM-24-343a:82" synrel="QUOT">
+						<m lemma="6175">ú</m>
+						<m lemma="3601">yruuhriv</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Then she said: "Someone is causing her sickness.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:86" head="JPH_PHM-24-343a:90" synrel="OBJ">
+						<m lemma="6307">uum</m>
+					</w>
+					<w id="JPH_PHM-24-343a:87" head="JPH_PHM-24-343a:90" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+					<w id="JPH_PHM-24-343a:88" head="JPH_PHM-24-343a:90" synrel="ADV">
+						<m lemma="6383">vaa</m>
+					</w>
+					<w id="JPH_PHM-24-343a:89" head="JPH_PHM-24-343a:90" synrel="SBJ">
+						<m lemma="4715">páy</m>
+					</w>
+					<w gl="they are bewitching her" id="JPH_PHM-24-343a:90" head="0" synrel="PRED">
+						<m lemma="5506" id="JPH_PHM-24-343a:157" head="JPH_PHM-24-343a:90" synrel="TAM">ta</m>
+						<m lemma="3977">kun</m>
+						<m lemma="469">ápur</m>
+					</w>. 
+				</txt>
+				<trans lang="eng">Someone is bewitching her.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:91" head="JPH_PHM-24-343a:94" synrel="ADV">
+						<m lemma="4716">payêem</m>
+					</w>
+					<w id="JPH_PHM-24-343a:92" head="JPH_PHM-24-343a:94" synrel="SBJ">
+						<m lemma="6307">uum</m>
+					</w>
+					<w id="JPH_PHM-24-343a:93" head="JPH_PHM-24-343a:94" synrel="OBJ">
+						<m lemma="6934">xúrish</m>
+					</w>
+					<w gl="give me" id="JPH_PHM-24-343a:94" head="0" synrel="PRED">
+						<m lemma="3737">kana</m>
+						<m lemma="249">'ákih</m>
+						<m lemma="1419">i</m>
+					</w>." 
+				</txt>
+				<trans lang="eng">Give me acorns."</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:95" head="JPH_PHM-24-343a:96" synrel="OBJ">
+						<m lemma="6934">xúrish</m>
+					</w>
+					<w gl="they gave her" id="JPH_PHM-24-343a:96" head="0" synrel="PRED">
+						<m lemma="3977">kun</m>
+						<m lemma="249">'ákih</m>
+					</w>
+					<w gl="one packbasket full" id="JPH_PHM-24-343a:97" head="JPH_PHM-24-343a:95" synrel="ATR">
+						<m lemma="7097">itha</m>
+						<m lemma="801">'átiv</m>
+					</w>. 
+				</txt>
+				<trans lang="eng">They gave her a whole packbasket full of acorns.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:98" head="JPH_PHM-24-343a:100" synrel="DIS">
+						<m lemma="3748">kári</m> 
+					</w>
+					<w id="JPH_PHM-24-343a:99" head="JPH_PHM-24-343a:100" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="she went home" id="JPH_PHM-24-343a:100" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="2680">pvâaram</m>
+					</w>. 
+				</txt>
+				<trans lang="eng">And she went home.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:101" head="JPH_PHM-24-343a:103" synrel="DIS">
+						<m lemma="5160">púya</m>
+						<m lemma="6383" id="JPH_PHM-24-343a:102" head="JPH_PHM-24-343a:103" synrel="DIS">va</m>
+					</w>
+					<w gl="she returned" id="JPH_PHM-24-343a:103" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="2860">'íipma</m>
+					</w>. 
+				</txt>
+				<trans lang="eng">Behold she got home.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:104" head="JPH_PHM-24-343a:106" synrel="ADV">
+						<m lemma="3969">kúkuum</m>
+					</w>
+					<w id="JPH_PHM-24-343a:105" head="JPH_PHM-24-343a:106" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+					<w gl="she got sick again" id="JPH_PHM-24-343a:106" head="0" synrel="PRED">
+						<m lemma="6175">ú</m>
+						<m lemma="2782">pkuupha</m>
+					</w>. 
+				</txt>
+				<trans lang="eng">Then she [the sick one] did the same way again.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:107" head="JPH_PHM-24-343a:110" synrel="DIS">
+						<m lemma="3745">kári</m> 
+					</w>
+					<w id="JPH_PHM-24-343a:108" head="JPH_PHM-24-343a:110" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+					<w id="JPH_PHM-24-343a:109" head="JPH_PHM-24-343a:110" synrel="ADV">
+						<m lemma="3969">kúkuum</m>
+					</w>
+					<w gl="they went to get her" id="JPH_PHM-24-343a:110" head="0" synrel="PRED">
+						<m lemma="3977">kun</m>
+						<m lemma="4845">píkaar</m>
+					</w>. 
+				</txt>
+				<trans lang="eng">They went to get her [Bluejay] again.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:111" head="JPH_PHM-24-343a:112" synrel="ADV">
+						<m lemma="3969">kúkuum</m>
+					</w>
+					<w gl="she came" id="JPH_PHM-24-343a:112" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="205">'áhoo</m>
+					</w>. 
+				</txt>
+				<trans lang="eng">She came over again.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:113" head="JPH_PHM-24-343a:116" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+					<w id="JPH_PHM-24-343a:114" head="JPH_PHM-24-343a:116" synrel="ADV">
+						<m lemma="3969">kúkuum</m>
+					</w>
+					<w id="JPH_PHM-24-343a:115" head="JPH_PHM-24-343a:116" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+					<w gl="thus she said" id="JPH_PHM-24-343a:116" head="0" synrel="PRED">
+						<m lemma="6383" id="JPH_PHM-24-343a:117" head="JPH_PHM-24-343a:116" synrel="DIS">v</m><!-- head="JPH_PHM-24-343a:122" synrel="APOS" (external dependency="yes"?)-->
+						<m lemma="6175">oo</m>
+						<m lemma="4823">piip</m>
+					</w>:" 
+					<w id="JPH_PHM-24-343a:118" head="JPH_PHM-24-343a:122" synrel="OBJ">
+						<m lemma="6307">uum</m>
+					</w>
+					<w id="JPH_PHM-24-343a:119" head="JPH_PHM-24-343a:122" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+					<w gl="somebody" id="JPH_PHM-24-343a:120" head="JPH_PHM-24-343a:121" synrel="COMP">
+						<m lemma="506">arara</m>
+						<m lemma="1670" id="JPH_PHM-24-343a:121" head="JPH_PHM-24-343a:122" synrel="SBJ">'îin</m>
+					</w>
+					<w gl="they are thinking it" id="JPH_PHM-24-343a:122" head="JPH_PHM-24-343a:116" synrel="QUOT">
+						<m lemma="3977">kun</m>
+						<m lemma="6947">xúseen</m>
+						<m lemma="6035">tih</m>
+					</w>." 
+				</txt>
+				<trans lang="eng">Then she said: "Somebody is making it."</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:123" head="JPH_PHM-24-343a:125" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+					<w id="JPH_PHM-24-343a:124" head="JPH_PHM-24-343a:125" synrel="ADV">
+						<m lemma="3969">kúkuum</m>
+					</w>
+					<w gl="she sucked on her" id="JPH_PHM-24-343a:125" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="4670">pátumka</m>
+					</w>. 
+				</txt>
+				<trans lang="eng">Then she doctored her again.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">" <w><m lemma="6847">xás</m></w>
+					<w id="JPH_PHM-24-343a:126" head="JPH_PHM-24-343a:129" synrel="ADV">
+						<m lemma="4716">payêem</m>
+					</w>
+					<w id="JPH_PHM-24-343a:127" head="JPH_PHM-24-343a:129" synrel="SBJ">
+						<m lemma="6307">uum</m></w>
+					<w id="JPH_PHM-24-343a:128" head="JPH_PHM-24-343a:129" synrel="OBJ">
+						<m lemma="778">athithxuntápan</m></w>
+					<w gl="give me" id="JPH_PHM-24-343a:129" head="0" synrel="PRED">
+						<m lemma="3737">kana</m>
+						<m lemma="249">'ákih</m>
+						<m lemma="1419">i</m>
+					</w>." 
+				</txt>
+				<trans lang="eng">"Give me hazel nuts this time."</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:130" head="JPH_PHM-24-343a:131" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="they gave them to her" id="JPH_PHM-24-343a:131" head="0" synrel="PRED">
+						<m lemma="3977">kun</m>
+						<m lemma="249">'ákih</m>
+					</w>. </txt>
+				<trans lang="eng">Then they gave them to her.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w gl="she got well" id="JPH_PHM-24-343a:132" head="0" synrel="PRED">
+						<m lemma="5506" id="JPH_PHM-24-343a:133" head="JPH_PHM-24-343a:132" synrel="TAM">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="543">'aráriihkanha</m>
+					</w>. </txt>
+				<trans lang="eng">She [the sick one] got well.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:134" head="JPH_PHM-24-343a:136" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+					<w id="JPH_PHM-24-343a:135" head="JPH_PHM-24-343a:136" synrel="ADV">
+						<m lemma="3969">kúkuum</m>
+					</w>
+					<w gl="she went home" id="JPH_PHM-24-343a:136" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="2680">pvâaram</m>
+					</w>. 
+				</txt>
+				<trans lang="eng">Then she [Bluejay] went home again.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:137" head="JPH_PHM-24-343a:140" synrel="DIS">
+						<m lemma="5160">púya</m>
+						<m lemma="6383" id="JPH_PHM-24-343a:138" head="JPH_PHM-24-343a:140" synrel="COMP">va</m>
+					</w>
+					<w id="JPH_PHM-24-343a:139" head="JPH_PHM-24-343a:141" synrel="APOS">
+						<m lemma="6307">uum</m>
+					</w>
+					<w gl="she did that way" id="JPH_PHM-24-343a:140" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="4086">kúpha</m>
+						<m lemma="1369">anik</m>
+					</w>
+					<w id="JPH_PHM-24-343a:141" head="JPH_PHM-24-343a:140" synrel="SBJ">
+						<m lemma="3691">kachakâachich</m>
+					</w>. 
+				</txt>
+				<trans lang="eng">Behold Bluejay did this way.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:142" head="JPH_PHM-24-343a:145" synrel="APOS">
+						<m lemma="6307">uum</m>
+					</w>
+					<w gl="thus she did" id="JPH_PHM-24-343a:143" head="0" synrel="PRED">
+						<m lemma="6383" id="JPH_PHM-24-343a:144" head="JPH_PHM-24-343a:143" synrel="COMP">v</m>
+						<m lemma="6175">oo</m>
+						<m lemma="4086">kúpha</m>
+						<m lemma="1369">anik</m>
+					</w>
+					<w id="JPH_PHM-24-343a:145" head="JPH_PHM-24-343a:143" synrel="SBJ">
+						<m lemma="3691">kachakâachich</m>
+					</w>. 
+				</txt>
+				<trans lang="eng">Bluejay is that way.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:146" head="0" synrel="INTERJ"><!-- synrel="?" -->
+						<m lemma="4005">kupánakanakana</m>
+					</w>
+				</txt>
+				<trans lang="eng">That is all.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:147" head="JPH_PHM-24-343a:151" synrel="ADV"><!-- synrel="TAM" -->
+						<m lemma="1102">chéemyach</m>
+					</w>
+					<w id="JPH_PHM-24-343a:148" head="JPH_PHM-24-343a:151" synrel="TAM">
+						<m lemma="1729">ík</m>
+					</w>
+					<w id="JPH_PHM-24-343a:149" head="JPH_PHM-24-343a:151" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+					<w id="JPH_PHM-24-343a:150" head="JPH_PHM-24-343a:151" synrel="SBJ">
+						<m lemma="3177">ishyâat</m>
+					</w>
+					<w gl="may you shine upriver" id="JPH_PHM-24-343a:151" head="0" synrel="PRED">
+						<m lemma="1418">i</m>
+						<m lemma="2497">mshíinaa</m>
+						<m lemma="1379">vish</m>
+					</w>. 
+				</txt>
+				<trans lang="eng">Shine upriver soon, Spring Salmon.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w id="JPH_PHM-24-343a:152" head="JPH_PHM-24-343a:156" synrel="ADV">
+						<m lemma="1102">chéemyaach</m>
+					</w>
+					<w id="JPH_PHM-24-343a:153" head="JPH_PHM-24-343a:156" synrel="TAM">
+						<m lemma="1729">ík</m>
+					</w>
+					<w id="JPH_PHM-24-343a:154" head="JPH_PHM-24-343a:156" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+					<w id="JPH_PHM-24-343a:155" head="JPH_PHM-24-343a:156" synrel="SBJ">
+						<m lemma="753">ataychúkinach</m>
+					</w>
+					<w gl="may you grow up" id="JPH_PHM-24-343a:156" head="0" synrel="PRED">
+						<m lemma="1418">i</m>
+						<m lemma="6318">'uunúprav</m>
+						<m lemma="1379">eesh</m>
+					</w>. 
+				</txt>
+				<trans lang="eng">Grow up soon, young Blue Dicks.</trans>
+			</s>
+		</paragraph>
+	</data>
+</text>

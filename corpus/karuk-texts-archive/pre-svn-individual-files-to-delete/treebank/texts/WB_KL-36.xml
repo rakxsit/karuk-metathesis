@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <text id="WB_KL-36">
+        <metadata>
+            <title>"Why Towhee Has Red Eyes"</title>
+            <author>Nettie <alph>Reuben</alph></author>
+            <date>1957</date>
+            <publication>William Bright, <em>The Karok Language</em> (1957), pp. 238-239, Text 36</publication>
+        </metadata>
+        <data>
+            <paragraph>
+                <s>
+                    <txt lang="kyh">
+						<w gl="Towhee" id="WB_KL-36:1" head="WB_KL-36:3" synrel="SBJ">
+							<m lemma="4407" id="WB_KL-36:2" head="WB_KL-36:1" synrel="ATR">p</m>
+							<m lemma="693">aasmáax</m>
+						</w>
+						<w gl="red eyes" id="WB_KL-36:3" pos="N" head="0" synrel="PRED">
+							<m lemma="7239">yúp</m>
+							<m lemma="78">'aaxkunish</m>
+						</w>.
+					</txt>
+					<trans lang="eng">Towhee has red eyes.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w id="WB_KL-36:4" head="WB_KL-36:5" synrel="OBJ">
+							<m lemma="5203">saak</m>
+						</w>
+						<w gl="they were attaching arrowheads" id="WB_KL-36:5" head="0" synrel="PRED">
+							<m lemma="3977">kun</m>
+							<m lemma="5785">táxraat</m>
+							<m lemma="6648">vunaa</m>
+						</w>.
+					</txt>
+					<trans lang="eng">They were attaching arrowheads.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w gl="so" id="WB_KL-36:6" head="WB_KL-36:9" synrel="DIS">
+							<m lemma="6570">víri</m>
+							<m lemma="6383" id="WB_KL-36:7" head="WB_KL-36:9" synrel="DIS">va</m>
+						</w>
+						<w id="WB_KL-36:8" head="WB_KL-36:9" synrel="ADV">
+							<m lemma="3670">káan</m>
+						</w>
+						<w gl="he was watching" id="WB_KL-36:9" head="0" synrel="PRED">>
+							<m lemma="6175">ú</m>
+							<m lemma="2585">muustih</m>
+						</w>.
+					</txt>
+					<trans lang="eng">He was watching there.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w id="WB_KL-36:10" head="0" synrel="DIS" external-dependency="yes">
+							<m lemma="3745">kári</m>
+						</w>
+						<w id="WB_KL-36:11" head="0" synrel="DIS" external-dependency="yes">
+							<m lemma="6847">xás</m>
+						</w>
+						<w gl="when" id="WB_KL-36:12" head="WB_KL-36:14" synrel="TAM">
+							<m lemma="4408" id="WB_KL-36:13" head="WB_KL-36:14" synrel="SUB">pa</m>
+							<m lemma="5506">tá</m>
+						</w>
+						<w gl="they finished" id="WB_KL-36:14" head="0" synrel="ADV" external-dependency="yes">
+							<m lemma="3977">kun</m>
+							<m lemma="4903">píkyaar</m>
+						</w>
+						<w gl="that they were attaching arrowheads" id="WB_KL-36:15" head="WB_KL-36:14" synrel="COMP">
+							<m lemma="4408" id="WB_KL-36:16" head="WB_KL-36:15" synrel="SUB">pa</m>
+							<m lemma="3977">kun</m>
+							<m lemma="5785">táxraa</m>
+							<m lemma="6035">ti</m>
+						</w>
+						<w id="WB_KL-36:17" head="0" synrel="DIS" external-dependency="yes">
+							<m lemma="3745">kári</m>
+						</w>
+						<w id="WB_KL-36:18" head="0" synrel="DIS" external-dependency="yes">
+							<m lemma="6847">xás</m>
+						</w>
+						<w gl="Towhee" id="WB_KL-36:19" head="0" synrel="SBJ" external-dependency="yes">
+							<m lemma="693">asmáax</m>
+						</w> "
+						<w id="WB_KL-36:20" head="WB_KL-36:21" synrel="TAM">
+							<m lemma="6042">tîi</m>
+						</w>
+						<w gl="let me pick it up!" id="WB_KL-36:21" head="0" synrel="OUOT" external-dependency="yes">
+							<m lemma="3735">kan</m>
+							<m lemma="1468">'ífik</m>
+							<m lemma="1419">i</m>
+						</w>
+						<w gl="the scraps" id="WB_KL-36:22" pos="N" head="WB_KL-36:21" synrel="OBJ">
+							<m lemma="4407" id="WB_KL-36:23" head="WB_KL-36:22" synrel="ATR">pa</m>
+							<m lemma="5785">taxrat</m>
+							<m lemma="1244">êep</m>
+						</w>."
+					</txt>
+					<trans lang="eng">And when they finished attaching arrowheads, then Towhee thought, "Let me pick up the scraps".</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w id="WB_KL-36:24" head="WB_KL-36:26" synrel="DIS">
+							<m lemma="3745">kári</m>
+						</w>
+						<w id="WB_KL-36:25" head="WB_KL-36:26" synrel="DIS">
+							<m lemma="6847">xás</m>
+						</w>
+						<w gl="he attached arrowheads" id="WB_KL-36:26" head="0" synrel="PRED">
+							<m lemma="6175">u</m>
+							<m lemma="5785">táxraa</m>
+							<m lemma="6035">tih</m>
+						</w>.
+					</txt>
+					<trans lang="eng">Then he attached arrowheads.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w id="WB_KL-36:27" head="WB_KL-36:30" synrel="DIS">
+							<m lemma="6675">vúra</m>
+						</w>
+						<w id="WB_KL-36:28" head="WB_KL-36:30" synrel="SBJ">
+							<m lemma="6307">uum</m>
+						</w>
+						<w gl="it was" id="WB_KL-36:29" pos="PCL" head="WB_KL-36:30" synrel="TAM">
+							<m lemma="5506">t</m>
+							<m lemma="6175">óo</m>
+						</w>
+						<w id="WB_KL-36:30" head="0" synrel="PRED">
+							<m lemma="2400">mchaaxripaa</m>
+						</w>.
+					</txt>
+					<trans lang="eng">The heat was coming out (of the fire).</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w gl="when he looked at it" id="WB_KL-36:31" head="WB_KL-36:36" synrel="ADV">
+							<m lemma="4408" id="WB_KL-36:32" head="WB_KL-36:31" synrel="SUB">p</m>
+							<m lemma="6175">óo</m>
+							<m lemma="2570">muus</m>
+							<m lemma="6035">ti</m>
+						</w>
+						<w gl="that he was attaching arrowheads" id="WB_KL-36:33" head="WB_KL-36:31" synrel="COMP">
+							<m lemma="4408" id="WB_KL-36:34" head="WB_KL-36:33" synrel="SUB">p</m>
+							<m lemma="6175">oo</m>
+							<m lemma="5785">táxraa</m>
+							<m lemma="6035">ti</m>
+						</w>
+						<w gl="into the fire" id="WB_KL-36:34" head="WB_KL-36:36" synrel="ADV">
+							<m lemma="4407" id="WB_KL-36:35" head="WB_KL-36:34" synrel="ATR">pa</m>
+							<m lemma="16">'áak</m>
+						</w>
+						<w gl="he looked into the fire" id="WB_KL-36:36" head="0" synrel="PRED">
+							<m lemma="6175">u</m>
+							<m lemma="3392">tkírih</m>
+						</w>.
+					</txt>
+					<trans lang="eng">When he looked at his arrowhead-attaching, he looked into the fire.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w gl="you see" id="WB_KL-36:37" head="WB_KL-36:42" synrel="DIS">
+							<m lemma="5160">púya</m>
+							<m lemma="6383" id="WB_KL-36:38" head="WB_KL-36:39" synrel="COMP">va</m>
+						</w>
+						<w id="WB_KL-36:39" head="WB_KL-36:42" synrel="ADV">
+							<m lemma="3971">kumá'ii</m>
+						</w>
+						<w gl="his eyes" id="WB_KL-36:40" head="WB_KL-36:42" synrel="SBJ">
+							<m lemma="4407" id="WB_KL-36:41" head="WB_KL-36:40" synrel="ATR">pa</m>
+							<m lemma="4260">mú</m>
+							<m lemma="7239">yuup</m>
+						</w>
+						<w id="WB_KL-36:42" head="0" synrel="PRED">
+							<m lemma="78">aaxkúnish</m>
+						</w>
+						<w gl="because it (the heat) came out" id="WB_KL-36:43" head="WB_KL-36:42" synrel="ADV">
+							<m lemma="4408" id="WB_KL-36:44" head="WB_KL-36:43" synrel="SUB">p</m>
+							<m lemma="6175">oo</m>
+							<m lemma="2407">mchaaxrípaa</m>
+							<m lemma="1369">nik</m>
+						</w>.
+					</txt>
+					<trans lang="eng">So for that reason his eyes are red from the heat that came out.</trans>
+				</s>
+			</paragraph>
+		</data>
+	</text>

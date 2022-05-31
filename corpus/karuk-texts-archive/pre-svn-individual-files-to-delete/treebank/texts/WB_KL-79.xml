@@ -1,0 +1,242 @@
+<text id="WB_KL-79">	
+<metadata>	
+<title>"Work Contests"</title>	
+<author>Nettie <alph>Reuben</alph></author>	
+<date>1957</date>	
+<publication>William Bright, <em>The Karok Language</em> (1957), pp. 292-293, Text 79</publication>	
+</metadata>	
+<data>
+<paragraph>
+<s>
+	<txt lang="kyh">
+		<w gl="the young women" id="WB_KL-79:1" head="WB_KL-79:5" synrel="SBJ">
+			<m lemma="4407" id="WB_KL-79:2" head="WB_KL-79:1" synrel="ATR">pa</m>
+			<m lemma="1459">'ifápiit</m>
+			<m lemma="5200">sha</m>
+		</w> 
+		<w id="WB_KL-79:3" head="WB_KL-79:5" synrel="OBJ">
+			<m lemma="5323">sárip</m>
+		</w>
+		<w id="WB_KL-79:4" head="WB_KL-79:5" synrel="TAM">
+			<m lemma="5506">tá</m>
+		</w>
+		<w gl="they went to pick them" id="WB_KL-79:5" head="0" synrel="PRED">
+			<m lemma="3977">kun</m>
+			<m lemma="3120">ishtúk</m>
+			<m lemma="501">an</m>
+			<m lemma="6380">va</m>
+		</w>.
+	</txt>
+	<trans lang="eng">The young women went gathering hazel sticks.</trans>
+</s>
+<s>
+	<txt lang="kyh">
+		<w id="WB_KL-79:6" head="WB_KL-79:8" synrel="DIS">
+			<m lemma="6847">xás</m>
+		</w>
+		<w id="WB_KL-79:7" head="WB_KL-79:8" synrel="TAM">
+			<m lemma="5506">tá</m>
+		</w>
+		<w gl="they came back" id="WB_KL-79:8" head="0" synrel="PRED">
+			<m lemma="3977">kun</m>
+			<m lemma="4686">pavyíhuk</m>
+		</w>.
+	</txt>
+	<trans lang="eng">Then they came home.</trans>
+</s>
+<s>
+	<txt lang="kyh">
+		<w id="WB_KL-79:9" head="WB_KL-79:10" synrel="TAM">
+			<m lemma="5506">tá</m>
+		</w>
+		<w gl="they carried it in pack baskets" id="WB_KL-79:10" head="0" synrel="PRED">
+			<m lemma="3977">kun</m>
+			<m lemma="6142">turíshriihva</m>
+		</w>
+		<w gl="the hazel sticks" id="WB_KL-79:11" head="WB_KL-79:10" synrel="OBJ">
+			<m lemma="4407" id="WB_KL-79:12" head="WB_KL-79:11" synrel="ATR">pa</m>
+			<m lemma="5323">sárip</m>
+		</w>.
+	</txt>
+<trans lang="eng">They carried home the hazel sticks in burden baskets.</trans>
+</s>
+<s>
+	<txt lang="kyh">
+		<w id="WB_KL-79:13" head="WB_KL-79:22" synrel="DIS">
+			<m lemma="3745">kári</m>
+		</w>
+		<w id="WB_KL-79:14" head="WB_KL-79:22" synrel="DIS">
+			<m lemma="6847">xás</m>
+		</w>
+		<w id="WB_KL-79:15" head="WB_KL-79:22" synrel="DIS">
+			<m lemma="6675">vúra</m>
+		</w>
+		<w id="WB_KL-79:16" head="WB_KL-79:19" synrel="APOS">
+			<m lemma="6307">uum</m>
+		</w>
+		<w id="WB_KL-79:17" head="WB_KL-79:19" synrel="ATR">
+			<m lemma="5541">táay</m>
+		</w>
+		<w id="WB_KL-79:18" head="WB_KL-79:19" synrel="ATR">
+			<m lemma="7025">yáan'iiftihan</m>
+		</w>
+		<w gl="the young men" id="WB_KL-79:19" head="WB_KL-79:22" synrel="SBJ">
+			<m lemma="4407" id="WB_KL-79:20" head="WB_KL-79:19" synrel="ATR">pa</m>
+			<m lemma="141">'afíshnihanich</m>
+			<m lemma="584">as</m>
+		</w>
+		<w id="WB_KL-79:21" head="WB_KL-79:22" synrel="TAM">
+			<m lemma="5506">tá</m>
+		</w>
+		<w gl="they peeled sticks" id="WB_KL-79:22" head="0" synrel="PRED">
+			<m lemma="3977">kun</m>
+			<m lemma="5888">tháruf</m>
+			<m lemma="6648">vunaa</m>
+		</w>.
+	</txt>
+	<trans lang="eng">And lots of young unmarried men peeled the sticks.</trans>
+</s>
+<s>
+	<txt lang="kyh">
+		<w id="WB_KL-79:23" head="WB_KL-79:25" synrel="DIS">
+			<m lemma="6847">xás</m>
+		</w>
+		<w id="WB_KL-79:24" head="WB_KL-79:25" synrel="TAM">
+			<m lemma="5506">tá</m>
+		</w>
+		<w gl="they said" id="WB_KL-79:25" head="0" synrel="PRED">
+			<m lemma="3977">kun</m>
+			<m lemma="4823">píip</m>
+		</w> "
+		<w id="WB_KL-79:26" head="WB_KL-79:27" synrel="TAM">
+			<m lemma="1144">chími</m>
+		</w>
+		<w gl="let us have a work contest!" id="WB_KL-79:27" head="WB_KL-79:25" synrel="QUOT">
+			<m lemma="4370">nu</m>
+			<m lemma="6697">vûuksahi</m>
+			<m lemma="4298">naa</m>
+		</w>."
+	</txt>
+	<trans lang="eng">They would say, "Let's have a contest!"</trans>
+	<note publish="yes">Bright: "The winner was the first to peel ten sticks."</note>
+</s>
+</paragraph>
+<paragraph>
+<s>
+	<txt lang="kyh">
+		<w id="WB_KL-79:28" head="WB_KL-79:30" synrel="DIS">
+			<m lemma="3758">káruma</m>
+		</w>
+		<w id="WB_KL-79:29" head="WB_KL-79:30" synrel="TAM">
+			<m lemma="5506">tá</m>
+		</w>
+		<w gl="they picked them up" id="WB_KL-79:30" head="0" synrel="PRED">
+			<m lemma="3977">kun</m>
+			<m lemma="1468">'ífik</m>
+			<m lemma="6648">vunaa</m>
+		</w>
+		<w gl="the acorns" id="WB_KL-79:31" head="WB_KL-79:30" synrel="OBJ">
+			<m lemma="4407" id="WB_KL-79:32" head="WB_KL-79:31" synrel="ATR">pa</m>
+			<m lemma="6907">xuntápan</m>
+		</w>.
+	</txt>
+	<trans lang="eng">(Or) the case would be that they were gathering acorns.</trans>
+</s>
+<s>
+	<txt lang="kyh">
+		<w id="WB_KL-79:33" head="WB_KL-79:36" synrel="DIS">
+			<m lemma="6847">xás</m>
+		</w>
+		<w id="WB_KL-79:34" head="WB_KL-79:36" synrel="DIS">
+			<m lemma="3745">kári</m>
+		</w>
+		<w id="WB_KL-79:35" head="WB_KL-79:36" synrel="TAM">
+			<m lemma="5506">tá</m>
+		</w>
+		<w gl="they came back" id="WB_KL-79:36" head="0" synrel="PRED">
+			<m lemma="3977">kun</m>
+			<m lemma="4686">pavyíhuk</m>
+		</w>
+		<w gl="the young women" id="WB_KL-79:37" head="WB_KL-79:36" synrel="SBJ">
+			<m lemma="4407" id="WB_KL-79:38" head="WB_KL-79:37" synrel="ATR">pa</m>
+			<m lemma="1459">'ifápiit</m>
+			<m lemma="5200">sha</m>
+		</w>.
+	</txt>
+	<trans lang="eng">And the young women would come home.</trans>
+</s>
+<s>
+	<txt lang="kyh">
+		<w gl="all full" id="WB_KL-79:39" head="WB_KL-79:41" synrel="SPRED">
+			<m lemma="1010">axyará</m>
+			<m lemma="6413">va</m>
+		</w>
+		<w id="WB_KL-79:40" head="WB_KL-79:41" synrel="TAM">
+			<m lemma="5506">tá</m>
+		</w>
+		<w gl="they picked it up" id="WB_KL-79:41" head="0" synrel="PRED">
+			<m lemma="3977">kun</m>
+			<m lemma="1468">'ífik</m>
+		</w>
+		<w id="WB_KL-79:42" head="WB_KL-79:41" synrel="OBJ">
+			<m lemma="789">átimnam</m>
+		</w>.
+	</txt>
+	<trans lang="eng">They picked the burden baskets full.</trans>
+</s>
+<s>
+	<txt lang="kyh">
+		<w gl="you see" id="WB_KL-79-43" head="WB_KL-79:46" synrel="DIS">
+				<m lemma="5160">púya</m>
+				<m lemma="6383" id="WB_KL-79:44" head="WB_KL-79:46" synrel="DIS">va</m>
+		</w>
+		<w id="WB_KL-79:45" head="WB_KL-79:46" synrel="TAM">
+				<m lemma="5506">tá</m>
+		</w>
+		<w gl="they came back" id="WB_KL-79:46" head="0" synrel="PRED">
+				<m lemma="3977">kun</m>
+				<m lemma="4686">pavyíhuk</m>
+		</w>,
+		<w id="WB_KL-79:47" head="0" synrel="DIS" external-dependency="yes">
+			<m lemma="3745">kári</m>
+		</w>
+		<w id="WB_KL-79:48" head="0" synrel="DIS" external-dependency="yes">
+			<m lemma="6847">xás</m>
+		</w> "
+		<w id="WB_KL-79:49" head="WB_KL-79:50" synrel="TAM">
+			<m lemma="1144">chími</m>
+		</w>
+		<w gl="let us have a work contest!" id="WB_KL-79:50" head="0" synrel="QUOT" external-dependency="yes">
+			<m lemma="4370">nu</m>
+			<m lemma="6697">vûuksahi</m>
+			<m lemma="4298">naa</m>
+		</w>."
+	</txt>
+	<trans lang="eng">So they came home and then (they said), "Let's have a contest!"</trans>
+	<note>This analysis could be extended to all cases of verbal coordination.</note>
+</s>
+<s>
+	<txt lang="kyh">
+		<w>
+			<syntactic-word id="WB_KL-79:51" head="WB_KL-79:52" synrel="COMP">
+				<m lemma="421">apmáan</m>
+			</syntactic-word>
+		</w>
+		<w>
+			<syntactic-word id="WB_KL-79:52" head="WB_KL-79:53" synrel="ADV">
+				<m lemma="4281">mûuk</m>
+			</syntactic-word>
+		</w>
+		<w gl="they cracked them">
+			<syntactic-word id="WB_KL-79:53" head="0" synrel="PRED">
+				<m lemma="3977">kun</m>
+				<m lemma="1089">chátnak</m>
+				<m lemma="6035">tih</m>
+			</syntactic-word>
+		</w>.
+	</txt>
+	<trans lang="eng">They cracked them with their mouths (i.e., with their teeth).</trans>
+</s>
+</paragraph>
+</data>
+</text>

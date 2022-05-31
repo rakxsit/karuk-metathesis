@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-69">
+    <metadata>
+        <title>"Salmon Fishing"</title>
+        <author>Julia <alph>Starritt</alph></author>
+        <date>1957</date>
+        <publication>William Bright, <em>The Karok Language</em> (1957), pp. 282-285, Text 69</publication>
+    </metadata>
+    <data>
+		<paragraph>
+			<s>
+				<kar>	
+					<w gl="the Indian">
+						<m id="4407">pa</m>
+						<m id="506">'áraar</m>
+					</w>
+					<w>
+						<m id="6307">uum</m>
+					</w>
+					<w gl="the salmon">
+						<m id="4407">pa</m>
+						<m id="30">'áama</m>
+					</w>
+					<w gl="he fished for them in a certain way">
+						<m id="6175">u</m>
+						<m id="4004">kupée</m>
+						<m id="1977">kriihv</m>
+						<m id="169">ahi</m>
+						<m id="6035">tih</m>
+					</w>.
+				</kar>
+				<eng>The Indians fished for salmon in a certain way.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="4978">píshiip</m>
+					</w>
+					<w>
+						<m id="2593">imvír</m>
+					</w>
+					<w>
+						<m id="5506">tá</m>
+					</w>
+					<w gl="they made it">
+						<m id="3977">kun</m>
+						<m id="2348">íkyav</m>
+					</w>.
+				</kar>
+				<eng>First they made a fishing platform.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="5530">táaskar</m>
+					</w>
+					<w gl="they were made of">
+						<m id="3977">kun</m>
+						<m id="2348">kyâa</m>
+						<m id="502">ra</m>
+						<m id="6035">tih</m>
+					</w>.
+				</kar>
+				<eng>It was made of poles.</eng>
+			</s>
+			<s>
+				<kar>
+					<w gl="into the river">
+						<m id="3007">ishkêesh</m>
+						<m id="232">ak</m>
+					</w>
+					<w gl="they were stuck in">
+						<m id="3977">kun</m>
+						<m id="6487">vêehkurih</m>
+						<m id="6378">vu</m>
+						<m id="6035">ti</m>
+					</w>
+					<w gl="the poles">
+						<m id="4407">pa</m>
+						<m id="5530">táaskar</m>
+					</w>.
+				</kar>
+				<eng>The poles were stuck into the river.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w>
+						<m id="5264">sákriv</m>
+					</w>
+					<w>
+                        <m id="6675">vúra</m>
+                    </w>
+					<w>
+						<m id="5506">tá</m>
+					</w>
+					<w gl="they were stuck in">
+						<m id="3977">kun</m>
+						<m id="6487">vêehkurih</m>
+						<m id="6378">va</m>
+					</w>.
+				</kar>
+				<eng>And they were stuck in tight.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w gl="their fish-trap">
+						<m id="4407">pa</m>
+						<m id="4264">mukun</m>
+						<m id="1969">'ikríhar</m>
+					</w>
+					<w>
+						<m id="6307">uum</m>
+					</w>
+					<w gl="little poles">
+						<m id="5530">taskana</m>
+						<m id="6128">tunvêech</m>
+						<m id="5200">as</m>
+					</w>
+					<w gl="it was made of">
+						<m id="6175">u</m>
+						<m id="2348">kyâa</m>
+						<m id="502">ra</m>
+						<m id="168">hi</m>
+						<m id="6035">tih</m>
+					</w>.
+				</kar>
+				<eng>And their fish-trap was made of little poles.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w>
+						<m id="6383">vaa</m>
+					</w>
+					<w>
+						<m id="3670">káan</m>
+					</w>
+					<w gl="the net">
+						<m id="4407">pa</m>
+						<m id="6258">'urípi</m>
+					</w>
+					<w gl="it was tied onto">
+						<m id="6175">u</m>
+						<m id="2645">nhík</m>
+						<m id="168">ahi</m>
+						<m id="6035">tih</m>
+					</w>.
+				</kar>
+				<eng>And the net was tied on there.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="5163">púyava</m>
+					</w>
+					<w gl="when they fished">
+						<m id="4408">pa</m>
+						<m id="3977">kun</m>
+						<m id="1977">íkriihvu</m>
+						<m id="6035">ti</m>
+					</w>
+					<w>
+						<m id="6383">vaa</m>
+					</w>
+					<w>
+						<m id="3670">káan</m>
+					</w>
+					<w gl="they sat on">
+						<m id="3977">kun</m>
+						<m id="4085">kûuntako</m>
+					</w>
+					<w gl="on top of the fishing platform">
+						<m id="4407">pee</m>
+						<m id="2593">mvir</m>
+						<m id="232">ak</m>
+						<m id="2697">'ípan</m>
+					</w>.
+				</kar>
+				<eng>So when they fished, they sat there on top of the fishing platform.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="5163">púyava</m>
+					</w>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w gl="their net">
+						<m id="4264">mukun</m>
+						<m id="6258">'urípi</m>
+					</w>
+					<w>
+						<m id="50">aas</m>
+					</w>
+					<w>
+						<m id="5506">tá</m>
+					</w>
+					<w gl="they set it into water">
+						<m id="3977">kun</m>
+						<m id="1991">ikríkurih</m>
+					</w>.
+				</kar>
+				<eng>And they set their net into the water.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w gl="the end of the net">
+						<m id="4407">pa</m>
+						<m id="6258">'uripih</m>
+						<m id="2697">'ípan</m>
+					</w>
+					<w gl="a long string">
+						<m id="33">an</m>
+						<m id="6840">xára</m>
+					</w>
+					<w gl="he tied it to">
+						<m id="6175">u</m>
+						<m id="2644">nhîishrih</m>
+					</w>.
+				</kar>
+				<eng>And they tied a long string to the end of the net.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<kar>
+					<w gl="the net">
+						<m id="4407">pa</m>
+						<m id="6258">'urípi</m>
+					</w>
+					<w>
+						<m id="6307">uum</m>
+					</w>
+					<w>
+						<m id="6397">vâaram</m>
+					</w>
+					<w gl="it was made">
+						<m id="6175">u</m>
+						<m id="2348">kyâa</m>
+						<m id="168">hi</m>
+						<m id="6035">tih</m>
+					</w>.
+				</kar>
+				<eng>The net was made long.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="2702">ipanîich</m>
+					</w>
+					<w>
+                        <m id="6675">vúra</m>
+                    </w>
+					<w>
+						<m id="6307">uum</m>
+					</w>
+					<w>
+						<m id="1221">chûuyich</m>
+					</w>.
+				</kar>
+				<eng>At the far end it was narrow.</eng>
+			</s>
+			<s>
+				<kar>
+					<w gl="at the top">
+						<m id="4407">pa</m>
+						<m id="821">'ávahkam</m>
+					</w>
+					<w>
+						<m id="6307">uum</m>
+					</w>
+					<w>
+						<m id="6087">tírih</m>
+					</w>.
+				</kar>
+				<eng>At the top it was wide.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="5163">púyava</m>
+					</w>
+					<w gl="when into the water">
+						<m id="4408">pá</m>
+						<m id="50">'aas</m>
+					</w>
+					<w gl="it was set">
+						<m id="6175">u</m>
+						<m id="1991">kríkurih</m>
+						<m id="6378">va</m>
+					</w>
+					<w>
+						<m id="5163">púyava</m>
+					</w>
+					<w gl="when the salmon">
+						<m id="4408">pa</m>
+						<m id="30">'áama</m>
+					</w>
+					<w>
+						<m id="5506">tá</m>
+					</w>
+					<w gl="they came up">
+						<m id="3977">kun</m>
+						<m id="3490">ívyiihraa</m>
+					</w>, 
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w gl="into the net">
+						<m id="6258">urípih</m>
+						<m id="232">ak</m>
+					</w>
+					<w>
+						<m id="5506">tá</m>
+					</w>
+					<w gl="they ran in">
+						<m id="3977">kun</m>
+						<m id="1563">ihmáravar</m>
+					</w>.
+				</kar>
+				<eng>So when they set it into the water, when the salmon came up, then they ran into the net.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="5163">púyava</m>
+					</w>
+					<w gl="when at the end">
+						<m id="4408">pa</m>
+						<m id="2702">'ipanîich</m>
+					</w>
+					<w gl="the salmon">
+						<m id="4407">pa</m>
+						<m id="30">'áama</m>
+					</w>
+					<w gl="it arrived there">
+						<m id="5506">t</m>
+						<m id="6175">u</m>
+						<m id="6306">'uum</m>
+						<m id="1358">áhaak</m>
+					</w>
+					<w>
+						<m id="5163">púyava</m>
+					</w>
+					<w gl="the string">
+						<m id="4407">pa</m>
+						<m id="33">'áan</m>
+					</w>
+					<w gl="it had">
+						<m id="5506">t</m>
+						<m id="6175">óo</m>
+					</w>
+					<w>
+						<m id="3799">kéen</m>
+					</w>.
+				</kar>
+				<eng>When the salmon got to the end, the string quivered.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="5163">púyava</m>
+					</w>
+					<w>
+						<m id="3745">kári</m>
+					</w>
+					<w gl="the Indian">
+						<m id="4407">pa</m>
+						<m id="506">'áraar</m>
+					</w>
+					<w gl="the net">
+						<m id="4407">pa</m>
+						<m id="6258">'urípi</m>
+					</w>
+					<w gl="he pulled it out again">
+						<m id="6175">u</m>
+						<m id="2674">p</m>
+						<m id="3372">ithyúruripaa</m>
+					</w>.
+				</kar>
+				<eng>Then the Indian pulled the net out of the water.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="7039">yanavéekva</m>
+					</w>
+					<w gl="the salmon">
+						<m id="4407">pa</m>
+						<m id="30">'áama</m>
+					</w>
+					<w>
+						<m id="5502">su'</m>
+					</w>.
+				</kar>
+				<eng>He saw the salmon inside</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="5163">púyava</m>
+					</w>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w>
+						<m id="7273">á'</m>
+					</w>
+					<w gl="he had">
+						<m id="5506">t</m>
+						<m id="6175">óo</m>
+					</w>
+					<w>
+						<m id="3371">thyúruraa</m>
+					</w>.
+				</kar>
+				<eng>So he pulled it up (out).</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w>
+						<m id="3745">kári</m>
+					</w>
+					<w gl="the salmon">
+						<m id="4407">pa</m>
+						<m id="30">'áama</m>
+					</w>
+					<w>
+						<m id="215">áhup</m>
+					</w>
+					<w>
+						<m id="4281">mûuk</m>
+					</w>
+					<w gl="he had hit it">
+						<m id="5506">t</m>
+						<m id="6175">u</m>
+						<m id="260">'ákoo</m>
+					</w>.
+				</kar>
+				<eng>And he hit the salmon with a stick (to kill it).</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="5163">púyava</m>
+					</w>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w>
+						<m id="4139">mâaka</m>
+					</w>
+					<w gl="he had">
+						<m id="5506">t</m>
+						<m id="6175">óo</m>
+					</w>
+					<w>
+						<m id="3022">skúruhripaa</m>
+					</w>.
+				</kar>
+				<eng>Then he carried it ashore.</eng>
+			</s>
+			<s>
+				<kar>
+					<w gl="so">
+						<m id="6570">víri</m>
+						<m id="6383">va</m>
+					</w>
+					<w gl="the salmon">
+						<m id="4407">pa</m>
+						<m id="30">'áama</m>
+					</w>
+					<w gl="they caught them that way">
+						<m id="3977">kun</m>
+						<m id="4004">kupee</m>
+						<m id="3580">ykár</m>
+						<m id="169">ahi</m>
+						<m id="6035">tih</m>
+					</w>.
+				</kar>
+				<eng>They caught the salmon that way.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<kar>
+					<w gl="they say">
+						<m id="3977">kun</m>
+						<m id="4823">ipí</m>
+						<m id="6035">ti</m>
+					</w> "
+					<w>
+						<m id="6307">uum</m>
+					</w>
+					<w gl="they won't catch it">
+						<m id="5082">pu</m>
+						<m id="5051">piykár</m>
+						<m id="1379">eesh</m>
+						<m id="399">ap</m>
+					</w>
+					<w gl="if there">
+						<m id="4408">pa</m>
+						<m id="3670">káan</m>
+					</w>
+					<w>
+						<m id="656">asiktávaan</m>
+					</w>
+					<w gl="she was going around">
+						<m id="6175">u</m>
+						<m id="6683">vúrayvu</m>
+						<m id="6035">ti</m>
+						<m id="1358">haak</m>
+					</w>."
+				</kar>
+				<eng>People said they wouldn't catch (anything) if a woman was around there.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="656">asiktávaan</m>
+					</w>
+					<w>
+						<m id="6307">uum</m>
+					</w>
+					<w gl="not there">
+						<m id="5082">pu</m>
+						<m id="3670">káan</m>
+					</w>
+					<w gl="she didn't go around">
+						<m id="6683">vúrayvu</m>
+						<m id="6035">ti</m>
+						<m id="1371">hara</m>
+					</w>
+					<w gl="the fishing=platform">
+						<m id="4407">pee</m>
+						<m id="2593">mvír</m>
+						<m id="232">ak</m>
+					</w>.
+				</kar>
+				<eng>A woman didn't go around the fishing platform there.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="3752">káru</m>
+					</w>
+					<w gl="they didn't eat it">
+						<m id="5082">pu</m>
+						<m id="814">'aam</m>
+						<m id="6035">tíh</m>
+						<m id="399">ap</m>
+					</w>
+					<w>
+						<m id="3752">káru</m>
+					</w>
+					<w>
+						<m id="4986">pishpíshih</m>
+					</w>.
+				</kar>
+				<eng>And (the fishermen) didn't eat honey either.</eng>
+			</s>
+		</paragraph>
+	</data>
+</text>
+						
+					
+						

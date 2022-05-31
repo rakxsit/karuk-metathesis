@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-90">
+    <metadata>
+        <title>"Smoke"</title>
+        <author>Julia <alph>Starritt</alph></author>
+        <date>1957</date>
+        <publication>William Bright, <em>The Karok Language</em> (1957), pp. 302-303, Text
+            90</publication>
+    </metadata>
+    <data>
+        <paragraph>
+            <s>
+                <kar><w><m id="4121">kuyûum</m></w>
+                    <w gl="big smoke"><m id="341">amkúf</m><m id="3668">kaam</m></w>.</kar>
+                <eng>There's a big (lot of) smoke just downriver.</eng>
+            </s>
+            <s>
+                <kar><w><m id="4299">naa</m></w>
+                    <w gl="I think"><m id="4349">ni</m><m id="6939">xú</m><m id="6035">ti</m></w>
+                            "<w><m id="0">Herbert</m></w>
+                    <w gl="he is burning them"><m id="6175">u</m><m id="13">'aahkô</m><m id="6380"
+                            >o</m><m id="6035">ti</m></w>
+                    <w gl="the fir"><m id="4407">pa</m><m id="5568">táhpuus</m></w>."</kar>
+                <eng>I think Herbert is burning fir boughs.</eng>
+            </s>
+            <s>
+                <kar><w><m id="1372">hári</m></w>
+                    <w><m id="5506">tá</m></w>
+                    <w><m id="4248">mít</m></w>
+                    <w gl="he cut it down"><m id="6175">u</m><m id="1896">kpákishrih</m><m id="738"
+                            >at</m></w>
+                    <w gl="the tree"><m id="4407">pa</m><m id="2682">'ípaha</m></w>.</kar>
+                <eng>He cut down a tree sometime (recently).</eng>
+            </s>
+        </paragraph>
+    </data>
+</text>

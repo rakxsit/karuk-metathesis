@@ -1,0 +1,188 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.245
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "transcription - words"
+		xmin = 0.0
+		xmax = 3.245
+		intervals: size = 8
+			intervals [1]:
+				xmin = 0.0000
+				xmax = 0.9400
+				text = "papusihich"
+			intervals [2]:
+				xmin = 0.9400
+				xmax = 1.0600
+				text = "vura"
+			intervals [3]:
+				xmin = 1.0600
+				xmax = 1.3400
+				text = "uum"
+			intervals [4]:
+				xmin = 1.3400
+				xmax = 1.4100
+				text = ""
+			intervals [5]:
+				xmin = 1.4100
+				xmax = 1.9400
+				text = "vaaram"
+			intervals [6]:
+				xmin = 1.9400
+				xmax = 2.0000
+				text = ""
+			intervals [7]:
+				xmin = 2.0000
+				xmax = 2.9400
+				text = "pamuqapvuuy"
+			intervals [8]:
+				xmin = 2.9400
+				xmax = 3.245
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "transcription - phones"
+		xmin = 0.0
+		xmax = 3.245
+		intervals: size = 34
+			intervals [1]:
+				xmin = 0.0000
+				xmax = 0.0500
+				text = "P"
+			intervals [2]:
+				xmin = 0.0500
+				xmax = 0.0800
+				text = "AH0"
+			intervals [3]:
+				xmin = 0.0800
+				xmax = 0.1200
+				text = "P"
+			intervals [4]:
+				xmin = 0.1200
+				xmax = 0.5500
+				text = "UH0"
+			intervals [5]:
+				xmin = 0.5500
+				xmax = 0.6900
+				text = "SH"
+			intervals [6]:
+				xmin = 0.6900
+				xmax = 0.7200
+				text = "IH0"
+			intervals [7]:
+				xmin = 0.7200
+				xmax = 0.7700
+				text = "HH"
+			intervals [8]:
+				xmin = 0.7700
+				xmax = 0.8900
+				text = "IH0"
+			intervals [9]:
+				xmin = 0.8900
+				xmax = 0.9400
+				text = "CH"
+			intervals [10]:
+				xmin = 0.9400
+				xmax = 0.9700
+				text = "V"
+			intervals [11]:
+				xmin = 0.9700
+				xmax = 1.0000
+				text = "UH0"
+			intervals [12]:
+				xmin = 1.0000
+				xmax = 1.0300
+				text = "R"
+			intervals [13]:
+				xmin = 1.0300
+				xmax = 1.0600
+				text = "AH0"
+			intervals [14]:
+				xmin = 1.0600
+				xmax = 1.1900
+				text = "UW1"
+			intervals [15]:
+				xmin = 1.1900
+				xmax = 1.3400
+				text = "M"
+			intervals [16]:
+				xmin = 1.3400
+				xmax = 1.4100
+				text = "sp"
+			intervals [17]:
+				xmin = 1.4100
+				xmax = 1.5500
+				text = "V"
+			intervals [18]:
+				xmin = 1.5500
+				xmax = 1.7700
+				text = "AA1"
+			intervals [19]:
+				xmin = 1.7700
+				xmax = 1.8000
+				text = "R"
+			intervals [20]:
+				xmin = 1.8000
+				xmax = 1.8500
+				text = "AH0"
+			intervals [21]:
+				xmin = 1.8500
+				xmax = 1.9400
+				text = "M"
+			intervals [22]:
+				xmin = 1.9400
+				xmax = 2.0000
+				text = "sp"
+			intervals [23]:
+				xmin = 2.0000
+				xmax = 2.0600
+				text = "P"
+			intervals [24]:
+				xmin = 2.0600
+				xmax = 2.0900
+				text = "AH0"
+			intervals [25]:
+				xmin = 2.0900
+				xmax = 2.2200
+				text = "M"
+			intervals [26]:
+				xmin = 2.2200
+				xmax = 2.3400
+				text = "UH0"
+			intervals [27]:
+				xmin = 2.3400
+				xmax = 2.3700
+				text = "T"
+			intervals [28]:
+				xmin = 2.3700
+				xmax = 2.4500
+				text = "AH0"
+			intervals [29]:
+				xmin = 2.4500
+				xmax = 2.5500
+				text = "P"
+			intervals [30]:
+				xmin = 2.5500
+				xmax = 2.5900
+				text = "V"
+			intervals [31]:
+				xmin = 2.5900
+				xmax = 2.8900
+				text = "UW1"
+			intervals [32]:
+				xmin = 2.8900
+				xmax = 2.9400
+				text = "Y"
+			intervals [33]:
+				xmin = 2.9400
+				xmax = 3.2300
+				text = "sp"
+			intervals [34]:
+				xmin = 3.2300
+				xmax = 3.245
+				text = ""

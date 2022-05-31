@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-88">
+    <metadata>
+        <title>"Professor Gifford's Visit"</title>
+        <author>Emily <alph>Donohue</alph></author>
+        <date>1957</date>
+        <publication>William Bright, <em>The Karok Language</em> (1957), pp. 302-303, Text
+            88</publication>
+    </metadata>
+    <data>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w><m language="english">Mister Gifford</m></w>
+                    <w><m lemma="4976">pishíich</m></w>
+                    <w><m lemma="4248">mít</m></w>
+                    <w><m lemma="4130">ka'tim'îin</m></w>
+                    <w gl="he went there"><m lemma="6175">u</m><m lemma="6306">'úum</m><m lemma="738"
+                        >at</m></w>. </txt>
+                <trans lang="eng">Mr. Gifford went first to Katimin.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w><m lemma="4248">mít</m></w>
+                    <w><m lemma="6383">vaa</m></w>
+                    <w><m lemma="3670">káan</m></w>
+                    <w><m lemma="656">asiktávaan</m></w>
+                    <w gl="he hired"><m lemma="6175">u</m><m lemma="1584">hróo</m><m lemma="738">t</m></w>. </txt>
+                <trans lang="eng">He hired a woman there.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w><m lemma="7012">yáas</m></w>
+                    <w><m lemma="4385">ôok</m></w>
+                    <w gl="they went"><m lemma="3977">kun</m><m lemma="205">'áhoo</m><m lemma="738">t</m></w>. </txt>
+                <trans lang="eng">Then they came here.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="7012">yáas</m></w>
+                    <w gl="my mother"><m lemma="4326">naní</m><m lemma="5532">taat</m></w>
+                    <w gl="they hired"><m lemma="3977">kun</m><m lemma="1584">íhruv</m></w>
+                    <w><m lemma="4884">pikvah</m></w>. </txt>
+                <trans lang="eng">Then my mother was hired for story-telling.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w>
+                        <m lemma="7012">yáas</m>
+                    </w>
+                    <w>
+                        <m lemma="3752">káru</m>
+                    </w>
+                    <w>
+                        <m lemma="379">ánav</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">And then for medicine too.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w><m lemma="3930">koovúra</m></w>
+                    <w gl="plants"><m lemma="3970">kuma</m>
+                        <m lemma="4963">pírish</m></w>
+                    <w gl="she named"><m lemma="6175">ú</m><m lemma="3323">thvuuy</m><m lemma="6380"
+                        >va</m></w>. </txt>
+                <trans lang="eng">And she named all kinds of plants.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w><m lemma="7012">yáas</m></w>
+                    <w><m lemma="4213">máruk</m></w>
+                    <w gl="on the mountain"><m lemma="6162">tuyshípree</m><m lemma="3660">k</m></w>
+                    <w gl="they went"><m lemma="3977">kun</m><m lemma="3480">ívyiih</m><m lemma="4131"
+                        >ma</m></w>. </txt>
+                <trans lang="eng">And then they went up on the mountain.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w gl="little plants"><m lemma="4963">pínish</m><m lemma="6128">tunvêech</m></w>
+                    <w gl="they were looking"><m lemma="3977">kun</m><m lemma="414">'ápim</m><m lemma="6035"
+                            >tih</m></w>. </txt>
+                <trans lang="eng">They were looking for plants.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w><m lemma="3745">kári</m></w>
+                    <w gl="she quit"><m lemma="6175">u</m><m lemma="3909">kôoha</m></w>
+                    <w gl="the woman"><m lemma="4407">pa</m><m lemma="656">'asiktávaan</m></w>. </txt>
+                <trans lang="eng">Then the woman (from Katimin) quit.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w gl="I myself"><m lemma="4299">ná</m><m lemma="4259">mpaan</m></w>
+                    <w gl="I went with"><m lemma="4370">nu</m><m lemma="6756">xákaan</m><m lemma="1356"
+                            >ha</m></w>. </txt>
+                <trans lang="eng">Then I myself went with him.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="3753"> káruk </m></w>
+                    <w gl="we went"><m lemma="4370">nú</m><m lemma="3480">vyiih</m><m lemma="5417"
+                        >ship</m></w>
+                    <w gl="to Ferry Point"><m lemma="6080">tínxuumnipaa</m><m lemma="232">k</m></w>. </txt>
+                <trans lang="eng">We went upriver to Ferry Point.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w><m lemma="6383">vaa</m></w>
+                    <w><m lemma="3670">káan</m></w>
+                    <w gl="we told stories"><m lemma="4370">nu</m><m lemma="4884">píkva</m></w>
+                    <w gl="the women"><m lemma="4407">pa</m><m lemma="656">asiktávaan</m><m lemma="5200"
+                            >sas</m></w>
+		    <w><m lemma="3929">kóovan</m></w>. </txt>
+                <trans lang="eng">And the women there and I told stories.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w><m lemma="4385">ôok</m></w>
+                    <w gl="we came back"><m lemma="4370">nu</m><m lemma="4686">pavyíhuk</m></w>
+                    <w><m lemma="3969">kúkuum</m></w>. </txt>
+                <trans lang="eng">Then we came back here again.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w><m lemma="3745">kári</m></w>
+                    <w><m lemma="3969">kúkuum</m></w>
+                    <w><m lemma="6675">vúra</m></w>
+                    <w gl="we told stories"><m lemma="4370">nu</m><m lemma="4884">píkvaah</m><m lemma="6648"
+                            >vunaa</m></w>. </txt>
+                <trans lang="eng">And we told stories again.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w gl="Crescent City"><m lemma="7130">yuh'ará</m><m lemma="5180">riik</m></w>
+                    <w gl="we went"><m lemma="4370">nú</m><m lemma="3480">vyiih</m><m lemma="5417"
+                        >ship</m></w>. </txt>
+                <trans lang="eng">Then we went to Crescent City.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="5308">sápruuk</m></w>
+                    <w gl="we went gathering"><m lemma="4370">nu</m><m lemma="1469">'ífikan</m><m
+                            lemma="6380">va</m></w>. </txt>
+                <trans lang="eng">We went gathering olivella shells.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w gl="we came back"><m lemma="4370">nu</m><m lemma="4686">pavyíhuk</m></w>. </txt>
+                <trans lang="eng">Then we came back.</trans>
+            </s>
+        </paragraph>
+    </data>
+</text>

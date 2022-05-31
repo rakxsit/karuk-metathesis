@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="VS-11" audio-source="karuk-2011-12-21-vs-8">
+  <metadata>
+    <title>Sentences with verb paradigms, words for accent</title>
+    <author> Vina <alph>Smith</alph>
+    </author>
+    <date>2011</date>
+    <publication> Unpublished (recorded by Andrew Garrett, Line Mikkelsen, and Clare Sandy on December 21, 2011) </publication>
+  </metadata>
+  <data>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_01" audio-start-time="16:43">
+	<kar>
+	  <w>
+	    <m id="5506">tá</m>
+	  </w>
+	  <w gl="I sweep off">
+	    <m id="4349">ni</m>
+	    <m id="5754">tátuyshuru</m></w>.</kar>
+	<eng>I am sweeping the floor.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_02" audio-start-time="17:15">
+	<kar>
+	  <w gl="I will sweep off">
+	    <m id="4349">ni</m>
+	    <m id="5754">tátuyshur</m>
+	    <m id="1379">eesh</m></w>.</kar>
+	<eng>I am going to sweep the floor.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_03" audio-start-time="18:09">
+	<kar>
+	  <w>
+	    <m id="5506">tá</m>
+	  </w>
+	  <w gl="I see you">
+	    <m id="4370">nu</m>
+	    <m id="4155">mah</m></w>.</kar>
+	<eng>I see you.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_04" audio-start-time="18:14">
+	<kar>
+	  <w>
+	    <m id="5506">tá</m>
+	  </w>
+	  <w gl="I see you">
+	    <m id="4370">nu</m>
+	    <m id="4155">mah</m>
+	  </w>
+	  <w>
+	    <m id="1670">îin</m></w>.</kar>
+	<eng>I see you.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_05" audio-start-time="18:24">
+	<kar>
+	  <w>
+	    <m id="1656">iim</m>
+	  </w>
+	  <w gl="I am not seeing you">
+	    <m id="5082">pu</m>
+	    <m id="4370">nu</m>
+	    <m id="4155">máah</m>
+	    <m id="6035">tih</m>
+	    <m id="1371">ara</m></w>.</kar>
+	<eng>I do not see you.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_06" audio-start-time="18:55">
+	<kar>
+	  <w>
+	    <m id="5506">tá</m>
+	  </w>
+	  <w gl="I hear you">
+	    <m id="4370">nu</m>
+	    <m id="5954">thítiv</m></w>.</kar>
+	<eng>I hear you.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_07" audio-start-time="19:45">
+	<kar>
+	  <w>
+	    <m id="1656">iim</m>
+	  </w>
+	  <w gl="NEG-PERF">
+	    <m id="5082">pu</m>
+	    <m id="5506">tá</m>
+	  </w>
+	  <w gl="I do not hear you">
+	    <m id="4370">nu</m>
+	    <m id="5954">thítiv</m>
+	    <m id="1371">ara</m></w>.</kar>
+	<eng>I do not hear you.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_08" audio-start-time="20:31">
+	<kar>
+	  <w>
+	    <m id="1656">iim</m>
+	  </w>
+	  <w gl="I am not hearing you">
+	    <m id="5082">pu</m>
+	    <m id="4370">nu</m>
+	    <m id="5954">thítiin</m>
+	    <m id="6035">tih</m>
+	    <m id="1371">ara</m></w>.</kar>
+	<eng>I do not hear you.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_09" audio-start-time="21:31">
+	<kar>
+	  <w>
+	    <m id="1656">iim</m>
+	  </w>
+	  <w>
+	    <m id="5506">tá</m>
+	  </w>
+	  <w gl="I smell you">
+	    <m id="4370">nu</m>
+	    <m id="2492">mshákar</m></w>.</kar>
+	<eng>I smell you.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_10" audio-start-time="21:45">
+	<kar>
+	  <w>
+	    <m id="1656">iim</m>
+	  </w>
+	  <w gl="I am not smelling you">
+	    <m id="5082">pu</m>
+	    <m id="4370">nu</m>
+	    <m id="2492">mshákaan</m>
+	    <m id="6035">tih</m>
+	    <m id="1371">ara</m></w>.</kar>
+	<eng>I do not smell you.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_11" audio-start-time="22:13">
+	<kar>
+	  <w>
+	    <m id="1656">iim</m>
+	  </w>
+	  <w>
+	    <m id="5506">tá</m>
+	  </w>
+	  <w gl="I touch you">
+	    <m id="4370">nu</m>
+	    <m id="135">'áfish</m></w>.</kar>
+	<eng>I touch you.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_12" audio-start-time="22:42">
+	<kar>
+	  <w>
+	    <m id="1656">iim</m>
+	  </w>
+	  <w gl="I am not touching you">
+	    <m id="5082">pu</m>
+	    <m id="4370">nu</m>
+	    <m id="135">'áfishrih</m>
+	    <m id="1371">ara</m></w>.</kar>
+	<eng>I do not touch you.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_13" audio-start-time="23:24">
+	<kar>
+	  <w>
+	    <m id="1656">iim</m>
+	  </w>
+	  <w gl="I will bite you">
+	    <m id="4370">nu</m>
+	    <m id="135">pár</m>
+	    <m id="1379">eesh</m></w>.</kar>
+	<eng>I am going to bite you.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_14" audio-start-time="23:37">
+	<kar>
+	  <w gl="I will bite you">
+	    <m id="4370">nu</m>
+	    <m id="4549">pár</m>
+	    <m id="1379">eesh</m></w>.</kar>
+	<eng>I will bite you.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_15" audio-start-time="23:58">
+	<kar>
+	  <w>
+	    <m id="1656">iim</m>
+	  </w>
+	  <w>
+	    <m id="4716">payêem</m>
+	  </w>
+	  <w>
+	    <m id="5506">tá</m>
+	  </w>
+	  <w gl="I bite you">
+	    <m id="4370">nu</m>
+	    <m id="4549">pár</m></w>.</kar>
+	<eng>I am biting you now.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_16" audio-start-time="24:23">
+	<kar>
+	  <w>
+	    <m id="1656">iim</m>
+	  </w>
+	  <w>
+	    <m id="4299">naa</m>
+	  </w>
+	  <w gl="I will not bite you">
+	    <m id="5082">pu</m>
+	    <m id="4370">nu</m>
+	    <m id="4549">pár</m>
+	    <m id="1379">eesh</m>
+	    <m id="1371">ara</m></w>.</kar>
+	<eng>I won't bite you.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_17" audio-start-time="25:06">
+	<kar>
+	  <w>
+	    <m id="1656">iim</m>
+	  </w>
+	  <w gl="I am not biting you">
+	    <m id="5082">pu</m>
+	    <m id="4370">nu</m>
+	    <m id="4549">pár</m>
+	    <m id="1379">eesh</m>
+	    <m id="1371">ara</m>
+	  </w>
+	  <w>
+	    <m id="4716">payêem</m></w>.</kar>
+	<eng>I am not biting you right now.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_18" audio-start-time="25:31">
+	<kar>
+	  <w>
+	    <m id="4299">naa</m>
+	  </w>
+	  <w>
+	    <m id="6675">vúra</m>
+	  </w>
+	  <w gl="I am not afraid">
+	    <m id="5082">pu</m>
+	    <m id="4370">nu</m>
+	    <m id="1019">'áy</m>
+	    <m id="6035">tih</m>
+	    <m id="1371">ara</m></w>.</kar>
+	<eng>I am not afraid.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_19" audio-start-time="25:57">
+	<kar>
+	  <w>
+	    <m id="4299">naa</m>
+	  </w>
+	  <w>
+	    <m id="6675">vúra</m>
+	  </w>
+	  <w gl="I am afraid">
+	    <m id="4349">ni</m>
+	    <m id="1019">'áy</m>
+	    <m id="6035">tih</m>
+	  </w>
+	  <w>
+	    <m id="4716">payêem</m></w>.</kar>
+	<eng>I am afraid right now.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_20" audio-start-time="26:17">
+	<kar>
+	  <w gl="I am smoking">
+	    <m id="4349">ni</m>
+	    <m id="1532">hêera</m>
+	    <m id="6035">ti</m></w>.</kar>
+	<eng>I am smoking.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_21" audio-start-time="26:46">
+	<kar>
+	  <w>
+	    <m id="4299">naa</m>
+	  </w>
+	  <w gl="I smoke">
+	    <m id="4349">ni</m>
+	    <m id="1532">hêera</m>
+	    <m id="6035">ti</m></w>.</kar>
+	<eng>I smoke.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_22" audio-start-time="26:55">
+	<kar>
+	  <w>
+	    <m id="4299">naa</m>
+	  </w>
+	  <w>
+	    <m id="6675">vúra</m>
+	  </w>
+	  <w>
+	    <m id="3382">itíhaan</m>
+	  </w>
+	  <w gl="I smoke">
+	    <m id="4408">pa</m>
+	    <m id="4349">ni</m>
+	    <m id="1532">hêera</m>
+	    <m id="6035">ti</m></w>.</kar>
+	<eng>I always smoke.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_23" audio-start-time="26:59">
+	<kar>
+	  <w>
+	    <m id="4299">naa</m>
+	  </w>
+	  <w>
+	    <m id="6675">vúra</m>
+	  </w>
+	  <w>
+	    <m id="3382">itíhaan</m>
+	  </w>
+	  <w gl="I smoke">
+	    <m id="4349">ni</m>
+	    <m id="1532">hêera</m>
+	    <m id="6035">ti</m></w>.</kar>
+	<eng>I am always smoking.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_24" audio-start-time="27:20">
+	<kar>
+	  <w>
+	    <m id="4299">naa</m>
+	  </w>
+	  <w gl="I do not smoke">
+	    <m id="5082">pu</m>
+	    <m id="4296">nee</m>
+	    <m id="1532">hêera</m>
+	    <m id="6035">tih</m>
+	    <m id="1371">ara</m></w>.</kar>
+	<eng>I do not smoke.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_25" audio-start-time="27:51">
+	<kar>
+	  <w>
+	    <m id="4299">naa</m>
+	  </w>
+	  <w gl="I am smoking">
+	    <m id="4296">nee</m>
+	    <m id="1532">hêera</m>
+	    <m id="6035">ti</m></w>.</kar>
+	<eng>I am smoking.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_26" audio-start-time="28:11">
+	<kar>
+	  <w>
+	    <m id="4299">naa</m>
+	  </w>
+	  <w gl="I am whistling">
+	    <m id="4349">ni</m>
+	    <m id="1796">kfúyfuuy</m>
+	    <m id="6035">ti</m></w>.</kar>
+	<eng>I am whistling.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_27" audio-start-time="28:21">
+	<kar>
+	  <w>
+	    <m id="4299">naa</m>
+	  </w>
+	  <w gl="I whistle">
+	    <m id="4349">ni</m>
+	    <m id="1793">kfuy</m></w>.</kar>
+	<eng>I whistle.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_28" audio-start-time="28:55">
+	<kar>
+	  <w>
+	    <m language="english">Andrew</m>
+	  </w>
+	  <w gl="he had">
+	    <m id="5506">t</m>
+	    <m id="6175">óo</m>
+	  </w>
+	  <w>
+	    <m id="1793">kfuy</m></w>.</kar>
+	<eng>Andrew just whistled.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_29" audio-start-time="29:15">
+	<kar>
+	  <w>
+	    <m id="4349">tá</m>
+	  </w>
+	  <w gl="I whistle">
+	    <m id="4349">ni</m>
+	    <m id="1793">kfuy</m></w>.</kar>
+	<eng>I just whistled.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_30" audio-start-time="29:21">
+	<kar>
+	  <w>
+	    <m id="4349">naa</m>
+	  </w>
+	  <w>
+	    <m id="4349">tá</m>
+	  </w>
+	  <w gl="I whistle">
+	    <m id="4349">ni</m>
+	    <m id="1793">kfuy</m></w>.</kar>
+	<eng>I just whistled.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_31" audio-start-time="29:33">
+	<kar>
+	  <w>
+	    <m id="4349">naa</m>
+	  </w>
+
+	  <w gl="I do not whistle">
+	    <m id="5082">pu</m>
+	    <m id="4295">née</m>
+	    <m id="1793">kfuuy</m>
+	    <m id="6035">tih</m>
+	    <m id="1371">ara</m></w>.</kar>
+	<eng>I did not whistle.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_32" audio-start-time="29:52">
+	<kar>
+	  <w>
+	    <m id="4349">naa</m>
+	  </w>
+	  <w gl="I sing">
+	    <m id="4349">ni</m>
+	    <m id="4511">pakurîihvu</m>
+	    <m id="6035">ti</m></w>.</kar>
+	<eng>I sing.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_33" audio-start-time="30:12">
+	<kar>
+	  <w>
+	    <m id="4349">naa</m>
+	  </w>
+	  <w gl="I am not singing">
+	    <m id="5082">pu</m>
+	    <m id="4349">ni</m>
+	    <m id="4511">pákuriihvu</m>
+	    <m id="6035">tih</m>
+	    <m id="1371">ara</m></w>.</kar>
+	<eng>I do not sing.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_34" audio-start-time="30:35">
+	<kar>
+	  <w>
+	    <m id="1656">iim</m>
+	  </w>
+	  <w>
+	    <m id="5506">tá</m>
+	  </w>
+	  <w gl="I see you">
+	    <m id="4370">nu</m>
+	    <m id="4155">mah</m></w>.</kar>
+	<eng>I see you.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_35" audio-start-time="30:39">
+	<kar>
+	  <w>
+	    <m id="5506">tá</m>
+	  </w>
+	  <w gl="I see it">
+	    <m id="4349">ni</m>
+	    <m id="4155">mah</m></w>.</kar>
+	<eng>I see it.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_36" audio-start-time="30:44">
+	<kar>
+	  <w gl="I do not see it">
+	    <m id="5082">pu</m>
+	    <m id="4296">na</m>
+	    <m id="4155">máah</m>
+	    <m id="6035">tih</m>
+	    <m id="1371">ara</m></w>.</kar>
+	<eng>I do not see it.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_37" audio-start-time="30:54">
+	<kar>
+	  <w gl="I do not see it">
+	    <m id="5082">pu</m>
+	    <m id="4296">ná</m>
+	    <m id="4155">maah</m>
+	    <m id="6035">ti</m></w>.</kar>
+	<eng>I don't see it.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_38" audio-start-time="31:29">
+	<kar>
+	  <w>
+	    <m id="4299">naa</m>
+	  </w>
+	  <w>
+	    <m id="6675">vúra</m>
+	  </w>
+	  <w gl="I do not sing">
+	    <m id="5082">pu</m>
+	    <m id="4296">na</m>
+	    <m id="4511">pakurîihvu</m>
+	    <m id="6035">tih</m>
+	    <m id="1371">ara</m></w>.</kar>
+	<eng>I never sing.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_39" audio-start-time="31:38">
+	<kar>
+	  <w gl="I do not sing">
+	    <m id="5082">pu</m>
+	    <m id="4296">na</m>
+	    <m id="4511">pakurîihvu</m>
+	    <m id="6035">tih</m>
+	    <m id="1371">ara</m></w>.</kar>
+	<eng>I don't sing.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_40" audio-start-time="32:40">
+	<kar>
+	  <w gl="my cat">
+	    <m id="4407">pa</m>
+	    <m id="4326">nani</m>
+	    <m id="5120">púsihich</m>
+	  </w>
+	  <w gl="I am looking for it">
+	    <m id="4349">ni</m>
+	    <m id="414">'ápim</m>
+	    <m id="6035">ti</m></w>.</kar>
+	<eng>I am looking for my cat.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_41" audio-start-time="32:45">
+	<kar>
+	  <w gl="I am looking for it">
+	    <m id="4349">ni</m>
+	    <m id="414">'ápim</m>
+	    <m id="6035">ti</m></w>.</kar>
+	<eng>I am looking for it.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_42" audio-start-time="32:51">
+	<kar>
+	  <w gl="my cat">
+	    <m id="4407">pa</m>
+	    <m id="4326">nani</m>
+	    <m id="5120">púsihich</m>
+	  </w>
+	  <w>
+	    <m id="5506">tá</m>
+	  </w>
+	  <w gl="I am looking for it">
+	    <m id="4349">ni</m>
+	    <m id="414">'ápiv</m></w>.</kar>
+	<eng>I am looking for my cat.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_43" audio-start-time="33:10">
+	<kar>
+	  <w gl="I am not looking for it">
+	    <m id="5082">pu</m>
+	    <m id="4296">na</m>
+	    <m id="414">'ápim</m>
+	    <m id="6035">tih</m>
+	    <m id="1371">ara</m></w>.</kar>
+	<eng>I am not looking for it.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_44" audio-start-time="34:00">
+	<kar>
+	  <w>
+	    <m id="5506">tá</m>
+	  </w>
+	  <w gl="I burned myself">
+	    <m id="4296">née</m>
+	    <m id="2401">mchak</m></w>.</kar>
+	<eng>I burned myself.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_45" audio-start-time="34:30">
+	<kar>
+	  <w>
+	    <m id="1656">iim</m>
+	  </w>
+	  <w>
+	    <m id="3752">káru</m>
+	  </w>
+	  <w gl="you burned yourself">
+	    <m id="1418">i</m>
+	    <m id="2401">mchák</m>
+	    <m id="6392">vaan</m></w>?</kar>
+	<eng>Did you burn yourself?</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_46" audio-start-time="35:00">
+	<kar>
+	  <w gl="PERF-he">
+	    <m id="5506">t</m>
+	    <m id="6175">óo</m>
+	  </w>
+	  <w gl="get burnt">
+	    <m id="2401">mchak</m></w>.</kar>
+	<eng>He got burned.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_47" audio-start-time="35:17">
+	<kar>
+	  <w>
+	    <m id="1656">iim</m>
+	  </w>
+	  <w gl="PERF-you">
+	    <m id="5506">t</m>
+	    <m id="1418">ée</m>
+	  </w>
+	  <w>
+	    <m id="2401">mchak</m></w>.</kar>
+	<eng>You got burned.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_48" audio-start-time="37:15">
+	<kar>
+	  <w gl="I am laughing">
+	    <m id="4349">ní</m>
+	    <m id="2079">kshaah</m>
+	    <m id="6035">ti</m></w>.</kar>
+	<eng>I am laughing.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_49" audio-start-time="37:27">
+	<kar>
+	  <w>
+	    <m id="4299">naa</m>
+	  </w>
+	  <w gl="I am laughing">
+	    <m id="4349">ní</m>
+	    <m id="2079">kshaah</m>
+	    <m id="6035">ti</m></w>.</kar>
+	<eng>I am laughing.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_50" audio-start-time="37:50">
+	<kar>
+	  <w gl="I am laughing at myself">
+	    <m id="4349">ni</m>
+	    <m id="2674">p</m>
+	    <m id="2079">íkshaah</m>
+	    <m id="6035">ti</m></w>.</kar>
+	<eng>I am laughing at myself.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_51" audio-start-time="38:20">
+	<kar>
+	  <w>
+	    <m id="4299">naa</m>
+	  </w>
+	  <w gl="I am laughing at myself">
+	    <m id="4349">ní</m>
+	    <m id="2079">kshaah</m>
+	    <m id="6035">tih</m>
+	  </w>
+	  <w>
+	    <m id="6383">vaa</m></w>.</kar>
+	<eng>I am laughing at myself.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_52" audio-start-time="38:37">
+	<kar>
+	  <w>
+	    <m id="1281">fâat</m>
+	  </w>
+	  <w>
+	    <m id="5506">tá</m>
+	  </w>
+	  <w gl="I did it">
+	    <m id="4349">ní</m>
+	    <m id="4086">kúupha</m></w>?</kar>
+	<eng>What did I do?</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_53" audio-start-time="38:51">
+	<kar>
+	  <w>
+	    <m id="1656">iim</m>
+	  </w>
+	  <w gl="you are laughing">
+	    <m id="5506">t</m>
+	    <m id="1418">ée</m>
+	    <m id="2079">kshah</m></w>.</kar>
+	<eng>You are laughing.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_54" audio-start-time="39:08">
+	<kar>
+	  <w>
+	    <m id="1656">iim</m>
+	  </w>
+	  <w gl="PERF-you">
+	    <m id="5506">t</m>
+	    <m id="1418">ee</m>
+	  </w>
+	  <w>
+	    <m id="5584">tákav</m>
+	  </w>
+	  <w>
+	    <m id="4706">páxut</m></w>.</kar>
+	<eng>You are making fun of him.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_55" audio-start-time="39:17">
+	<kar>
+	  <w>
+	    <m id="5506">tá</m>
+	  </w>
+	  <w gl="I make fun of him">
+	    <m id="4349">ni</m>
+	    <m id="5584">tákav</m></w>.</kar>
+	<eng>I am making fun of him.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_56" audio-start-time="39:19">
+	<kar>
+	  <w>
+	    <m id="1656">iim</m>
+	  </w>
+	  <w gl="PERF-you">
+	    <m id="5506">t</m>
+	    <m id="1418">ee</m>
+	  </w>
+	  <w>
+	    <m id="5584">tákav</m>
+	    </w>
+	  <w gl="your friend">
+	    <m id="4407">pa</m>
+	    <m id="4238">mí</m>
+	    <m id="167">fyiiv</m></w>.</kar>
+	<eng>You are making fun of your friend.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_57" audio-start-time="41:36">
+	<kar>
+	  <w>
+	    <m id="2766">ipít</m>
+	  </w>
+	  <w>
+	    <m id="1649">îikam</m>
+	  </w>
+	  <w gl="the goose">
+	    <m id="4407">p</m>
+	    <m id="174">aháknah</m>
+	    </w>
+	  <w>
+	    <m id="4385">ôok</m>
+	  </w>
+	  <w>
+	    <m id="3670">kaan</m>
+	  </w>
+	  <w gl="it sat">
+	    <m id="6175">ú</m>
+	    <m id="1974">krii</m></w>.</kar>
+	<eng>There was a goose outside yesterday.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_58" audio-start-time="42:01">
+	<kar>
+	  <w>
+	    <m id="4385">ôok</m>
+	  </w>
+	  <w>
+	    <m id="3670">kaan</m>
+	  </w>
+	  <w>
+	    <m id="1649">îikam</m>
+	  </w>
+	  <w gl="it sat">
+	    <m id="6175">ú</m>
+	    <m id="1974">krii</m>
+	  </w>
+	  <w gl="the goose">
+	    <m id="4407">p</m>
+	    <m id="174">aháknah</m></w>.</kar>
+	<eng>There was a goose outside.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_59" audio-start-time="42:16">
+	<kar>
+	  <w>
+	    <m id="1649">îikam</m>
+	  </w>
+	  <w gl="he sits">
+	    <m id="6175">ú</m>
+	    <m id="1974">krii</m></w>.</kar>
+	<eng>He sits outside.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_60" audio-start-time="43:38">
+	<kar>
+	  <w gl="the skunk">
+	    <m id="4407">pa</m>
+	    <m id="1158">chínim</m>
+	  </w>
+	  <w gl="when it was yesterday">
+	    <m id="4408">pa</m>
+	    <m id="2766">'ipíta</m>
+	  </w>
+	  <w>
+	    <m id="1671">iinâak</m>
+	  </w>
+	  <w gl="it came inside">
+	    <m id="6175">u</m>
+	    <m id="6606">vôonfuruk</m>
+	    <m id="738">a</m>
+	    <m id="6035">ti</m></w>.</kar>
+	<eng>There was a skunk inside the house yesterday.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_61" audio-start-time="45:57">
+	<kar>
+	  <w>
+	    <m id="1649">îikam</m>
+	  </w>
+	  <w gl="NOM-yesterday">
+	    <m id="4408">pa</m>
+	    <m id="2766">'ipít</m>
+	  </w>
+	  <w gl="I saw it">
+	    <m id="4349">ni</m>
+	    <m id="4155">mah</m>
+	  </w>
+	  <w gl="your child">
+	    <m id="4238">mí</m>
+	    <m id="511">'aramah</m></w>.</kar>
+	<eng>I saw your child outside yesterday.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_62" audio-start-time="46:45">
+	<kar>
+	  <w>
+	    <m id="1649">îikam</m>
+	  </w>
+	  <w>
+	    <m id="6675">vúra</m>
+	  </w>
+	  <w>
+	    <m id="5541">táay</m>
+	  </w>
+	  <w gl="the slug">
+	    <m id="4407">pa</m>
+	    <m id="1261">'êeth</m></w>.</kar>
+	<eng>There are a lot of slugs outside.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_63" audio-start-time="47:31">
+	<kar>
+	  <w>
+	    <m id="2766">ipít</m>
+	  </w>
+	  <w gl="I saw it">
+	    <m id="4407">pa</m>
+	    <m id="1261">'êeth</m>
+	  </w>
+	  <w>
+	    <m id="1649">îikam</m>
+	  </w>
+	  <w>
+	    <m id="3670">káan</m>
+	  </w>
+	  <w gl="it sat">
+	    <m id="6175">ú</m>
+	    <m id="1974">krii</m></w>.</kar>
+	<eng>There was a slug outside yesterday.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-8_64" audio-start-time="47:43">
+	<kar>
+	  <w>
+	    <m id="2766">ipít</m>
+	  </w>
+	  <w gl="I saw it">
+	    <m id="4407">pa</m>
+	    <m id="1261">'êeth</m>
+	  </w>
+	  <w>
+	    <m id="1649">îikam</m>
+	  </w>
+	  <w gl="it sat">
+	    <m id="6175">ú</m>
+	    <m id="1974">krii</m></w>.</kar>
+	<eng>There was a slug outside yesterday.</eng>
+      </s>
+    </paragraph>
+</data>
+</text>
+

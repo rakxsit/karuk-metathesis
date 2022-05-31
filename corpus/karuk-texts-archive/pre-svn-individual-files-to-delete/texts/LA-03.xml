@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="LA-03">
+    <metadata>
+        <title>Sentences about morning activities</title>
+        <author>Lucille <alph>Albers</alph></author>
+        <date>2012</date>
+        <publication>Unpublished (recorded by Tamara Alexander in 2012)</publication>
+    </metadata>
+    <data>
+        <paragraph>
+            <s spkr="LA" audio="LA-03_01">
+                <kar><w gl="your teeth"><m id="4238">mí</m><m id="6635">vuh</m></w>
+                    <w gl="clean it!"><m id="5023">pithxáh</m><m id="1419">i</m></w>.</kar>
+                <eng>Clean your teeth.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="LA-03_02">
+                <kar><w gl="your blanket"><m id="4238">mí</m><m id="6399">vaas</m></w>
+                    <w><m id="4984">pishnákarishuk</m></w>.</kar>
+                <eng>Take your clothes off.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="LA-03_03">
+                <kar><w gl="your blanket"><m id="4238">mí</m><m id="6399">vaas</m></w>
+                    <w><m id="4583">pásasip</m></w>.</kar>
+                <eng>Put your clothes on.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="LA-03_04">
+                <kar><w gl="your hair"><m id="4238">mi</m><m id="1500">'ífunih</m></w>
+                    <w gl="comb it!"><m id="2830">ipxátih</m><m id="1419">i</m></w>.</kar>
+                <eng>Comb your hair.</eng>
+                <note>The form sounds like ipxátihi, but the verb in the dictionary is
+                    iptáxatih.</note>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="LA-03_05a">
+                <kar><w><m id="814">áv</m></w>
+                    <w gl="your food"><m id="4238">mi</m><m id="818">'ávaha</m></w>, <w
+                        gl="the food"><m id="4407">pa</m><m id="818">'ávaha</m></w>.</kar>
+                <eng>Eat the food, your food.</eng>
+            </s>
+            <s spkr="LA" audio="LA-03_05b">
+                <kar><w><m id="814">áv</m></w>
+                    <w gl="your food"><m id="4407">pa</m><m id="4238">mi</m><m id="818"
+                        >'ávaha</m></w>.</kar>
+                <eng>Eat your food.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="LA-03_06">
+                <kar><w><m id="4583">pásasip</m></w>.</kar>
+                <eng>Get dressed.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="LA-03_07">
+                <kar><w gl="get ready!"><m id="3746">kárih</m><m id="1419">i</m></w>.</kar>
+                <eng>Get ready.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="LA-03_08">
+                <kar><w gl="open your eyes!"><m id="7240">yúuph</m><m id="1419">i</m></w>.</kar>
+                <eng>Open your eyes.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="LA-03_09">
+                <kar><w gl="put on your shoes!"><m id="2880">ipyukúkuh</m><m id="1419"
+                    >i</m></w>.</kar>
+                <eng>Put on your shoes.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="LA-03_10">
+                <kar><w><m id="67">áav</m></w>
+                    <w gl="wash it!"><m id="4443">paatv</m><m id="1419">i</m></w>.</kar>
+                <eng>Wash your face.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="LA-03_11">
+                <kar><w gl="your hand(s)"><m id="4238">mí</m><m id="6045">tiik</m></w>
+                    <w gl="wash your hands!"><m id="4514">pakxúuyv</m><m id="1419">i</m></w>.</kar>
+                <eng>Wash your hands.</eng>
+            </s>
+        </paragraph>
+    </data>
+</text>

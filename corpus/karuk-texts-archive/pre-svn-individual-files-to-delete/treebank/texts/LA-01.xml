@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="LA-01">
+    <metadata>
+        <title>Sentences about fear and going places</title>
+        <author>Lucille <alph>Albers</alph></author>
+        <date>2009</date>
+        <publication>Unpublished (recorded by Tamara Alexander on July 23, 2009; &#169; Karuk
+            Tribe)</publication>
+		<genre type="elicitation"/>
+    </metadata>
+    <data>
+        <paragraph>
+            <s audio="ta1-1" audio-start-time="0:04">
+                <txt lang="kyh"><w><m lemma="5506">tá</m></w>
+                    <w gl="I am afraid"><m lemma="4296">ná</m><m lemma="59">'aathva</m></w>.</txt>
+                <trans lang="eng">I'm scared.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s audio="ta1-2" audio-start-time="0:10">
+                <txt lang="kyh"><w><m lemma="5506">tá</m></w>
+                    <w gl="I fear"><m lemma="4349">ni</m><m lemma="1019">'ay</m></w>.</txt>
+                <trans lang="eng">I'm scared.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s audio="ta1-3" audio-start-time="0:58">
+                <txt lang="kyh"><w><m lemma="1109">chí</m></w>
+                    <w gl="we are going swimming"><m lemma="4370">nu</m><m lemma="6299"
+                    >'úufithvar</m></w>.</txt>
+                <trans lang="eng">Let's go swimming.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s audio="ta1-4" audio-start-time="1:32">
+                <txt lang="kyh"><w><m lemma="1396">hôoy</m></w>
+                    <w gl="you go"><m lemma="5506">t</m><m lemma="1418">i</m><m lemma="6396"
+                    >vâaram</m></w>?</txt>
+                <trans lang="eng">Where are you going?</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s audio="ta1-5" audio-start-time="1:38">
+                <txt lang="kyh"><w><m lemma="4739">peepithváram</m></w>
+                    <w><m lemma="5506">tá</m></w>
+                    <w gl="I go"><m lemma="4349">ni</m><m lemma="6396">vâaram</m></w>.</txt>
+                <trans lang="eng">I'm going to the store.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s audio="ta1-6" audio-start-time="1:48">
+                <txt lang="kyh"><w><m lemma="1649">îikam</m></w>
+                    <w><m lemma="5506">tá</m></w>
+                    <w gl="I go"><m lemma="4349">ni</m><m lemma="6396">vâaram</m></w>.</txt>
+                <trans lang="eng">I'm going outside.</trans>
+            </s>
+        </paragraph>
+    </data>
+</text>

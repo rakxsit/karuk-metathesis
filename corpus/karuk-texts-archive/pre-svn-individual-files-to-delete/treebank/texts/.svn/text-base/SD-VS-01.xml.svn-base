@@ -1,0 +1,1133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="SD-VS-01" audio-source="karuk-2010-10-25_lm">
+    <metadata>
+        <title>Sentences about perception, animals, verb tenses</title>
+        <author>Sonny <alph>Davis</alph> and Vina Smith</author>
+        <date>2010</date>
+        <publication>Unpublished (recorded by Andrew Garrett and Line Mikkelsen on October 25,
+            2010)</publication>
+		<genre type="elicitation"/>
+    </metadata>
+    <data>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-10-25-sd-vs-1_1" audio-start-time="0:52">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w gl="I hear it">
+                        <m lemma="4349">ni</m>
+                        <m lemma="5954">thítiv</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I heard it.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_2" audio-start-time="0:56">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w gl="I hear it">
+                        <m lemma="4349">ni</m>
+                        <m lemma="5954">thítiv</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I heard it.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_3" audio-start-time="1:08">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w gl="we hear it">
+                        <m lemma="4370">nu</m>
+                        <m lemma="5954">thítiv</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">We all heard it.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-10-25-sd-vs-1_4" audio-start-time="1:50">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w gl="I hear it">
+                        <m lemma="4349">ni</m>
+                        <m lemma="5954">thítiv</m>
+                    </w>
+                    <w gl="the cat">
+                        <m lemma="4407">pa</m>
+                        <m lemma="5120">púsihich</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I heard the cat.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_5" audio-start-time="2:32">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w gl="I see it">
+                        <m lemma="4349">ni</m>
+                        <m lemma="4155">máh</m>
+                    </w>
+                    <w gl="the cat">
+                        <m lemma="4407">pa</m>
+                        <m lemma="5120">púsihich</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I see the cat.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-10-25-sd-vs-1_6" audio-start-time="2:34">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w gl="I see it">
+                        <m lemma="4349">ni</m>
+                        <m lemma="4155">mah</m>
+                    </w>
+                    <w gl="the cat">
+                        <m lemma="4407">pa</m>
+                        <m lemma="5120">púsihich</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I see the cat.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-10-25-sd-vs-1_7" audio-start-time="2:58">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="1656">iim</m>
+                    </w>
+                    <w>
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w gl="I see you(sg)">
+                        <m lemma="4370">nu</m>
+                        <m lemma="4155">mah</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I see you (sg).</trans>
+                <note/>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_8" audio-start-time="3:09">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="1656">iim</m>
+                    </w>
+                    <w>
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w gl="I see you(sg)">
+                        <m lemma="4370">nu</m>
+                        <m lemma="4155">mah</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I see you (sg).</trans>
+                <note/>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-10-25-sd-vs-1_9" audio-start-time="4:40">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w gl="I see it">
+                        <m lemma="4349">ni</m>
+                        <m lemma="4155">mah</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I see it.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_10" audio-start-time="4:58">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w gl="we see it">
+                        <m lemma="4370">nu</m>
+                        <m lemma="4155">mah</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">We all see it.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_11" audio-start-time="5:15">
+                <txt lang="kyh">
+                    <w gl="I will see it">
+                        <m lemma="4349">ni</m>
+                        <m lemma="4155">máh</m>
+                        <m lemma="1379">eesh</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I will see it.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-10-25-sd-vs-1_12" audio-start-time="5:52">
+                <txt lang="kyh">
+                    <w gl="the cat">
+                        <m lemma="4407">pa</m>
+                        <m lemma="5120">púsihich</m>
+                    </w>
+                    <w>
+                        <m lemma="1670">îin</m>
+                    </w>
+                    <w>
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w gl="it sees me">
+                        <m lemma="4294">ná</m>
+                        <m lemma="4155">mah</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">The cat sees me.</trans>
+                <note>This use of îin doesn't fit dictionary description regarding personal
+                    inflection on following verb.</note>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_13" audio-start-time="6:01">
+                <txt lang="kyh">
+                    <w gl="the cat">
+                        <m lemma="4407">pa</m>
+                        <m lemma="5120">púsihich</m>
+                    </w>
+                    <w gl="it sees you">
+                        <m lemma="6175">u</m>
+                        <m lemma="4155">máh</m>
+                        <m lemma="6035">tih</m>
+                    </w>
+                    <w>
+                        <m lemma="1656">iim</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">The cat sees you.</trans>
+                <note> Glottalization in the personal inflection - hesitation? 3sg/2sg is supposed
+                    to trigger 'i-...-ap</note>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_14" audio-start-time="6:21">
+                <txt lang="kyh">
+                    <w gl="the cat">
+                        <m lemma="4407">pa</m>
+                        <m lemma="5120">púsihich</m>
+                    </w>
+                    <w>
+                        <m lemma="1656">iim</m>
+                    </w>
+                    <w gl="it sees">
+                        <m lemma="5506">t</m>
+                        <m lemma="6175">u</m>
+                        <m lemma="4155">mah</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">The cat sees you.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_15" audio-start-time="7:04">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="5541">taay</m>
+                    </w>
+                    <w>
+                        <m lemma="1402">úm</m>
+                    </w>
+                    <w gl="the cat">
+                        <m lemma="4407">pa</m>
+                        <m lemma="5120">púsihich</m>
+                    </w>
+                    <w>
+                        <m lemma="1402">úm</m>
+                    </w>
+                    <w gl="you have it(sg)">
+                        <m lemma="1418">i</m>
+                        <m lemma="5916">thiiná</m>
+                        <m lemma="6035">tih</m>
+                    </w>
+                    <w>
+                        <m lemma="1402">um</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">Do you have lots of cats?</trans>
+                <note>um after each word; unexpected use of this verb with plural object - WB has
+                    tâaraha for have with plural objects </note>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_16" audio-start-time="7:24">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="5541">taay</m>
+                    </w>
+                    <w gl="my cats">
+                        <m lemma="4407">pa</m>
+                        <m lemma="4364">nini</m>
+                        <m lemma="5120">púsihich</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I have lots of cats.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_17" audio-start-time="8:04">
+                <txt lang="kyh">
+                    <w>Sally</w>
+                    <w>
+                        <m lemma="6307">uum</m>
+                    </w>
+                    <w>
+                        <m lemma="5541">taay</m>
+                    </w>
+                    <w gl="the cat">
+                        <m lemma="4407">pa</m>
+                        <m lemma="5120">púsihich</m>
+                    </w>
+                    <w gl="she has it(sg)">
+                        <m lemma="6175">u</m>
+                        <m lemma="5916">thiiná</m>
+                        <m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">Sally has lots of cats.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-10-25-sd-vs-1_18" audio-start-time="8:12">
+                <txt lang="kyh">
+                    <w>Sally</w>
+                    <w>
+                        <m lemma="6307">uum</m>
+                    </w>
+                    <w>
+                        <m lemma="5541">taay</m>
+                    </w>
+                    <w gl="her cat">
+                        <m lemma="4407">pa</m>
+                        <m lemma="4260">mu</m>
+                        <m lemma="5120">púsihich</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">Sally has lots of cats.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-10-25-sd-vs-1_19" audio-start-time="8:29">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="4299">naa</m>
+                    </w>
+                    <w>
+                        <m lemma="5120">púsihich</m>
+                    </w>
+                    <w gl="I have it">
+                        <m lemma="4349">ni</m>
+                        <m lemma="5916">thiiná</m>
+                        <m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I have a cat.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_20" audio-start-time="9:12">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="4299">naa</m>
+                    </w>
+                    <w>
+                        <m lemma="864">áxak</m>
+                    </w>
+                    <w gl="the cat">
+                        <m lemma="4407">pa</m>
+                        <m lemma="5120">púsihich</m>
+                    </w>
+                    <w gl="I have it">
+                        <m lemma="4349">ni</m>
+                        <m lemma="5916">thiiná</m>
+                        <m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I have two cats.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_21" audio-start-time="10:12">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="4299">naa</m>
+                    </w>
+                    <w>
+                        <m lemma="864">áxak</m>
+                    </w>
+                    <w>
+                        <m lemma="5120">púsihich</m>
+                    </w>
+                    <w gl="I have it">
+                        <m lemma="4349">ni</m>
+                        <m lemma="5916">thiiná</m>
+                        <m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I have two cats.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-10-25-sd-vs-1_22" audio-start-time="11:00">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="4299">naa</m>
+                    </w>
+                    <w>
+                        <m lemma="864">áxak</m>
+                    </w>
+                    <w gl="the cat">
+                        <m lemma="4407">pa</m>
+                        <m lemma="5120">púsihich</m>
+                    </w>
+                    <w gl="I have it">
+                        <m lemma="4349">ni</m>
+                        <m lemma="5916">thiiná</m>
+                        <m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I have two cats.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_23" audio-start-time="11:30">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w gl="I smell">
+                        <m lemma="4349">ni</m>
+                        <m lemma="2492">mshákar</m>
+                    </w>
+                    <w gl="the cat">
+                        <m lemma="4407">pa</m>
+                        <m lemma="5120">púsihich</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I smell the cat.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_24" audio-start-time="12:11">
+                <txt lang="kyh">
+                    <w gl="I hear it">
+                        <m lemma="4349">ni</m>
+                        <m lemma="5954">thítiim</m>
+                        <m lemma="6035">tih</m>
+                    </w>
+                    <w gl="the cat">
+                        <m lemma="4407">pa</m>
+                        <m lemma="5120">púsihich</m>
+                    </w>
+                    <w>
+                        <m lemma="6307">uum</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I hear the cat</trans>
+                <note>No translation offered; v~m in verb root following WB:G342</note>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_25" audio-start-time="12:37">
+                <txt lang="kyh">
+                    <w gl="the cat">
+                        <m lemma="4407">pa</m>
+                        <m lemma="5120">púsihich</m>
+                    </w>
+                    <w gl="I hear it">
+                        <m lemma="4349">ni</m>
+                        <m lemma="5954">thítiim</m>
+                        <m lemma="6035">ti</m>
+                    </w>
+                    <w gl="it is singing">
+                        <m lemma="6175">u</m>
+                        <m lemma="4511">pakurîihvu</m>
+                        <m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I hear the cat purring.</trans>
+                <note>v~m in verb root following WB:G342; tih does not condition lengthening of
+                    final syllable of stem because stem is vowel final</note>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_26" audio-start-time="12:55">
+                <txt lang="kyh">
+                    <w gl="the cat">
+                        <m lemma="4407">pa</m>
+                        <m lemma="5120">púsihich</m>
+                    </w>
+                    <w gl="it is singing">
+                        <m lemma="6175">u</m>
+                        <m lemma="4511">pakurîihvu</m>
+                        <m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">The cat is purring.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_27" audio-start-time="13:13">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w gl="I hear it">
+                        <m lemma="4349">ni</m>
+                        <m lemma="5954">thítiv</m>
+                    </w>
+                    <w gl="the cat">
+                        <m lemma="4407">pa</m>
+                        <m lemma="5120">púsihich</m>
+                    </w>
+                    <w gl="it is singing">
+                        <m lemma="6175">u</m>
+                        <m lemma="4511">pakurîihvu</m>
+                        <m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I hear the cat purring.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-10-25-sd-vs-1_28" audio-start-time="13:34">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w gl="I hear it">
+                        <m lemma="4349">ni</m>
+                        <m lemma="5954">thítiv</m>
+                    </w>
+                    <w gl="the cat">
+                        <m lemma="4407">pa</m>
+                        <m lemma="5120">púsihich</m>
+                    </w>
+                    <w gl="it is singing">
+                        <m lemma="6175">u</m>
+                        <m lemma="4511">pakurîihvu</m>
+                        <m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I hear the cat purring.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_29" audio-start-time="14:37">
+                <txt lang="kyh">
+                    <w gl="I am looking at">
+                        <m lemma="4349">ní</m>
+                        <m lemma="2570">muus</m>
+                        <m lemma="6035">tih</m>
+                    </w>
+                    <w>
+                        <m lemma="6307">uum</m>
+                    </w>
+                    <w gl="the cat">
+                        <m lemma="4407">pa</m>
+                        <m lemma="5120">púsihich</m>
+                    </w>
+                    <w gl="it is eating">
+                        <m lemma="6175">u</m>
+                        <m lemma="814">'áam</m>
+                        <m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I am looking at the cat eating.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_30" audio-start-time="15:11">
+                <txt lang="kyh">
+                    <w gl="the cat">
+                        <m lemma="4407">pa</m>
+                        <m lemma="5120">púsihich</m>
+                    </w>
+                    <w gl="it is eating">
+                        <m lemma="6175">u</m>
+                        <m lemma="814">'áam</m>
+                        <m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">The cat is eating.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-10-25-sd-vs-1_31" audio-start-time="15:13">
+                <txt lang="kyh">
+                    <w gl="the cat">
+                        <m lemma="4407">pa</m>
+                        <m lemma="5120">púsihich</m>
+                    </w>
+                    <w gl="it is eating">
+                        <m lemma="6175">u</m>
+                        <m lemma="814">'áam</m>
+                        <m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">The cat is eating.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-10-25-sd-vs-1_32" audio-start-time="17:20">
+                <txt lang="kyh">
+                    <w gl="the cat">
+                        <m lemma="4407">pa</m>
+                        <m lemma="5120">púsihich</m>
+                    </w>
+                    <w>
+                        <m lemma="2671">íp</m>
+                    </w>
+                    <w gl="it has eaten">
+                        <m lemma="5506">t</m>
+                        <m lemma="6175">u</m>
+                        <m lemma="814">'áv</m>
+                        <m lemma="738">at</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">The cat just ate.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-10-25-sd-vs-1_33" audio-start-time="17:46">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="5120">púsihich</m>
+                    </w>
+                    <w>
+                        <m lemma="2766">ipít</m>
+                    </w>
+                    <w gl="it ate">
+                        <m lemma="5506">t</m>
+                        <m lemma="6175">u</m>
+                        <m lemma="814">'av</m>
+                        <m lemma="738">at</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">The cat ate yesterday.</trans>
+                <note/>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_34" audio-start-time="18:14">
+                <txt lang="kyh">
+                    <w gl="the cat">
+                        <m lemma="4407">pa</m>
+                        <m lemma="5120">púsihich</m>
+                    </w>
+                    <w>
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w gl="I touch it">
+                        <m lemma="4349">ni</m>
+                        <m lemma="135">'áfish</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I'm touching the cat.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_35" audio-start-time="19:49">
+                <txt lang="kyh">
+                    <w gl="the cat">
+                        <m lemma="4407">pa</m>
+                        <m lemma="5120">púsihich</m>
+                    </w>
+                    <w>
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w gl="it touches me">
+                        <m lemma="4294">na</m>
+                        <m lemma="135">'áfish</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">The cat is touching me.</trans>
+                <note>na- fails to attract acute accent because stem has acute accent of the fixed
+                    type (due to VcV shape)</note>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_36" audio-start-time="20:23">
+                <txt lang="kyh">
+                    <w gl="the cat">
+                        <m lemma="4407">pa</m>
+                        <m lemma="5120">púsihich</m>
+                    </w>
+                    <w>
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w gl="they fight">
+                        <m lemma="3977">kun</m>
+                        <m lemma="6474">váthiv</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">The cats are fighting.</trans>
+                <note>tá sounds more like tu here, but another repetition clearly has tá.</note>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_37" audio-start-time="22:18">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w gl="I hear">
+                        <m lemma="4349">ni</m>
+                        <m lemma="5954">thítiv</m>
+                    </w>
+                    <w gl="the baby">
+                        <m lemma="4407">pa</m>
+                        <m lemma="7197">yupsítanach</m>
+                    </w>
+                    <w gl="it is crying">
+                        <m lemma="6175">u</m>
+                        <m lemma="3518">xrára</m>
+                        <m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I hear the baby crying.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-10-25-sd-vs-1_38" audio-start-time="22:59">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="7055">yáxa</m>
+                    </w>
+                    <w gl="the cat">
+                        <m lemma="4407">pa</m>
+                        <m lemma="5120">púsihich</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">Look at the cat!</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-10-25-sd-vs-1_39" audio-start-time="23:12">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="1281">fâat</m>
+                    </w>
+                    <w gl="it is doing">
+                        <m lemma="6175">u</m>
+                        <m lemma="4007">kupavêenahi</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">What is it doing?</trans>
+                <note>verb can be broken down into: kupa-...-aha 'modal' (G732), vêen 'to pray'
+                    (perh. orig. 'to do')</note>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-10-25-sd-vs-1_40" audio-start-time="23:59">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w gl="I hear it">
+                        <m lemma="4349">ni</m>
+                        <m lemma="5954">thítiv</m>
+                    </w>
+                    <w gl="the cat">
+                        <m lemma="4407">pa</m>
+                        <m lemma="5120">púsihich</m>
+                    </w>
+                    <w>
+                        <m lemma="1649">îikam</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I hear the cat outside.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_41" audio-start-time="24:16">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w gl="I hear it">
+                        <m lemma="4349">ni</m>
+                        <m lemma="5954">thítiv</m>
+                    </w>
+                    <w gl="the cat">
+                        <m lemma="4407">pa</m>
+                        <m lemma="5120">púsihich</m>
+                    </w>
+                    <w>
+                        <m lemma="1649">îikam</m>
+                    </w>
+                    <w gl="it is fighting">
+                        <m lemma="6175">u</m>
+                        <m lemma="6474">vathíiv</m>
+                        <m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I hear the cats fighting outside.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_42" audio-start-time="26:52">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="5541">taay</m>
+                    </w>
+                    <w>
+                        <m lemma="5120">púsihich</m>
+                    </w>
+                    <w>
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w gl="I
+	see it">
+                        <m lemma="4349">ni</m>
+                        <m lemma="4155">mah</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I see lots of cats.</trans>
+                <note/>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_43" audio-start-time="27:20">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="5085">púfaat</m>
+                    </w>
+                    <w gl="the cat">
+                        <m lemma="4407">pa</m>
+                        <m lemma="5120">púsihich</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">There are no cats.</trans>
+                <note/>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-10-25-sd-vs-1_44" audio-start-time="27:23">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="5085">púfaat</m>
+                    </w>
+                    <w gl="the cat">
+                        <m lemma="4407">pa</m>
+                        <m lemma="5120">púsihich</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">There are no cats.</trans>
+                <note/>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_45" audio-start-time="28:42">
+                <txt lang="kyh">
+                    <w gl="Indian language">
+                        <m lemma="506">arara</m>
+                        <m lemma="1219">chúupha</m></w>
+                    <w><m lemma="">nuu</m></w>
+                    <w>
+                        <m lemma="4716">payêem</m>
+                    </w>
+                    <w gl="we are talking">
+                        <m lemma="4370">nu</m>
+                        <m lemma="1218">chúupi</m>
+                        <m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">We are talking our Indian language now.</trans>
+	    <note>The vowel in nuu doesn't sound long, but nuu seems the best parse</note> 
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-10-25-sd-vs-1_46" audio-start-time="30:39">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="7038">yánava</m>
+                    </w>
+                    <w>
+                        <m lemma="3930">koovúra</m>
+                    </w>
+                    <w gl="they come">
+                        <m lemma="3977">kun</m>
+                        <m lemma="3483">ivyíhuk</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">Look they all came!</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_47" audio-start-time="32:13">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="7038">yánava</m>
+                    </w>
+                    <w gl="the sun">
+                        <m lemma="4407">pa</m>
+                        <m lemma="4094">kúusrah</m>
+                    </w>
+                    <w gl="it has climbed">
+                        <m lemma="5506">t</m>
+                        <m lemma="6175">óo</m>
+                        <m lemma="1777">kfuk</m>
+                    </w>
+                    <w>
+                        <m lemma="5468">súpaah</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">Look the sun is getting up.</trans>
+                <note>Is "tóo kfuk súpaah" the right parse?</note>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_48" audio-start-time="32:41">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="5506">ta</m>
+                        <m lemma="4349">ni</m>
+                    </w>
+                    <w>
+                        <m lemma="3999">kúnish</m>
+                    </w>
+                    <w gl="I hear">
+                        <m lemma="4349">ni</m>
+                        <m lemma="5954">thítiv</m>
+                    </w>
+                    <w gl="the
+	dog">
+                        <m lemma="4407">pa</m>
+                        <m lemma="1175">chishíih</m>
+                    </w>
+                    <w gl="it is barking">
+                        <m lemma="4408">p</m>
+                        <m lemma="6175">oo</m>
+                        <m lemma="1624">hyíiv</m>
+                        <m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I heard the dog barking.</trans>
+                <note>What is tani? What is kunish doing here?</note>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_49" audio-start-time="33:16">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="7038">yánava</m>
+                    </w>
+                    <w gl="the dog">
+                        <m lemma="4407">pa</m>
+                        <m lemma="1175">chishíih</m>
+                    </w>
+                    <w gl="it is barking">
+                        <m lemma="4408">p</m>
+                        <m lemma="6175">oo</m>
+                        <m lemma="1624">hyíiv</m>
+                        <m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">The dogs are barking.</trans>
+                <note>-tih conditions vowel lengthening in the final syllable of verb root and
+                    accute accent on that vowel by special progressive accentuation.</note>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_50" audio-start-time="34:16">
+                <txt lang="kyh">
+                    <w gl="it is barking">
+                        <m lemma="6175">u</m>
+                        <m lemma="1624">hyíiv</m>
+                        <m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">It is barking.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_51" audio-start-time="35:51">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="7199">yupthúkirar</m>
+                    </w>
+                    <w gl="it is
+	crying">
+                        <m lemma="6175">u</m>
+                        <m lemma="3518">xrára</m>
+                        <m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">A mountain lion is crying.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_52" audio-start-time="37:49">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6574">vírusur</m>
+                    </w>
+                    <w>
+                        <m lemma="6307">uum</m>
+                    </w>
+                    <w>
+                        <m lemma="5541">taay</m>
+                    </w>
+                    <w gl="it is
+	growling">
+                        <m lemma="4408">p</m>
+                        <m lemma="6175">oo</m>
+                        <m lemma="3526">xrúunha</m>
+                        <m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">The bear is growling a lot.</trans>
+                <note/>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_53" audio-start-time="40:44">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="5500">súva nik</m>
+                    </w>
+                    <w>
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w gl="I see it">
+                        <m lemma="4349">ni</m>
+                        <m lemma="4155">mah</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I see it later on (?)</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_54" audio-start-time="40:47">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="5500">súva nik</m>
+                    </w>
+                    <w gl="I will see you">
+                        <m lemma="4370">nu</m>
+                        <m lemma="4155">máh</m>
+                        <m lemma="1379">eesh</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I will see you later.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-10-25-sd-vs-1_55" audio-start-time="43:32">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="?">nu</m>
+                    </w>
+                    <w gl="I go to bed">
+                        <m lemma="4349">ni</m>
+                        <m lemma="52">'áasish</m>
+                    </w>
+                    <w gl="I fall
+	down">
+                        <m lemma="4349">ni</m>
+                        <m lemma="2375">kyív</m>
+                        <m lemma="?">it</m>
+                    </w>
+                    <w>
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+                    <w>
+                        <m lemma="1285">fâatva</m>
+                    </w>
+                    <w gl="I
+	hear">
+                        <m lemma="4349">ni</m>
+                        <m lemma="5954">thítiv</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">When I was sleeping I heard something.</trans>
+                <note>What is nu? Why two inflected verbs in a row? Is it some kind of complex
+                    predicate? "I fall down" doesn't really make sense semantically. Could it be
+                    "nikik" (a little bit) + something?</note>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_56" audio-start-time="48:17">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="5511">taahkúnish</m>
+                    </w>
+                    <w gl="her hair">
+                        <m lemma="4407">pa</m>
+                        <m lemma="4260">mu</m>
+                        <m lemma="1500">'ífunih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">Her hair is white.</trans>
+                <note/>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="SD" audio="karuk-2010-10-25-sd-vs-1_57" audio-start-time="48:56">
+                <txt lang="kyh">
+                    <w>Vina</w>
+                    <w gl="her hair">
+                        <m lemma="4260">mu</m>
+                        <m lemma="1500">'ífuni</m>
+                    </w>
+		    <w><m lemma="6307">uum</m></w>
+                    <w>
+                        <m lemma="5511">taahkúnish</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">Vina has white hair.</trans>
+                <note/>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-10-25-sd-vs-1_58" audio-start-time="55:19">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="1396">hôoy</m>
+                    </w>
+                    <w>
+                        <m lemma="6307">uum</m>
+                    </w>
+                    <w gl="the black">
+                        <m lemma="4407">pa</m>
+                        <m lemma="2242">'ikxáramkunish</m>
+                    </w>
+                    <w>
+                        <m lemma="5120">púsihich</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">Where is the black cat?</trans>
+                <note>initial ik- of 2240 is somewhat reduced</note>
+            </s>
+        </paragraph>
+    </data>
+</text>

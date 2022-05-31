@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-27">
+    <metadata>
+        <title>"Duck Hawk and His Wife"</title>
+        <author>Mamie <alph>Offield</alph></author>
+        <date>1957</date>
+        <publication>William Bright, <em>The Karok Language</em> (1957), p. 223, Text
+            27</publication>
+    </metadata>
+    <data>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="7274">á'iknêechhan</m></w>
+                    <w gl="his wife"><m lemma="4260">mu</m><m lemma="1576">hrôoha</m></w>
+                    <w><m lemma="4966">pirishkâarim</m></w>. </txt>
+                <trans lang="eng">Duck Hawk's wife was Grizzly Bear.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w gl="his brother"><m lemma="4260">mu</m><m lemma="6081">típa</m></w>
+                    <w><m lemma="5384">síit</m></w>. </txt>
+                <trans lang="eng">And his brother was Mouse.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="3745">kári</m></w>
+                    <w><m lemma="6847">xás</m></w>
+                    <w><m lemma="6307">uum</m></w>
+                    <w><m lemma="6675">vúra</m></w>
+                    <w gl="would be sometimes"><m lemma="1372">hári</m><m lemma="6377">va</m><m lemma="1379"
+                            >heesh</m></w>, <w><m lemma="7274">á'iknêechhan</m></w>
+                    <w><m lemma="1397">hôoyva</m></w>
+                    <w gl="he went"><m lemma="5506">t</m><m lemma="6175">u</m><m lemma="6396">vâaram</m></w>,
+                            <w><m lemma="5415">sinmôovishar</m></w>. </txt>
+                <trans lang="eng">So it would be sometimes, Duck Hawk went off somewhere, he was gone a long
+                    time.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="5163">púyava</m></w>
+                    <w><m lemma="6847">xás</m></w>
+                    <w><m lemma="3969">kúkuum</m></w>
+                    <w gl="he came back"><m lemma="5506">t</m><m lemma="6175">u</m><m lemma="2694"
+                        >'ípak</m></w>. </txt>
+                <trans lang="eng">Then he would come back again.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="3745">kári</m></w>
+                    <w><m lemma="6847">xás</m></w>
+                    <w><m lemma="3219">itháan</m></w>
+                    <w gl="he went"><m lemma="6175">u</m><m lemma="6396">vâaram</m></w>
+                    <w><m lemma="3969">kúkuum</m></w>. </txt>
+                <trans lang="eng">So once he went away again.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="3745">kári</m></w>
+                    <w><m lemma="6847">xás</m></w>
+                    <w><m lemma="5384">siit</m></w>
+                    <w gl="he was singing"><m lemma="6175">u</m><m lemma="4511">pakurîihvu</m><m lemma="6035"
+                            >tih</m></w>. </txt>
+                <trans lang="eng">Then Mouse was singing.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="3745">kári</m></w>
+                    <w><m lemma="6847">xás</m></w>
+                    <w gl="he said"><m lemma="6175">u</m><m lemma="4823">píip</m></w> "<w><m lemma="35"
+                            >aaníhich</m></w>
+                    <w><m lemma="6307">uum</m></w>
+                    <w><m lemma="1144">chími</m></w>
+                    <w gl="he will come back"><m lemma="6175">u</m><m lemma="2694">'ípak</m><m lemma="1379"
+                            >eesh</m></w>. </txt>
+                <trans lang="eng">And he said, "Big brother is going to come back.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="7035">yakún</m></w>
+                    <w><m lemma="5452">sôomvaan</m></w>
+                    <w><m lemma="1144">chími</m></w>
+                    <w gl="he will bring back"><m lemma="6175">u</m><m lemma="2719">'ípasuk</m><m
+                            lemma="1379">eesh</m></w>."</txt>
+                <trans lang="eng">He's going to bring home a new wife."</trans>
+				<note publish="yes">Bright: "Literally, 'he will bring a marriage-applicant,' i.e., a woman who comes to a man's house to offer herself in marriage; see Harrington, 1932a, pp.4-5."</note>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="3745">kári</m></w>
+                    <w><m lemma="6847">xás</m></w>
+                    <w gl="he said"><m lemma="6175">u</m><m lemma="4823">píip</m></w>
+                    <w><m lemma="4966">pirishkâarim</m></w>, "<w><m lemma="1410">hûut</m></w>
+                    <w gl="PERF 2SG"><m lemma="5506">t</m><m lemma="1418">ée</m></w>
+                    <w><m lemma="4823">piip</m></w>." </txt>
+                <trans lang="eng">And Grizzly Bear said, "How did you say?"</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w gl="he said"><m lemma="6175">u</m><m lemma="4823">píip</m></w>
+                    <w><m lemma="5384">siit</m></w> "<w><m lemma="5104">púra fâat</m></w>." </txt>
+                <trans lang="eng">And Mouse said, "Nothing."</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh"> "<w><m lemma="6675">vúra</m></w>
+                    <w><m lemma="3999">kúnish</m></w>
+                    <w><m lemma="1410">hûut</m></w>
+                    <w gl="PERF 2SG"><m lemma="5506">t</m><m lemma="1418">ée</m></w>
+                    <w><m lemma="4823">piip</m></w>." </txt>
+                <trans lang="eng">"You sort of said something."</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh"> "<w><m lemma="5132">pûu</m></w>, <w><m lemma="5104">púra fâat</m></w>
+                    <w><m lemma="6675">vúra</m></w>
+                    <w gl="I wasn't saying"><m lemma="4295">n</m><m lemma="4823">eepí</m><m lemma="6035"
+                            >tih</m><m lemma="1371">ara</m></w>." </txt>
+                <trans lang="eng">"No, I didn't say anything."</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w gl="he said"><m lemma="6175">u</m><m lemma="4823">píip</m></w>
+                    <w><m lemma="4966">pirishkâarim</m></w>, "<w><m lemma="7273">á'</m></w>
+                    <w gl="I will hang you up"><m lemma="4370">nu</m><m lemma="5581">tákararih</m><m
+                            lemma="1379">eesh</m></w>, <w><m lemma="5481">súrukam</m></w>
+                    <w><m lemma="10">aah</m></w>
+                    <w gl="I will make"><m lemma="4349">ni</m><m lemma="2348">kyâ</m><m lemma="1379"
+                            >avish</m></w>
+                    <w gl="if you don't tell"><m lemma="4408">pa</m><m lemma="5082">pu</m><m lemma="4605"
+                            >pasupíichva</m><m lemma="1358">haak</m></w>." </txt>
+                <trans lang="eng">Then Grizzly Bear said, "I'll hang you up, I'll make a fire under you if you
+                    don't tell."</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6174">ta'ítam</m></w>
+                    <w><m lemma="5384">siit</m></w>
+                    <w><m lemma="7273">á'</m></w>
+                    <w gl="she hung"><m lemma="6175">u</m><m lemma="5581">tákararih</m><m lemma="1378"
+                            >een</m></w>. </txt>
+                <trans lang="eng">So she hung Mouse up.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="3745">kári</m></w>
+                    <w><m lemma="6847">xás</m></w>
+                    <w><m lemma="5384">siit</m></w>
+                    <w gl="he said"><m lemma="6175">u</m><m lemma="4823">piip</m></w>, "<w><m lemma="35"
+                            >aaníhich</m></w>
+                    <w><m lemma="1144">chími</m></w>
+                    <w gl="he will come back"><m lemma="6175">u</m><m lemma="2694">'ípak</m><m lemma="1379"
+                            >eesh</m></w>, <w><m lemma="5452">sôomvaan</m></w>
+                    <w gl="he will bring back"><m lemma="6175">u</m><m lemma="2719">'ípasuk</m><m
+                            lemma="1379">eesh</m></w>."</txt>
+                <trans lang="eng">Then Mouse said, "Big brother is going to come back, he's going to bring home a
+                    new wife."</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="3745">kári</m></w>
+                    <w><m lemma="6847">xás</m></w>
+                    <w><m lemma="4966">pirishkâarim</m></w>, <w gl="the falls"><m lemma="4407">pa</m><m
+                            lemma="1668">'îin</m></w>
+                    <w><m lemma="6174">ta'ítam</m></w>
+                    <w gl="he scratched away downriver"><m lemma="6175">u</m><m lemma="328"
+                            >'akxáraprup</m><m lemma="1378">aheen</m></w>. </txt>
+                <trans lang="eng">Then Grizzly Bear scratched the falls (away) downriverward.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="7157">yukún</m></w>
+                    <w><m lemma="7085">yíiv</m></w>
+                    <w><m lemma="7273">á'</m></w>
+                    <w gl="was like a vertical barrier"><m lemma="6175">u</m><m lemma="5724">tásunih</m><m
+                            lemma="6035">tih</m><m lemma="1369">anik</m></w>
+                    <w gl="the falls"><m lemma="4407">pa</m><m lemma="1668">'íin</m></w>. </txt>
+                <trans lang="eng">You see, the falls were (like) a barrier (reaching) a long ways up.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="5163">púyava</m></w>
+                    <w gl="when he went down again"><m lemma="4408">p</m><m lemma="6175">óo</m><m
+                            lemma="4406">p</m><m lemma="6409">vaavruk</m></w>
+                    <w><m lemma="7274">á'iknêechhan</m></w>
+                    <w><m lemma="6103">tishravará'iivreen</m></w>
+                    <w gl="he thought"><m lemma="6175">u</m><m lemma="6939">xus</m></w>, "<w><m lemma="1410"
+                            >hûut</m></w>
+                    <w><m lemma="739">áta</m></w>
+                    <w gl="it has something wrong"><m lemma="6175">u</m><m lemma="1667">'íina</m><m
+                            lemma="6035">ti</m></w>
+                    <w gl="my falls"><m lemma="4407">pa</m><m lemma="4326">nani</m><m lemma="1668"
+                        >'íin</m></w>. </txt>
+                <trans lang="eng">So when Duck Hawk looked down over Etna Mountain, he thought, "I wonder what's
+                    wrong with my falls?</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="4385">ôok</m></w>
+                    <w><m lemma="2671">íp</m></w>
+                    <w gl="I heard"><m lemma="4349">ni</m><m lemma="5954">thítiim</m><m lemma="6035"
+                            >tih</m><m lemma="738">at</m></w>
+                    <w gl="that it was sounding"><m lemma="4408">p</m><m lemma="6175">óo</m><m lemma="3497"
+                            >xaak</m><m lemma="6035">tih</m></w>. </txt>
+                <trans lang="eng">Formerly I heard them sounding from here.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6675">vúra</m></w>
+                    <w gl="I can't hear"><m lemma="5082">pu</m><m lemma="4295">na</m><m lemma="5954"
+                            >thítiim</m><m lemma="6035">tih</m><m lemma="1371">ara</m></w>." </txt>
+                <trans lang="eng"> I can't hear them."</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="5163">púyava</m></w>
+                    <w gl="when he got back"><m lemma="4408">p</m><m lemma="6175">oo</m><m lemma="2694"
+                            >'ípak</m></w>
+                    <w><m lemma="7038">yánava</m></w> "<w gl="my falls"><m lemma="4407">pa</m><m lemma="4326"
+                            >nani</m><m lemma="1668">'îin</m></w>
+                    <w gl="PERF 3SG"><m lemma="5506">t</m><m lemma="6175">óo</m></w>
+                    <w gl="flow back downriver"><m lemma="4406">p</m><m lemma="6707">vuunup</m></w>." </txt>
+                <trans lang="eng">So when he got back, he saw it, "My falls have flowed downriver."</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="3745">kári</m></w>
+                    <w><m lemma="6847">xás</m></w>
+                    <w gl="he said"><m lemma="6175">u</m><m lemma="4823">piip</m></w>, "<w><m lemma="234"
+                            >akâay</m></w>
+                    <w gl="he spoiled"><m lemma="5506">t</m><m lemma="6175">u</m><m lemma="5544"
+                        >táayvaar</m></w>
+                    <w gl="my falls"><m lemma="4407">pa</m><m lemma="4326">nani</m><m lemma="1668"
+                        >'íin</m></w>." </txt>
+                <trans lang="eng">And he said, "Who spoiled my falls?"</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="3745">kári</m></w>
+                    <w><m lemma="6847">xás</m></w>
+                    <w><m lemma="5384">siit</m></w>
+                    <w gl="he said"><m lemma="6175">u</m><m lemma="4823">piip</m></w>, "<w><m lemma="4299"
+                            >naa</m></w>
+                    <w><m lemma="2671">íp</m></w>
+                    <w gl="I revealed"><m lemma="4349">ni</m><m lemma="4605">pasúpiichv</m><m lemma="738"
+                            >at</m></w>
+                    <w gl="that a new wife"><m lemma="4408">pa</m><m lemma="5452">sôomvaan</m></w>
+                    <w gl="you were bringing back"><m lemma="5506">t</m><m lemma="1418">i</m><m lemma="2719"
+                            >'ípasuk</m></w>. </txt>
+                <trans lang="eng">Then Mouse said, "I revealed that you were bringing home a new wife.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6570">víri</m></w>
+                    <w><m lemma="5506">tá</m></w>
+                    <w gl="your wife"><m lemma="4238">mi</m><m lemma="1576">hrôoha</m></w>
+                    <w><m lemma="4966">pirishkâarim</m></w>
+                    <w gl="he spoiled"><m lemma="5506">t</m><m lemma="6175">u</m><m lemma="5544"
+                        >táayvaar</m></w>
+                    <w gl="your falls"><m lemma="4407">pa</m><m lemma="4238">mi</m><m lemma="1668"
+                        >'íin</m></w>." </txt>
+                <trans lang="eng">Your wife, Grizzly Bear, spoiled your falls."</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6174">ta'ítam</m></w>
+                    <w gl="he slaughtered"><m lemma="6175">u</m><m lemma="5051">piykára</m><m lemma="1378"
+                            >heen</m></w>
+                    <w gl="his wife"><m lemma="4407">pa</m><m lemma="4260">mu</m><m lemma="1576"
+                        >hrôoha</m></w>. </txt>
+                <trans lang="eng">So (Duck Hawk) killed his wife.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="3745">kári</m></w>
+                    <w><m lemma="6847">xás</m></w>
+                    <w gl="he said"><m lemma="6175">u</m><m lemma="4823">piip</m></w>, "<w><m lemma="234"
+                            >akâay</m></w>
+                    <w><m lemma="3809">kích</m></w>
+                    <w><m lemma="6675">vúra</m></w>
+                    <w gl="one who will carry away"><m lemma="2674">ip</m><m lemma="5312">shan</m><m
+                            lemma="5381">sîipree</m><m lemma="1379">vish</m><m lemma="369">an</m></w>
+                    <w gl="his bones"><m lemma="4407">pa</m><m lemma="4260">mu</m><m lemma="2750"
+                        >'ípih</m></w>." </txt>
+                <trans lang="eng">And he said, "Who is going to carry away her bones?"</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="3745">kári</m></w>
+                    <w><m lemma="6847">xás</m></w>
+                    <w gl="he said"><m lemma="6175">u</m><m lemma="4823">piip</m></w>
+                    <w><m lemma="3690">kachakâach</m></w> "<w><m lemma="4299">naa</m></w>
+                    <w><m lemma="4357">ník</m></w>
+                    <w gl="I will carry away"><m lemma="4349">ni</m><m lemma="4406">p</m><m lemma="5312"
+                            >shan</m><m lemma="5381">sîipree</m><m lemma="1379">vish</m></w>." </txt>
+                <trans lang="eng"> Then Blue Jay said, "I'll carry them away."</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="5160">púya</m></w> <w gl="she carried away in a pack-basket"><m
+                            lemma="6175">u</m><m lemma="4406">p</m><m lemma="797">atishîip</m></w>. </txt>
+                <trans lang="eng">So she loaded up a burden-basket.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w><m lemma="6536">viitkírak</m></w>
+                    <w><m lemma="4077">kúuk</m></w>
+                    <w gl="she carried"><m lemma="6175">u</m><m lemma="4406">p</m><m lemma="802">atí</m><m
+                            lemma="4257">moo</m></w>. </txt>
+                <trans lang="eng">And she carried them to the Bald Hills.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="3745">kári</m></w>
+                    <w><m lemma="6847">xás</m></w>
+                    <w><m lemma="6383">vaa</m></w>
+                    <w><m lemma="3670">káan</m></w>
+                    <w><m lemma="6847">xás</m></w>
+                    <w><m lemma="3220">itháhaas</m></w>
+                    <w gl="he made"><m lemma="6175">ú</m><m lemma="2348">kyav</m></w>. </txt>
+                <trans lang="eng">And she scattered them there</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w gl="so"><m lemma="6570">víri</m><m lemma="6377">va</m></w>
+                    <w><m lemma="3971">kumá'ii</m></w>
+                    <w><m lemma="6383">vaa</m></w>
+                    <w><m lemma="3670">káan</m></w>
+                    <w><m lemma="3809">kích</m></w>
+                    <w gl="they lived"><m lemma="3977">kun</m><m lemma="508">'áraarahi</m><m lemma="6035"
+                            >tih</m><m lemma="1369">anik</m></w>
+                    <w><m lemma="4966">pirishkâarim</m></w>. </txt>
+                <trans lang="eng">For that reason grizzly bears lived only there.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="4385">ôok</m></w>
+                    <w><m lemma="6307">uum</m></w>
+                    <w gl="weren't any"><m lemma="5085">púfaat</m><m
+                            lemma="1369">-hanik</m></w>
+                    <w gl="the grizzly bear"><m lemma="4407">pa</m><m lemma="4966">pirishkâarim</m></w>. </txt>
+                <trans lang="eng">There were no grizzly bears here.</trans>
+            </s>
+        </paragraph>
+    </data>
+</text>

@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="LA-02" audio-source="karuk-2010-10-24-la-1">
+    <metadata>
+        <title>Sentences about acorns, weather</title>
+        <author>Lucille <alph>Albers</alph></author>
+        <date>2010</date>
+        <publication>Unpublished (recorded by Andrew Garrett and Line Mikkelsen on October 24,
+            2010)</publication>
+		<genre type="elicitation"/>
+    </metadata>
+    <data>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_01" audio-start-time="4:21">
+                <txt lang="kyh">
+                    <w id="LA-02:1" head="LA-02:2" synrel="SBJ">
+						<m lemma="6907">xuntápan</m>
+					</w>
+                    <w id="LA-02:2" head="0" synrel="PRED">
+						<m lemma="4151">maath</m>
+					</w>.
+				</txt>
+                <trans lang="eng">This acorn is heavy.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_02" audio-start-time="13:42">
+                <txt lang="kyh">
+					<w id="LA-02:3" head="LA-02:4" synrel="ADV">
+						<m lemma="4213">máruk</m>
+					</w>
+                    <w gl="you go" id="LA-02:4" head="0" synrel="PRED">
+						<m lemma="1418">i</m>
+						<m lemma="6396">vâaram</m>
+					</w>!
+				</txt>
+                <trans lang="eng">Go uphill!</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_03" audio-start-time="14:24">
+                <txt lang="kyh">
+					<w id="LA-02:5" head="LA-02:6" synrel="ADV">
+						<m lemma="5328">sáruk</m>
+					</w>
+                    <w gl="you go" id="LA-02:6" head="0" synrel="PRED">
+						<m lemma="1418">i</m>
+						<m lemma="6396">vâaram</m>
+					</w>!
+				</txt>
+                <trans lang="eng">Go downhill!</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_04" audio-start-time="16:02">
+                <txt lang="kyh">
+					<w id="LA-02:7" head="LA-02:10" synrel="SBJ">
+						<m lemma="7205">yuraschíshiih</m>
+					</w>
+					<w id="LA-02:8" head="LA-02:7" synrel="APOS">
+						<m lemma="6307">uum</m>
+					</w>
+                    <w id="LA-02:9" head="LA-02:10" synrel="ADV">
+						<m lemma="4213">máruk</m>
+					</w>
+                    <w gl="it went" id="LA-02:10" head="0" synrel="PRED">
+						<m lemma="5506" id="LA-02:11" head="LA-02:10" synrel="TAM">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="6396">vâaram</m>
+					</w>.
+				</txt>
+                <trans lang="eng">The horse went uphill.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_05" audio-start-time="17:23">
+                <txt lang="kyh">
+					<w id="LA-02:12" head="LA-02:13" synrel="ATR">
+						<m lemma="5541">taay</m>
+					</w>
+                    <w gl="the acorns" id="LA-02:13" head="0" synrel="PRED">
+						<m lemma="4407" id="LA-02:14" head="LA-02:13" synrel="ATR">pa</m>
+						<m lemma="6907">xuntápan</m>
+					</w>.
+				</txt>
+                <trans lang="eng">There is lots of acorns.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_06" audio-start-time="18:18">
+                <txt lang="kyh">
+					<w id="LA-02:15" head="LA-02:16" synrel="ATR">
+						<m lemma="5541">taay</m>
+					</w>
+                    <w gl="the horses" id="LA-02:16" head="0" synrel="PRED">
+						<m lemma="4407" id="LA-02:17" head="LA-02:16" synrel="ATR">pa</m>
+						<m lemma="7205">yuraschíshiih</m>
+					</w>.
+				</txt>
+                <trans lang="eng">There is lots of horses.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_07" audio-start-time="18:36">
+                <txt lang="kyh">
+					<w id="LA-02:18" head="0" synrel="PRED">
+						<m lemma="5085">púfaat</m>
+					</w>
+                    <w gl="the acorns" id="LA-02:19" head="LA-02:18" synrel="SBJ">
+						<m lemma="4407" id="LA-02:20" head="LA-02:19" synrel="ATR">pa</m>
+						<m lemma="6907">xuntápan</m>
+					</w>.
+				</txt>
+                <trans lang="eng">There are no acorns.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_08" audio-start-time="22:03">
+                <txt lang="kyh">
+                    <w id="LA-02:21" head="LA-02:22" synrel="TAM">
+						<m lemma="5506">tá</m>
+                    </w>
+                    <w gl="I fall down" id="LA-02:22" head="0" synrel="PRED">
+						<m lemma="4349">ni</m>
+						<m lemma="2376">kyívish</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I fell down.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_09" audio-start-time="22:44">
+                <txt lang="kyh">
+                    <w gl="they fall down" id="LA-02:23" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="5041">pívrih</m>
+						<m lemma="2937">ish</m>
+						<m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">They (inanimate) fall down.</trans>
+            </s>
+            <note>pívrihish is not in the dictionary</note>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_10" audio-start-time="23:06">
+                <txt lang="kyh">
+                    <w id="LA-02:24" head="LA-02:25" synrel="SBJ">
+						<m lemma="6907">xuntápan</m>
+                    </w>
+                    <w gl="they fall down" id="LA-02:25" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="5041">pívrih</m>
+						<m lemma="2937">ish</m>
+						<m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">The acorns fall down.</trans>
+            </s>
+            <note>pívrihish is not in the dictionary</note>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_12" audio-start-time="26:31">
+                <txt lang="kyh">
+                    <w id="LA-02:26" head="LA-02:27" synrel="OBJ">
+						<m lemma="6907">xuntápan</m>
+                    </w>
+                    <w gl="I am cracking (acorns)" id="LA-02:27" head="0" synrel="PRED">
+						<m lemma="4349">ni</m>
+						<m lemma="3886">kítnaak</m>
+						<m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I am cracking acorns.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_13" audio-start-time="26:47">
+                <txt lang="kyh">
+                    <w gl="the acorns" id="LA-02:28" head="LA-02:31" synrel="OBJ">
+						<m lemma="4407" id="LA-02:29" head="LA-02:28" synrel="ATR">pa</m>
+						<m lemma="6907">xuntápan</m>
+                    </w>
+                    <w id="LA-02:30" head="LA-02:31" synrel="TAM">
+						<m lemma="1109">chí</m>
+                    </w>
+                    <w gl="I am going to crack (acorns)" id="LA-02:31" head="0" synrel="PRED">
+						<m lemma="4349">ni</m>
+						<m lemma="3886">kitnák</m>
+						<m lemma="1379">eesh</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I am going to crack acorns.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_14" audio-start-time="28:00">
+                <txt lang="kyh">
+                    <w id="LA-02:32" head="LA-02:34" synrel="SBJ">
+						<m lemma="234">akâay</m>
+                    </w>
+                    <w gl="the acorns" id="LA-02:32" head="LA-02:34" synrel="OBJ">
+						<m lemma="4407" id="LA-02:33" head="LA-02:32" synrel="ATR">pa</m>
+						<m lemma="6907">xuntápan</m>
+                    </w>
+                    <w gl="he is cracking (acorns)" id="LA-02:34" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="3886">kítnaak</m>
+						<m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">Who is cracking acorns?</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_15" audio-start-time="29:20">
+                <txt lang="kyh">
+                    <w id="LA-02:35" head="LA-02:36" synrel="ATR">
+						<m lemma="5541">taay</m>
+                    </w>
+                    <w gl="the acorns" id="LA-02:36" head="LA-02:39" synrel="OBJ">
+						<m lemma="4407" id="LA-02:37" head="LA-02:36" synrel="ATR">pa</m>
+						<m lemma="6907">xuntápan</m>
+                    </w>
+					<w id="LA-02:38" head="LA-02:39" synrel="TAM">
+						<m lemma="5506">tá</m>
+					</w>
+                    <w gl="I cracked" id="LA-02:39" head="0" synrel="PRED">
+						<m lemma="4349">ni</m>
+						<m lemma="3886">kítnak</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I cracked lots of acorns.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_17" audio-start-time="37:12">
+                <txt lang="kyh">
+                    <w id="LA-02:40" head="LA-02:41" synrel="TAM">
+						<m lemma="1109">chí</m>
+                    </w>
+                    <w gl="I'm going to grind (acorns)" id="LA-02:41" head="0" synrel="PRED">
+						<m lemma="4349">ni</m>
+						<m lemma="1934">kráv</m>
+						<m lemma="1379">eesh</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I'm gonna grind (acorns) soon.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_18" audio-start-time="40:46">
+                <txt lang="kyh">
+                    <w gl="it is" id="LA-02:42" head="LA-02:43" synrel="TAM">
+						<m lemma="5506">t</m>
+						<m lemma="6175">oo</m>
+                    </w>
+                    <w id="LA-02:43" head="0" synrel="PRED"> 
+						<m lemma="3051">spas</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">It (acorn meal) is leached free from bitterness.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_19" audio-start-time="45:25">
+                <txt lang="kyh">
+                    <w id="LA-02:44" head="LA-02:45" synrel="TAM">
+						<m lemma="1109">chí</m>
+                    </w>
+                    <w gl="I'm gonna leach those (acorns)" id="LA-02:45" head="0" synrel="PRED">
+						<m lemma="4349">ni</m>
+						<m lemma="5589">tákir</m>
+						<m lemma="1379">eesh</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I'm gonna leach those (acorns).</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_20" audio-start-time="45:42">
+                <txt lang="kyh">
+                    <w id="LA-02:46" head="LA-02:48" synrel="SBJ">
+						<m lemma="234">akâay</m>
+                    </w>
+                    <w id="LA-02:47" head="LA-02:48" synrel="OBJ">
+						<m lemma="1915">ikpúr</m>
+                    </w>
+                    <w gl="she is leaching it" id="LA-02:48" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="5589">tákir</m>
+						<m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">Who is leaching acorn meal?</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_21" audio-start-time="46:33">
+                <txt lang="kyh">
+                    <w gl="I'm cooking acorn soup" id="LA-02:49" head="0" synrel="PRED">
+						<m lemma="4349">ni</m>
+						<m lemma="5880">tharámpuuk</m>
+						<m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I'm cooking acorn soup.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_22" audio-start-time="58:42">
+                <txt lang="kyh">
+                    <w gl="your day" id="LA-02:50" head="LA-02:51" synrel="SBJ">
+						<m lemma="4238">mi</m>
+						<m lemma="5468">súpaah</m>
+                    </w>
+                    <w id="LA-02:51" head="0" synrel="PRED">
+						<m lemma="7049">yav</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">Happy birthday!</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_23" audio-start-time="1:00:14">
+                <txt lang="kyh">
+                    <w gl="it's raining" id="LA-02:52" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="4644">páthriih</m>
+						<m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">It's raining.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_24" audio-start-time="1:01:14">
+                <txt lang="kyh">
+                    <w gl="it has" id="LA-02:53" head="LA-02:54" synrel="TAM">
+						<m lemma="5506">t</m>
+						<m lemma="6175">oo</m>
+                    </w>
+                    <w id="LA-02:54" head="0" synrel="PRED">
+						<m lemma="3045">snur</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">It thundered.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_25" audio-start-time="1:01:42">
+                <txt lang="kyh">
+                    <w gl="it has" id="LA-02:55" head="LA-02:56" synrel="TAM">
+						<m lemma="5506">t</m>
+						<m lemma="6175">óo</m>
+                    </w>
+                    <w id="LA-02:56" head="0" synrel="PRED">
+						<m lemma="3045">snur</m>
+                    </w>
+                    <w id="LA-02:57" head="LA-02:56" synrel="DIS">
+						<m lemma="1402">um</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">Did it thunder?</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_26" audio-start-time="1:01:43">
+                <txt lang="kyh">
+                    <w id="LA-02:58" head="0" synrel="PRED">
+						<m lemma="3045">ishnúr</m>
+                    </w>
+                    <w id="LA-02:59" head="LA-02:58" synrel="DIS">
+						<m lemma="1402">um</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">Is it thundering?</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_27" audio-start-time="1:02:43">
+                <txt lang="kyh">
+                    <w id="LA-02:60" head="LA-02:62" synrel="ADV">
+						<m lemma="2766">ipít</m>
+                    </w>
+                    <w id="LA-02:61" head="LA-02:62" synrel="TAM">
+						<m lemma="4248">mít</m>
+                    </w>
+                    <w gl="it thundered" id="LA-02:62" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="3045">snúr</m>
+						<m lemma="738">at</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">It thundered yesterday.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_28" audio-start-time="1:02:59">
+                <txt lang="kyh">
+                    <w id="LA-02:63" head="LA-02:64" synrel="ADV">
+						<m lemma="2766">ipít</m>
+                    </w>
+                    <w gl="it thundered" id="LA-02:64" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="3045">snúr</m>
+						<m lemma="738">at</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">It thundered yesterday.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_29" audio-start-time="1:03:28">
+                <txt lang="kyh">
+                    <w id="LA-02:65" head="LA-02:66" synrel="ADV">
+						<m lemma="2766">ipít</m>
+                    </w>
+                    <w gl="it rained" id="LA-02:66" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="4644">pathríh</m>
+						<m lemma="738">at</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">It rained yesterday.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_30" audio-start-time="1:05:12">
+                <txt lang="kyh">
+                    <w id="LA-02:67" head="LA-02:68" synrel="ADV">
+						<m lemma="2766">ipít</m>
+                    </w>
+                    <w gl="it snowed" id="LA-02:68" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="2386">kyútunih</m>
+						<m lemma="738">at</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">It snowed yesterday.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_31" audio-start-time="1:06:22">
+                <txt lang="kyh">
+                    <w id="LA-02:69" head="0" synrel="PRED">
+						<m lemma="768">áthiik</m>
+                    </w>
+                    <w id="LA-02:70" head="LA-02:69" synrel="ADV">
+						<m lemma="1649">îikam</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">It's cold outside.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_33" audio-start-time="">
+                <txt lang="kyh">
+                    <w id="LA-02:71" head="LA-02:73" synrel="ADV">
+						<m lemma="4171">máh'iit</m>
+                    </w>
+                    <w id="LA-02:72" head="LA-02:73" synrel="COMP">
+						<m lemma="1649">îikam</m>
+                    </w>
+                    <w gl="I left the house" id="LA-02:73" head="0" synrel="PRED">
+						<m lemma="4349">ni</m>
+						<m lemma="6618">vôonupuk</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I went outside this morning.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_34" audio-start-time="">
+                <txt lang="kyh">
+                    <w id="LA-02:74" head="LA-02:75" synrel="COMP">
+						<m lemma="1649">îikam</m>
+                    </w>
+                    <w gl="you left the house" id="LA-02:75" head="0" synrel="PRED">
+						<m lemma="1418">i</m>
+						<m lemma="6618">vôonupuk</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">You went outside.</trans>
+            </s>
+        </paragraph>
+    </data>
+</text>

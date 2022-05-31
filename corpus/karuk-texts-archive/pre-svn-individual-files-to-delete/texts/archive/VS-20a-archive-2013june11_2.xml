@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="VS-20a" audio-source="karuk-2012-10-20-vs-4">
+    <metadata>
+        <title>Sentences from Now You're Speaking Karuk</title>
+        <author>Vina <alph>Smith</alph></author>
+        <date>2012</date>
+        <publication>Unpublished (recorded by Andrew Garrett and Line Mikkelsen on October 20, 2012)</publication>
+    </metadata>
+    <data>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2012-10-20-vs-4_A_01" audio-start-time="1:15">
+                <kar>
+                    <w>
+						<m id="1029">ayukîi</m>
+					</w>.
+				</kar>
+                <eng>Hello.</eng>
+            </s>
+        </paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_02" audio-start-time="1:33">
+				<kar>
+					<w>
+						<m id="1410">hûut</m>
+					</w>
+					<w>
+						<m id="1656">íim</m>
+					</w>.
+				</kar>
+				<eng>How are you?</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_03" audio-start-time="2:13">
+				<kar>
+					<w>
+						<m id="1410">hûut</m>
+					</w>
+					<w gl="it is wrong with you">
+						<m id="5506">t</m>
+						<m id="1418">i</m>
+						<m id="1667">'iin</m>
+					</w>.
+				</kar>
+				<eng>What's wrong?</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_04" audio-start-time="2:16">
+				<kar>
+					<w>
+						<m id="1410">hûut</m>
+					</w>
+					<w>
+						<m id="3809">kich</m>
+					</w>.
+				</kar>
+				<eng>How are you?</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_05" audio-start-time="3:47">
+				<kar>
+					<w>
+						<m id="4299">naa</m>
+					</w>
+					<w>
+						<m id="6675">vúra</m>
+					</w>
+					<w>
+						<m id="7049">yav</m>
+					</w>.
+				</kar>
+				<eng>I'm just fine.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_06" audio-start-time="4:00">
+				<kar>
+					<w>
+						<m id="6675">vúra</m>
+					</w>
+					<w>
+						<m id="7049">yav</m>
+					</w>.
+				</kar>
+				<eng>I'm just fine.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_07" audio-start-time="4:42">
+				<kar>
+					<w>
+						<m id="4299">naa</m>
+					</w>
+					<w>
+						<m id="7071">yéeshiip</m>
+					</w>.
+				</kar>
+				<eng>I'm very good.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_08" audio-start-time="5:15">
+				<kar>
+					<w>
+						<m id="1656">iim</m>
+					</w>
+					<w>
+						<m id="1402">húm</m>
+					</w>
+					<w>
+						<m id="1410">hûut</m>
+					</w>.
+				</kar>
+				<eng>And how are you?</eng>
+			</s>
+		<paragraph>
+		</paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_09" audio-start-time="6:10">
+				<kar>
+					<w>
+						<m id="1457">íf</m>
+					</w>
+					<w>
+						<m id="6839">xára</m>
+					</w>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w>
+						<m id="5506">tá</m>
+					</w>
+					<w gl="I see you again">
+						<m id="4370">nu</m>
+						<m id="2783">pmah</m>
+					</w>.
+				</kar>
+				<eng>I haven't seen you in a long time.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_10" audio-start-time="7:13">
+				<kar>
+					<w>
+						<m id="1396">hôoy</m>
+					</w>
+					<w gl="you have come from there">
+						<m id="5506">t</m>
+						<m id="1418">i</m>
+						<m id="514">'aramsîipriv</m>
+					</w>.
+				</kar>
+				<eng>Where are you coming from?</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_11" audio-start-time="7:44">
+				<kar>
+					<w>
+						<m id="4299">naa</m>
+					</w>
+					<w>
+						<m language="english">Orleans</m>
+					</w>
+					<w gl="I am coming from there">
+						<m id="4349">ni</m>
+						<m id="514">'aramsîipriv</m>
+						<m id="6035">tih</m>
+					</w>.
+				</kar>
+				<eng>I am coming from Orleans.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_12" audio-start-time="7:48">
+				<kar>
+					<w>
+						<m language="english">Orleans</m>
+					</w>
+					<w gl="I am coming from there">
+						<m id="4349">ni</m>
+						<m id="514">'aramsîipriv</m>
+						<m id="6035">tih</m>
+					</w>.
+				</kar>
+				<eng>I am coming from Orleans.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_13" audio-start-time="8:11">
+				<kar>
+					<w>
+						<m id="4528">panámniik</m>
+					</w>
+					<w gl="I am coming from there">
+						<m id="4349">ni</m>
+						<m id="514">'aramsîipriv</m>
+						<m id="6035">tih</m>
+					</w>.
+				</kar>
+				<eng>I am coming from Orleans.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_14" audio-start-time="8:31">
+				<kar>
+					<w>
+						<m id="1410">hûut</m>
+					</w>
+					<w>
+						<m id="3809">kích</m>
+					</w>
+					<w gl="the roads">
+						<m id="4407">p</m>
+						<m id="2472">eempaah</m>
+					</w>.
+				</kar>
+				<eng>How are the roads?</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_15" audio-start-time="9:13">
+				<kar>
+					<w>
+						<m id="1410">hûut</m>
+					</w>
+					<w>
+						<m id="3809">kích</m>
+					</w>
+					<w gl="the river">
+						<m id="4407">p</m>
+						<m id="3007">eeshkéesh</m>
+					</w>.
+				</kar>
+				<eng>How's the river?</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_16" audio-start-time="9:35">
+				<kar>
+					<w>
+						<m id="7049">yáv</m>
+					</w>
+					<w gl="it looks like">
+						<m id="6175">u</m>
+						<m id="2573">músahi</m>
+						<m id="6035">ti</m>
+					</w>
+					<w gl="the river">
+						<m id="4407">pa</m>
+						<m id="3007">'ishkéesh</m>
+					</w>.
+				</kar>
+				<eng>The river looks good.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_17" audio-start-time="10:31">
+				<kar>
+					<w gl="the river">>
+						<m id="4407">p</m>
+						<m id="3007">eeshkêesh</m>
+					</w>
+					<w>
+						<m id="7049">yáv</m>
+					</w>
+					<w gl="it looks like">
+						<m id="6175">u</m>
+						<m id="2573">músahi</m>
+						<m id="6035">tih</m>
+					</w>.
+				</kar>
+				<eng>The river looks good.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_18" audio-start-time="10:43">
+				<kar>
+					<w gl="the river">
+						<m id="4408">p</m>
+						<m id="3007">eeshkêesh</m>
+					</w>
+					<w>
+						<m id="6675">vúra</m>
+					</w>
+					<w>
+						<m id="7049">yáv</m>
+					</w>
+					<w gl="it looks like">
+						<m id="6175">u</m>
+						<m id="2573">músahi</m>
+						<m id="6035">tih</m>
+					</w>.
+				</kar>
+				<eng>The river looks good.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_19" audio-start-time="10:53">
+				<kar>
+					<w>	
+						<m id="1003">axvíthirar</m>
+					</w>
+					<w gl="the river">
+						<m id="4407">p</m>
+						<m id="3007">eeshkéesh</m>
+					</w>.
+				</kar>
+				<eng>The river is dirty.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_20" audio-start-time="11:13">
+				<kar>
+					<w gl="the river">
+						<m id="4407">p</m>
+						<m id="3007">eeshkêesh</m>
+					</w>
+					<w gl="it has risen">
+						<m id="5506">t</m>
+						<m id="6175">u</m>
+						<m id="6186">'uh</m>
+					</w>.
+				</kar>
+				<eng>The river is rising.</eng>
+			</s>
+		</paragraph> 
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_21" audio-start-time="11:24">
+				<kar>
+					<w gl="the river">
+						<m id="4407">p</m>
+						<m id="3007">eeshkêesh</m>
+					</w>
+					<w gl="it has dried up">
+						<m id="5506">t</m>
+						<m id="6175">u</m>
+						<m id="5037">piváxrah</m>
+					</w>.
+				</kar>
+				<eng>The river is drying up.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_22" audio-start-time="11:43">
+				<kar>
+					<w>
+						<m id="1109">chí</m>
+					</w>
+					<w gl="it is going to rain">
+						<m id="6175">u</m>
+						<m id="4644">pathríh</m>
+						<m id="1379">eesh</m>
+					</w>
+					<w>
+						<m id="1402">hum</m>
+					</w>.
+				</kar>
+				<eng>Is it going to rain?</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_23" audio-start-time="12:35">
+				<kar>
+					<w>
+						<m id="3999">kúnish</m>
+					</w>
+					<w>
+						<m id="1109">chí</m>
+					</w>
+					<w gl="it is going to rain">
+						<m id="6175">u</m>
+						<m id="4644">pathríh</m>
+						<m id="1379">eesh</m>
+					</w>.
+				</kar>
+				<eng>It's just about to rain.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_24" audio-start-time="13:02">
+				<kar>
+					<w>
+						<m id="1109">chí</m>
+					</w>
+					<w gl="I am going to leave">
+						<m id="4349">ni</m>
+						<m id="6396">vâaram</m>
+						<m id="1379">eesh</m>
+					</w>.
+				</kar>
+				<eng>I am going to leave.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_25" audio-start-time="13:13">
+				<kar>
+					<w>
+						<m id="1144">chími</m>
+					</w>
+					<w gl="I am going to leave">
+						<m id="4349">ni</m>
+						<m id="6396">vâaram</m>
+						<m id="1379">eesh</m>
+					</w>.
+				</kar>
+				<eng>I am going to leave.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_26" audio-start-time="13:35">
+				<kar>
+					<w>
+						<m id="2391">imáan</m>
+					</w>
+					<w>
+						<m id="3999">kúnish</m>
+					</w>
+					<w gl="it is going to rain">	
+						<m id="6175">u</m>
+						<m id="4644">pathríh</m>
+						<m id="1379">eesh</m>
+					</w>.
+				</kar>
+				<eng>It looks like it's going to rain tomorrow.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_27" audio-start-time="13:41">
+				<kar>
+					<w>
+						<m id="3999">kúnish</m>
+					</w>
+					<w gl="it is going to rain">
+						<m id="6175">u</m>
+						<m id="4644">pathríh</m>
+						<m id="1379">eesh</m>
+					</w>
+				</kar>
+				<eng>It looks like it's going to rain (tomorrow).</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_28" audio-start-time="15:12">
+				<kar>
+					<w>
+						<m id="3972">kúmateech</m>
+					</w>
+					<w>
+						<m id="6307">uum</m>
+					</w>
+					<w>
+						<m id="3999">kúnish</m>
+					</w>
+					<w gl="it is going to be hot">
+						<m id="6175">u</m>
+						<m id="2406">mcháx</m>
+						<m id="1379">eesh</m>
+					</w>.
+				</kar>
+				<eng>It's going to be hot later.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_29" audio-start-time="15:17">
+				<kar>
+					<w>
+						<m id="3972">kúmateech</m>
+					</w>
+					<w>
+						<m id="6307">uum</m>
+					</w>
+					<w gl="it is going to get hot">
+						<m id="6175">u</m>
+						<m id="2406">mcháx</m>
+						<m id="1379">eesh</m>
+					</w>.
+				</kar>
+				<eng>It's going to be hot later.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_30" audio-start-time="15:50">
+				<kar>
+					<w>
+						<m id="3973">kúmateechvanihich</m>
+					</w>
+					<w gl="it is going to get hot">
+						<m id="6175">u</m>
+						<m id="2406">mcháx</m>
+						<m id="1379">eesh</m>
+					</w>.
+				</kar>
+				<eng>It's going to get hot later.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_31" audio-start-time="16:26">
+				<kar>
+					<w>
+						<m id="1281">fâat</m>
+					</w>
+					<w>
+						<m id="1660">iimkun</m>
+					</w>
+					<w gl="you guys are doing it">
+						<m id="3939">ku</m>
+						<m id="4007">kupavêenahi</m>
+						<m id="6035">tih</m>
+					</w>.
+				</kar>
+				<eng>What are you guys doing?</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_32" audio-start-time="16:50">
+				<kar>
+					<w>
+						<m id="1281">fâat</m>
+					</w>
+					<w>
+						<m id="1660">iimkun</m>
+					</w>
+					<w gl="you guys are doing it">
+						<m id="3939">ku</m>
+						<m id="4007">kupavêena</m>
+						<m id="6035">tih</m>
+					</w>.
+				</kar>
+				<eng>What are you guys doing?</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_33" audio-start-time="17:13">
+				<kar>
+					<w>
+						<m id="1656">iim</m>
+					</w>
+					<w>
+						<m id="1281">fâat</m>
+					</w>
+					<w gl="you are doing it">
+						<m id="1418">i</m>
+						<m id="4007">kupavêena</m>
+						<m id="6035">tih</m>
+					</w>.
+				</kar>
+				<eng>What are you doing?</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_34" audio-start-time="17:23">
+				<kar>
+					<w>
+						<m id="5104">purafâat</m>
+					</w>.
+				</kar>
+				<eng>Nothing.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_35" audio-start-time="17:30">
+				<kar>
+					<w>
+						<m id="5104">purafâat</m>
+					</w>
+					<w>
+						<m id="6675">vúra</m>
+					</w>.
+				</kar>
+				<eng>Nothing at all.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_36" audio-start-time="17:33">
+				<kar>
+					<w>
+						<m id="5104">purafâat</m>
+					</w>
+					<w>
+						<m id="6675">vúra</m>
+					</w>
+					<w gl="I am doing it">
+						<m id="4349">ni</m>
+						<m id="4007">kupavêena</m>
+						<m id="6035">tih</m>
+					</w>.
+				</kar>
+				<eng>I am doing nothing.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_37" audio-start-time="17:45">
+				<kar>
+					<w>
+						<m id="1410">hûut</m>
+					</w>
+					<w gl="you are saying">
+						<m id="1418">i</m>
+						<m id="4823">pí</m>
+						<m id="6035">tih</m>
+					</w>.
+				</kar>
+				<eng>What are you saying?</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_38" audio-start-time="17:50">
+				<kar>
+					<w>
+						<m id="1410">hûut</m>
+					</w>
+					<w gl="you did">
+						<m id="5506">t</m>
+						<m id="1418">ée</m>
+					</w>
+					<w>
+						<m id="4823">piip</m>
+					</w>.
+				</kar>
+				<eng>What did you say?</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_39" audio-start-time="18:22">
+				<kar>
+					<w>
+						<m id="1410">hûut</m>
+					</w>
+					<w gl="you are doing it">
+						<m id="1418">i</m>
+						<m id="4007">kupavêena</m>
+						<m id="6035">tih</m>
+					</w>.
+				</kar>
+				<eng>What are you doing?</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_40" audio-start-time="18:48">
+				<kar>
+					<w>
+						<m id="1281">fâat</m>
+					</w>
+					<w gl="you know it">
+						<m id="1418">i</m>
+						<m id="44">'aapúnmu</m>
+						<m id="6035">tih</m>
+					</w>.
+				</kar>
+				<eng>What do you know?</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_41" audio-start-time="19:07">
+				<kar>
+					<w>
+						<m id="1410">hûut</m>
+					</w>
+					<w gl="your name">
+						<m id="4238">mí</m>
+						<m id="3322">thvuy</m>
+					</w>.
+				</kar>
+				<eng>What's your name?</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_42" audio-start-time="19:16">
+				<kar>
+					<w>
+						<m id="1410">hûut</m>
+					</w>
+					<w gl="you are called">
+						<m id="1418">í</m>
+						<m id="3323">thvuuy</m>
+						<m id="6035">tih</m>
+					</w>.
+				</kar>
+				<eng>What's your name?</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_43" audio-start-time="19:24">
+				<kar>
+					<w gl="my name">
+						<m id="4326">naní</m>
+						<m id="3322">thvuy</m>
+					</w>
+					<w>
+						<m id="6307">uum</m>
+					</w>
+					<w>
+						<m language="english">Vina</m>
+					</w>.
+				</kar>
+				<eng>My name is Vina.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_44" audio-start-time="19:47">
+				<kar>
+					<w>
+						<m language="english">Vina</m>
+					</w>
+					<w gl="I am called">
+						<m id="4349">ní</m>
+						<m id="3323">thvuuy</m>
+						<m id="6035">tih</m>
+					</w>.
+				</kar>
+				<eng>Vina is my name.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_45" audio-start-time="20:24">
+				<kar>
+					<w>
+						<m id="5120">púsihich</m>
+					</w>
+					<w gl="you are called">
+						<m id="1418">i</m>
+						<m id="3323">thvuuy</m>
+						<m id="6035">ti</m>
+					</w>
+					<w>
+						<m id="1402">hum</m>
+					</w>.
+				</kar>
+				<eng>Are you named Púsihich?</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_46" audio-start-time="20:40">
+				<kar>
+					<w>
+						<m id="234">akâay</m>
+					</w>
+					<w>
+						<m id="1656">iim</m>
+					</w>
+					<w gl="your relatives">
+						<m id="4238">mi</m>
+						<m id="506">'áraar</m>
+						<m id="584">as</m>
+					</w>.
+				</kar>
+				<eng>Who are your relatives?</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_47" audio-start-time="21:06">
+				<kar>
+					<w>
+						<m id="234">akâay</m>
+					</w>
+					<w gl="your relatives">
+						<m id="4238">mi</m>
+						<m id="506">'áraar</m>
+						<m id="584">as</m>
+					</w>.
+				</kar>
+				<eng>Who are your relatives?</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_48" audio-start-time="21:26">
+				<kar>
+					<w>
+						<m id="1410">hûut</m>
+					</w>
+					<w>
+						<m id="3809">kích</m>
+					</w>
+					<w gl="your mother">
+						<m id="4407">pa</m>
+						<m id="4238">mí</m>
+						<m id="5532">taat</m>
+					</w>.
+				</kar>
+				<eng>How's your mother?</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_49" audio-start-time="21:32">
+				<kar>
+					<w>
+						<m id="1410">hûut</m>
+					</w>
+					<w>	
+						<m id="3809">kích</m>
+					</w>
+					<w gl="your father">
+						<m id="4407">pa</m>
+						<m id="4238">mi</m>
+						<m id="236">'ákah</m>
+					</w>.
+				</kar>
+				<eng>How's your father?</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s spkr="VS" audio="karuk-2012-10-20-vs-4_A_50" audio-start-time="21:51">
+				<kar>
+					<w>
+						<m id="1396">hôoy</m>
+					</w>
+					<w gl="you do go">
+						<m id="5506">t</m>
+						<m id="1418">i</m>
+						<m id="6396">vâaram</m>
+					</w>.
+				</kar>
+				<eng>Where are you going?</eng>
+			</s>
+		</paragraph>
+	</data>
+</text>
+					
+				
+						
+						
+			
+					
+			
+					
+				
+		
+				
+						
+			
+					
+				
+					
+					
+		
+						
+					
+						
+				
+				
+					
+		
+				
+						
+						
+					
+		
+						
+						
+						
+				
+					
+					
+				
+		
+		
+					
+        

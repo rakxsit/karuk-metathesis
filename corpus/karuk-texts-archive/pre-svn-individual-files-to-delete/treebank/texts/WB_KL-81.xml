@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-81">
+  <metadata>
+            <title>"The Sweating Doctor"</title>
+            <author>Julia <alph>Starritt</alph></author>
+            <date>1957</date>
+            <publication>William Bright, <em>The Karok Language</em> (1957), pp. 294-295, Text 81</publication>
+        </metadata>
+        <data>
+            <paragraph>
+                <s>
+                    <txt lang="kyh">
+                        <w gl="the sweating doctor"><m lemma="4407">pa</m><m lemma="382">'aneekyávaan</m></w>
+                        <w><m lemma="6307">uum</m></w>
+			<w><m lemma="4963">pírish</m></w>
+			<w gl="he used"><m lemma="4408">pa</m><m lemma="6175">'óo</m><m lemma="1584">hruuv</m><m lemma="6035">tih</m></w>
+			<w><m lemma="3752">káru</m></w>
+			<w><m lemma="1361">hâari</m></w>
+			<w gl="plant roots"><m lemma="4963">pirish</m><m lemma="1251">'éepuum</m></w>.
+                  </txt>
+                    <trans lang="eng">The sweating doctor used plants and sometimes plant roots.</trans>
+                </s>
+                <s>
+                    <txt lang="kyh">
+		      <w><m lemma="5163">púyava</m></w>
+		      <w><m lemma="6847">xás</m></w>
+		      <w gl="he talked to"><m lemma="6175">u</m><m lemma="6212">'uhyanakôo</m><m lemma="6035">ti</m></w>
+		      <w gl="the plants"><m lemma="4407">pa</m><m lemma="4963">pírish</m></w>.
+		    </txt>
+                    <trans lang="eng">And he talked to the plants.</trans>
+                </s>
+		<s>
+                    <txt lang="kyh">
+		      <w><m lemma="5163">púyava</m></w>
+		      <w><m lemma="6847">xás</m></w>
+		      <w gl="in bowl basket"><m lemma="665">ásip</m><m lemma="232">ak</m></w>
+		      <w gl="he put them in"><m lemma="5506">t</m><m lemma="6175">u</m><m lemma="4195">máhyaan</m></w>.
+		    </txt>
+                    <trans lang="eng">Then he put them in a bowl-basket.</trans>
+                </s>
+	      <s>
+		<txt lang="kyh">
+		  <w><m lemma="6847">xás</m></w>
+		  <w><m lemma="2940">íshaha</m></w>
+		  <w gl="he did"><m lemma="5506">t</m><m lemma="6175">óo</m></w>
+		  <w gl="pour in"><m lemma="3623">yvaayramnih</m></w>.
+		</txt>
+		<trans lang="eng">And he poured in water.</trans>
+	      </s>
+	      <s>
+		<txt lang="kyh">
+		  <w><m lemma="6847">xás</m></w>
+		  <w><m lemma="3745">kári</m></w>
+		  <w gl="hot stones"><m lemma="583">as</m><m lemma="2425">éemfir</m></w>
+		  <w gl="he put in"><m lemma="5506">t</m><m lemma="6175">u</m><m lemma="6143">turu</m><m lemma="5175">ráamnih</m><m lemma="6380">va</m></w>.
+		</txt>
+		<trans lang="eng">Then he put in hot stones.</trans>
+	      </s>
+	      <s>
+		<txt lang="kyh">
+		 <w><m lemma="5163">púyava</m></w>
+		 <w><m lemma="6847">xás</m></w>
+		 <w><m lemma="6383">vaa</m></w>
+		 <w gl="he did"><m lemma="5506">t</m><m lemma="6175">óo</m></w>
+		 <w><m lemma="4561">páramva</m></w>.
+		</txt>
+		<trans lang="eng">And he boiled them.</trans>
+	      </s>
+	      <s>
+		<txt lang="kyh">
+		  <w><m lemma="6847">xás</m></w>
+		  <w><m lemma="6383">vaa</m></w>
+		  <w gl="the sick"><m lemma="4407">pa</m><m lemma="7094">yíkihar</m></w>
+		  <w gl="his underneath"><m lemma="4260">mu</m><m lemma="5481">súrukam</m></w>
+		  <w gl="he did"><m lemma="5506">t</m><m lemma="6175">óo</m></w>
+		  <w><m lemma="3282">thríish</m></w>.
+		</txt>
+		<trans lang="eng">Then he set them down underneath the sick person.</trans>
+	      </s>
+	      <s>
+		<txt lang="kyh">
+		  <w><m lemma="6847">xás</m></w>
+		  <w><m lemma="6399">váas</m></w>
+		  <w><m lemma="5506">tá</m></w>
+		  <w gl="they covered with"><m lemma="3977">kun</m><m lemma="3653">iyxôorariv</m></w>.
+		</txt>
+		<trans lang="eng">And they covered (the patient) with a blanket.</trans>
+	      </s>
+	      <s>
+		<txt lang="kyh">
+		  <w><m lemma="5163">púyava</m></w>
+		  <w gl="when he used"><m lemma="4408">pa</m><m lemma="5506">t</m><m lemma="6175">u</m><m lemma="3909">kôo</m><m lemma="1358">haak</m></w>
+		  <w><m lemma="5163">púyava</m></w>
+		  <w><m lemma="3745">kári</m></w>
+		  <w gl="the medicine"><m lemma="4407">pa</m><m lemma="379">'ánav</m></w>
+		  <w><m lemma="1657">îim</m></w>
+		  <w><m lemma="5506">tá</m></w>
+		  <w gl="they poured out"><m lemma="3977">kun</m><m lemma="4406">p</m><m lemma="3653">iyvêesh</m></w>.
+		</txt>
+		<trans lang="eng">When he was finished, they poured the medicine on the ground, outdoors.</trans>
+	      </s>
+	      <s>
+		<txt lang="kyh">
+		  <w><m lemma="3752">káru</m></w>
+		  <w><m lemma="1361">hâari</m></w>
+		  <w gl="he drank"><m lemma="5506">t</m><m lemma="6175">u</m><m lemma="2936">'ísh</m></w>
+		  <w><m lemma="3667">káakum</m></w>
+		  <w gl="the medicine"><m lemma="4408">pa</m><m lemma="379">'ánav</m></w>.
+		</txt>
+		<trans lang="eng">And sometimes (the patient) drank some of the medicine.</trans>
+	      </s>
+	      <s>
+		<txt lang="kyh">
+		  <w><m lemma="5163">púyava</m></w>
+		  <w><m lemma="4715">páy</m></w>
+		  <w><m lemma="6307">uum</m></w>
+		  <w gl="plant medicine"><m lemma="4407">pa</m><m lemma="4963">pirish</m><m lemma="379">'ánav</m></w>
+		  <w gl="how they made it"><m lemma="3977">kun</m><m lemma="4004">kupee</m><m lemma="2348">kyâa</m><m lemma="169">hi</m><m lemma="6035">tih</m></w>.
+		</txt>
+		<trans lang="eng">That’s how they made plant medicine.</trans>
+	      </s>
+	      <s>
+		<txt lang="kyh">
+		  <w><m lemma="6847">xás</m></w>
+		  <w gl="the sweating doctor"><m lemma="4407">pa</m><m lemma="382">'aneekyávaan</m></w>
+		  <w><m lemma="6675">vúra</m></w>
+		  <w><m lemma="3999">kúnish</m></w>
+		  <w><m lemma="2252">ikxaréeyav</m></w>.
+		</txt>
+		<trans lang="eng">And the doctor was kind of (like) an ikxaréeyav.</trans>
+	      </s>
+	    </paragraph>
+	</data>
+</text>

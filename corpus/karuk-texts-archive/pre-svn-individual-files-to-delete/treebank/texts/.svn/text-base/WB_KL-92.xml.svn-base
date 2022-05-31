@@ -1,0 +1,2457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-92">
+	<metadata>
+		<title>"Responses to Pictures"</title>
+		<author>Julia <alph>Starritt</alph></author>
+		<date>1957</date>
+		<publication>William Bright, <em>The Karok Language</em> (1957), pp. 304-307, Text 92</publication>
+		<note publish="yes">Bright: "The following text consists of an informant's response to a set of fifty line drawings, prepared for elicitation purposes under the direction of Alfred S. Hayes (see IJAL, 20.186) and made available by the Archives of Languages of the World, Indiana University." Each paragraph corresponds to a separate drawing; the numbering of the paragraphs corresponds to the numbers of the drawings.</note>
+	</metadata>
+	<data>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w gl="it is a valley">
+						<m lemma="6175">u</m>
+						<m lemma="6096">tíshraam</m>
+						<m lemma="1356">hi</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">It is a valley.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6570">víri</m>
+					</w>
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w>
+						<m lemma="2682">ípaha</m>
+					</w>
+					<w gl="it is standing">
+						<m lemma="6175">u</m>
+						<m lemma="1646">'íihya</m>
+					</w>.
+				</txt>
+				<trans lang="eng">There is a tree standing there.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3752">káru</m>
+					</w>
+					<w>
+						<m lemma="833">ávansa</m>
+					</w>
+					<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w gl="he is standing">
+						<m lemma="6175">u</m>
+						<m lemma="1615">hyárih</m>
+					</w>,
+					<w gl="he is pointing at it">
+						<m lemma="6175">ú</m>
+						<m lemma="2093">ksuupku</m>
+						<m lemma="6035">ti</m>
+					</w>
+					<w gl="the tree">
+						<m lemma="4407">pa</m>
+						<m lemma="2682">'ípaha</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And a man is standing there, he is pointing at the tree.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3969">kúkuum</m>
+					</w>
+					<w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+					<w>
+						<m lemma="6570">víri</m>
+					</w>
+					<w>
+						<m lemma="4716">payêem</m>
+					</w>
+					<w>
+						<m lemma="864">áxak</m>
+					</w>
+					<w gl="the men">
+						<m lemma="4407">pa</m>
+						<m lemma="833">'ávansa</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Now again there are two men.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6570">víri</m>
+					</w>
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+					<w>
+						<m lemma="7097">yítha</m>
+					</w>
+					<w gl="he is pointing at it">
+						<m lemma="6175">ú</m>
+						<m lemma="2093">ksuupku</m>
+						<m lemma="6035">ti</m>
+					</w>
+					<w gl="the tree">
+						<m lemma="4407">pa</m>
+						<m lemma="2682">'ípaha</m>
+					</w>.
+				</txt>
+				<trans lang="eng">There is one pointing at the tree.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6570">víri</m>
+					</w>
+					<w>
+						<m lemma="4716">payêem</m>
+					</w>
+					<w>
+						<m lemma="4108">kuyraak</m>
+					</w>
+					<w>
+						<m lemma="5562">tah</m>
+					</w>,
+					<w gl="the men">
+						<m lemma="4407">pa</m>
+						<m lemma="833">'ávansa</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Now by this time there are three men.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3752">káru</m>
+					</w>
+					<w>
+						<m lemma="7097">yítha</m>
+					</w>
+					<w gl="he is running">
+						<m lemma="6175">ú</m>
+						<m lemma="2195">kviip</m>
+						<m lemma="6035">ti</m>
+					</w>
+					<w gl="in front of them">
+						<m lemma="4264">mukún</m>
+						<m lemma="70">'aavkam</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And one is running in front of them.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6570">víri</m>
+					</w>
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+					<w gl="he is pointing at it">
+						<m lemma="6175">ú</m>
+						<m lemma="2093">ksuupku</m>
+						<m lemma="6035">ti</m>
+					</w>
+					<w gl="the tree">
+						<m lemma="4407">pa</m>
+						<m lemma="2682">'ípaha</m>
+					</w>.
+				</txt>
+				<trans lang="eng">There is (one) pointing at the tree.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3969">kúkuum</m>
+					</w>
+					<w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+					<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w gl="he is standing">
+						<m lemma="6175">u</m>
+						<m lemma="1615">hyárih</m>
+					</w>,
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+					<w gl="he is pointing">
+						<m lemma="6175">ú</m>
+						<m lemma="2088">ksuup</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Again he is standing there like that, he is pointing like that.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+					<w gl="the one">
+						<m lemma="4407">pa</m>
+						<m lemma="7097">yítha</m>
+					</w>
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w gl="he is running">
+						<m lemma="6175">ú</m>
+						<m lemma="2195">kviip</m>
+						<m lemma="6035">ti</m>
+					</w>
+					<w gl="in front of him">
+						<m lemma="4260">mú</m>
+						<m lemma="70">'aavkam</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The one is still running in front of him like that.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6570">víri</m>
+					</w>
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w gl="the three">
+						<m lemma="4407">pá</m>
+						<m lemma="4108">kuyraak</m>
+					</w>,
+					<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w gl="they are standing">
+						<m lemma="3977">kun</m>
+						<m lemma="2931">'iruvêehriv</m>
+					</w>.
+				</txt>
+				<trans lang="eng">There are the three still standing there like that.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w gl="he is pointing">
+						<m lemma="6175">ú</m>
+						<m lemma="2088">ksuup</m>
+						<m lemma="6035">tih</m>
+					</w>
+					<w gl="the man">
+						<m lemma="4407">pa</m>
+						<m lemma="833">'ávansa</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The man is pointing like that.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="4716">payêem</m>
+					</w>
+					<w>
+						<m lemma="864">áxak</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they remained">
+						<m lemma="3977">kun</m>
+						<m lemma="5206">saam</m>
+					</w>,
+					<w gl="they standing">
+						<m lemma="4408">pa</m>
+						<m lemma="3977">kun</m>
+						<m lemma="2931">'iruvêehriv</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And now two remain standing.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+					<w gl="he is pointing">
+						<m lemma="6175">ú</m>
+						<m lemma="2088">ksuup</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">(One) is pointing like that.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+					<w gl="he is running">
+						<m lemma="6175">ú</m>
+						<m lemma="2195">kviip</m>
+						<m lemma="6035">ti</m>
+					</w>
+					<w gl="the man">
+						<m lemma="4407">pa</m>
+						<m lemma="833">'ávansa</m>
+					</w>
+					<w gl="in front of him">
+						<m lemma="4260">mú</m>
+						<m lemma="70">'aavkam</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The man is running in front of him like that.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="4716">payêem</m>
+					</w>
+					<w>
+						<m lemma="656">asiktávaan</m>
+					</w>
+					<w gl="one that is standing">
+						<m lemma="4408">p</m>
+						<m lemma="1615">eehyárih</m>
+						<m lemma="369">an</m>
+					</w>,
+					<w gl="she is pointing at it">
+						<m lemma="6175">ú</m>
+						<m lemma="2093">ksuupku</m>
+						<m lemma="6035">tih</m>
+					</w>
+					<w gl="the tree">
+						<m lemma="4407">pa</m>
+						<m lemma="2682">'ípaha</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Now a woman is the one standing, she is pointing at the tree.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="4716">payêem</m>
+					</w>
+					<w>
+						<m lemma="656">asiktávaan</m>
+					</w>
+					<w gl="one that is standing">
+						<m lemma="4408">p</m>
+						<m lemma="1615">eehyárih</m>
+						<m lemma="369">an</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Now a woman is the one standing.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w gl="long hair">
+						<m lemma="1500">ifuniha</m>
+						<m lemma="6840">xárah</m>
+						<m lemma="5200">sas</m>
+					</w>.
+				</txt>
+				<trans lang="eng">She is long-haired.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w>
+						<m lemma="3752">káru</m>
+					</w>
+					<w gl="she is pointing at it">
+						<m lemma="6175">ú</m>
+						<m lemma="2093">ksuupku</m>
+						<m lemma="6035">tih</m>
+					</w>
+					<w gl="the tree">
+						<m lemma="4407">pa</m>
+						<m lemma="2682">'ípaha</m>
+					</w>.
+				</txt>
+				<trans lang="eng">She too is pointing at the tree.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="next to her">
+						<m lemma="4260">mu</m>
+						<m lemma="4815">pîimach</m>
+					</w>
+					<w gl="he is standing">
+						<m lemma="6175">u</m>
+						<m lemma="1615">hyárih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Next to her a man is standing.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w gl="the woman">
+						<m lemma="4407">pa</m>
+						<m lemma="656">'asiktávaan</m>
+					</w>
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+					<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w gl="she is standing">
+						<m lemma="6175">u</m>
+						<m lemma="1615">hyárih</m>
+					</w>,
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+					<w gl="she is pointing">
+						<m lemma="6175">ú</m>
+						<m lemma="2088">ksuup</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The woman is standing there like that, she is pointing like that.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6570">víri</m>
+					</w>
+					<w>
+						<m lemma="4716">payêem</m>
+					</w>
+					<w>
+						<m lemma="864">áxak</m>
+					</w>
+					<w gl="the men">	
+						<m lemma="4407">pa</m>
+						<m lemma="833">'ávans</m>
+						<m lemma="5200">as</m>
+					</w>.
+				</txt>
+				<trans lang="eng">There are two men now.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+					<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w gl="the woman">
+						<m lemma="4407">pa</m>
+						<m lemma="656">'asiktávaan</m>
+					</w>
+					<w gl="she is standing">
+						<m lemma="6175">u</m>
+						<m lemma="1615">hyárih</m>
+					</w>,
+					<w>
+						<m lemma="6570">víri</m>
+					</w>
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+					<w gl="she is pointing">
+						<m lemma="6175">ú</m>
+						<m lemma="2088">ksuup</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The woman is standing like that, there she is pointing like that.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="the man">
+						<m lemma="4407">pa</m>
+						<m lemma="833">'ávansa</m>
+					</w>
+					<w gl="he is running">
+						<m lemma="6175">ú</m>
+						<m lemma="2195">kviip</m>
+						<m lemma="6035">ti</m>
+					</w>
+					<w gl="in front of her">
+						<m lemma="4260">mú</m>
+						<m lemma="70">'aavkam</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The man is running in front of her.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+					<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w gl="she is standing">
+						<m lemma="6175">u</m>
+						<m lemma="1615">hyárih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">She is still standing there like that.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+					<w gl="the man">
+						<m lemma="4407">pa</m>
+						<m lemma="833">'ávansa</m>
+					</w>
+					<w gl="he is running">
+						<m lemma="6175">ú</m>
+						<m lemma="2195">kviip</m>
+						<m lemma="6035">ti</m>
+					</w>
+					<w gl="in front of her">
+						<m lemma="4260">mú</m>
+						<m lemma="70">'aavkam</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The man is running in front of her like that.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3752">káru</m>
+					</w>
+					<w>
+						<m lemma="7097">yítha</m>
+					</w>
+					<w gl="the man">
+						<m lemma="4407">pa</m>
+						<m lemma="833">'ávansa</m>
+					</w>
+					<w gl="next to her">
+						<m lemma="4260">mu</m>
+						<m lemma="4815">pîimach</m>
+					</w>
+					<w gl="he is standing">
+						<m lemma="6175">u</m>
+						<m lemma="1615">hyárih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And one man is standing next to her.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3969">kúkuum</m>
+					</w>
+					<w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w gl="she is standing">
+						<m lemma="6175">u</m>
+						<m lemma="1615">hyárih</m>
+					</w>,
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+					<w gl="she is pointing">
+						<m lemma="6175">ú</m>
+						<m lemma="2088">ksuup</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Again she is standing there like that, she is pointing like that.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="4716">payêem</m>
+					</w>
+					<w>
+						<m lemma="864">áxak</m>
+					</w>
+					<w gl="the men">
+						<m lemma="4407">pa</m>
+						<m lemma="833">'ávansa</m>
+					</w>
+					<w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+					<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w gl="next to her">
+						<m lemma="4260">mu</m>
+						<m lemma="4815">pîimach</m>
+					</w>
+					<w gl="they are standing">
+						<m lemma="3977">kun</m>
+						<m lemma="2931">'iruvêehriv</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Now two men are standing there next to her.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3752">káru</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+					<w gl="he is running">
+						<m lemma="6175">ú</m>
+						<m lemma="2195">kviip</m>
+						<m lemma="6035">ti</m>
+					</w>
+					<w gl="in front of her">
+						<m lemma="4260">mú</m>
+						<m lemma="70">'aavkam</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And (the one) is running in front of her like that.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="7067">yeeripáxvu</m>
+					</w>
+					<w gl="she is standing">
+						<m lemma="6175">u</m>
+						<m lemma="1615">hyárih</m>
+					</w>,
+					<w gl="she is pointing at it">
+						<m lemma="6175">ú</m>
+						<m lemma="2093">ksuupku</m>
+						<m lemma="6035">ti</m>
+					</w>
+					<w>
+						<m lemma="2682">ípaha</m>
+					</w>,
+					<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w gl="it is standing">
+						<m lemma="6175">u</m>
+						<m lemma="1646">'íihya</m>
+					</w>.
+				</txt>
+				<trans lang="eng">A girl is standing, she is pointing at a tree, it is standing there.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3969">kúkuum</m>
+					</w>
+					<w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+					<w gl="the little adolescent girl">
+						<m lemma="4407">pa</m>
+						<m lemma="7063">yeenipaxvúhich</m>
+					</w>
+					<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w gl="she is standing">
+						<m lemma="6175">u</m>
+						<m lemma="1615">hyárih</m>
+					</w>,
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+					<w gl="she is pointing at it">
+						<m lemma="6175">ú</m>
+						<m lemma="2093">ksuupku</m>
+						<m lemma="6035">ti</m>
+					</w>
+					<w gl="the tree">
+						<m lemma="4407">pa</m>
+						<m lemma="2682">'ípaha</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Again the little girl is standing there, she is pointing at the tree like that.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="next to her">
+						<m lemma="4260">mu</m>
+						<m lemma="4815">pîimach</m>
+					</w>
+					<w gl="her father">
+						<m lemma="4407">pa</m>
+						<m lemma="4260">mu</m>
+						<m lemma="236">'áka</m>
+					</w>
+					<w gl="he is standing">
+						<m lemma="6175">u</m>
+						<m lemma="1615">hyárih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Next to her is standing her father.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3969">kúkuum</m>
+					</w>
+					<w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w gl="she is standing">
+						<m lemma="6175">u</m>
+						<m lemma="1615">hyárih</m>
+					</w>,
+					<w>
+						<m lemma="4716">payêem</m>
+					</w>
+					<w>
+						<m lemma="864">áxak</m>
+					</w>
+					<w gl="the men">
+						<m lemma="4407">pa</m>
+						<m lemma="833">'ávansa</m>
+					</w>
+					<w gl="next to her">
+						<m lemma="4260">mu</m>
+						<m lemma="4815">pîimach</m>
+					</w>
+					<w gl="they are standing">
+						<m lemma="3977">kun</m>
+						<m lemma="2931">'iruvêehriv</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Again she is standing there like that, now two men are standing next to her.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w gl="the adolescent girl">
+						<m lemma="4407">pa</m>
+						<m lemma="7067">yeeripáxvu</m>
+					</w>
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+					<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w gl="she is standing">
+						<m lemma="6175">u</m>
+						<m lemma="1615">hyárih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The girl is standing there like that.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="the man">
+						<m lemma="4407">pa</m>
+						<m lemma="833">'ávansa</m>
+					</w>
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+					<w gl="he is running">
+						<m lemma="6175">ú</m>
+						<m lemma="2195">kviip</m>
+						<m lemma="6035">ti</m>
+					</w>,
+					<w>
+						<m lemma="3999">kúnish</m>
+					</w>
+					<w>
+						<m lemma="7081">yiimúsich</m>
+					</w>
+					<w>
+						<m lemma="4716">payêem</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The man is running like that, sort of far away now.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w gl="the adolescent girl">
+						<m lemma="4407">pa</m>
+						<m lemma="7067">yeeripáxvu</m>
+					</w>
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+					<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w gl="she is standing">
+						<m lemma="6175">u</m>
+						<m lemma="1615">hyárih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The girl is standing there like that.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="her father">
+						<m lemma="4407">pa</m>
+						<m lemma="4260">mu</m>
+						<m lemma="236">'áka</m>
+					</w>
+					<w gl="next to her">
+						<m lemma="4260">mu</m>
+						<m lemma="4815">pîimach</m>
+					</w>
+					<w gl="he is standing">
+						<m lemma="6175">u</m>
+						<m lemma="1615">hyárih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Her father is standing next to her.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="835">avansáxiich</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w gl="he is walking">
+						<m lemma="6175">u</m>
+						<m lemma="205">'áhoo</m>
+						<m lemma="6035">tih</m>
+					</w>,
+					<w gl="under the tree">
+						<m lemma="4407">pa</m>
+						<m lemma="2682">'ipaha</m>
+						<m lemma="5478">súruk</m>
+					</w>
+					<w>
+						<m lemma="3999">kúnish</m>
+					</w>
+					<w gl="he is going">
+						<m lemma="5506">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="6306">'uum</m>
+					</w>.
+				</txt>
+				<trans lang="eng">A boy is walking in front, he is sort of going under the tree.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="the little adolescent girl">
+						<m lemma="4407">pa</m>
+						<m lemma="7063">yeenipaxvúhich</m>
+					</w>
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+					<w gl="she is standing">
+						<m lemma="6175">u</m>
+						<m lemma="1615">hyárih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">A little girl is standing like that.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="4716">payêem</m>
+					</w>
+					<w>
+						<m lemma="864">áxak</m>
+					</w>
+					<w gl="the men">
+						<m lemma="4407">pa</m>
+						<m lemma="833">'ávansa</m>
+					</w>
+					<w gl="they are standing">
+						<m lemma="3977">kun</m>
+						<m lemma="2931">'iruvêehrim</m>
+					</w>
+					<w gl="next to her">
+						<m lemma="4260">mu</m>
+						<m lemma="4815">pîimach</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Now two men are standing next to her.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="the boy">
+						<m lemma="4407">pa</m>
+						<m lemma="835">'avansáxiich</m>
+					</w>
+					<w gl="under a tree">
+						<m lemma="2682">ipaha</m>
+						<m lemma="5478">súruk</m>
+					</w>
+					<w gl="he is going">
+						<m lemma="5506">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="6306">'uum</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The boy is going under a tree.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="1175">chishíi</m>
+					</w>
+					<w gl="it is standing">
+						<m lemma="6175">u</m>
+						<m lemma="1615">hyári</m>
+					</w>
+					<w gl="under a table">
+						<m lemma="340">amkira</m>
+						<m lemma="5478">súruk</m>
+					</w>.
+				</txt>
+				<trans lang="eng">A dog is standing under a table.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w gl="the dog">
+						<m lemma="4407">pa</m>
+						<m lemma="1175">chishíi</m>
+					</w>
+					<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w gl="it is standing">
+						<m lemma="6175">u</m>
+						<m lemma="1615">hyárih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The dog is standing there.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="7273">á'</m>
+					</w>
+					<w gl="it is reaching up">
+						<m lemma="6175">u</m>
+						<m lemma="28">'ákuraa</m>
+						<m lemma="6035">ti</m>
+					</w>
+					<w gl="at the window">
+						<m lemma="4407">pa</m>
+						<m lemma="4934">pimustihvâanar</m>
+						<m lemma="232">ak</m>
+					</w>.
+				</txt>
+				<trans lang="eng">He is putting his paws up on the window.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w gl="the dog">
+						<m lemma="4407">pa</m>
+						<m lemma="1175">chishíi</m>
+					</w>
+					<w gl="it is standing">
+						<m lemma="6175">u</m>
+						<m lemma="1615">hyári</m>
+					</w>
+					<w gl="on the table">
+						<m lemma="340">amkír</m>
+						<m lemma="232">ak</m>
+					</w>
+					<w>
+						<m lemma="7273">a'</m>
+					</w>,
+					<w gl="it is eating">
+						<m lemma="6175">u</m>
+						<m lemma="814">'áam</m>
+						<m lemma="6035">ti</m>
+					</w>
+					<w gl="at a small bowl">
+						<m lemma="665">asíp</m>
+						<m lemma="375">'anamahach</m>
+						<m lemma="232">ak</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The dog is standing on top of the table, he is eating from a small bowl.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w gl="the man">
+						<m lemma="4407">pa</m>
+						<m lemma="833">'ávansa</m>
+					</w>
+					<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w gl="he is standing">
+						<m lemma="6175">u</m>
+						<m lemma="1615">hyárih</m>
+					</w>,
+					<w gl="he is feeding it">
+						<m lemma="6175">u</m>
+						<m lemma="249">'ákih</m>
+						<m lemma="6035">ti</m>
+					</w>
+					<w gl="the dog">
+						<m lemma="4407">pá</m>
+						<m lemma="1175">chishiih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The man is standing there, he is feeding the dog.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w gl="the dog">
+						<m lemma="4407">pa</m>
+						<m lemma="1175">chishíi</m>
+					</w>
+					<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w gl="it is standing">
+						<m lemma="6175">u</m>
+						<m lemma="1615">hyárih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The dog is standing there.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="the bird">
+						<m lemma="4407">p</m>
+						<m lemma="119">aachvíiv</m>
+					</w>
+					<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w gl="it is flying">
+						<m lemma="6175">ú</m>
+						<m lemma="2279">kxiip</m>
+						<m lemma="6035">tih</m>
+					</w>,
+					<w>
+						<m lemma="3999">kúnish</m>
+					</w>
+					<w gl="it is afraid of">
+						<m lemma="5506">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="1019">'áy</m>
+					</w>
+					<w gl="the dog">
+						<m lemma="4407">pá</m>
+						<m lemma="1175">chishiih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The bird is flying there, it is sort of afraid of the dog.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w gl="the dog">
+						<m lemma="4407">pa</m>
+						<m lemma="1175">chishíi</m>
+					</w>
+					<w gl="it is chasing it">
+						<m lemma="6175">u</m>
+						<m lemma="180">'áharamu</m>
+						<m lemma="6035">ti</m>
+					</w>
+					<w>
+						<m lemma="5241">sahíshyuuxach</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The dog is chasing a rabbit.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w gl="the dog">
+						<m lemma="4407">pa</m>
+						<m lemma="1175">chishíi</m>
+					</w>
+					<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w gl="it is sitting">
+						<m lemma="6175">ú</m>
+						<m lemma="1974">krii</m>
+					</w>,
+					<w gl="it is">
+						<m lemma="5506">t</m>
+						<m lemma="6175">óo</m>
+					</w>
+					<w>
+						<m lemma="1792">kfuuyshur</m>
+					</w>,
+					<w gl="it is panting">
+						<m lemma="6175">u</m>
+						<m lemma="2626">myáhyaah</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The dog is sitting there, it is tired, it is panting.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6162">túuyship</m>
+					</w>
+					<w gl="it is standing">
+						<m lemma="6175">u</m>
+						<m lemma="6494">vêehrim</m>
+						<m lemma="6380">va</m>
+					</w>,
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="it is a valley">
+						<m lemma="6175">u</m>
+						<m lemma="6096">tíshraam</m>
+						<m lemma="1356">hi</m>
+						<m lemma="6035">tih</m>
+					</w>
+					<w gl="underneath them">
+						<m lemma="4260">mu</m>
+						<m lemma="5481">súrukam</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Mountains are standing, and a valley is below them.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="female cattle">
+						<m lemma="4278">musmus</m>
+						<m lemma="656">'asiktâan</m>
+					</w>
+					<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w gl="it is standing">
+						<m lemma="6175">u</m>
+						<m lemma="1615">hyárih</m>
+					</w>,
+					<w>
+						<m lemma="4963">pírish</m>
+					</w>
+					<w gl="it is eating">
+						<m lemma="6175">u</m>
+						<m lemma="814">'áam</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">A cow is standing there, she is eating grass.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w gl="a big field">
+						<m lemma="6096">tishrám</m>
+						<m lemma="3668">kaam</m>
+					</w>,
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="he is planting">
+						<m lemma="6175">ú</m>
+						<m lemma="6208">hthaamhi</m>
+						<m lemma="6035">tih</m>
+					</w>,
+					<w>
+						<m lemma="3752">káru</m>
+					</w>
+					<w gl="a little tree">
+						<m lemma="2682">ipahá</m>
+						<m lemma="375">'anamahach</m>
+					</w>
+					<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w gl="it is standing">
+						<m lemma="6175">u</m>
+						<m lemma="1646">'íihya</m>
+					</w>.
+				</txt>
+				<trans lang="eng">A big field is there, and a man is planting there, and a little tree is standing there.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3752">káru</m>
+					</w>
+					<w gl="long grass">
+						<m lemma="4963">pirish</m>
+						<m lemma="6840">xárah</m>
+						<m lemma="5200">sa</m>
+					</w>
+					<w gl="it is standing">
+						<m lemma="6175">u</m>
+						<m lemma="6494">vêehrim</m>
+						<m lemma="6380">va</m>
+					</w>
+					<w gl="next to him">
+						<m lemma="4260">mu</m>
+						<m lemma="4815">pîimach</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And tall grass is standing next to him.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w gl="it is a field sloping down">
+						<m lemma="6175">u</m>
+						<m lemma="6097">tishramhúniih</m>
+						<m lemma="6380">va</m>
+					</w>
+					<w>
+						<m lemma="3752">káru</m>
+					</w>
+					<w>
+						<m lemma="4213">máruk</m>
+					</w>,
+					<w>
+						<m lemma="6570">víri</m>
+					</w>
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w>
+						<m lemma="3752">káru</m>
+					</w>
+					<w gl="it is a planting place">
+						<m lemma="6175">u</m>
+						<m lemma="6208">hthaamhí</m>
+						<m lemma="5174">ram</m>
+						<m lemma="1356">hi</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">There are fields on the slopes uphill also, there is cultivated ground there too.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w gl="the man">
+						<m lemma="4407">pa</m>
+						<m lemma="833">'ávansa</m>
+					</w>
+					<w gl="he is pulling it">
+						<m lemma="6175">u</m>
+						<m lemma="3109">srûun</m>
+						<m lemma="6035">tih</m>
+					</w>
+					<w gl="the horse">
+						<m lemma="4407">pa</m>
+						<m lemma="7205">yuraschíshiih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The man is leading the horse.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w gl="he is sitting on it">
+						<m lemma="6175">u</m>
+						<m lemma="4085">kûuntakoo</m>
+					</w>
+					<w gl="the horse">
+						<m lemma="4407">pá</m>
+						<m lemma="1175">chishiih</m>
+					</w>,
+					<w gl="without a saddle">
+						<m lemma="2045">ikrivtakukír</m>
+						<m lemma="2858">iipux</m>
+					</w>,
+					<w>
+						<m lemma="3752">káru</m>
+					</w>
+					<w gl="without a bridle">
+						<m lemma="3084">ishrêer</m>
+						<m lemma="2858">iipux</m>
+					</w>.
+				</txt>
+				<trans lang="eng">He is riding the horse, without a saddle, and without a bridle.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="4719">payôok</m>
+					</w>
+					<w>
+						<m lemma="833">ávansa</m>
+					</w>
+					<w gl="on a ladder">
+						<m lemma="6677">vuraakír</m>
+						<m lemma="232">ak</m>
+					</w>
+					<w gl="he is climbing up it">
+						<m lemma="6175">u</m>
+						<m lemma="6625">vôoruraa</m>
+						<m lemma="6035">tih</m>
+					</w>,
+					<w gl="he is gathering (from plants)">
+						<m lemma="6175">ú</m>
+						<m lemma="2431">mkaanvu</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Here a man is climbing on a ladder, he is picking apples.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="4719">payôok</m>
+					</w>
+					<w>
+						<m lemma="4108">kuyráak</m>
+					</w>
+					<w>
+						<m lemma="920">axíich</m>
+					</w>
+					<w gl="they are standing">
+						<m lemma="3977">kun</m>
+						<m lemma="2931">'iruvêehriv</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Here three children are standing.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3752">káru</m>
+					</w>
+					<w>
+						<m lemma="5663">tapas'ápsuun</m>
+					</w>
+					<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w>
+						<m lemma="3349">ithyárukirukam</m>
+					</w>
+					<w gl="it is lying coiled">
+						<m lemma="6175">u</m>
+						<m lemma="5626">tákviihriv</m>
+					</w>,
+					<w gl="its head">
+						<m lemma="4260">mu</m>
+						<m lemma="969">xvâa</m>
+					</w>
+					<w>
+						<m lemma="7273">a'</m>
+					</w>
+					<w gl="it is standing">
+						<m lemma="6175">u</m>
+						<m lemma="1615">hyárih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And a rattlesnake is lying coiled there across-stream, its head is standing up.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="the children">
+						<m lemma="4407">p</m>
+						<m lemma="920">aaxíich</m>
+					</w>
+					<w gl="they are pointing at it">
+						<m lemma="3977">kun</m>
+						<m lemma="2093">íkshuupku</m>
+						<m lemma="6035">ti</m>
+					</w>
+					<w gl="the snake">
+						<m lemma="4407">pa</m>
+						<m lemma="454">'ápsuun</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The children are pointing at the snake.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="4719">payôok</m>
+					</w>
+					<w>
+						<m lemma="864">áxak</m>
+					</w>
+					<w gl="the snakes">
+						<m lemma="4407">pa</m>
+						<m lemma="454">'ápsuun</m>
+					</w>,
+					<w>
+						<m lemma="3999">kúnish</m>
+					</w>
+					<w>
+						<m lemma="1144">chími</m>
+					</w>
+					<w gl="they will start to jump">
+						<m lemma="3977">kun</m>
+						<m lemma="2989">íshkaaksipree</m>
+						<m lemma="1379">vish</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Here are two snakes, they are sort of going to strike (lit., jump).</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w gl="the children">
+						<m lemma="4407">p</m>
+						<m lemma="920">aaxíich</m>
+					</w>
+					<w>
+						<m lemma="6309">uumkun</m>
+					</w>
+					<w>
+						<m lemma="3752">káru</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they see it">
+						<m lemma="3977">kun</m>
+						<m lemma="4155">mah</m>
+					</w>,
+					<w gl="the snakes">
+						<m lemma="4407">pa</m>
+						<m lemma="454">'ápsuun</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The children also see the snakes.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w gl="the snakes">
+						<m lemma="4407">pa</m>
+						<m lemma="454">'ápsuun</m>
+					</w>
+					<w>
+						<m lemma="3343">ithyáruk</m>
+					</w>
+					<w gl="they jumped over water">
+						<m lemma="3977">kun</m>
+						<m lemma="2982">íshkaakara</m>
+						<m lemma="1369">anik</m>
+					</w>,
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="the children">
+						<m lemma="4407">p</m>
+						<m lemma="920">aaxíich</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they were afraid">
+						<m lemma="3977">kun</m>
+						<m lemma="59">'áathva</m>
+					</w>,
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="they ran">
+						<m lemma="3977">kun</m>
+						<m lemma="1551">íhmar</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The snakes have jumped across, and the children are afraid, and they ran.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="7097">yítha</m>
+					</w>
+					<w gl="the child">
+						<m lemma="4407">p</m>
+						<m lemma="920">aaxíich</m>
+					</w>
+					<w gl="he had">
+						<m lemma="5506">t</m>
+						<m lemma="6175">óo</m>
+					</w>
+					<w>
+						<m lemma="2376">kyívish</m>
+					</w>,
+					<w gl="he had">
+						<m lemma="5506">t</m>
+						<m lemma="6175">óo</m>
+					</w>
+					<w>
+						<m lemma="2379">kyívivruk</m>
+					</w>.
+				</txt>
+				<trans lang="eng">One child fell down, he fell down over (the bank).</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="4715">páy</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w>
+						<m lemma="6337">úuth</m>
+					</w>
+					<w gl="at the ocean">
+						<m lemma="7204">yúras</m>
+						<m lemma="232">ak</m>
+					</w>.
+				</txt>
+				<trans lang="eng">This is out at the ocean.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="the sun">
+						<m lemma="4407">pa</m>
+						<m lemma="4094">kúusra</m>
+					</w>
+					<w gl="it has risen">
+						<m lemma="5506">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="6613">vôonsip</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The sun has risen.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3752">káru</m>
+					</w>
+					<w gl="the boat">
+						<m lemma="4407">pá</m>
+						<m lemma="4413">paa</m>
+					</w>
+					<w>
+						<m lemma="6337">úuth</m>
+					</w>
+					<w gl="it is floating">
+						<m lemma="6175">u</m>
+						<m lemma="5967">thívruuh</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And the boat is floating out in the water.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w>
+						<m lemma="656">asiktávaan</m>
+					</w>
+					<w gl="she is standing">
+						<m lemma="6175">u</m>
+						<m lemma="1615">hyári</m>
+					</w>
+					<w>
+						<m lemma="7208">yurástiim</m>
+					</w>.
+				</txt>
+				<trans lang="eng">A woman is standing there on the seashore.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="the man">
+						<m lemma="4407">pa</m>
+						<m lemma="833">'ávansa</m>
+					</w>
+					<w>
+						<m lemma="6337">úuth</m>
+					</w>
+					<w gl="he is paddling">
+						<m lemma="6175">u</m>
+						<m lemma="6587">víit</m>
+						<m lemma="6035">ih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The man is paddling out in the water.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="4719">payôok</m>
+					</w>
+					<w>
+						<m lemma="7208">yurástiim</m>
+					</w>
+					<w gl="they are taking a walk">
+						<m lemma="3977">kun</m>
+						<m lemma="1521">ifyúkiichvu</m>
+						<m lemma="6035">tih</m>
+					</w>
+					<w gl="the man">
+						<m lemma="4407">pa</m>
+						<m lemma="833">'ávansa</m>
+					</w>
+					<w>
+						<m lemma="3752">káru</m>
+					</w>
+					<w gl="the adolescent girl">
+						<m lemma="4407">pa</m>
+						<m lemma="7067">yeeripáxvuh</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Here the man and the girl are taking a walk on the seashore.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="4715">páy</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w gl="peach tree">
+						<m lemma="4756">pichas</m>
+						<m lemma="2682">'ípaha</m>
+					</w>
+					<w gl="it is standing">
+						<m lemma="6175">u</m>
+						<m lemma="6494">vêehrim</m>
+						<m lemma="6380">va</m>
+					</w>,
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="5399">simsímtas</m>
+					</w>
+					<w gl="it is fenced around">
+						<m lemma="6175">u</m>
+						<m lemma="5531">taaspáth</m>
+						<m lemma="168">ahi</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">These peach trees are standing, and there is a wire fence around.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="4715">páy</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w>
+						<m lemma="6207">úhthaam</m>
+					</w>,
+					<w gl="nothing but corn">
+						<m lemma="3923">koon</m>
+						<m lemma="4275">múrax</m>
+					</w>.
+				</txt>
+				<trans lang="eng">This is a garden, nothing but corn.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="4715">páy</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w gl="a big valley">
+						<m lemma="6096">tishrám</m>
+						<m lemma="3668">kaam</m>
+					</w>,
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="it is a mountain rising">
+						<m lemma="6175">u</m>
+						<m lemma="6160">tuy</m>
+						<m lemma="5417">shíiprin</m>
+						<m lemma="168">ahi</m>
+						<m lemma="6035">ti</m>
+					</w>
+					<w>
+						<m lemma="7085">yiiv</m>
+					</w>.
+				</txt>
+				<trans lang="eng">This is a big valley, and there are mountains rising far away.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="a little tree">
+						<m lemma="2682">ipahá</m>
+						<m lemma="375">'anamahach</m>
+					</w>
+					<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w gl="it is standing">
+						<m lemma="6175">u</m>
+						<m lemma="1646">'íihya</m>
+					</w>.
+				</txt>
+				<trans lang="eng">A little tree is standing there.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="864">áxak</m>
+					</w>
+					<w gl="the hands">
+						<m lemma="4407">pá</m>
+						<m lemma="6045">tiik</m>
+					</w>,
+					<w>
+						<m lemma="7273">a'</m>
+					</w>
+					<w gl="they are standing">
+						<m lemma="3977">kun</m>
+						<m lemma="6494">vêehriv</m>
+					</w>.
+				</txt>
+				<trans lang="eng">There are two hands, they are standing upwards.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="4715">páy</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w>
+						<m lemma="6045">tiik</m>
+					</w>.
+				</txt>
+				<trans lang="eng">These are hands.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="50">aas</m>
+					</w>
+					<w>
+						<m lemma="3810">kich</m>
+					</w>.
+				</txt>
+				<trans lang="eng">They are wet.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">	
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="the water">
+						<m lemma="4407">pa</m>
+						<m lemma="2940">'íshaha</m>
+					</w>
+					<w gl="it is dripping off">
+						<m lemma="5506">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="2902">'irihshúr</m>
+						<m lemma="6380">oo</m>
+					</w>
+					<w gl="the edges of the fingers">
+						<m lemma="6045">tik</m>
+						<m lemma="2701">'ípanich</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The water is dripping off of the fingertips.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="340">amkír</m>
+					</w>
+					<w gl="it is sitting">
+						<m lemma="6175">u</m>
+						<m lemma="5845">tháaniv</m>
+					</w>.
+				</txt>
+				<trans lang="eng">A table is sitting.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="665">ásip</m>
+					</w>
+					<w>
+						<m lemma="821">ávahkam</m>
+					</w>
+					<w gl="it is sitting on">
+						<m lemma="6175">u</m>
+						<m lemma="3286">thrítakoo</m>
+					</w>.
+				</txt>
+				<trans lang="eng">A bowl is sitting on top.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w gl="the woman">
+						<m lemma="4407">pa</m>
+						<m lemma="656">'asiktávaan</m>
+					</w>
+					<w gl="she is looking into">
+						<m lemma="6175">u</m>
+						<m lemma="3407">tráamnih</m>
+						<m lemma="6035">ti</m>
+					</w>
+					<w gl="at the bowl">
+						<m lemma="4407">pa</m>
+						<m lemma="665">'ásip</m>
+						<m lemma="232">ak</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The woman is looking in the bowl.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w gl="the woman">
+						<m lemma="4407">pa</m>
+						<m lemma="656">'asiktávaan</m>
+					</w>
+					<w>
+						<m lemma="7088">yiivári</m>
+					</w>
+					<w>
+						<m lemma="4077">kúuk</m>
+					</w>
+					<w gl="she goes back">
+						<m lemma="5506">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="1692">'íipma</m>
+					</w>,
+					<w gl="she has">
+						<m lemma="5506">t</m>
+						<m lemma="6175">óo</m>
+					</w>
+					<w>
+						<m lemma="2101">ktaamsip</m>
+					</w>
+					<w gl="the bowl">
+						<m lemma="4407">pa</m>
+						<m lemma="665">'ásip</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The woman goes away again, she carries off the bowl.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w gl="the table">
+						<m lemma="4407">pa</m>
+						<m lemma="340">'amkír</m>
+					</w>
+					<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w gl="it is sitting">
+						<m lemma="6175">u</m>
+						<m lemma="5845">tháaniv</m>
+					</w>,
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="it is marked">
+						<m lemma="6175">u</m>
+						<m lemma="2310">kxúrikahi</m>
+						<m lemma="6035">ti</m>
+					</w>
+					<w>
+						<m lemma="821">ávahkam</m>
+					</w>
+					<w>
+						<m lemma="2682">ípaha</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The table is sitting there, and a tree is drawn on top.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w gl="the man">
+						<m lemma="4407">pa</m>
+						<m lemma="833">'ávansa</m>
+					</w>
+					<w gl="he is standing">
+						<m lemma="6175">u</m>
+						<m lemma="1615">hyárih</m>
+					</w>,
+					<w gl="he is looking at it">
+						<m lemma="6175">ú</m>
+						<m lemma="2570">muus</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">A man is standing there, he is looking at it.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="he picks it up">
+						<m lemma="5506">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="6333">'ûusip</m>
+					</w>
+					<w gl="the tree">
+						<m lemma="4407">pa</m>
+						<m lemma="2682">'ípaha</m>
+					</w>,
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="7088">yiivári</m>
+					</w>
+					<w>
+						<m lemma="4077">kúuk</m>
+					</w>
+					<w gl="he goes back">
+						<m lemma="5506">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="1692">'íipma</m>
+					</w>.
+				</txt>
+				<trans lang="eng">He picks up the tree, and goes away again.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w gl="the man">
+						<m lemma="4407">pa</m>
+						<m lemma="833">'ávansa</m>
+					</w>
+					<w gl="his wife">
+						<m lemma="4260">mu</m>
+						<m lemma="1576">hrôo</m>
+					</w>
+					<w>
+						<m lemma="6756">xákaan</m>
+					</w>
+					<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w gl="they are standing">
+						<m lemma="3977">kun</m>
+						<m lemma="2931">'iruvêehriv</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The man and his wife are standing there.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w gl="the boy">
+						<m lemma="4407">pa</m>
+						<m lemma="835">'avansáxiich</m>
+					</w>
+					<w>
+						<m lemma="5">áachip</m>
+					</w>
+					<w gl="he is standing">
+						<m lemma="6175">u</m>
+						<m lemma="1615">hyárih</m>
+					</w>,
+					<w gl="the little adolescent girl">
+						<m lemma="4407">pa</m>
+						<m lemma="7063">yeenipaxvúhich</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w gl="at one side">
+						<m lemma="411">ápap</m>
+						<m lemma="3731">kam</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The boy is standing in the middle, the little girl is at the side.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w gl="at a river">
+						<m lemma="3007">ishkêesh</m>
+						<m lemma="232">ak</m>
+					</w>
+					<w>
+						<m lemma="6767">xákarari</m>
+					</w>
+					<w>
+						<m lemma="864">áxak</m>
+					</w>
+					<w>
+						<m lemma="833">ávansa</m>
+					</w>
+					<w gl="they are standing">
+						<m lemma="3977">kun</m>
+						<m lemma="2931">'iruvêehriv</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Two men are standing on each side of a river.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="7097">yítha</m>
+					</w>
+					<w>
+						<m lemma="3343">ithyáruk</m>
+					</w>
+					<w gl="he is pointing across the water">
+						<m lemma="6175">ú</m>
+						<m lemma="2094">ksuupkara</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">One is pointing across-stream.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3969">kúkuum</m>
+					</w>
+					<w>
+						<m lemma="6675">vúra</m>
+					</w>
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w gl="they are standing">
+						<m lemma="3977">kun</m>
+						<m lemma="2931">'iruvêehriv</m>
+					</w>
+					<w gl="the men">	
+						<m lemma="4407">pa</m>
+						<m lemma="833">'ávans</m>
+						<m lemma="5200">as</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Again the men are standing like that.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3978">kúna</m>
+					</w>
+					<w>
+						<m lemma="6675">vúra</m>
+					</w>
+					<w>
+						<m lemma="4716">payêem</m>
+					</w>
+					<w gl="at one side">
+						<m lemma="411">ápap</m>
+						<m lemma="3731">kam</m>
+					</w>
+					<w>
+						<m lemma="656">asiktávaan</m>
+					</w>
+					<w>
+						<m lemma="7097">yítha</m>
+					</w>.
+				</txt>
+				<trans lang="eng">But now one woman is on one side.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w gl="the one on this side">
+						<m lemma="4407">pa</m>
+						<m lemma="4388">'ôokukam</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w gl="he is pointing at them">
+						<m lemma="6175">ú</m>
+						<m lemma="2093">ksuupku</m>
+						<m lemma="4298">naa</m>
+					</w>
+					<w gl="the two">
+						<m lemma="4407">pa</m>
+						<m lemma="864">'áxak</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The one on this side is pointing at the two of them.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="4716">payêem</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w gl="the woman">
+						<m lemma="4407">pa</m>
+						<m lemma="656">'asiktávaan</m>
+					</w>
+					<w>
+						<m lemma="4388">ôokukam</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Now the woman is on this side.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w gl="they are talking">
+						<m lemma="3977">kun</m>
+						<m lemma="1218">chúuphi</m>
+						<m lemma="6035">ti</m>
+					</w>
+					<w gl="the man">
+						<m lemma="4407">pa</m>
+						<m lemma="833">'ávansa</m>
+					</w>
+					<w>
+						<m lemma="6757">xákaan</m>
+					</w>.
+				</txt>
+				<trans lang="eng">She and the man are talking.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w gl="the one across-stream">
+						<m lemma="4407">pa</m>
+						<m lemma="3343">'ithyáru</m>
+						<m lemma="3731">kam</m>
+					</w>
+					<w>
+						<m lemma="5562">tá</m>
+					</w>
+					<w>
+						<m lemma="4450">pácheech</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The one across-stream is alone by now.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w>
+						<m lemma="505">ára</m>
+					</w>
+					<w>
+						<m lemma="864">áxak</m>
+					</w>,
+					<w>
+						<m lemma="7097">yítha</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w>
+						<m lemma="1285">fâatva</m>
+					</w>
+					<w>
+						<m lemma="41">âapun</m>
+					</w>
+					<w gl="he is doing something">
+						<m lemma="6175">u</m>
+						<m lemma="2348">kyâa</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Two people are there, one is doing something on the ground.</trans>
+			</s>
+		</paragraph>
+	</data>
+</text>
+						
+						
+					
+				
+			
+						
+					
+				
+						
+					
+					
+					
+						
+				
+			
+					
+				

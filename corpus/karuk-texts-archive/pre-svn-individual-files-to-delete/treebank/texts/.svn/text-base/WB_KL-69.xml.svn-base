@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-69">
+    <metadata>
+        <title>"Salmon Fishing"</title>
+        <author>Julia <alph>Starritt</alph></author>
+        <date>1957</date>
+        <publication>William Bright, <em>The Karok Language</em> (1957), pp. 282-285, Text 69</publication>
+    </metadata>
+    <data>
+		<paragraph>
+			<s>
+				<txt lang="kyh">	
+					<w gl="the Indian">
+						<m lemma="4407">pa</m>
+						<m lemma="506">'áraar</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w gl="the salmon">
+						<m lemma="4407">pa</m>
+						<m lemma="30">'áama</m>
+					</w>
+					<w gl="he fished for them in a certain way">
+						<m lemma="6175">u</m>
+						<m lemma="4004">kupée</m>
+						<m lemma="1977">kriihv</m>
+						<m lemma="169">ahi</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The Indians fished for salmon in a certain way.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="4978">píshiip</m>
+					</w>
+					<w>
+						<m lemma="2593">imvír</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they made it">
+						<m lemma="3977">kun</m>
+						<m lemma="2348">íkyav</m>
+					</w>.
+				</txt>
+				<trans lang="eng">First they made a fishing platform.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="5530">táaskar</m>
+					</w>
+					<w gl="they made it with it">
+						<m lemma="3977">kun</m>
+						<m lemma="2336">kyâara</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">It was made of poles.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w gl="into the river">
+						<m lemma="3007">ishkêesh</m>
+						<m lemma="232">ak</m>
+					</w>
+					<w gl="they were stuck in">
+						<m lemma="3977">kun</m>
+						<m lemma="6487">vêehkurih</m>
+						<m lemma="6378">vu</m>
+						<m lemma="6035">ti</m>
+					</w>
+					<w gl="the poles">
+						<m lemma="4407">pa</m>
+						<m lemma="5530">táaskar</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The poles were stuck into the river.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="5264">sákriv</m>
+					</w>
+					<w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they were stuck in">
+						<m lemma="3977">kun</m>
+						<m lemma="6487">vêehkurih</m>
+						<m lemma="6378">va</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And they were stuck in tight.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="their fish-trap">
+						<m lemma="4407">pa</m>
+						<m lemma="4264">mukun</m>
+						<m lemma="1969">'ikríhar</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w gl="little poles">
+						<m lemma="5530">taskana</m>
+						<m lemma="6128">tunvêech</m>
+						<m lemma="5200">as</m>
+					</w>
+					<w gl="it was made of">
+						<m lemma="6175">u</m>
+						<m lemma="2336">kyâar</m>
+						<m lemma="168">ahi</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And their fish-trap was made of little poles.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w gl="the net">
+						<m lemma="4407">pa</m>
+						<m lemma="6258">'urípi</m>
+					</w>
+					<w gl="it was tied onto">
+						<m lemma="6175">u</m>
+						<m lemma="2645">nhík</m>
+						<m lemma="168">ahi</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And the net was tied on there.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="5163">púyava</m>
+					</w>
+					<w gl="when they fished">
+						<m lemma="4408">pa</m>
+						<m lemma="3977">kun</m>
+						<m lemma="1977">íkriihvu</m>
+						<m lemma="6035">ti</m>
+					</w>
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w gl="they sat on">
+						<m lemma="3977">kun</m>
+						<m lemma="4085">kûuntako</m>
+					</w>
+					<w gl="on top of the fishing platform">
+						<m lemma="4407">pee</m>
+						<m lemma="2593">mvir</m>
+						<m lemma="232">ak</m>
+						<m lemma="2697">'ípan</m>
+					</w>.
+				</txt>
+				<trans lang="eng">So when they fished, they sat there on top of the fishing platform.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="5163">púyava</m>
+					</w>
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="their net">
+						<m lemma="4264">mukun</m>
+						<m lemma="6258">'urípi</m>
+					</w>
+					<w>
+						<m lemma="50">aas</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they set it into water">
+						<m lemma="3977">kun</m>
+						<m lemma="1991">ikríkurih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And they set their net into the water.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="the end of the net">
+						<m lemma="4407">pa</m>
+						<m lemma="6258">'uripih</m>
+						<m lemma="2697">'ípan</m>
+					</w>
+					<w gl="a long string">
+						<m lemma="33">an</m>
+						<m lemma="6840">xára</m>
+					</w>
+					<w gl="he tied it to">
+						<m lemma="6175">u</m>
+						<m lemma="2644">nhîishrih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And they tied a long string to the end of the net.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w gl="the net">
+						<m lemma="4407">pa</m>
+						<m lemma="6258">'urípi</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w>
+						<m lemma="6397">vâaram</m>
+					</w>
+					<w gl="it was made">
+						<m lemma="6175">u</m>
+						<m lemma="2348">kyâa</m>
+						<m lemma="168">hi</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The net was made long.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="2702">ipanîich</m>
+					</w>
+					<w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w>
+						<m lemma="1221">chûuyich</m>
+					</w>.
+				</txt>
+				<trans lang="eng">At the far end it was narrow.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w gl="at the top">
+						<m lemma="4407">pa</m>
+						<m lemma="821">'ávahkam</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w>
+						<m lemma="6087">tírih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">At the top it was wide.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="5163">púyava</m>
+					</w>
+					<w gl="when into the water">
+						<m lemma="4408">pá</m>
+						<m lemma="50">'aas</m>
+					</w>
+					<w gl="it was set">
+						<m lemma="6175">u</m>
+						<m lemma="1991">kríkurih</m>
+						<m lemma="6378">va</m>
+					</w>
+					<w>
+						<m lemma="5163">púyava</m>
+					</w>
+					<w gl="when the salmon">
+						<m lemma="4408">pa</m>
+						<m lemma="30">'áama</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they came up">
+						<m lemma="3977">kun</m>
+						<m lemma="3490">ívyiihraa</m>
+					</w>, 
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="into the net">
+						<m lemma="6258">urípih</m>
+						<m lemma="232">ak</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they ran in">
+						<m lemma="3977">kun</m>
+						<m lemma="1563">ihmáravar</m>
+					</w>.
+				</txt>
+				<trans lang="eng">So when they set it into the water, when the salmon came up, then they ran into the net.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="5163">púyava</m>
+					</w>
+					<w gl="when at the end">
+						<m lemma="4408">pa</m>
+						<m lemma="2702">'ipanîich</m>
+					</w>
+					<w gl="the salmon">
+						<m lemma="4407">pa</m>
+						<m lemma="30">'áama</m>
+					</w>
+					<w gl="it arrived there">
+						<m lemma="5506">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="6306">'uum</m>
+						<m lemma="1358">áhaak</m>
+					</w>
+					<w>
+						<m lemma="5163">púyava</m>
+					</w>
+					<w gl="the string">
+						<m lemma="4407">pa</m>
+						<m lemma="33">'áan</m>
+					</w>
+					<w gl="it had">
+						<m lemma="5506">t</m>
+						<m lemma="6175">óo</m>
+					</w>
+					<w>
+						<m lemma="3799">kéen</m>
+					</w>.
+				</txt>
+				<trans lang="eng">When the salmon got to the end, the string quivered.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="5163">púyava</m>
+					</w>
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w gl="the Indian">
+						<m lemma="4407">pa</m>
+						<m lemma="506">'áraar</m>
+					</w>
+					<w gl="the net">
+						<m lemma="4407">pa</m>
+						<m lemma="6258">'urípi</m>
+					</w>
+					<w gl="he pulled it out again">
+						<m lemma="6175">u</m>
+						<m lemma="2674">p</m>
+						<m lemma="3372">ithyúruripaa</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Then the Indian pulled the net out of the water.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="7039">yanavéekva</m>
+					</w>
+					<w gl="the salmon">
+						<m lemma="4407">pa</m>
+						<m lemma="30">'áama</m>
+					</w>
+					<w>
+						<m lemma="5502">su'</m>
+					</w>.
+				</txt>
+				<trans lang="eng">He saw the salmon inside</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="5163">púyava</m>
+					</w>
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="7273">á'</m>
+					</w>
+					<w gl="he had">
+						<m lemma="5506">t</m>
+						<m lemma="6175">óo</m>
+					</w>
+					<w>
+						<m lemma="3371">thyúruraa</m>
+					</w>.
+				</txt>
+				<trans lang="eng">So he pulled it up (out).</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w gl="the salmon">
+						<m lemma="4407">pa</m>
+						<m lemma="30">'áama</m>
+					</w>
+					<w>
+						<m lemma="215">áhup</m>
+					</w>
+					<w>
+						<m lemma="4281">mûuk</m>
+					</w>
+					<w gl="he had hit it">
+						<m lemma="5506">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="260">'ákoo</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And he hit the salmon with a stick (to kill it).</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="5163">púyava</m>
+					</w>
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="4139">mâaka</m>
+					</w>
+					<w gl="he had">
+						<m lemma="5506">t</m>
+						<m lemma="6175">óo</m>
+					</w>
+					<w>
+						<m lemma="3022">skúruhripaa</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Then he carried it ashore.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w gl="so">
+						<m lemma="6570">víri</m>
+						<m lemma="6383">va</m>
+					</w>
+					<w gl="the salmon">
+						<m lemma="4407">pa</m>
+						<m lemma="30">'áama</m>
+					</w>
+					<w gl="they caught them that way">
+						<m lemma="3977">kun</m>
+						<m lemma="4004">kupee</m>
+						<m lemma="3580">ykár</m>
+						<m lemma="169">ahi</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">They caught the salmon that way.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w gl="they say">
+						<m lemma="3977">kun</m>
+						<m lemma="4823">ipí</m>
+						<m lemma="6035">ti</m>
+					</w> "
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w gl="they won't catch it">
+						<m lemma="5082">pu</m>
+						<m lemma="5051">piykár</m>
+						<m lemma="1379">eesh</m>
+						<m lemma="399">ap</m>
+					</w>
+					<w gl="if there">
+						<m lemma="4408">pa</m>
+						<m lemma="3670">káan</m>
+					</w>
+					<w>
+						<m lemma="656">asiktávaan</m>
+					</w>
+					<w gl="she was going around">
+						<m lemma="6175">u</m>
+						<m lemma="6683">vúrayvu</m>
+						<m lemma="6035">ti</m>
+						<m lemma="1358">haak</m>
+					</w>."
+				</txt>
+				<trans lang="eng">People said they wouldn't catch (anything) if a woman was around there.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="656">asiktávaan</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w gl="not there">
+						<m lemma="5082">pu</m>
+						<m lemma="3670">káan</m>
+					</w>
+					<w gl="she didn't go around">
+						<m lemma="6683">vúrayvu</m>
+						<m lemma="6035">tih</m>
+						<m lemma="1371">ara</m>
+					</w>
+					<w gl="the fishing=platform">
+						<m lemma="4407">pee</m>
+						<m lemma="2593">mvír</m>
+						<m lemma="232">ak</m>
+					</w>.
+				</txt>
+				<trans lang="eng">A woman didn't go around the fishing platform there.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3752">káru</m>
+					</w>
+					<w gl="they didn't eat it">
+						<m lemma="5082">pu</m>
+						<m lemma="814">'aam</m>
+						<m lemma="6035">tíh</m>
+						<m lemma="399">ap</m>
+					</w>
+					<w>
+						<m lemma="3752">káru</m>
+					</w>
+					<w>
+						<m lemma="4986">pishpíshih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And (the fishermen) didn't eat honey either.</trans>
+			</s>
+		</paragraph>
+	</data>
+</text>
+						
+					
+						

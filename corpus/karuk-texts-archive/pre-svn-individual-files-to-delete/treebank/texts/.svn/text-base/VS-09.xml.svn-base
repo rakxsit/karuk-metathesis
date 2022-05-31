@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="VS-09" audio-source="karuk-2011-12-21-vs-6">
+  <metadata>
+    <title>Sentences with relative clauses, negation, commands</title>
+    <author> Vina <alph>Smith</alph>
+    </author>
+    <date>2011</date>
+    <publication> Unpublished (recorded by Andrew Garrett and Line Mikkelsen on December 21, 2011) </publication>
+	<genre type="elicitation"/>
+  </metadata>
+  <data>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_01" audio-start-time="1:22">
+	<txt lang="kyh">
+	  <w gl="the man">
+	    <m lemma="4407">pa</m>
+	    <m lemma="833">'ávansa</m>
+	  </w>
+	  <w>
+	    <m lemma="4528">panámniik</m>
+	  </w>
+	  <w gl="he lives">
+	    <m lemma="6175">ú</m>
+	<m lemma="1974">krii</m></w>.</txt>
+	<trans lang="eng">The man lives in Orleans.</trans>
+      </s>
+    </paragraph>
+<paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_02" audio-start-time="1:57">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="2671">íp</m>
+	  </w>
+	  <w gl="I see him">
+	    <m lemma="4349">ni</m>
+	    <m lemma="4155">máh</m>
+	  </w>
+	  <w gl="the man">
+	    <m lemma="4407">pa</m>
+	    <m lemma="833">'ávansa</m></w>.</txt>
+	<trans lang="eng">I saw the man.</trans>
+      </s>
+    </paragraph>
+<paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_03" audio-start-time="3:06">
+	<txt lang="kyh">
+	  <w gl="the man">
+	    <m lemma="4407">pa</m>
+	    <m lemma="833">'ávansa</m>
+	  </w>
+	  <w>
+	    <m lemma="2671">íp</m>
+	  </w>
+	  <w gl="I saw him">
+	    <m lemma="4349">ni</m>
+	    <m lemma="4155">máh</m>
+	    <m lemma="738">at</m>
+	  </w>
+	  <w>
+	    <m language="english">Orleans</m>
+	  </w>
+	  <w gl="he lives">
+	    <m lemma="6175">ú</m>
+	    <m lemma="1974">krii</m></w>.</txt>
+	<trans lang="eng">I saw the man who lives in Orleans.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_04" audio-start-time="4:23">
+	<txt lang="kyh">
+	  <w gl="the man">
+	    <m lemma="4407">pa</m>
+	    <m lemma="833">'ávansa</m>
+	  </w>
+	  <w>
+	    <m language="english">Orleans</m>
+	  </w>
+	  <w gl="he lives">
+	    <m lemma="6175">ú</m>
+	    <m lemma="1974">krii</m>
+	  </w>
+	  <w> 
+	    <m lemma="1670">îin</m>
+	  </w>
+	  <w>
+	    <m lemma="2671">íp</m>
+	  </w>
+	  <w gl="I saw him">
+	    <m lemma="4294">na</m>
+	    <m lemma="4155">máh</m>
+	    <m lemma="738">at</m></w>.</txt>
+	<trans lang="eng">The man who lives in Orleans saw me.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_05" audio-start-time="4:36">
+	<txt lang="kyh">
+	  <w gl="the man">
+	    <m lemma="4407">pa</m>
+	    <m lemma="833">'ávansa</m>
+	  </w>
+	  <w>
+	    <m language="english">Orleans</m>
+	  </w>
+	  <w gl="he lives">
+	    <m lemma="6175">ú</m>
+	    <m lemma="1974">krii</m>
+	  </w>
+	  <w>
+	    <m lemma="2671">íp</m>
+	  </w>
+	  <w> 
+	    <m lemma="1670">îin</m>
+	  </w>
+	  <w gl="I saw him">
+	    <m lemma="4294">na</m>
+	    <m lemma="4155">máh</m>
+	    <m lemma="738">at</m></w>.</txt>
+	<trans lang="eng">The man who lives in Orleans saw me.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_06" audio-start-time="5:06">
+	<txt lang="kyh">
+	  <w gl="the man">
+	    <m lemma="4407">pa</m>
+	    <m lemma="833">'ávansa</m>
+	  </w>
+	  <w> 
+	    <m lemma="1670">îin</m>
+	  </w>
+	  <w gl="he sees me">
+	    <m lemma="4294">née</m>
+	    <m lemma="2570">mus</m>
+	    <m lemma="6035">tih</m>
+	  </w>
+	  <w>
+	    <m language="english">Orleans</m>
+	  </w>
+	  <w gl="coming from">
+	    <m lemma="514">aramsîiprin</m>
+	    <m lemma="6035">ti</m></w>.</txt>
+	<trans lang="eng">The man who came from Orleans saw me.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_07" audio-start-time="5:20">
+	<txt lang="kyh">
+	  <w gl="the man">
+	    <m lemma="4407">pa</m>
+	    <m lemma="833">'ávansa</m>
+	  </w>
+	  <w>
+	    <m language="english">Orleans</m>
+	  </w>
+	  <w gl="coming from">
+	    <m lemma="514">aramsîiprin</m>
+	    <m lemma="6035">tih</m>
+	  </w>
+	  <w>
+	    <m lemma="1656">iim</m>
+	  </w>
+	  <w> 
+	    <m lemma="1670">îin</m>
+	  </w>
+	  <w gl="he sees me">
+	    <m lemma="4294">née</m>
+	    <m lemma="2570">mus</m>
+	    <m lemma="6035">ti</m></w>.</txt>
+	<trans lang="eng">The man who came from Orleans saw me.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_08" audio-start-time="6:38">
+	<txt lang="kyh">
+	  <w gl="the man">
+	    <m lemma="4407">pa</m>
+	    <m lemma="833">'ávansa</m>
+	  </w>
+	  <w>
+	    <m lemma="5506">tóo</m>
+	  </w>
+	  <w gl="he falls down">
+	    <m lemma="2376">kyívishrih</m></w>.</txt>
+	<trans lang="eng">The man fell.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_09" audio-start-time="8:32">
+	<txt lang="kyh">
+	  <w gl="the man">
+	    <m lemma="4407">pa</m>
+	    <m lemma="833">'ávansa</m>
+	  </w>
+	  <w gl="Orleans">
+	    <m lemma="4408">pa</m>
+	    <m language="english">Orleans</m>
+	  </w>
+	  <w gl="coming from">
+	    <m lemma="514">aramsîiprin</m>
+	    <m lemma="6035">tih</m>
+	  </w>
+	  <w gl="he falls down">
+	    <m lemma="6175">u</m>
+	    <m lemma="2376">kyívishrih</m></w>.</txt>
+	<trans lang="eng">The man who lives in Orleans fell.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_10" audio-start-time="9:33">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6381">vaa</m>
+	  </w>
+	  <w gl="the man">
+	    <m lemma="4407">pa</m>
+	    <m lemma="833">'ávansa</m>
+	  </w>
+	  <w gl="I know him">
+	    <m lemma="4349">ni</m>
+	    <m lemma="5010">pítap</m>
+	<m lemma="6035">ti</m></w>.</txt>
+	<trans lang="eng">I know that man.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_11" audio-start-time="10:52">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6381">vaa</m>
+	  </w>
+	  <w gl="I know him">
+	    <m lemma="4349">ni</m>
+	    <m lemma="5010">pítap</m>
+	    <m lemma="6035">tih</m>
+	  </w>
+	  <w gl="the man">
+	    <m lemma="4407">pa</m>
+	    <m lemma="833">'ávansa</m>
+	  </w>
+	  <w>
+	    <m lemma="4528">panámniik</m>
+	  </w>
+	  <w gl="coming from">
+	    <m lemma="514">aramsîiprin</m>
+	    <m lemma="6035">ti</m></w>.</txt>
+	<trans lang="eng">I know the man who lives in Orleans.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_12" audio-start-time="11:30">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6381">vaa</m>
+	  </w>
+	  <w>
+	    <m lemma="2671">íp</m>
+	  </w>
+	  <w gl="I talk to him">
+	    <m lemma="4349">ni</m>
+	    <m lemma="1210">chuphûunish</m>
+	    <m lemma="6035">tih</m>
+	  </w>
+	  <w gl="the man">
+	    <m lemma="4407">pa</m>
+	    <m lemma="833">'ávansa</m></w>.</txt>
+	<trans lang="eng">I talked to that man.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_13" audio-start-time="12:17">
+	<txt lang="kyh">
+	  <w gl="I talk to him">
+	    <m lemma="4349">ni</m>
+	    <m lemma="1210">chuphûunish</m>
+	  </w>
+	  <w gl="the man">
+	    <m lemma="4407">pa</m>
+	    <m lemma="833">'ávansa</m>
+	  </w>
+	  <w gl="Orleans">
+	    <m lemma="4408">pa</m>
+	    <m language="english">Orleans</m>
+	  </w>
+	  <w gl="he lives">
+	    <m lemma="6175">ú</m>
+	    <m lemma="1974">krii</m></w>.</txt>
+	<trans lang="eng">I talked to the man who lives in Orleans.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_14" audio-start-time="12:40">
+	<txt lang="kyh">
+	  <w gl="the man">
+	    <m lemma="4407">pa</m>
+	    <m lemma="833">'ávansa</m>
+	  </w>
+	  <w> 
+	    <m lemma="1670">îin</m>
+	  </w>
+	  <w gl="he knows me">
+	    <m lemma="4349">ni</m>
+	    <m lemma="5010">pítap</m>
+	    <m lemma="6035">ti</m></w>.</txt>
+	<trans lang="eng">The man knows me.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_15" audio-start-time="18:34">
+	<txt lang="kyh">
+	  <w> 
+	    <m lemma="7197">yupsítanich</m>
+	  </w>
+	  <w gl="PERF-3SG subject 3SG/PL object">
+	    <m lemma="5506">t</m>
+	    <m lemma="6175">óo</m>
+	  </w>
+	  <w gl="it cried">
+	    <m lemma="3518">xrára</m></w>.</txt>
+	<trans lang="eng">The baby cried.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_16" audio-start-time="19:14">
+	<txt lang="kyh">
+	  <w> 
+	    <m lemma="4299">naa</m>
+	  </w>
+	  <w>
+	    <m lemma="5506">tá</m>
+	  </w>
+	  <w gl="I cry">
+	    <m lemma="4296">nee</m>
+	    <m lemma="3518">xrára</m></w>.</txt>
+	<trans lang="eng">I am crying.</trans>
+	<notes> means currently the speaker is crying </notes>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_17" audio-start-time="19:33">
+	<txt lang="kyh">
+	  <w> 
+	    <m lemma="4299">naa</m>
+	  </w>
+	  <w gl="I do not cry">
+	    <m lemma="5082">pu</m>
+	    <m lemma="4296">nee</m>
+	    <m lemma="3518">xrára</m>
+	    <m lemma="6035">tih</m>
+	    <m lemma="1371">ara</m></w>.</txt>
+	<trans lang="eng">I am not crying.</trans>
+	<notes> means currently the speaker is not crying </notes>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_18" audio-start-time="20:01">
+	<txt lang="kyh">
+	  <w gl="the baby">
+	    <m lemma="4407">pa</m>
+	    <m lemma="7197">yupsítanich</m>
+	  </w>
+	  <w gl="I do not cry">
+	    <m lemma="5082">pu</m>
+	    <m lemma="3518">xrára</m>
+	    <m lemma="6035">ti</m></w>.</txt>
+	<trans lang="eng">The baby is not crying.</trans>
+	<notes>Vina says that the –ara is often times left off if the speaker is cutting the word short; it would still mean the same thing; when WB "took the language down, everything was sort of cut short.”</notes>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_19" audio-start-time="21:37">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6881">xáyfaat</m>
+	  </w>
+	  <w gl="you are crying">
+	    <m lemma="1418">i</m>
+	    <m lemma="3518">xrára</m>
+	    <m lemma="6035">ti</m></w>.</txt>
+	<trans lang="eng">Don't cry.</trans>
+	<notes>Vina says that this is said to someone who is already crying </notes>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_20" audio-start-time="22:30">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6881">xáyfaat</m>
+	  </w>
+	  <w gl="you cry">
+	    <m lemma="1418">i</m>
+	    <m lemma="3518">xrára</m></w>.</txt>
+	<trans lang="eng">Don't cry.</trans>
+	<notes>Vina says that this is said to someone who is not yet crying, meaning "Don't start crying." </notes>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_21" audio-start-time="22:57">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="4299">naa</m>
+	  </w>
+	  <w gl="I will cry">
+	    <m lemma="4349">ni</m>
+	    <m lemma="3518">xrár</m>
+	    <m lemma="1379">eesh</m></w>.</txt>
+	<trans lang="eng">I am going to cry.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_22" audio-start-time="23:35">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6881">xáyfaat</m>
+	  </w>
+	  <w gl="you laugh">
+	    <m lemma="1418">í</m>
+	    <m lemma="2079">kshah</m></w>.</txt>
+	<trans lang="eng">Don't laugh.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_23" audio-start-time="23:57">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="4299">naa</m>
+	  </w>
+	  <w gl="I am laughing">
+	    <m lemma="4349">ní</m>
+	    <m lemma="2079">kshaa</m>
+	    <m lemma="6035">ti</m></w>.</txt>
+	<trans lang="eng">I am laughing.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_24" audio-start-time="24:00">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="4299">naa</m>
+	  </w>
+	  <w>
+	    <m lemma="5506">tá</m>
+	  </w>
+	  <w gl="I laugh">
+	    <m lemma="4349">ní</m>
+	    <m lemma="2079">kshah</m></w>.</txt>
+	<trans lang="eng">I am laughing.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-6_25" audio-start-time="26:54">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="5506">tá</m>
+	  </w>
+	  <w gl="they are playing">
+	    <m lemma="3977">kun</m>
+	    <m lemma="2346">ikyámiichvu</m>
+	    <m lemma="4298">naa</m></w>.</txt>
+	<trans lang="eng">They are all playing around.</trans>
+	<notes> meaning “They’re all teasing one another.”</notes>
+      </s>
+    </paragraph>
+  </data>
+</text>

@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="VS-17" audio-source="karuk-2010-07-23-ag-vs-4">
+  <metadata>
+    <title>Sentences: questions and answers, verb tenses</title>
+    <author> Vina <alph>Smith</alph>
+    </author>
+    <date>2010</date>
+    <publication> Unpublished (recorded by Andrew Garrett on July 23, 2010) </publication>
+	<genre type="elicitation"/>
+  </metadata>
+  <data>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_01" audio-start-time="0:35">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1396">hôoy</m>
+	  </w>
+	  <w gl="the cat">
+	    <m lemma="4407">pa</m>
+	    <m lemma="5120">púsihich</m>
+	</w>?</txt>
+	<trans lang="eng">Where is the cat?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_02" audio-start-time="0:55">
+	<txt lang="kyh">
+	  <w gl="the cat">
+	    <m lemma="4407">pa</m>
+	    <m lemma="5120">púsihich</m>
+	  </w>
+	  <w>
+	    <m lemma="1402">húm</m>
+	  </w>
+	  <w gl="you have it">
+	    <m lemma="1418">i</m>
+	    <m lemma="5916">thiiná</m>
+	    <m lemma="6035">ti</m>
+	</w>?</txt>
+	<trans lang="eng">Do you have a cat?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_03" audio-start-time="1:13">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1357">hãã</m>
+	  </w>
+	  <w gl="the cat">
+	    <m lemma="4407">pa</m>
+	    <m lemma="5120">púsihich</m>
+	  </w>
+	  <w gl="I have it">
+	    <m lemma="4349">ni</m>
+	    <m lemma="5916">thiiná</m>
+	    <m lemma="6035">ti</m>
+	</w>.</txt>
+	<trans lang="eng">Yes, I have a cat.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_04" audio-start-time="1:46">
+	<txt lang="kyh">
+	  <w gl="the cat">
+	    <m lemma="4407">pa</m>
+	    <m lemma="5120">púsihich</m>
+	  </w>
+	  <w>
+	    <m lemma="1402">úm</m>
+	  </w>
+	  <w gl="you have">
+	    <m lemma="5506">t</m>
+	    <m lemma="1418">ee</m>
+	  </w>
+	  <w>
+	    <m lemma="4155">mah</m>
+	</w>?</txt>
+	<trans lang="eng">Did you see the cat?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_05" audio-start-time="2:01">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1357">hãã</m>
+	  </w>
+	  <w>
+	    <m lemma="5506">tá</m>
+	  </w>
+	  <w gl="I see it">
+	    <m lemma="4349">ni</m>
+	    <m lemma="4155">mah</m>
+	  </w>
+	  <w gl="the cat">
+	    <m lemma="4407">pa</m>
+	    <m lemma="5120">púsihich</m>
+	</w>.</txt>
+	<trans lang="eng">Yes, I do see the cat.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_06" audio-start-time="2:18">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="5136">pûuhara</m>
+	  </w>
+	  <w gl="I do not see it">
+	    <m lemma="5082">pu</m>
+	    <m lemma="4295">na</m>
+	    <m lemma="4155">máah</m>
+	    <m lemma="6035">tih</m>
+	    <m lemma="1371">ara</m>
+	  </w>
+	  <w gl="the cat">
+	    <m lemma="4407">pa</m>
+	    <m lemma="5120">púsihich</m>
+	</w>.</txt>
+	<trans lang="eng">No, I do not see the cat.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_07" audio-start-time="9:37">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="7205">yuraschíshiih</m>
+	  </w>
+	  <w>
+	    <m lemma="5506">tá</m>
+	  </w>
+	  <w gl="I see it">
+	    <m lemma="4349">ni</m>
+	    <m lemma="4155">mah</m>
+	</w>.</txt>
+	<trans lang="eng">I see the horse.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_08" audio-start-time="9:53">
+	<txt lang="kyh">
+	  <w gl="the horse">
+	    <m lemma="4407">pa</m>
+	    <m lemma="7205">yuraschíshiih</m>
+	  </w>
+	  <w gl="it has">
+	    <m lemma="5506">t</m>
+	    <m lemma="6175">óo</m>
+	  </w>
+	  <w>
+	    <m lemma="2195">kviip</m>
+	  </w>
+	  <w>
+	    <m lemma="3011">íshkih</m>
+	</w>.</txt>
+	<trans lang="eng">The horse runs fast.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_09" audio-start-time="10:11">
+	<txt lang="kyh">
+	  <w gl="the horse">
+	    <m lemma="4407">pa</m>
+	    <m lemma="7205">yuraschíshiih</m>
+	  </w>
+	  <w gl="I am sitting on it">
+	    <m lemma="4349">ni</m>
+	    <m lemma="4085">kûuntakoo</m>
+	</w>.</txt>
+	<trans lang="eng">I am riding on the horse.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_10" audio-start-time="10:45">
+	<txt lang="kyh">
+	  <w gl="the horse">
+	    <m lemma="4407">pa</m>
+	    <m lemma="7205">yuraschíshiih</m>
+	  </w>
+	  <w gl="you are sitting on it">
+	    <m lemma="1418">i</m>
+	    <m lemma="4085">kûuntakoo</m>
+	  </w>
+	  <w>
+	    <m lemma="1402">húm</m>
+	</w>?</txt>
+	<trans lang="eng">Did you ride the horse?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_11" audio-start-time="13:06">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="3011">íshkih</m>
+	  </w>
+	  <w>
+	    <m lemma="1402">úm</m>
+	  </w>
+	  <w gl="it has">
+	    <m lemma="5506">t</m>
+	    <m lemma="6175">óo</m>
+	  </w>
+	  <w>
+	    <m lemma="2279">kxip</m>
+	</w>?</txt>
+	<trans lang="eng">Does it fly fast?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_12" audio-start-time="14:06">
+	<txt lang="kyh">
+	  <w gl="the eagle">
+	    <m lemma="4407">pa</m>
+	    <m lemma="1215">chúufish</m>
+	  </w>
+	  <w>
+	    <m lemma="1054">chaka'îimich</m>
+	  </w>
+	  <w gl="it has">
+	    <m lemma="5506">t</m>
+	    <m lemma="6175">óo</m>
+	  </w>
+	  <w>
+	    <m lemma="2279">kxip</m>
+	</w>.</txt>
+	<trans lang="eng">The eagle flies slowly.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_13" audio-start-time="20:50">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="30">áama</m>
+	  </w>
+	  <w>
+	    <m lemma="1402">húm</m>
+	  </w>
+	  <w gl="you will eat it">
+	    <m lemma="1418">i</m>
+	    <m lemma="814">'áv</m>
+	    <m lemma="1379">eesh</m>
+	</w>?</txt>
+	<trans lang="eng">Are you going to eat salmon?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_14" audio-start-time="21:13">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1357">hãã</m>
+	  </w>
+	  <w>
+	    <m lemma="30">áama</m>
+	  </w>
+	  <w gl="I will eat it">
+	    <m lemma="4349">ni</m>
+	    <m lemma="814">'áv</m>
+	    <m lemma="1379">eesh</m>
+	</w>.</txt>
+	<trans lang="eng">Yes, I am going to eat salmon.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_15" audio-start-time="21:27">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6307">uum</m>
+	  </w>
+	  <w>
+	    <m lemma="4716">payêem</m>
+	  </w>
+	  <w>
+	    <m lemma="6307">uum</m>
+	  </w>
+	  <w>
+	    <m lemma="30">áama</m>
+	  </w>
+	  <w gl="he will eat it">
+	    <m lemma="6175">u</m>
+	    <m lemma="814">'áv</m>
+	    <m lemma="1379">eesh</m>
+	</w>.</txt>
+	<trans lang="eng">He is going to eat salmon now.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_16" audio-start-time="21:34">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="3930">koovúra</m>
+	  </w>
+	  <w>
+	    <m lemma="30">áama</m>
+	  </w>
+	  <w gl="we will eat it">
+	    <m lemma="4370">nu</m>
+	    <m lemma="814">'áv</m>
+	    <m lemma="1379">eesh</m>
+	</w>.</txt>
+	<trans lang="eng">We are all going to eat salmon.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_17" audio-start-time="21:41">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1144">chími</m>
+	  </w>
+	  <w>
+	    <m lemma="30">áama</m>
+	  </w>
+	  <w gl="we eat it">
+	    <m lemma="4370">nu</m>
+	    <m lemma="814">'áva</m>
+	</w>.</txt>
+	<trans lang="eng">Let's eat salmon.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_18" audio-start-time="22:16">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="30">áama</m>
+	  </w>
+	  <w gl="I will cook it">
+	    <m lemma="4370">ni</m>
+	    <m lemma="2465">mnísh</m>
+	    <m lemma="1379">eesh</m>
+	</w>.</txt>
+	<trans lang="eng">I am going to cook salmon.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_19" audio-start-time="22:32">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="2766">ipít</m>
+	  </w>
+	  <w>
+	    <m lemma="30">áama</m>
+	  </w>
+	  <w gl="I cook it">
+	    <m lemma="4370">ní</m>
+	    <m lemma="2465">mnish</m>
+	</w>.</txt>
+	<trans lang="eng">Yesterday I cooked salmon.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_20" audio-start-time="22:49">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1656">iim</m>
+	  </w>
+	  <w>
+	    <m lemma="30">áama</m>
+	  </w>
+	  <w gl="you are cooking it">
+	    <m lemma="1418">í</m>
+	    <m lemma="2465">mniish</m>
+	    <m lemma="6035">ti</m>
+	</w>.</txt>
+	<trans lang="eng">You cooked salmon.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_21" audio-start-time="23:10">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="30">áama</m>
+	  </w>
+	  <w>
+	    <m lemma="1402">úm</m>
+	  </w>
+	  <w gl="you like it">
+	    <m lemma="1418">i</m>
+	    <m lemma="6580">víshtaan</m>
+	    <m lemma="6035">ti</m>
+	</w>?</txt>
+	<trans lang="eng">Do you like salmon?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_22" audio-start-time="23:36">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1357">hãã</m>
+	  </w>
+	  <w>
+	    <m lemma="30">áama</m>
+	  </w>
+	  <w gl="I like it">
+	    <m lemma="4349">ni</m>
+	    <m lemma="6580">víshtaan</m>
+	    <m lemma="6035">ti</m>
+	</w>.</txt>
+	<trans lang="eng">Yes, I like salmon.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_23" audio-start-time="23:46">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1357">hãã</m>
+	  </w>
+	  <w>
+	    <m lemma="4299">naa</m>
+	  </w>
+	  <w>
+	    <m lemma="30">áama</m>
+	  </w>
+	  <w>
+	    <m lemma="3752">karu</m>
+	  </w>
+	  <w gl="I like it">
+	    <m lemma="4349">ni</m>
+	    <m lemma="6580">víshtaan</m>
+	    <m lemma="6035">ti</m>
+	</w>.</txt>
+	<trans lang="eng">Yes, I also like salmon.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_24" audio-start-time="24:41">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1375">hárivari</m>
+	  </w>
+	  <w gl="the salmon">
+	    <m lemma="4407">pa</m>
+	    <m lemma="30">'áama</m>
+	  </w>
+	  <w gl="we will eat it">
+	    <m lemma="4370">nu</m>
+	    <m lemma="814">'áv</m>
+	    <m lemma="1379">eesh</m>
+	</w>?</txt>
+	<trans lang="eng">When will we eat salmon?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_25" audio-start-time="25:07">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6309">uumkun</m>
+	  </w>
+	  <w>
+	    <m lemma="1375">hárivari</m>
+	  </w>
+	  <w gl="the salmon">
+	    <m lemma="4407">pa</m>
+	    <m lemma="30">'áama</m>
+	  </w>
+	  <w gl="they will eat it">
+	    <m lemma="3977">kun</m>
+	    <m lemma="814">áv</m>
+	    <m lemma="1379">eesh</m>
+	</w>?</txt>
+	<trans lang="eng">When will they eat salmon?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_26" audio-start-time="25:27">
+	<txt lang="kyh">
+	  <w gl="salt it">
+	    <m lemma="7115">yúfish</m>
+	    <m lemma="1356">i</m>
+	  </w>
+	  <w gl="the salmon">
+	    <m lemma="4407">pa</m>
+	    <m lemma="30">'áama</m>
+	</w>.</txt>
+	<trans lang="eng">Salt the fish.</trans>
+      </s>
+<note> yufishi (verb, meaning to salt something) needs a dictionary number </note>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_27" audio-start-time="27:23">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="3011">íshkih</m>
+	  </w>
+	  <w gl="it is swimming">
+	    <m lemma="6175">u</m>
+	    <m lemma="1909">kpúuh</m>
+	    <m lemma="6035">ti</m>
+	</w>.</txt>
+	<trans lang="eng">It swims fast.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_28" audio-start-time="28:05">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="3011">íshkih</m>
+	  </w>
+	  <w>
+	    <m lemma="1402">úm</m>
+	  </w>
+	  <w gl="the eel">
+	    <m lemma="4407">pa</m>
+	    <m lemma="264">'ákraah</m>
+	  </w>
+	  <w gl="it is swimming">
+	    <m lemma="6175">u</m>
+	    <m lemma="1909">kpúuh</m>
+	    <m lemma="6035">ti</m>
+	</w>?</txt>
+	<trans lang="eng">Does the eel swim fast?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_29" audio-start-time="28:32">
+	<txt lang="kyh">
+	  <w gl="you like it">
+	    <m lemma="1418">i</m>
+	    <m lemma="6580">víshtaan</m>
+	    <m lemma="6035">tih</m>
+	  </w>
+	  <w>
+	    <m lemma="1402">húm</m>
+	  </w>
+	  <w gl="the eel">
+	    <m lemma="4407">pa</m>
+	    <m lemma="264">'ákraah</m>
+	</w>?</txt>
+	<trans lang="eng">Do you like eels?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_30" audio-start-time="29:13">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1281">fâat</m>
+	  </w>
+	  <w gl="kind of drink">
+	    <m lemma="3970">kuma</m>
+	    <m lemma="2936">'ish</m>
+	</w>?</txt>
+	<trans lang="eng">What kind of drink (do you like)?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_31" audio-start-time="29:59">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="????">arará'ish</m>
+	  </w>
+	  <w gl="I like it">
+	    <m lemma="4349">ni</m>
+	    <m lemma="6580">víshtaan</m>
+	    <m lemma="6035">ti</m>
+	</w>.</txt>
+	<trans lang="eng">I like to drink the indian drink.</trans>
+<note> arara'ish "indian drink" needs to be assigned a dictionary #</note>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_32" audio-start-time="31:35">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="2940">íshaha</m>
+	  </w>
+	  <w>
+	    <m lemma="5506">tá</m>
+	  </w>
+	  <w gl="I drink it">
+	    <m lemma="4349">ni</m>
+	    <m lemma="2936">'ish</m>
+	</w>.</txt>
+	<trans lang="eng">I am drinking water.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_33" audio-start-time="31:49">
+	<txt lang="kyh">
+	  <w gl="the water">
+	    <m lemma="4407">pa</m>
+	    <m lemma="2940">'íshah</m>
+	  </w>
+	  <w gl="I drink it">
+	    <m lemma="4349">ni</m>
+	    <m lemma="2936">'ísh</m> 
+	    <m lemma="1379">eesh</m>	
+	  </w>.</txt>
+	<trans lang="eng">I am going to drink water.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_34" audio-start-time="31:57">
+	<txt lang="kyh">
+	  <w gl="the water">
+	    <m lemma="4407">pa</m>
+	    <m lemma="2940">'íshaha</m>
+	  </w>
+	  <w>
+	    <m lemma="1402">húm</m>
+	  </w>
+	  <w gl="you drink it">
+	    <m lemma="1418">i</m>
+	    <m lemma="2936">'ísh</m> 
+	    <m lemma="1379">eesh</m>	
+	  </w>?</txt>
+	<trans lang="eng">Do you want to drink water?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_35" audio-start-time="32:42">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="4299">naa</m>
+	  </w>
+	  <w>
+	    <m lemma="7115">yúfish</m>
+	  </w>
+	  <w gl="I like it">
+	    <m lemma="4349">ni</m>
+	    <m lemma="6580">víshtaan</m>
+	    <m lemma="6035">ti</m>
+	</w>.</txt>
+	<trans lang="eng">I like salt.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_36" audio-start-time="33:43">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1144">chími</m>
+	  </w>
+	  <w gl="the deer meat">
+	    <m lemma="4407">pa</m>
+	    <m lemma="5093">pufích'iish</m>
+	  </w>
+	  <w gl="we cook it">
+	    <m lemma="4370">nu</m>
+	    <m lemma="2465">mnísh</m>
+	    <m lemma="1379">eesh</m>
+	</w>.</txt>
+	<trans lang="eng">Let's cook deer meat.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_37" audio-start-time="34:20">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1660">iimkun</m>
+	  </w>
+	  <w gl="the deer meat">
+	    <m lemma="4407">pa</m>
+	    <m lemma="5093">pufích'iish</m>
+	  </w>
+	  <w gl="you all will cook it">
+	    <m lemma="3939">ku</m>
+	    <m lemma="2465">mnísh</m>
+	    <m lemma="1379">eesh</m>
+	</w>?</txt>
+	<trans lang="eng">Are you all going to cook the deer meat?</trans>
+<note> why no use of hum for Y/N question?</note>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_38" audio-start-time="34:50">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1357">hãã</m>
+	  </w>
+	  <w>
+	    <m lemma="3930">koovúra</m>
+	  </w>
+	  <w gl="we will cook it">
+	    <m lemma="4370">nu</m>
+	    <m lemma="2465">mnísh</m>
+	    <m lemma="1379">eesh</m>
+	  </w>
+	  <w gl="the deer meat">
+	    <m lemma="4407">pa</m>
+	    <m lemma="5093">pufích'iish</m>
+	</w>.</txt>
+	<trans lang="eng">Yes, we are all going to cook deer meat.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_39" audio-start-time="35:09">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="5136">pûuhara</m>
+	  </w>
+	  <w gl="the deer meat">
+	    <m lemma="4407">pa</m>
+	    <m lemma="5093">pufích'iish</m>
+	  </w>
+	  <w gl="we will not cook it">
+	    <m lemma="5082">pu</m>
+	    <m lemma="3844">kin</m>
+	    <m lemma="2465">imnísh</m>
+	    <m lemma="1379">eesh</m>
+	    <m lemma="1371">ara</m>
+	</w>.</txt>
+	<trans lang="eng">No, we are not going to cook deer meat.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_40" audio-start-time="35:23">
+	<txt lang="kyh">
+	  <w gl="the deer meat">
+	    <m lemma="4407">pa</m>
+	    <m lemma="5093">pufích'iish</m>
+	  </w>
+	  <w>
+	    <m lemma="1402">úm</m>
+	  </w>
+	  <w gl="I like it">
+	    <m lemma="1418">i</m>
+	    <m lemma="6580">víshtaan</m>
+	    <m lemma="6035">ti</m>
+	</w>?</txt>
+	<trans lang="eng">Do you like deer meat?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_41" audio-start-time="35:36">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6307">uum</m>
+	  </w>
+	  <w gl="the deer meat">
+	    <m lemma="4407">pa</m>
+	    <m lemma="5093">pufich'íish</m>
+	  </w>
+	  <w gl="he likes it">
+	    <m lemma="6175">u</m>
+	    <m lemma="6580">víshtaan</m>
+	    <m lemma="6035">ti</m>
+	</w>.</txt>
+	<trans lang="eng">He likes deer meat.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_42" audio-start-time="36:16">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="2766">ipít</m>
+	  </w>
+	  <w gl="we are cooking it">
+	    <m lemma="4370">nu</m>
+	    <m lemma="2465">mníish</m>
+	    <m lemma="6035">tih</m>
+	  </w>
+	  <w gl="the deer meat">
+	    <m lemma="4407">pa</m>
+	    <m lemma="5093">pufich'íish</m>
+	</w>.</txt>
+	<trans lang="eng">Yesterday we cooked deer meat.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_43" audio-start-time="37:16">
+	<txt lang="kyh">
+	  <w gl="salt it">
+	    <m lemma="7115">yúfish</m>
+	    <m lemma="1356">i</m>
+	  </w>
+	  <w gl="the deer meat">
+	    <m lemma="4407">pa</m>
+	    <m lemma="5093">pufich'íish</m>
+	</w>.</txt>
+	<trans lang="eng">Salt the deer meat.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_44" audio-start-time="37:27">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="4299">naa</m>
+	  </w>
+	  <w>
+	    <m lemma="2671">íp</m>
+	  </w>
+	  <w gl="I salt it">
+	    <m lemma="4349">ni</m>
+	    <m lemma="7115">yúfish</m>
+	    <m lemma="1356">i</m>
+	    <m lemma="6035">tih</m>
+	  </w>
+	  <w gl="the deer meat">
+	    <m lemma="4407">pa</m>
+	    <m lemma="5093">pufích'iish</m>
+	</w>.</txt>
+	<trans lang="eng">I put salt on the deer meat.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_45" audio-start-time="39:06">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="2766">ipít</m>
+	  </w>
+	  <w>
+	    <m lemma="6360">uxraah</m>
+	  </w>
+	  <w gl="we ate it">
+	    <m lemma="4370">nu</m>
+	    <m lemma="814">'áv</m>
+	    <m lemma="738">at</m>
+	</w>.</txt>
+	<trans lang="eng">Yesterday we ate berries.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_46" audio-start-time="39:29">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="4716">payêem</m>
+	  </w>
+	  <w>
+	    <m lemma="6360">uxraah</m>
+	  </w>
+	  <w gl="we are eating it">
+	    <m lemma="4370">nu</m>
+	    <m lemma="814">'áam</m>
+	    <m lemma="6035">ti</m>
+	</w>.</txt>
+	<trans lang="eng">We are eating berries now.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_47" audio-start-time="40:14">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6360">uxraah</m>
+	  </w>
+	  <w gl="I like it">
+	    <m lemma="4349">ni</m>
+	    <m lemma="6580">víshtaan</m>
+	    <m lemma="6035">ti</m>
+	</w>.</txt>
+	<trans lang="eng">I like berries.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_48" audio-start-time="40:27">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1656">iim</m>
+	  </w>
+	  <w>
+	    <m lemma="6360">uxraah</m>
+	  </w>
+	  <w gl="you like it">
+	    <m lemma="1418">i</m>
+	    <m lemma="6580">víshtaan</m>
+	    <m lemma="6035">ti</m>
+	</w>?</txt>
+	<trans lang="eng">Do you like berries?</trans>
+<note> conflict between particle and translation: why no hum in Y/N question? </note>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-4_49" audio-start-time="43:03">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="2766">ipít</m>
+	  </w>
+	  <w gl="the acorn soup">
+	    <m lemma="4407">pa</m>
+	    <m lemma="6965">xuun</m>
+	  </w>
+	  <w gl="we ate it">
+	    <m lemma="4370">nu</m>
+	    <m lemma="814">'áv</m>
+	    <m lemma="738">at</m>
+	</w>.</txt>
+	<trans lang="eng">Yesterday we ate acorn soup.</trans>
+      </s>
+    </paragraph>
+  </data>
+</text>

@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="VS-21" audio-source="karuk-2013-10-27-vs-2">
+  <metadata>
+    <title>Sentences: actions and instrumentals</title>
+    <author> Vina <alph>Smith</alph>
+    </author>
+    <date>2013</date>
+    <publication> Unpublished (recorded by Andrew Garrett, Line Mikkelsen, Erik Maier, and Nancy Richardson on October 27, 2013)</publication>
+  </metadata>
+  <data>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2013-10-27-vs-2_01" audio-start-time="1:16">
+    <txt lang="kyh">
+      <w>
+        <m lemma="6214">uhyanaváraar</m>
+        </w>
+      <w>
+        <m lemma="4281">mûuk</m>
+        </w>
+      <w gl="I will call you">
+        <m lemma="4370">nu</m>
+        <m lemma="1218">chúuph</m>
+        <m lemma="1379">eesh</m>
+        </w>.</txt>
+    <trans lang="eng">I am going to call you on the telephone.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2013-10-27-vs-2_02" audio-start-time="1:59">
+   <txt lang="kyh">
+	  <w>
+	    <m lemma="6881">xáyfaat</m>
+	  </w>
+	  <w>
+	    <m lemma="6214">uhyanaváraar</m>
+	  </w>
+	  <w>
+	    <m lemma="4281">mûuk</m>
+	  </w>
+	  <w gl="you call me">
+	    <m lemma="4370">nú</m>
+	    <m lemma="1218">chúuph</m>
+	</w>!</txt>
+	<trans lang="eng">Don't call me!</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2013-10-27-vs-2_03" audio-start-time="4:17">
+   <txt lang="kyh">
+	  <w>
+	    <m lemma="1375">hárivari</m>
+	  </w>
+	  <w gl="you will call me">
+	    <m lemma="4294">na</m>
+	    <m lemma="1218">chup</m>
+	    <m lemma="6242">ûunish</m>
+	    <m lemma="1379">eesh</m>
+	</w>?</txt>
+	<trans lang="eng">When are you going to call me?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2013-10-27-vs-2_04" audio-start-time="5:14">
+   <txt lang="kyh">
+	  <w>
+	    <m lemma="1816">íkiich</m>
+	  </w>
+      <w>
+        <m lemma="6214">uhyanaváraar</m>
+        </w>
+	  <w>
+        <m lemma="4281">mûuk</m>
+        </w>
+	  <w gl="I will call you">
+        <m lemma="4370">nu</m>
+        <m lemma="1218">chúuph</m>
+        <m lemma="1379">eesh</m>
+	</w></txt>
+	<trans lang="eng">I am going to use the phone to call you.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2013-10-27-vs-2_05" audio-start-time="08:34">
+   <txt lang="kyh">
+	  <w gl="the key">
+	    <m lemma="4407">pa</m>
+	    <m lemma="3827">pakîihar</m>
+	  </w>
+      <w>
+        <m lemma="3752">káru</m>
+        </w>
+	  <w gl="I will lock it">
+	    <m lemma="4349">ni</m>
+	    <m lemma="3826">kîih</m>
+	    <m lemma="1379">eesh</m>
+	</w>.</txt>
+	<trans lang="eng"> I am (also) going to lock the door.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2013-10-27-vs-2_06" audio-start-time="10:30">
+   <txt lang="kyh">
+	  <w>
+	    <m lemma="3826">kîiha</m>
+	  </w>
+	  <w gl="the door">
+	    <m lemma="4407">pa</m>
+	    <m lemma="1186">chivchákar</m>
+	</w>!</txt>
+	<trans lang="eng">Lock the door!</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2013-10-27-vs-2_07" audio-start-time="12:53">
+   <txt lang="kyh">
+	  <w gl="I am going to go fishing">
+	    <m lemma="4349">ni</m>
+	    <m lemma="3163">shxâar</m>
+	    <m lemma="1379">eesh</m>
+	</w>.</txt>
+	<trans lang="eng">I am going to go fishing.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2013-10-27-vs-2_08" audio-start-time="13:29">
+   <txt lang="kyh">
+	  <w>
+	    <m lemma="6881">xáyfaat</m>
+	  </w>
+	  <w>
+	    <m lemma="3163">ishxâar</m>
+	</w>!</txt>
+	<trans lang="eng">Don't go fishing!</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2013-10-27-vs-2_09" audio-start-time="14:10">
+   <txt lang="kyh">
+	  <w>
+	    <m lemma="1396">hôoy</m>
+	  </w>
+	  <w gl="your fishing pole">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4238">mi</m>
+	    <m lemma="3162">ishxâar</m>
+	</w>?</txt>
+	<trans lang="eng">"Where is your fishing pole?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2013-10-27-vs-2_10" audio-start-time="15:01">
+   <txt lang="kyh">
+	  <w gl="I will go fishing with">
+	    <m lemma="4349">ni</m>
+	    <m lemma="3170">shxâ</m>
+	    <m lemma="504">ar</m>
+	    <m lemma="1379">eesh</m>
+	  </w>
+	  <w gl="my fishing pole">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4326">ni</m>
+	    <m lemma="3162">ishxâar</m>
+	</w>.</txt>
+	<trans lang="eng">I am going to go fishing with my fishing pole.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2013-10-27-vs-2_11" audio-start-time="15:50">
+   <txt lang="kyh">
+	  <w gl="my fishing pole">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4326">nini</m>
+	    <m lemma="3162">shxâar</m>
+	  </w>
+	  <w gl="I will go fishing with">
+	    <m lemma="4349">ni</m>
+	    <m lemma="3170">shxâ</m>
+	    <m lemma="504">ar</m>
+	    <m lemma="1379">eesh</m>
+	  </w>
+	  <w>
+	    <m lemma="4716">payêem</m>
+	  </w>.</txt>
+	<trans lang="eng">I am going to go fishing with my fishing pole now.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2013-10-27-vs-2_12" audio-start-time="18:16">
+   <txt lang="kyh">
+	  <w gl="the fork">
+	    <m lemma="4407">pee</m>
+	    <m lemma="2061">krupkáanvar</m>
+	  </w>
+	  <w gl="I am using it">
+	    <m lemma="4349">ni</m>
+	    <m lemma="1584">hrúuv</m>
+	    <m lemma="6035">ti</m>
+	</w>
+	  <w gl=" ">
+	    <m lemma="?">pa</m>
+	    <m lemma="?">'as</m>
+	</w>
+	  <w>
+	    <m lemma="?">vaa</m>
+	</w>
+	  <w gl="I will go fishing with">
+	    <m lemma="4349">ni</m>
+	    <m lemma="3170">shxâ</m>
+	    <m lemma="504">ar</m>
+	    <m lemma="1379">eesh</m>
+	</w>.</txt>
+	<trans lang="eng">I am going to go fishing with a fork.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2013-10-27-vs-2_13" audio-start-time="19:19">
+   <txt lang="kyh">
+	  <w gl="I will stab it">
+	    <m lemma="4349">ni</m>
+	    <m lemma="1832">kmárakurih</m>
+	    <m lemma="1379">eesh</m>
+	    <m lemma="6377">va</m>
+	</w>.</txt>
+	<trans lang="eng">I am going to stab it.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2013-10-27-vs-2_14" audio-start-time="20:12">
+   <txt lang="kyh">
+	  <w gl="my clothes">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4326">ni</m>
+	    <m lemma="5230">sáanva</m>
+	  </w>
+	  <w gl=" I will wash it">
+	    <m id="4349">ni</m>
+	    <m id="5023">pithxáh</m>
+	    <m id="1379">eesh</m>
+	</w>.</txt>
+	<trans lang="eng">I am going to wash my clothes.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2013-10-27-vs-2_15" audio-start-time="22:06">
+   <txt lang="kyh">
+	  <w>
+	    <m lemma="">soap</m>
+	  </w>
+	  <w>
+        <m lemma="4281">mûuk</m>
+	  </w>
+	  <w gl=" I will wash it">
+	    <m id="4349">ni</m>
+	    <m id="5023">pithxáh</m>
+	    <m id="1379">eesh</m>
+	</w>.</txt>
+	<trans lang="eng">I am going to wash it with soap.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2013-10-27-vs-2_16" audio-start-time="23:23">
+   <txt lang="kyh">
+	  <w>
+	    <m lemma="234">akâay</m>
+	  </w>
+	  <w gl="he has arrived">
+	    <m lemma="5506">t</m>
+	    <m lemma="6175">u</m>
+	    <m lemma="205">'áhoo</m>
+	</w>?</txt>
+	<trans lang="eng">Who is arriving?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2013-10-27-vs-2_17" audio-start-time="24:54">
+   <txt lang="kyh">
+	  <w gl=" I will sweep it off">
+	    <m id="4349">ni</m>
+	    <m lemma="5754">tátuyshur</m>
+	    <m id="1379">eesh</m>
+	  </w>
+	  <w gl="the floor">
+	    <m lemma="4407">pa</m>
+	    <m lemma="1694">'îirish</m>
+	</w>.</txt>
+	<trans lang="eng">I am going to sweep the floor.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2013-10-27-vs-2_18" audio-start-time="27:14">
+   <txt lang="kyh">
+	  <w>
+	    <m lemma="4934">pimustihváanar</m>
+	  </w>
+	  <w gl="I will watch it">
+	    <m lemma="4349">ni</m>
+	    <m lemma="2585">múustih</m>
+	    <m lemma="1379">eesh</m>
+	  </w>
+	  <w>
+	    <m lemma="4299">naa</m>
+	</w>.</txt>
+	<trans lang="eng">I am going to look at myself in the mirror.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2013-10-27-vs-2_19" audio-start-time="27:52">
+   <txt lang="kyh">
+	  <w gl="in water">
+	    <m lemma="2940">íshah</m>
+	    <m lemma="232">ak</m>
+	  </w>
+	  <w gl="I will watch it">
+	    <m lemma="4349">ni</m>
+	    <m lemma="2585">múustih</m>
+	    <m lemma="1379">eesh</m>
+	  </w>
+	  <w>
+	    <m lemma="4299">naa</m>
+	</w>.</txt>
+	<trans lang="eng">I am going to look at myself in the water.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2013-10-27-vs-2_20" audio-start-time="28:04">
+   <txt lang="kyh">
+	  <w gl="in the water">
+	    <m lemma="4407">pa'</m>
+	    <m lemma="2940">íshah</m>
+	    <m lemma="232">ak</m>
+	  </w>
+	  <w gl="I will watch it">
+	    <m lemma="4349">ni</m>
+	    <m lemma="2585">múustih</m>
+	    <m lemma="1379">eesh</m>
+	  </w>
+	  <w>
+	    <m lemma="6381">vaa</m>
+	</w>
+	  <w>
+	    <m lemma="3670">káan</m>
+	</w>.</txt>
+	<trans lang="eng">I am going to look at myself in the water.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2013-10-27-vs-2_21" audio-start-time="28:27">
+   <txt lang="kyh">
+	  <w>
+	    <m lemma="4934">pimustihváanar</m>
+	  </w>
+	  <w>
+	    <m lemma="4281">mûuk</m>
+	  </w>
+	  <w gl="I will watch it">
+	    <m lemma="4349">ni</m>
+	    <m lemma="2585">múustih</m>
+	    <m lemma="1379">eesh</m>
+	  </w>
+	  <w>
+	    <m lemma="4299">naa</m>
+	</w>.</txt>
+	<trans lang="eng">I am going to use the mirror to look at myself.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2013-10-27-vs-2_22" audio-start-time="30:48">
+   <txt lang="kyh">
+	  <w gl="my teeth">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4326">naní</m>
+	    <m lemma="6635">vuh</m>
+	  </w>
+	  <w gl="I will wash it">
+	    <m lemma="4349">ni</m>
+	    <m lemma="5023">pithxáh</m>
+	    <m lemma="1379">eesh</m>
+	</w>.</txt>
+	<trans lang="eng">I am going to brush my teeth.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2013-10-27-vs-2_23" audio-start-time="31:24">
+   <txt lang="kyh">
+	  <w>
+	    <m lemma="4934">pimustihváanar</m>
+	  </w>
+	  <w>
+	    <m lemma="4281">mûuk</m>
+	  </w>
+	  <w gl="I will wash it">
+	    <m lemma="4349">ni</m>
+	    <m lemma="5023">pithxáh</m>
+	    <m lemma="1379">eesh</m>
+	  </w>
+	  <w gl="my teeth">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4326">naní</m>
+	    <m lemma="6635">vuh</m>
+	</w>.</txt>
+	<trans lang="eng">I am going to use a toothbrush to brush my teeth.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2013-10-27-vs-2_24" audio-start-time="31:41">
+   <txt lang="kyh">
+	  <w>
+	    <m lemma="215">áhup</m>
+	  </w>
+	  <w>
+	    <m lemma="4281">mûuk</m>
+	  </w>
+	  <w gl="I will wash it">
+	    <m lemma="4349">ni</m>
+	    <m lemma="5023">pithxáh</m>
+	    <m lemma="1379">eesh</m>
+	  </w>
+	  <w gl="my teeth">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4326">naní</m>
+	    <m lemma="6635">vuh</m>
+	</w>.</txt>
+	<trans lang="eng">I am going to use a stick to brush my teeth.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2013-10-27-vs-2_25" audio-start-time="32:10">
+   <txt lang="kyh">
+	  <w>
+	    <m lemma="7115">yúfish</m>
+	  </w>
+	  <w>
+	    <m lemma="3752">káru</m>
+	  </w>
+	  <w gl="I will use it">
+	    <m lemma="4349">ni</m>
+	    <m lemma="1584">'ihrôov</m>
+	    <m lemma="1379">eesh</m>
+	  </w>
+	  <w>
+	    <m lemma="6383">vaa</m>
+	  </w>
+	  <w gl="my teeth">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4326">niní</m>
+	    <m lemma="6635">vuh</m>
+	  </w>
+	  <w gl="I will wash it">
+	    <m lemma="4349">ni</m>
+	    <m lemma="5023">pithxáh</m>
+	    <m lemma="1379">eesh</m>
+	</w>.</txt>
+	<trans lang="eng">I am going to use salt to brush my teeth.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2013-10-27-vs-2_26" audio-start-time="32:15">
+   <txt lang="kyh">
+	  <w>
+	    <m lemma="7115">yúfish</m>
+	  </w>
+	  <w gl="I will use it">
+	    <m lemma="4349">ni</m>
+	    <m lemma="1584">'ihrôov</m>
+	    <m lemma="1379">eesh</m>
+	  </w>
+	  <w>
+	    <m lemma="6383">vaa</m>
+	  </w>
+	  <w>
+	    <m lemma="3670">káan</m>
+	  </w>
+	  <w gl="I will wash it">
+	    <m lemma="4349">ni</m>
+	    <m lemma="5023">pithxáh</m>
+	    <m lemma="1379">eesh</m>
+	</w>
+	  <w gl="my teeth">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4326">niní</m>
+	    <m lemma="6635">vuh</m>
+	  </w>.</txt>
+	<trans lang="eng">I am going to use salt to brush my teeth.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2013-10-27-vs-2_27" audio-start-time="34:49">
+   <txt lang="kyh">
+	  <w>
+	    <m lemma="6383">vaa</m>
+	  </w>
+	  <w>
+	    <m lemma="3670">káan</m>
+	  </w>
+	  <w gl="I will dig a hole">
+	    <m lemma="4349">ni</m>
+	    <m lemma="2909">'írip</m>
+	    <m lemma="1379">eesh</m>
+	</w>.</txt>
+	<trans lang="eng">I am going to go dig something (there).</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2013-10-27-vs-2_28" audio-start-time="35:12">
+   <txt lang="kyh">
+	  <w>
+	    <m lemma="1649">îikam</m>
+	  </w>
+	  <w>
+	    <m lemma="6383">vaa</m>
+	  </w>
+	  <w>
+	    <m lemma="3670">káan</m>
+	  </w>
+	  <w gl="I will dig a hole">
+	    <m lemma="4349">ni</m>
+	    <m lemma="2909">'írip</m>
+	    <m lemma="1379">eesh</m>
+	</w>.</txt>
+	<trans lang="eng">I am going to go digging outside.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2013-10-27-vs-2_29" audio-start-time="35:46">
+   <txt lang="kyh">
+	  <w>
+	    <m lemma="5649">tanukyáanar</m>
+	  </w>
+	  <w>
+        <m lemma="4281">mûuk</m>
+        </w>
+	  <w gl="I will dig a hole">
+	    <m lemma="4349">ni</m>
+	    <m lemma="2909">'írip</m>
+	    <m lemma="1379">eesh</m>
+	</w>.</txt>
+	<trans lang="eng">I am going to dig with a shovel.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2013-10-27-vs-2_30" audio-start-time="37:06">
+   <txt lang="kyh">
+	  <w>
+	    <m lemma="2032">ikrívraam</m>
+	  </w>
+	  <w gl="I made it">
+	    <m lemma="4349">ni</m>
+	    <m lemma="2348">kyaa</m>
+	    <m lemma="738">t</m>
+	</w>.</txt>
+	<trans lang="eng">I made a house.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2013-10-27-vs-2_31" audio-start-time="37:37">
+   <txt lang="kyh">
+	  <w>
+	    <m lemma="215">áhup</m>
+	  </w>
+	  <w>
+        <m lemma="4281">mûuk</m>
+        </w>
+	  <w gl="I made it">
+	    <m lemma="4349">ni</m>
+	    <m lemma="2348">kyaa</m>
+	    <m lemma="738">t</m>
+	</w>
+	  <w gl="the house">
+	    <m lemma="4407">pa'</m>
+	    <m lemma="2032">ikrívraam</m>
+	</w>.</txt>
+	<trans lang="eng">I made a house with wood.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2013-10-27-vs-2_32" audio-start-time="38:13">
+   <txt lang="kyh">
+	  <w>
+	    <m lemma="215">áhup</m>
+	  </w>
+	  <w>
+        <m lemma="4281">mûuk</m>
+        </w>
+	  <w gl="I made it into">
+	    <m lemma="4349">ni</m>
+	    <m lemma="2348">kyáa</m>
+	    <m lemma="?">koo</m>
+	    <m lemma="?">pa</m>
+	  </w>
+	  <w gl="the fence">
+	    <m lemma="4407">pa</m>
+	    <m lemma="5710">tas</m>
+	</w>.</txt>
+	<trans lang="eng">I made a fence with wood.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2013-10-27-vs-2_33" audio-start-time="38:38">
+   <txt lang="kyh">
+	  <w>
+	    <m lemma="5506">tá</m>
+	  </w>
+	  <w gl="I finish making it">
+	    <m lemma="4349">ni</m>
+	    <m lemma="4903">pikyâar</m>
+	  </w>
+	  <w gl="the fence">
+	    <m lemma="4407">pa</m>
+	    <m lemma="5710">tas</m>
+	</w>.</txt>
+	<trans lang="eng">I have finished the fence.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2013-10-27-vs-2_34" audio-start-time="39:57">
+   <txt lang="kyh">
+	  <w>
+	    <m lemma="5506">tá</m>
+	  </w>
+	  <w gl="I finish making it">
+	    <m lemma="4349">ni</m>
+	    <m lemma="4903">pikyâar</m>
+	  </w>
+	  <w gl="my talking">
+	    <m lemma="4407">pa</m>
+	    <m lemma="44326">nini</m>
+	    <m lemma="1219">chúupha</m>
+	</w>.</txt>
+	<trans lang="eng">I finished talking.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2013-10-27-vs-2_35" audio-start-time="40:29">
+   <txt lang="kyh">
+	  <w>
+	    <m lemma="5506">tá</m>
+	  </w>
+	  <w gl="I finish making it">
+	    <m lemma="4349">ni</m>
+	    <m lemma="4903">pikyâar</m>
+	  </w>
+	  <w gl="my washing">
+	    <m lemma="4408">pa</m>
+	    <m lemma="4326">nini</m>
+	    <m lemma="5023">pithxa</m>
+	</w>
+	<w gl="my clothes">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4326">nini</m>
+	    <m lemma="5230">sáanva</m>
+	</w>.</txt>
+	<trans lang="eng">I finished washing my clothes.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2013-10-27-vs-2_36" audio-start-time="42:57">
+   <txt lang="kyh">
+	  <w gl="that I am fishing">
+	    <m lemma="4408">pa</m>
+	    <m lemma="4349">ni</m>
+	    <m lemma="3170">shxáay</m>
+	    <m lemma="6035">tih</m>
+	  </w>
+	  <w>
+	    <m lemma="5506">tá</m>
+	  </w>
+	  <w gl="I finish making it">
+	    <m lemma="4349">ni</m>
+	    <m lemma="4903">pikyâar</m>
+	</w>.</txt>
+	<trans lang="eng">I finished fishing.</trans>
+      </s>
+    </paragraph>
+  </data>
+</text>

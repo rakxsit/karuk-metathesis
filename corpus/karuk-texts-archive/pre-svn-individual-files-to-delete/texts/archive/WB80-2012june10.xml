@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB80">
+    <metadata>
+        <title>"The Sucking Doctor"</title>
+        <author>Julia <alph>Starritt</alph></author>
+        <date>1957</date>
+        <publication>William Bright,<em>The Karok Language</em> (1957), pp. 292-293, Text
+            80</publication>
+    </metadata>
+    <data>
+        <paragraph>
+            <s>
+                <kar>
+                    <w gl="the Indian (sucking) Doctor">
+                        <m id="4407">pa</m>
+                        <m id="506">'arara</m>
+                        <m id="1232">êem</m>
+                    </w>
+                    <w>
+                        <m id="6307">uum</m>
+                    </w>
+                    <w>
+                        <m id="505">ára</m>
+                    </w>
+                    <w gl="she sucks out disease">
+                        <m id="6175">u</m>
+                        <m id="4673">patumkôo</m>
+                        <m id="6035">tih</m>
+                    </w>
+                </kar>
+                <eng>The Indian Doctor sucked people.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w>
+                        <m id="6847">xás</m>
+                    </w>
+                    <w>
+                        <m id="6381">vaa</m>
+                    </w>
+                    <w>
+                        <m id="3670">káan</m>
+                    </w>
+                    <w gl="she put mouth">
+                        <m id="5506">t</m>
+                        <m id="6175">u</m>
+                        <m id="4670">pátum</m>
+                    </w>
+                    <w gl="there">
+                        <m id="4408">pa</m>
+                        <m id="3670">káan</m>
+                    </w>
+                    <w gl="the pain">
+                        <m id="4407">pa</m>
+                        <m id="548">'arátaanva</m>
+                    </w>
+                    <w gl="it was trembling">
+                        <m id="6175">u</m>
+                        <m id="3799">kêena</m>
+                        <m id="6035">tih</m>
+                    </w>
+                </kar>
+                <eng>She put her mouth there where the 'pain' (i.e. disease object) was
+                    quivering.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w>
+                        <m id="6847">xás</m>
+                    </w>
+                    <w>
+                        <m id="6381">vaa</m>
+                    </w>
+                    <w>
+                        <m id="6675">vúra</m>
+                    </w>
+                    <w>
+                        <m id="6779">xánahich</m>
+                    </w>
+                    <w gl="she put mouth">
+                        <m id="5506">t</m>
+                        <m id="6175">u</m>
+                        <m id="4673">patúmkoo</m>
+                    </w>
+                </kar>
+                <eng>And she sucked at it for a little while.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w>
+                        <m id="6847">xás</m>
+                    </w>
+                    <w>
+                        <m id="421">apmáan</m>
+                    </w>
+                    <w gl="she put into">
+                        <m id="5506">t</m>
+                        <m id="6175">u</m>
+                        <m id="29">'áakvar</m>
+                    </w>
+                    <w>
+                        <m id="6847">xás</m>
+                    </w>
+                    <w>
+                        <m id="5541">táay</m>
+                    </w>
+                    <w>
+                        <m id="6675">vúra</m>
+                    </w>
+                    <w>
+                        <m id="6911">xúnxun</m>
+                    </w>
+                    <w gl="she made">
+                        <m id="5506">t</m>
+                        <m id="6175">ôo</m>
+                        <m id="2348">kyav</m>
+                    </w>
+                </kar>
+                <eng>Then she put her hands in her mouth, and she made a lot of phlegm.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w>
+                        <m id="41">âapun</m>
+                    </w>
+                    <w gl="she sits">
+                        <m id="6175">ú</m>
+                        <m id="1974">krii</m>
+                    </w>
+                    <w gl="thus">
+                        <m id="4408">pá</m>
+                        <m id="6381">vaa</m>
+                    </w>
+                    <w gl="she does">
+                        <m id="6175">u</m>
+                        <m id="4015">kupi</m>
+                        <m id="6035">tih</m>
+                    </w>
+                </kar>
+                <eng>She sat on the floor as she did that.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w>
+                        <m id="6847">xás</m>
+                    </w>
+                    <w>
+                        <m id="3745">kári</m>
+                    </w>
+                    <w gl="she got up">
+                        <m id="5506">t</m>
+                        <m id="6175">u</m>
+                        <m id="6613">vôonsip</m>
+                    </w>
+                </kar>
+                <eng> Then she got up.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w>
+                        <m id="6847">xás</m>
+                    </w>
+                    <w>
+                        <m id="6045">tíikan</m>
+                    </w>
+                    <w gl="she spit into">
+                        <m id="6175">u</m>
+                        <m id="7224">yuuhrámnih</m>, </w>
+                    <w>
+                        <m id="6847">xás</m>
+                    </w>
+                    <w gl="the pain-saliva">
+                        <m id="4407">pa</m>
+                        <m id="548">'arataanva</m>
+                        <m id="6247">úpas</m>
+                    </w>
+                    <w gl="she held">
+                        <m id="6175">ú</m>
+                        <m id="2098">ktaam</m>
+                        <m id="6035">ti</m>
+                    </w>
+                    <w>
+                        <m id="6045">tíikan</m>
+                    </w>
+                </kar>
+                <eng>And she spat into her hands, and she held the pain-saliva in her hands.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w>
+                        <m id="5163">púyava</m>
+                    </w>
+                    <w>
+                        <m id="6847">xás</m>
+                    </w>
+                    <w>
+                        <m id="548">'arátaanva</m>
+                    </w>
+                    <w gl="she used">
+                        <m id="5506">t</m>
+                        <m id="6175">u</m>
+                        <m id="2674">p</m>
+                        <m id="1584">ihruv</m>
+                    </w>
+                </kar>
+                <eng>Then she used the pain (i.e. danced and sang with it).</eng>
+            </s>
+            <s>
+                <kar>
+                    <w>
+                        <m id="6847">xás</m>
+                    </w>
+                    <w gl="she finished">
+                        <m id="4408">pa</m>
+                        <m id="5506">t</m>
+                        <m id="6175">u</m>
+                        <m id="3909">kôoh</m>
+                        <m id="1358">aak</m>
+                    </w>
+                    <w>
+                        <m id="6847">xás</m>
+                    </w>
+                    <w gl="the pain">
+                        <m id="4407">pa</m>
+                        <m id="548">'arátaanva</m>
+                    </w>
+                    <w gl="she blew away">
+                        <m id="5506">t</m>
+                        <m id="6175">u</m>
+                        <m id="1336">fumyihpiithva</m>
+                    </w>
+                </kar>
+                <eng>And when she finished, then she blew the pain away.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w>
+                        <m id="5163">púyava</m>
+                    </w>
+                    <w>
+                        <m id="6847">xás</m>
+                    </w>
+                    <w>
+                        <m id="3969">kúkuum</m>
+                    </w>
+                    <w>
+                        <m id="6675">vúra</m>
+                    </w>
+                    <w>
+                        <m id="6381">váa</m>
+                    </w>
+                    <w gl="she did">
+                        <m id="5506">t</m>
+                        <m id="6175">óo</m>
+                        <m id="2674">p</m>
+                        <m id="4086">kuupha</m>
+                    </w>
+                </kar>
+                <eng>Then she did the same thing.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <kar>
+                    <w>
+                        <m id="1372">háari</m>
+                    </w>
+                    <w>
+                        <m id="72">aax</m>
+                    </w>
+                    <w gl="she took off">
+                        <m id="5506">t</m>
+                        <m id="6175">óo</m>
+                        <m id="5312">sáan</m>
+                        <m id="5475">sur</m>
+                    </w>
+                    <w gl="the sick">
+                        <m id="4407">pa</m>
+                        <m id="7094">yíkihar</m>
+                    </w>
+                    <w>
+                        <m id="3752">káru</m>
+                    </w>
+                    <w>
+                        <m id="1372">háari</m>
+                    </w>
+                    <w>
+                        <m id="6014">thúkin</m>
+                    </w>
+                </kar>
+                <eng>Sometimes she took blood off of the sick person, and sometimes bile.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w>
+                        <m id="5163">púyava</m>
+                    </w>
+                    <w>
+                        <m id="6847">xás</m>
+                    </w>
+                    <w>
+                        <m id="3745">kári</m>
+                    </w>
+                    <w>
+                        <m id="5506">t</m>
+                        <m id="6175">u</m>
+                        <m id="3909">kôoha</m>
+                    </w>
+                </kar>
+                <eng>And so then she finished.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w>
+                        <m id="6847">xás</m>
+                    </w>
+                    <w gl="in water">
+                        <m id="2940">ishaha</m>
+                        <m id="3660">k</m>
+                    </w>
+                    <w gl="she bathed">
+                        <m id="5506">t</m>
+                        <m id="6175">óo</m>
+                        <m id="4443">páatva</m>
+                    </w>
+                </kar>
+                <eng>And she bathed in water.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w>
+                        <m id="6847">xás</m>
+                    </w>
+                    <w gl="she crawled back indoors">
+                        <m id="5506">t</m>
+                        <m id="6175">óo</m>
+                        <m id="2674">p</m>
+                        <m id="6606">vôonfuruk</m>
+                    </w>
+                </kar>
+                <eng>And she came indoors again.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w>
+                        <m id="5163">púyava</m>
+                    </w>
+                    <w>
+                        <m id="6847">xás</m>
+                    </w>
+                    <w>
+                        <m id="3745">kári</m>
+                    </w>
+                    <w gl="she smoked">
+                        <m id="5506">t</m>
+                        <m id="6175">u</m>
+                        <m id="1531">héer</m>
+                    </w>
+                </kar>
+                <eng>Then she smoked.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w>
+                        <m id="6847">xás</m>
+                    </w>
+                    <w>
+                        <m id="3745">kári</m>
+                    </w>
+                    <w>
+                        <m id="815">áv</m>
+                    </w>
+                    <w>
+                        <m id="5506">tá</m>
+                    </w>
+                    <w gl="they make for">
+                        <m id="3977">kun</m>
+                        <m id="2358">íkyee</m>
+                    </w>
+                </kar>
+                <eng>And they gave her food.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w>
+                        <m id="6847">xás</m>
+                    </w>
+                    <w gl="so INDEF">
+                        <m id="6570">víri</m>
+                        <m id="6377">va</m>
+                    </w>
+                    <w>
+                        <m id="6675">vúra</m>
+                    </w>
+                    <w>
+                        <m id="5506">tá</m>
+                    </w>
+                    <w>
+                        <m id="3906">koo</m>
+                    </w>
+                </kar>
+                <eng>That's all.</eng>
+            </s>
+        </paragraph>
+    </data>
+</text>

@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-70">
+    <metadata>
+        <title>"Deer Hunting"</title>
+        <author>Nettie <alph>Reuben</alph></author>
+        <date>1957</date>
+        <publication>William Bright, <em>The Karok Language</em> (1957), pp. 284-285, Text 70</publication>
+    </metadata>
+    <data>
+		<paragraph>
+			<s>
+				<kar>	
+					<w gl="when deer">
+						<m id="4408">pa</m>
+						<m id="5135">púufich</m>
+					</w>
+					<w gl="they were hunting">
+						<m id="3977">kun</m>
+						<m id="304">'ákunvu</m>
+						<m id="4298">naa</m>
+						<m id="6035">ti</m>
+					</w>
+					<w gl="so">
+						<m id="6570">víri</m>
+						<m id="6383">va</m>
+					</w>
+					<w>
+						<m id="379">ánav</m>
+					</w>
+					<w>
+						<m id="5506">tá</m>
+					</w>
+					<w gl="they made">
+						<m id="3977">kun</m>
+						<m id="2348">íkyam</m>
+					</w>
+					<w>
+						<m id="4171">máh'iit</m>
+					</w>.
+				</kar>
+				<eng>When they hunted deer, they made medicine in the morning.</eng>
+				<note>ikyam should be ikyav; no process in Bright seems to explain this change, as the v in ikyav is not the v which nasalizes.</note>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="5506">tá</m>
+					</w>
+					<w gl="they finished">
+						<m id="3977">kun</m>
+						<m id="4902">pikxúramnih</m>
+					</w>.
+				</kar>
+				<eng>They finished.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="3745">kári</m>
+					</w>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w gl="he started to go">
+						<m id="5506">t</m>
+						<m id="6175">u</m>
+						<m id="6422">vákirar</m>
+					</w>.
+				</kar>
+				<eng>Then (the hunter) started out</eng>
+			</s>
+			<s>
+				<kar>
+					<w gl="so">
+						<m id="6570">víri</m>
+						<m id="6383">va</m>
+					</w>
+					<w>
+						<m id="6675">vúra</m>
+					</w>
+					<w>
+						<m id="6312">ûumukich</m>
+					</w>
+					<w gl="he would">
+						<m id="5506">t</m>
+						<m id="6175">óo</m>
+					</w>
+					<w>
+						<m id="4155">máh</m>
+					</w>
+					<w gl="the deer">
+						<m id="4407">pa</m>
+						<m id="5135">púufich</m>
+					</w>.
+				</kar>
+				<eng>He would see the deer close by.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="5163">púyava</m>
+					</w>
+					<w>
+						<m id="3409">itráhyar</m>
+					</w>
+					<w gl="he would">
+						<m id="5506">t</m>
+						<m id="6175">óo</m>
+					</w>
+					<w>
+						<m id="3580">ykar</m>
+					</w>.
+				</kar>
+				<eng>He would kill ten.</eng>
+			</s>
+			<s>
+				<kar>
+					<w gl="he had used up">
+						<m id="5506">t</m>
+						<m id="6175">u</m>
+						<m id="4465">páfip</m>
+					</w>.
+				</kar>
+				<eng>He used up (his limit).</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="5163">púyava</m>
+					</w>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w>
+						<m id="3745">kári</m>
+					</w>
+					<w gl="he would">
+						<m id="5506">t</m>
+						<m id="6175">óo</m>
+					</w>
+					<w>
+						<m id="2860">pvâaram</m>
+					</w>.
+				</kar>
+				<eng>Then he would go home.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="5163">púyava</m>
+					</w>
+					<w>
+						<m id="3969">kúkuum</m>
+					</w>
+					<w>
+						<m id="6675">vúra</m>
+					</w>
+					<w>
+						<m id="2391">imáan</m>
+					</w>
+					<w gl="he would go hunting">
+						<m id="5506">t</m>
+						<m id="6175">u</m>
+						<m id="307">'ákunvar</m>
+					</w>
+				</kar>
+				<eng>He would go hunting again the next day.</eng>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<kar>
+					<w gl="when long ago">
+						<m id="4408">pa</m>
+						<m id="5170">pi'êep</m>
+					</w>
+					<w gl="they hunted in this way">
+						<m id="3977">kun</m>
+						<m id="4004">kupa</m>
+						<m id="304">'ákunvu</m>
+						<m id="6035">tih</m>
+						<m id="1369">anik</m>
+					</w>
+					<w gl="they carried bows">
+						<m id="3977">kun</m>
+						<m id="245">'ákeekvu</m>
+						<m id="6035">tih</m>
+					</w>.
+				</kar>
+				<eng>They carried bows when they hunted, long ago.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="3752">káru</m>
+					</w>
+					<w gl="the arrows">
+						<m id="4407">pa</m>
+						<m id="6559">vimtáap</m>
+					</w>
+					<w gl="they wore them across their chests">
+						<m id="3977">kun</m>
+						<m id="5622">takvára</m>
+						<m id="6035">tih</m>
+					</w>.
+				</kar>
+				<eng>And they carried the arrows across their chest.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="3752">káru</m>
+					</w>
+					<w>
+						<m id="3667">káakum</m>
+					</w>
+					<w>
+						<m id="4172">mah'íitnihach</m>
+					</w>
+					<w gl="they were trapping">
+						<m id="3977">kun</m>
+						<m id="5732">tátapvu</m>
+						<m id="4298">naa</m>
+						<m id="6035">ti</m>
+					</w>.
+				</kar>
+				<eng>And some men were trapping early in the morning.</eng>
+			</s>
+			<s>
+				<kar>
+					<w gl="where a tree">
+						<m id="4408">pa</m>
+						<m id="2682">'ípaha</m>
+					</w>
+					<w gl="it stood">
+						<m id="6175">u</m>
+						<m id="1646">'íihya</m>
+					</w>
+					<w gl="the pole">
+						<m id="4407">pa</m>
+						<m id="5530">táaskar</m>
+					</w>
+					<w>
+						<m id="5506">tá</m>
+					</w>
+					<w gl="they lashed it onto it">
+						<m id="3977">kun</m>
+						<m id="2535">imthátap</m>
+					</w>.
+				</kar>
+				<eng>Where a tree stood, they lashed a pole to it.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="3930">koovúra</m>
+					</w>
+					<w gl="it was rubbed with">
+						<m id="6175">u</m>
+						<m id="3642">yvúruk</m>
+						<m id="168">ahi</m>
+						<m id="6035">ti</m>
+					</w>
+					<w gl="the deer medicine">
+						<m id="4407">pa</m>
+						<m id="5135">pufich</m>
+						<m id="379">'ánav</m>
+					</w>.
+				</kar>
+				<eng>They rubbed deer medicine on everything.</eng>
+			</s>
+			<s>
+				<kar>
+					<w gl="so">
+						<m id="6570">víri</m>
+						<m id="6383">va</m>
+					</w>
+					<w>
+						<m id="4171">máh'iit</m>
+					</w>
+					<w gl="when">
+						<m id="4408">pa</m>
+						<m id="5506">tá</m>
+					</w>
+					<w gl="they went trapping">
+						<m id="3977">kun</m>
+						<m id="5372">tátapv</m>
+						<m id="501">an</m>
+						<m id="6380">va</m>
+					</w>
+					<w>
+						<m id="6570">víri</m>
+					</w>
+					<w>
+						<m id="6383">vaa</m>
+					</w>
+					<w gl="it did it">
+						<m id="6175">u</m>
+						<m id="4086">kupí</m>
+						<m id="6035">tih</m>
+					</w>
+					<w gl="their dog">
+						<m id="4407">pa</m>
+						<m id="4264">mukun</m>
+						<m id="1175">chíshiih</m>
+					</w>,
+					<w>
+						<m id="6570">víri</m>
+					</w>
+					<w>
+						<m id="3930">koovúra</m>
+					</w>
+					<w gl="their dogs">
+						<m id="4407">pa</m>
+						<m id="4264">mukun</m>
+						<m id="1175">chíshii</m>
+					</w>
+					<w>
+						<m id="379">ánav</m>
+					</w>
+					<w>
+						<m id="5506">tá</m>
+					</w>
+					<w gl="they rubbed them with">
+						<m id="3977">kun</m>
+						<m id="3642">iyvúruk</m>
+						<m id="6380">va</m>
+					</w>.
+				</kar>
+				<eng>When they went trapping in the morning, their dogs would do this, they would all be rubbed with medicine.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="6847">xás</m>
+					</w>
+					<w>
+						<m id="5506">tá</m>
+					</w>
+					<w gl="they went away">
+						<m id="3977">kun</m>
+						<m id="3496">ívyiihship</m>
+					</w>.
+				</kar>
+				<eng>Then they went off.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="5163">púyava</m>
+					</w>
+					<w>
+						<m id="4213">máruk</m>
+					</w>
+					<w gl="the dogs">
+						<m id="4407">pa</m>
+						<m id="1175">chishíi</m>
+					</w>
+					<w gl="when deer">
+						<m id="4408">pa</m>
+						<m id="5135">púufich</m>
+					</w>
+					<w>
+						<m id="5506">tá</m>
+					</w>
+					<w>
+						<m id="3977">kun</m>
+						<m id="3640">iyvúnpiithva</m>
+					</w>.
+				</kar>
+				<eng>The dogs chased the deer around uphill.</eng>
+			</s>
+			<s>
+				<kar>
+					<w gl="so">
+						<m id="6570">víri</m>
+						<m id="6383">va</m>
+					</w>
+					<w>
+						<m id="4076">kúuk</m>
+					</w>
+					<w>
+						<m id="5506">tá</m>
+					</w>
+					<w gl="they herded them towards">
+						<m id="3977">kun</m>
+						<m id="190">'ahávoo</m>
+					</w>
+					<w gl="the dogs">
+						<m id="4407">pá</m>
+						<m id="1175">chishiih</m>
+					</w>.
+				</kar>
+				<eng>The dogs would herd them there (towards the traps).</eng>
+			</s>
+			<s>
+				<kar>
+					<w gl="so">
+						<m id="6570">víri</m>
+						<m id="6383">va</m>
+					</w>
+					<w>
+						<m id="4076">kúuk</m>
+					</w>
+					<w>
+						<m id="5506">tá</m>
+					</w>
+					<w gl="they went to">
+						<m id="3977">kun</m>
+						<m id="3489">ívyiihma</m>
+					</w>
+					<w gl="their paths">
+						<m id="4407">pa</m>
+						<m id="4264">mukun</m>
+						<m id="2472">'ímpaah</m>
+					</w>.
+				</kar>
+				<eng>(The deer) would go to their paths.</eng>
+			</s>
+			<s>
+				<kar>
+					<w gl="so thusly">
+						<m id="6570">víri</m>
+						<m id="6383">va</m>
+					</w>
+					<w gl="they did it">
+						<m id="6175">u</m>
+						<m id="4086">kupi</m>
+						<m id="6035">tih</m>
+					</w>, 
+					<w gl="when they caught deer">
+						<m id="4408">pa</m>
+						<m id="5506">t</m>
+						<m id="6175">u</m>
+						<m id="4445">paxfúr</m>
+						<m id="6383">oo</m>
+					</w>
+					<w gl="when deer">
+						<m id="4408">pa</m>
+						<m id="5135">púufich</m>
+					</w>.
+				</kar>
+				<eng>That's what they did, when they snared deer.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="5163">púyava</m>
+					</w>
+					<w>
+						<m id="3930">koovúra</m>
+					</w>
+					<w>
+						<m id="5506">tá</m>
+					</w>
+					<w gl="they killed them">
+						<m id="3977">kun</m>
+						<m id="3580">iykára</m>
+						<m id="4298">naa</m>
+					</w>.
+				</kar>
+				<eng>They killed them all.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="5163">púyava</m>
+					</w>
+					<w>
+						<m id="3745">kári</m>
+					</w>
+					<w>
+						<m id="5506">tá</m>
+					</w>
+					<w gl="they went back home">
+						<m id="3977">kun</m>
+						<m id="4695">pávyiihship</m>
+					</w>,
+					<w>
+						<m id="5541">taay</m>
+					</w>
+					<w>
+						<m id="5506">tá</m>
+					</w>
+					<w gl="they killed them">
+						<m id="3977">kun</m>
+						<m id="3580">íykar</m>
+					</w>
+					<w gl="when deer">
+						<m id="4408">pa</m>
+						<m id="5135">púufich</m>
+					</w>.
+				</kar>
+				<eng>Then they went back home, they had killed lots of deer.</eng>
+			</s>
+			<s>
+				<kar>
+					<w>
+						<m id="5163">púyava</m>
+					</w>
+					<w>
+						<m id="6675">vúra</m>
+					</w>
+					<w>
+						<m id="3922">kóomahich</m>
+					</w>.
+				</kar>
+				<eng>That's all.</eng>
+			</s>
+		</paragraph>
+	</data>
+</text>
+
+					
+						
+					
+					
+						
+			
+						

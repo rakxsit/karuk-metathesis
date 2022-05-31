@@ -1,0 +1,956 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-35">
+    <metadata>
+        <title>"The Story of Madrone"</title>
+        <author>Lottie <alph>Beck</alph></author>
+        <date>1957</date>
+        <publication>William Bright, <em>The Karok Language</em> (1957), pp. 236-237, Text 35</publication>
+    </metadata>
+    <data>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w>
+						<m lemma="4039">kusrípan</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w>
+						<m lemma="3219">itháan</m>
+					</w>
+					<w gl="was a man">
+						<m lemma="833">avansa</m> 
+						<m lemma="1369">hanik</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Madrone was once a man.</trans>
+			</s>
+			 <s>
+                <txt lang="kyh">
+                    <w gl="rich man">
+						<m lemma="506">arara</m>
+						<m lemma="7022">yaas'ára</m>
+					</w>
+					<w gl="his son">
+						<m lemma="4260">mu</m>
+						<m lemma="143">'afishríhan</m>
+					</w>.
+				</txt>
+				<trans lang="eng">He was a rich man's son.</trans>
+			</s>	
+            <s>
+                <txt lang="kyh">
+                    <w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="downriver across-stream from them">
+						<m lemma="4264">mukun</m>
+						<m lemma="7244">yûuch</m>
+						<m lemma="3731">kam</m>
+						<m lemma="83">ach</m>
+					</w>
+					<w gl="he lived">
+						<m lemma="6175">ú</m>
+						<m lemma="1974">krii</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And a man lived downriver across-stream from them.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6675">vúra</m>
+					</w>
+					<w>
+						<m lemma="7000">yâamach</m>
+					</w>
+					<w gl="his daughter">
+						<m lemma="4260">mu</m>
+						<m lemma="1459">'ifápiit</m>
+					</w>.
+				</txt>
+				<trans lang="eng">His daughter was pretty.</trans>	
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="3671">kâanimich</m>
+					</w>
+					<w gl="they were living in that way">
+						<m lemma="3977">kun</m>
+						<m lemma="4004">kupa</m>
+						<m lemma="508">'áraarahi</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">But they lived poorly.</trans>	
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6570">víri</m>
+					</w>
+					<w>
+						<m lemma="6308">ûum</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they lived through winter">
+						<m lemma="3977">kun</m>
+						<m lemma="3180">íshyaavha</m>
+					</w>.
+				</txt>
+				<trans lang="eng">They barely lived through the winter.</trans>	
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w>
+						<m lemma="4357">ník</m>
+					</w>
+					<w gl="the man">
+						<m lemma="4407">pa</m>
+						<m lemma="833">'ávansa</m>
+					</w>
+					<w gl="he hunts">
+						<m lemma="6175">u</m>
+						<m lemma="304">'ákunvu</m>
+						<m lemma="6035">ti</m>
+					</w>
+					<w>
+						<m lemma="3752">káru</m>
+					</w>
+					<w gl="he fishes">
+						<m lemma="6175">u</m>
+						<m lemma="188">'ahavishkâavu</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The man would hunt and fish there.</trans>	
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6682">vúrava</m>
+					</w>
+					<w>
+						<m lemma="3931">kooyâach</m>
+					</w>
+					<w gl="he came back">
+						<m lemma="5506">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="1692">'íipma</m>
+					</w>.
+				</txt>
+				<trans lang="eng">He would come back with just as much (as he started out with, i.e. nothing).</trans>	
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="2392">imáankam</m>
+					</w>
+					<w>
+						<m lemma="3969">kúkuum</m>
+					</w>
+					<w gl="he left">
+						<m lemma="5506">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="6396">vâaram</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The next day he would go again.</trans>	
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6675">vúra</m>
+					</w>
+					<w gl="they (the spirits) inflicted bad luck on him">
+						<m lemma="3977">kun</m>
+						<m lemma="5050">píychaak</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">He had bad luck.</trans>	
+			</s>	
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6675">vúra</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w gl="never">
+						<m lemma="5082">pu</m>
+						<m lemma="1377">haríxay</m>
+					</w>
+					<w>
+						<m lemma="7049">yav</m>
+					</w>
+					<w gl="they were not living in that way">
+						<m lemma="4004">kupa</m>
+						<m lemma="508">'áraarahi</m>
+						<m lemma="6035">tih</m>
+						<m lemma="399">ap</m>
+					</w>.
+				</txt>
+				<trans lang="eng">They never lived well.</trans>	
+			</s>		
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="4039">kusrípan</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w>
+						<m lemma="6675">vúra</m>
+					</w>
+					<w>
+						<m lemma="3382">itíhaan</m>
+					</w>
+					<w gl="he was wandering idly">
+						<m lemma="6175">u</m>
+						<m lemma="6650">vunayvîichvu</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Madrone was always wandering around idly.</trans>	
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3753">káruk</m>
+					</w>
+					<w gl="he was going upriver">
+						<m lemma="6175">u</m>
+						<m lemma="558">'árih</m>
+						<m lemma="5191">roona</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">He kept going upriver.</trans>	
+				<note publish="yes">Bright: "This seems to indicate that the girl lives upstream, in contradiction to the statement of sentence 3. Succeeding sentences are consistent with sentence 13, rather than sentence 3."</note>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="the young woman">
+						<m lemma="4407">pa</m>
+						<m lemma="1459">'ifápiit</m>
+					</w>
+					<w gl="there across-river and upriver">
+						<m lemma="3926">kôoth</m>
+						<m lemma="3731">kam</m>
+					</w>
+					<w gl="he was looking across-river">
+						<m lemma="6175">u</m>
+						<m lemma="3390">tkára</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And he saw the girl upriver across-stream.</trans>	
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w gl="she was seeing him coming">
+						<m lemma="6175">u</m>
+						<m lemma="4189">mahunâana</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">She saw him coming.</trans>	
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="she whistled at him">
+						<m lemma="6175">u</m>
+						<m lemma="1797">kfuyvûunish</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And she whistled at him.</trans>	
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="he stood still">
+						<m lemma="6175">u</m>
+						<m lemma="1617">hyárihish</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And he stopped.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="2392">imáankam</m>
+					</w>
+					<w>
+						<m lemma="3969">kúkuum</m>
+					</w>
+					<w>
+						<m lemma="6675">vúra</m>
+					</w>
+					<w gl="he went there from downhill">
+						<m lemma="6175">u</m>
+						<m lemma="558">'árih</m>
+						<m lemma="5171">raa</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The next day he went up again.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="when she saw him coming">
+						<m lemma="4408">p</m>
+						<m lemma="6175">oo</m>
+						<m lemma="4161">máhavrik</m>
+					</w>
+					<w gl="she swam across">
+						<m lemma="6175">ú</m>
+						<m lemma="1922">kpuuhrin</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And when she saw him coming, she swam across.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="1384">hínu páy</m>
+					</w>
+					<w>
+						<m lemma="1109">chí</m>
+					</w>
+					<w gl="they will chat">
+						<m lemma="3977">kun</m>
+						<m lemma="1207">chúphiichv</m>
+						<m lemma="1379">eesh</m>
+					</w>.
+				</txt>
+				<trans lang="eng">There they were going to chat.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="for too long">
+						<m lemma="6839">xára</m>
+						<m lemma="1389">hirurav</m>
+					</w>
+					<w gl="he was absent">
+						<m lemma="6175">u</m>
+						<m lemma="5414">sínmoo</m>
+					</w>
+					<w>
+						<m lemma="4039">kusrípan</m>
+					</w>.
+				</txt>
+				<trans lang="eng">But Madrone stayed away too long.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w gl="his father">
+						<m lemma="4407">pa</m>
+						<m lemma="4260">mu</m>
+						<m lemma="236">'akah</m>
+						<m lemma="1670">'îin</m>
+					</w>
+					<w gl="he went to search for him">
+						<m lemma="3977">kun</m>
+						<m lemma="4545">pápivar</m>
+					</w>.
+				</txt>
+				<trans lang="eng">His father went to look for him.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="he saw">
+						<m lemma="6175">u</m>
+						<m lemma="4155">má</m>
+					</w>
+					"<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w gl="on the edge of the river">
+						<m lemma="3007">ishkéesh</m>
+						<m lemma="6046">tiim</m>
+					</w>
+				<w gl="they were there">
+						<m lemma="3977">kun</m>
+						<m lemma="1664">'iin</m>
+					</w>."
+				</txt>
+				<trans lang="eng">And he saw that they were there on the edge of the river.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w gl="he took him home downriverward">
+						<m lemma="6175">u</m>
+						<m lemma="4951">pípas</m>
+						<m lemma="5193">rup</m>
+					</w>
+					<w gl="his child">
+						<m lemma="4407">pa</m>
+						<m lemma="4260">mu</m>
+						<m lemma="511">'aramah</m>
+					</w>.
+				</txt>
+				<trans lang="eng">He took his child back home.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="he said">
+						<m lemma="6175">u</m>
+						<m lemma="2733">pêer</m>
+					</w>
+					"<w>
+						<m lemma="6881">xáyfaat</m>
+					</w>
+					<w>
+						<m lemma="1729">ík</m>
+					</w>
+					<w>
+						<m lemma="6675">vúra</m>
+					</w>
+					<w>
+						<m lemma="1377">haríxay</m>
+					</w>
+					<w>
+						<m lemma="3669">kâam</m>
+					</w>
+					<w>
+						<m lemma="4076">kúuk</m>
+					</w>
+					<w gl="you go back">
+						<m lemma="1418">i</m>
+						<m lemma="1692">'íipma</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And he told him, "You mustn't ever go back upriver there.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="2517">imtarásuun</m>
+					</w>
+					<w gl="the young woman">
+						<m lemma="4407">pa</m>
+						<m lemma="1459">'ifápiit</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The girl is a bastard.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="5104">púra fâat</m>
+					</w>
+					<w gl="they did not pay to legitimize her">
+						<m lemma="1476">ifkírahi</m>
+						<m lemma="6035">tih</m>
+						<m lemma="1371">ara</m>
+					</w>."
+				</txt>
+				<trans lang="eng">Nothing was paid to legitimize her."</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="2391">imáan</m>
+					</w>
+					<w gl="she swam across-river again">
+						<m lemma="6175">u</m>
+						<m lemma="2674">p</m>
+						<m lemma="1917">íkpuuhkar</m>
+					</w>
+					<w gl="the young woman">
+						<m lemma="4407">pa</m>
+						<m lemma="1459">'ifápiit</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The next day the girl swam across again.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="1396">hôoy</m>
+					</w>
+					<w>
+						<m lemma="3809">kích</m>
+					</w>
+					<w>
+						<m lemma="4039">kusrípan</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Where was Madrone?</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6780">xanahíchyav</m>
+					</w>
+					<w>
+						<m lemma="6675">vúra</m>
+					</w>
+					<w gl="she had">
+						<m lemma="5506">t</m>
+						<m lemma="6175">óo</m>
+					</w>
+					<w>
+						<m lemma="1974">kríi</m>
+					</w>.
+				</txt>
+				<trans lang="eng">She stayed quite a long time.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="7212">yúruk</m>
+					</w>
+					<w gl="she was looking downriver">
+						<m lemma="6175">u</m>
+						<m lemma="3424">trûupu</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">She looked downriver.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="7038">yánava</m>
+					</w>
+					<w gl="he did">
+						<m lemma="5506">t</m>
+						<m lemma="6175">óo</m>
+					</w>
+					<w>
+						<m lemma="2204">kvíripraa</m>
+					</w>.
+				</txt>
+				<trans lang="eng">She saw him run upriverward.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="he said">
+						<m lemma="6175">u</m>
+						<m lemma="4823">píip</m>
+					</w>
+					"<w>
+						<m lemma="1102">chéemyaach</m>
+					</w>
+					<w gl="let's swim back across">
+						<m lemma="4370">nu</m>
+						<m lemma="2674">p</m>
+						<m lemma="1917">íkpuuhkar</m>
+						<m lemma="1419">i</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And he said, "Let's swim across from them quickly!</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="2671">íp</m>
+					</w>
+					<w gl="they told me">
+						<m lemma="3738">kan</m>
+						<m lemma="2733">éepeer</m>
+						<m lemma="738">at</m>
+					</w>
+					'<w>
+						<m lemma="6881">xáyfaat</m>
+					</w>
+					<w>
+						<m lemma="4385">ôok</m>
+					</w>
+					<w gl="you go upriver">
+						<m lemma="1418">i</m>
+						<m lemma="2633">naa</m>
+					</w>'."
+				</txt>
+				<trans lang="eng">They told me, 'Don't go up there.'"</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="they swam across">
+						<m lemma="3977">kun</m>
+						<m lemma="3277">íthpuuhrin</m>
+					</w>.
+				</txt>
+				<trans lang="eng">So they swam across.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="4213">máruk</m>
+					</w>
+					<w gl="they ran uphill">
+						<m lemma="3977">kun</m>
+						<m lemma="3314">ithvíripuraa</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And they ran uphill.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w gl="the young woman">
+						<m lemma="4407">pa</m>
+						<m lemma="1459">'ifápiit</m>
+					</w>
+					<w gl="her house">
+						<m lemma="4260">mu</m>
+						<m lemma="2032">krívraam</m>
+					</w>
+					<w>
+						<m lemma="4076">kúuk</m>
+					</w>
+					<w gl="he arrived">
+						<m lemma="6175">u</m>
+						<m lemma="6306">'uum</m>
+					</w>.
+				</txt>
+				<trans lang="eng">They got to the girl's house.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="7006">yáan</m>
+					</w>
+					<w>
+						<m lemma="6675">vúra</m>
+					</w>
+					<w gl="it was becoming evening">
+						<m lemma="6175">ú</m>
+						<m lemma="2298">kxurarahi</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">It was just evening.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3343">ithyáruk</m>
+					</w>
+					<w gl="there was talking">
+						<m lemma="6175">u</m>
+						<m lemma="6304">'uhyan</m>
+						<m lemma="503">ára</m>
+						<m lemma="1356">hi</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">There was talking across-stream.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w gl="he said">
+						<m lemma="6175">u</m>
+						<m lemma="4823">píip</m>
+					</w>
+					"<w>
+						<m lemma="4299">naa</m>
+					</w>
+					<w gl="I think">
+						<m lemma="4349">ni</m>
+						<m lemma="6939">xú</m>
+						<m lemma="6035">tih</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they are coming here to search for me">
+						<m lemma="3738">kana</m>
+						<m lemma="4545">pápivar</m>
+						<m lemma="6216">uk</m>
+					</w>.
+				</txt>
+				<trans lang="eng">He said, "I think they're coming to look for me."</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="they ran">
+						<m lemma="3977">kun</m>
+						<m lemma="3305">íthvip</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Then they ran.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3241">ithéekxaram</m>
+					</w>
+					<w>
+						<m lemma="6675">vúra</m>
+					</w>
+					<w>
+						<m lemma="1397">hôoyva</m>
+					</w>
+					<w gl="they spent the night">
+						<m lemma="3977">kun</m>
+						<m lemma="2186">ikvéesh</m>
+					</w>.
+				</txt>
+				<trans lang="eng">They spent the whole night somewhere.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="2392">imáankam</m>
+					</w>
+					<w gl="they came back down">
+						<m lemma="3977">kun</m>
+						<m lemma="2674">p</m>
+						<m lemma="2932">irúviishrih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">The next day they came back down.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6682">vúrava</m>
+					</w>
+					<w>
+						<m lemma="3343">ithyáruk</m>
+					</w>
+					<w gl="there was talking">
+						<m lemma="6175">u</m>
+						<m lemma="6304">'uhyan</m>
+						<m lemma="503">ára</m>
+						<m lemma="1356">hi</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">There was talking across-stream.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="4039">kusrípan</m>
+					</w>
+					<w gl="he said">
+						<m lemma="6175">u</m>
+						<m lemma="4823">píip</m>
+					</w>
+					"<w>
+						<m lemma="1144">chími</m>
+					</w>
+					<w gl="let me go back home">
+						<m lemma="3735">kan</m>
+						<m lemma="2860">ipvâaram</m>
+						<m lemma="1419">i</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And Madrone said, "Let me go back home!</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="4246">miník</m>
+					</w>
+					<w gl="I will return">
+						<m lemma="4349">ni</m>
+						<m lemma="2694">'ipak</m>
+						<m lemma="1379">eesh</m>
+					</w>."
+				</txt>
+				<trans lang="eng">I'll return, all right."</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w gl="he swam back">
+						<m lemma="6175">u</m>
+						<m lemma="2674">p</m>
+						<m lemma="1919">íkpuuhkin</m>
+					</w>.
+				</txt>
+				<trans lang="eng">He swam back across.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="he was looking at it">
+						<m lemma="6175">ú</m>
+						<m lemma="2585">muusti</m>
+					</w>
+					<w gl="his body">
+						<m lemma="4407">pa</m>
+						<m lemma="4260">mu</m>
+						<m lemma="1696">'iish</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Then he looked at his body.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w gl="it did">
+						<m lemma="5506">t</m>
+						<m lemma="6175">óo</m>
+					</w>
+					<w gl="scale off">
+						<m lemma="2604">mxaxasúr</m>
+						<m lemma="6380">oo</m>
+					</w>,
+					<w gl="it peeled">
+						<m lemma="5506">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="6253">'ur</m>
+					</w>.
+				</txt>
+				<trans lang="eng">It was scaling off, it was peeling.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="4039">kusrípan</m>
+					</w>
+					<w gl="he turned into it">
+						<m lemma="6175">u</m>
+						<m lemma="2773">pkêevish</m>
+					</w>.
+				</txt>
+				<trans lang="eng">He turned into a madrone tree.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+						<m lemma="6675">vúra</m>
+					</w>
+					<w>
+						<m lemma="4716">payêem</m>
+					</w>
+					<w gl="you will see it">
+						<m lemma="3939">ku</m>
+						<m lemma="4155">máh</m>
+						<m lemma="1379">eesh</m>
+					</w>,
+					<w gl="it is peeling">
+						<m lemma="6175">u</m>
+						<m lemma="6253">'úun</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">You will see it that way now, it is peeling.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="82">ayu'âach</m>
+					</w>
+					<w gl="the young woman">
+						<m lemma="4407">pa</m>
+						<m lemma="1459">'ifápiit</m>
+					</w>
+					<w>
+						<m lemma="5506">tée</m>
+					</w>
+					<w>
+						<m lemma="2671">p</m>
+					</w>
+					<w>
+						<m lemma="6756">xákaan</m>
+					</w>
+					<w gl="they spent the night">
+						<m lemma="3977">kun</m>
+						<m lemma="2186">ikvéeshrih</m>
+						<m lemma="738">at</m>
+					</w>.
+				</txt>
+				<trans lang="eng">It is because he spent the night with the girl.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6570">víri</m>
+					</w>
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+						<m lemma="6675">vúra</m>
+					</w>
+					<w gl="still">
+						<m lemma="3970">kuma</m>
+						<m lemma="3745">kári</m>
+					</w>
+					<w gl="you will see him">
+						<m lemma="3939">ku</m>
+						<m lemma="4155">máh</m>
+						<m lemma="1379">eesh</m>
+					</w>
+					<w>
+						<m lemma="4039">kusrípan</m>
+					</w>,
+					<w>
+						<m lemma="3382">itíhaan</m>
+					</w>
+					<w gl="its year">
+						<m lemma="3970">kuma</m>
+						<m lemma="1373">hárinay</m>
+					</w>
+					<w gl="he peels">
+						<m lemma="5506">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="6253">'ur</m>
+					</w>.
+				</txt>
+				<trans lang="eng">You will see him that way still, every year he peels.</trans>
+			</s>
+		</paragraph>
+	</data>
+</text>

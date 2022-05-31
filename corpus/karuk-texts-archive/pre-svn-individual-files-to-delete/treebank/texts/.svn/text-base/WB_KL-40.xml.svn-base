@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-40">
+    <metadata>
+        <title>"The Story of Bear"</title>
+        <author>Nettie <alph>Reuben</alph></author>
+        <date>1957</date>
+        <publication>William Bright, <em>The Karok Language</em> (1957), p. 240-241, Text 40</publication>
+    </metadata>
+    <data>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="3670">káan</m>
+                    </w>
+                    <w gl="young men">
+                        <m lemma="7025">yáan'iiftihan</m>
+                        <m lemma="5200">sa</m>
+                    </w>
+                    <w gl="they were living">
+                        <m lemma="3977">kun</m>
+                        <m lemma="508">'áraarahi</m>
+                        <m lemma="6035">ti</m>
+                    </w>
+                    <w gl="brothers">
+                        <m lemma="6081">tipahêer</m>
+                        <m lemma="584">as</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">Young men were living there, brothers.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+                    <w>
+						<m lemma="3745">kári</m>
+					</w>
+                    <w gl="the women">
+                        <m lemma="4407">pa</m>
+                        <m lemma="656">'asiktávaan</m>
+                    </w>
+                    <w gl="they thought">
+                        <m lemma="3977">kun</m>
+                        <m lemma="6939">xus</m>
+                    </w>,
+                    "<w>
+                        <m lemma="6042">tîi</m>
+                    </w>
+                    <w>
+                        <m lemma="6383">vaa</m>
+                    </w>
+                    <w>
+                        <m lemma="3670">káan</m>
+                    </w>
+                    <w gl="we go to offer in marriage">
+                        <m lemma="4370">nu</m>
+                        <m lemma="5450">sôomv</m>
+                        <m lemma="501">an</m>
+                    </w>."
+                </txt>
+                <trans lang="eng">And the women thought, "Let's go offer ourselves in marriage there!"</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+                    <w>
+                        <m lemma="3670">káan</m>
+                    </w>
+                    <w>
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w gl="they arrive">
+                        <m lemma="3977">kun</m>
+                        <m lemma="6306">'uum</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">So they arrived there.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+                    <w>
+                        <m lemma="6574">vírusur</m>
+                    </w>
+                    <w gl="she thought">
+                        <m lemma="6175">u</m>
+                        <m lemma="6939">xus</m>
+                    </w>,
+                    "<w>
+                        <m lemma="6042">tîi</m>
+                    </w>
+                    <w>
+                        <m lemma="4299">naa</m>
+                    </w>
+                    <w>
+                        <m lemma="3752">káru</m>
+                    </w>."
+                </txt>
+                <trans lang="eng">And Bear thought, "Let me (go) too!"</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w gl="when they gathered">
+                        <m lemma="4408">pa</m>
+                        <m lemma="3977">kun</m>
+                        <m lemma="2348">ikyáa</m>
+                        <m lemma="6648">vunaa</m>
+                        <m lemma="6035">ti</m>
+                    </w>
+                    <w gl="they were picking up">
+                        <m lemma="3977">kun</m>
+                        <m lemma="1468">'ífik</m>
+                        <m lemma="6648">vunaa</m>
+                        <m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">And when the women gathered (food), they picked up (acorns).</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="5163">púyava</m>
+                    </w>
+                    <w>
+                        <m lemma="6574">vírusur</m>
+                    </w>
+                    <w>
+                        <m lemma="6307">uum</m>
+                    </w>
+                    <w>
+                        <m lemma="2294">ikxúrar</m>
+                    </w>
+                    <w>
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w gl="she crawled out">
+                        <m lemma="5506">t</m>
+                        <m lemma="6175">u</m>
+                        <m lemma="6618">vôonupuk</m>
+                    </w>. 
+                </txt>
+                <trans lang="eng">Then Bear went out in the evening.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="5163">púyava</m>
+                    </w>
+                    <w>
+                        <m lemma="7006">yáan</m>
+                    </w>
+                    <w>
+                        <m lemma="4357">ník</m>
+                    </w>
+                    <w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+                    <w>
+                        <m lemma="1397">hôoyva</m>
+                    </w>
+                    <w gl="it was going to become day">
+                        <m lemma="6175">u</m>
+                        <m lemma="5469">súpaahi</m>
+                        <m lemma="6035">ti</m>
+                        <m lemma="1379">heesh</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">Then it was just about to be dawn someplace.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6570">víri</m>
+                    </w>
+                    <w>
+                        <m lemma="6381">vaa</m>
+                    </w>
+                    <w gl="she was doing">
+                        <m lemma="6175">u</m>
+                        <m lemma="4015">kupi</m>
+                        <m lemma="6035">tih</m>
+                    </w>,
+                    <w gl="she was putting down">
+                        <m lemma="5506">t</m>
+                        <m lemma="6175">u</m>
+                        <m lemma="5326">saríshriih</m>
+                        <m lemma="6380">va</m>
+                    </w>
+                    <w gl="all">
+                        <m lemma="4407">pa</m>
+                        <m lemma="3906">kóo</m>
+                    </w>
+                    <w gl="kinds of food">
+                        <m lemma="3970">kuma</m>
+                        <m lemma="818">'ávaha</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">She was doing this, she was bringing in all kinds of food.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="1397">hôoyva</m>
+                    </w>
+                    <w>
+                        <m lemma="4289">má'</m>
+                    </w>
+                    <w gl="she was gathering from bushes here and there">
+                        <m lemma="4408">p</m>
+                        <m lemma="6175">oo</m>
+                        <m lemma="2433">mkaanvúrayvu</m>
+                        <m lemma="6035">tih</m>
+                    </w>. 
+                </txt>
+                <trans lang="eng">She was gathering food (from bushes, such as berries) somewhere in the
+                    mountains.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="5163">púyava</m>
+                    </w>
+                    <w>
+                        <m lemma="4171">máh'iit</m>
+                    </w>
+                    <w gl="she came back">
+                        <m lemma="5506">t</m>
+                        <m lemma="6175">u</m>
+                        <m lemma="2694">'ípak</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">So she got back in the morning.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="5163">púyava</m>
+                    </w>
+                    <w>
+                        <m lemma="6307">uum</m>
+                    </w>
+                    <w gl="the women">
+                        <m lemma="4407">pa</m>
+                        <m lemma="656">'asiktávaan</m>
+                        <m lemma="5200">sa</m>
+                    </w>
+                    <w>
+                        <m lemma="7012">yáas</m>
+                    </w>
+                    <w gl="they began to go">
+                        <m lemma="3977">kun</m>
+                        <m lemma="3480">ívyiih</m>
+                        <m lemma="5417">shiprim</m>
+                        <m lemma="6035">tih</m></w>,
+                    <w>
+                        <m lemma="4171">máh'iit</m> 
+                    </w>.
+                </txt>
+                <trans lang="eng">Then the women started out, in the morning.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="7012">yáas</m>
+                    </w>
+                    <w>
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w gl="they gathered acorns">
+                        <m lemma="3977">kun</m>
+                        <m lemma="1468">'ífik</m>
+                        <m lemma="6427">vanaa</m>
+                    </w>
+                    <w>
+                        <m lemma="4171">máh'iit</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">Then they gathered acorns in the morning.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6574">vírusur</m>
+                    </w>
+                    <w>
+                        <m lemma="6307">uum</m>
+                    </w>
+                    <w>
+                        <m lemma="5562">tá</m>
+                    </w>
+                    <w>
+                        <m lemma="2671">íp</m>
+                    </w>
+                    <w gl="she returned">
+                        <m lemma="6175">u</m>
+                        <m lemma="2694">'ípak</m>
+                        <m lemma="738">at</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">Bear had already come back home.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6307">uum</m>
+                    </w>
+                    <w>
+                        <m lemma="3238">ithasúpaa</m>
+                    </w>
+                    <w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+                    <w gl="she sat">
+                        <m lemma="6175">ú</m>
+                        <m lemma="1974">krii</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">She just sat all day long.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="5163">púyava</m>
+                    </w>
+                    <w>
+                        <m lemma="3969">kúkuum</m>
+                    </w>
+                    <w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+                    <w>
+                        <m lemma="3972">kúmateech</m>
+                    </w>
+                    <w>
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w gl="they came back">
+                        <m lemma="3977">kun</m>
+                        <m lemma="4686">pavyíhuk</m>
+                    </w>
+                    <w gl="the women">
+                        <m lemma="4407">pa</m>
+                        <m lemma="656">'asiktávaan</m>
+                        <m lemma="5200">sa</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">Again later in the day the women came back.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="5163">púyava</m></w>
+                    <w>
+                        <m lemma="6307">uum</m></w>
+                    <w>
+                        <m lemma="3972">kúmateech</m>
+                    </w>
+                    <w gl="when it">
+                        <m lemma="4408">pa</m>
+                        <m lemma="5506">t</m>
+                        <m lemma="6175">óo</m>
+                    </w>
+                    <w>
+                        <m lemma="2298">kxuraraha</m>
+                    </w>
+                    <w>
+                        <m lemma="5163">púyava</m>
+                    </w>
+                    <w>
+                        <m lemma="3745">kári</m>
+                    </w>
+                    <w>
+                        <m lemma="6574">vírusur</m>
+                    </w>
+                    <w gl="she went away">
+                        <m lemma="5506">t</m>
+                        <m lemma="6175">u</m>
+                        <m lemma="6396">vâaram</m>
+                    </w>
+                    ,
+                    <w gl="she">
+                        <m lemma="5506">t</m>
+                        <m lemma="6175">óo</m>
+                    </w>
+                    <w gl="went to gather from plants">
+                        <m lemma="2431">mkaanv</m>
+                        <m lemma="501">ar</m>
+                    </w>
+                    <w>
+                        <m lemma="2240">ikxáram</m>
+                    </w>
+                    . 
+                </txt>
+                <trans lang="eng">Then later, when it was evening, Bear went off, she went to gather food in the
+                    evening.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6847">xás</m></w>
+                    <w gl="they said">
+                        <m lemma="3977">kun</m>
+                        <m lemma="2767">ipíti</m></w>
+                    <w gl="the women">
+                        <m lemma="4407">pa</m>
+                        <m lemma="656">'asiktávaan</m>
+                        <m lemma="5200">sa</m></w>, "<w>
+                        <m lemma="5160">púya</m></w>
+                    <w>
+                        <m lemma="1410">hûut</m>
+					</w>
+					<w>
+						<m lemma="3971">kumá'ii</m>
+					</w>
+                    <w gl="in the evening">
+                        <m lemma="4408">pee</m>
+                        <m lemma="2240">kxáram</m></w>
+                    <w>
+                        <m lemma="6847">xás</m></w>
+                    <w gl="she always goes away">
+                        <m lemma="6175">u</m>
+                        <m lemma="6396">vaaram</m>
+                        <m lemma="6380">ôo</m>
+                        <m lemma="6035">tih</m></w>." </txt>
+                <trans lang="eng">And the women said, "Say, why does she always go off in the evening?"</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w>
+                        <m lemma="5163">púyava</m>
+                    </w>
+                    <w gl="some morning">
+                        <m lemma="3970">kuma</m>
+                        <m lemma="4171">máh'iit</m>
+                    </w>
+                    <w>
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w>
+                        <m lemma="3969">kúkuum</m>
+                    </w>
+                    <w gl="she came back">
+                        <m lemma="5506">t</m>
+                        <m lemma="6175">u</m>
+                        <m lemma="2694">'ípak</m>
+                    </w>
+                    <w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+                    <w>
+                        <m lemma="6307">uum</m>
+                    </w>
+                    <w>
+                        <m lemma="5541">taay</m>
+                    </w>
+                    <w gl="that she was carrying in her burden basket">
+                        <m lemma="4408">p</m>
+                        <m lemma="6175">oo</m>
+                        <m lemma="802">'átivu</m>
+                        <m lemma="6035">tih</m>
+                    </w>
+                    <w gl="since she was gathering from plants">
+                        <m lemma="4408">p</m>
+                        <m lemma="6175">óo</m>
+                        <m lemma="2431">mkaanvu</m>
+                        <m lemma="6035">ti</m>
+                    </w>
+                    <w gl="all">
+                        <m lemma="4407">pa</m>
+                        <m lemma="3906">kóo</m>
+                    </w>
+                    <w gl="kinds of food">
+                        <m lemma="3970">kuma</m>
+                        <m lemma="818">'ávaha</m>
+                    </w>. 
+                </txt>
+                <trans lang="eng">And one morning she came back again, she was carrying a lot in her burden
+                    basket, since she had gathered all kinds of food.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m>
+                    </w>
+                    <w gl="they said">
+                        <m lemma="3977">kun</m>
+                        <m lemma="4823">piip</m>
+                    </w>, 
+                    "<w>
+                        <m lemma="5160">púya</m>
+                    </w>
+                    <w>
+                        <m lemma="1410">hûut</m>
+                    </w>
+					<w>
+						<m lemma="4059">kúth</m>
+					</w>
+                    <w gl="in the evening">
+                        <m lemma="4408">pe</m>
+                        <m lemma="2240">ekxáram</m>
+                    </w>
+                    <w gl="she always goes away">
+                        <m lemma="6175">u</m>
+                        <m lemma="6396">vaaram</m>
+                        <m lemma="6380">ôo</m>
+                        <m lemma="6035">tih</m>
+                    </w>." 
+                </txt>
+                <trans lang="eng">And (the women) said, "Say, why does she always go off in the evening?"</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+                    <w>
+						<m lemma="3745">kári</m>
+					</w>
+                    <w>
+                        <m lemma="7097">yítha</m>
+                    </w>
+                    <w gl="she said">
+                        <m lemma="6175">u</m>
+                        <m lemma="4823">piip</m></w>,
+                    "<w>
+                        <m lemma="7035">yakún</m>
+                    </w>
+                    <w>
+                        <m lemma="1402">húm</m>
+                    </w>
+                    <w>
+                        <m lemma="6381">vaa</m></w>
+                    <w>
+                        <m lemma="506">áraar</m>
+                    </w>, 
+                    <w>
+                        <m lemma="6307">uum</m>
+                    </w>
+                    <w>
+                        <m lemma="6381">vaa</m>
+                    </w>
+                    <w>
+                        <m lemma="6574">vírusur</m>
+                    </w>." 
+                </txt>
+                <trans lang="eng">Then one said, "You see, that's no person, that's a bear!"</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6381">vaa</m>
+                    </w>
+                    <w>
+                        <m lemma="3971">kumá'ii</m>
+                    </w>
+                    <w gl="that">
+                        <m lemma="4408">pa</m>
+                        <m lemma="6381">vaa</m>
+                    </w>
+                    <w gl="she was doing">
+                        <m lemma="6175">u</m>
+                        <m lemma="4015">kupítih</m>
+                    </w>, 
+                    <w>
+                        <m lemma="2240">ikxáram</m>
+                    </w>
+                    <w>
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w gl="that she was gathering from plants">
+                        <m lemma="4408">p</m>
+                        <m lemma="6175">óo</m>
+                        <m lemma="2431">mkaanvu</m>
+                        <m lemma="6035">tih</m>
+                    </w>. 
+                </txt>
+                <trans lang="eng">That's why she did that, she gathered food in the evening.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="5163">púyava</m>
+                    </w>
+                    <w>
+                        <m lemma="1384">hínu páy</m>
+                    </w>
+                    <w>
+                        <m lemma="6307">uum</m>
+                    </w>
+                    <w>
+                        <m lemma="6574">vírusur</m>
+                    </w>, 
+                    <w>
+                        <m lemma="6570">víri</m>
+                    </w>
+                    <w>
+                        <m lemma="6381">vaa</m>
+                    </w>
+                    <w>
+                        <m lemma="3971">kumá'ii</m>
+                    </w>
+                    <w gl="so much">
+                        <m lemma="4408">pá</m>
+                        <m lemma="5541">taay</m>
+                    </w>
+                    <w gl="that she was gathering from plants">
+                        <m lemma="6175">ú</m>
+                        <m lemma="2431">mkaanvu</m>
+                        <m lemma="6035">tih</m>
+                    </w>. 
+                </txt>
+                <trans lang="eng">So there she was a bear, that's why she gathered (so) much.</trans>
+            </s>
+        </paragraph>
+    </data>
+</text>

@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="VS-06" audio-source="karuk-2011-12-21-vs-3">
+  <metadata>
+    <title>Sentences about personal states</title>
+    <author> Vina <alph>Smith</alph>
+    </author>
+    <date>2011</date>
+    <publication> Unpublished (recorded by Andrew Garrett, Line Mikkelsen, and Clare Sandy on December 21, 2011) </publication>
+	<genre type="elicitation"/>
+  </metadata>
+  <data>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_01" audio-start-time="0:51">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="3678">kâarim</m>
+	  </w>
+	  <w gl="I am feeling">
+	    <m lemma="4349">ni</m>
+	    <m lemma="2784">pmahóonkoona</m>
+	    <m lemma="6035">ti</m></w>.</txt>
+	<trans lang="eng">I am sad.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_02" audio-start-time="1:47">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="3678">kâarim</m>
+	  </w>
+	  <w gl="I am feeling">
+	    <m lemma="4349">ni</m>
+	    <m lemma="2784">pmahóonkoona</m>
+	    <m lemma="6035">tih</m>
+	    </w>
+	    <w>
+	    <m lemma="4299">naa</m>
+	  </w>.</txt>
+	<trans lang="eng">I am sad.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_03" audio-start-time="2:11">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="4299">naa</m>
+	  </w>
+	  <w>
+	    <m lemma="6675">vúra</m>
+	  </w>
+	  <w>
+	    <m lemma="5156">puxích</m>
+	  </w>
+	  <w>
+	    <m lemma="3678">kâarim</m>
+	  </w>
+	  <w>
+	    <m lemma="5506">tá</m>
+	  </w>
+	  <w gl="I am feeling">
+	    <m lemma="4349">ni</m>
+	    <m lemma="2784">pmahóonkoon</m>
+	  </w>.</txt>
+	<trans lang="eng">I am really sad.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_04" audio-start-time="3:29">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="5120">púsihich</m>
+	  </w>
+	  <w>
+	    <m lemma="2671">íp</m>
+	  </w>
+	  <w>
+	    <m lemma="1649">îikam</m>
+	  </w>
+	  <w gl="it went away">
+	    <m lemma="6175">u</m>
+	    <m lemma="6396">vâaram</m>
+	  </w>.</txt>
+	<trans lang="eng">The cat left.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_05" audio-start-time="4:16">
+	<txt lang="kyh">
+	  <w gl="the cat">
+	    <m lemma="4407">pa</m>
+	    <m lemma="5120">púsihich</m>
+	  </w>
+	  <w>
+	    <m lemma="1649">îikam</m>
+	  </w>
+	  <w gl="it went">
+	    <m lemma="5506">t</m>
+	    <m lemma="6175">u</m>
+	    <m lemma="6306">'uum</m>
+	  </w>.</txt>
+	<trans lang="eng">The cat left.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_06" audio-start-time="5:01">
+	<txt lang="kyh">
+	  <w gl="not good">
+	    <m lemma="5082">pu</m>
+	    <m lemma="7049">yáv</m>
+	  </w>
+	  <w gl="I am feeling">
+	    <m lemma="4349">ni</m>
+	    <m lemma="2784">pmahóonkoona</m>
+	    <m lemma="6035">tih</m>
+	    </w>
+	  <w gl="that cat">
+	    <m lemma="4408">pa</m>
+	    <m lemma="5120">púsihich</m>
+	  </w>
+	  <w>
+	    <m lemma="1649">îikam</m>
+	  </w>
+	  <w gl="it went">
+	    <m lemma="5506">t</m>
+	    <m lemma="6175">u</m>
+	    <m lemma="6396">vâaram</m>
+	  </w>.</txt>
+	<trans lang="eng">I am sad because the cat has gone outside.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_07" audio-start-time="7:37">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="4299">naa</m>
+	  </w>
+	  <w>
+	    <m lemma="6675">vúra</m>
+	  </w>
+	  <w gl="I am getting sick">
+	    <m lemma="4296">na</m>
+	    <m lemma="7091">yíkihi</m>
+	    <m lemma="6035">ti</m>
+	  </w>.</txt>
+	<trans lang="eng">I am sick.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_08" audio-start-time="8:07">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1656">iim</m>
+	  </w>
+	  <w>
+	    <m lemma="1402">hum</m>
+	  </w>
+	  <w gl="you are getting sick">
+	    <m lemma="1418">i</m>
+	    <m lemma="7091">yíkihi</m>
+	    <m lemma="6035">ti</m>
+	  </w>?</txt>
+	<trans lang="eng">Are you sick?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_09" audio-start-time="8:35">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="4299">naa</m>
+	  </w>
+	  <w gl="I am sick">
+	    <m lemma="4296">na</m>
+	    <m lemma="7091">yíkihi</m>
+	    <m lemma="6035">ti</m>
+	  </w>.</txt>
+	<trans lang="eng">I am sick.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_10" audio-start-time="10:44">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="4299">naa</m>
+	  </w>
+	  <w>
+	    <m lemma="5506">tá</m>
+	  </w>
+	  <w gl="I am scared">
+	    <m lemma="4296">na</m>
+	    <m lemma="59">'áathva</m>
+	  </w>.</txt>
+	<trans lang="eng">I am scared.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_11" audio-start-time="11:17">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1656">iim</m>
+	  </w>
+	  <w gl="you are scared">
+	    <m lemma="5506">t</m>
+	    <m lemma="1418">ee</m>
+	    <m lemma="59">'áathva</m>
+	  </w>?</txt>
+	<trans lang="eng">Are you scared?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_12" audio-start-time="11:57">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="5506">tá</m>
+	  </w>
+	  <w gl="I am scared">
+	    <m lemma="4349">ni</m>
+	    <m lemma="1019">'áy</m>
+	  </w>
+	  <w gl="the white man">
+	    <m lemma="4407">pa</m>
+	    <m lemma="500">'apxantínihich</m>
+	  </w>.</txt>
+	<trans lang="eng">I am afraid of the white man.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_13" audio-start-time="15:11">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6675">vúra</m>
+	  </w>
+	  <w>
+	    <m lemma="5156">puxích</m>
+	  </w>
+	  <w>
+	    <m lemma="5506">tá</m>
+	  </w>
+	  <w gl="I am angry">
+	    <m lemma="4296">née</m>
+	    <m lemma="3542">xviipha</m>
+	  </w>.</txt>
+	<trans lang="eng">I am very angry.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_14" audio-start-time="15:53">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1656">iim</m>
+	  </w>
+	  <w gl="I am angry">
+	    <m lemma="5506">t</m>
+	    <m lemma="1418">ée</m>
+	    <m lemma="3542">xviipha</m>
+	  </w>?</txt>
+	<trans lang="eng">Are you angry?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_15" audio-start-time="16:55">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6675">vúra</m>
+	  </w>
+	  <w>
+	    <m lemma="5156">puxích</m>
+	  </w>
+	  <w>
+	    <m lemma="5506">tá</m>
+	  </w>
+	  <w gl="I am nervous">
+	    <m lemma="4296">na</m>
+	    <m lemma="1342">furáthfip</m>
+	  </w>.</txt>
+	<trans lang="eng">I am really nervous.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_16" audio-start-time="17:46">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="5506">tá</m>
+	  </w>
+	  <w gl="I am nervous">
+	    <m lemma="4296">na</m>
+	    <m lemma="1342">furáthfip</m>
+	  </w>.</txt>
+	<trans lang="eng">I am nervous.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_17" audio-start-time="20:46">
+	<txt lang="kyh">
+	  <w gl="my hair">
+	    <m lemma="4407">pa</m>
+	    <m lemma="4326">naní</m>
+	    <m lemma="1500">funih</m>
+	  </w>
+	  <w gl="it has">
+	    <m lemma="5506">t</m>
+	    <m lemma="6175">óo</m>
+	  </w>
+	  <w>
+	    <m lemma="1313">fiipha</m>
+	  </w>.</txt>
+	<trans lang="eng">My hair is gone.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_18" audio-start-time="22:23">
+	<txt lang="kyh">
+	  <w gl="the cat">
+	    <m lemma="4407">pa</m>
+	    <m lemma="5120">púsihich</m>
+	  </w>
+	  <w gl="not anywhere">
+	    <m lemma="5082">pu</m>
+	    <m lemma="1405">húukava</m>
+	  </w>
+	  <w gl="it has gone">
+	    <m lemma="5506">t</m>
+	    <m lemma="6175">u</m>
+	    <m lemma="6306">'uum</m>
+	  </w>.</txt>
+	<trans lang="eng">I don't know were the cat went.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_19" audio-start-time="23:42">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="4299">naa</m>
+	  </w>	 
+	  <w>
+	    <m lemma="768">áthiik</m>
+	  </w>.</txt>
+	<trans lang="eng">I am cold.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_20" audio-start-time="23:58">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6307">uum</m>
+	  </w>	 
+	  <w>
+	    <m lemma="768">áthiik</m>
+	  </w>.</txt>
+	<trans lang="eng">He is cold.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_21" audio-start-time="24:16">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6307">uum</m>
+	  </w>
+	  <w>
+	    <m lemma="5156">puxích</m>
+	  </w>
+	  <w>
+	    <m lemma="5506">tá</m>
+	  </w>
+	  <w gl="I am hot">
+	    <m lemma="4296">née</m>
+	    <m lemma="2406">mchax</m>
+	  </w>.</txt>
+	<trans lang="eng">I am hot.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_22" audio-start-time="25:13">
+	<txt lang="kyh">
+	  <w gl="the water">
+	    <m lemma="4407">pa</m>
+	    <m lemma="50">'áas</m>
+	  </w>
+	  <w>
+	    <m lemma="768">áthiik</m>
+	  </w>.</txt>
+	<trans lang="eng">The water is cold.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_23" audio-start-time="25:27">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1649">îikam</m>
+	  </w>
+	  <w>
+	    <m lemma="6307">uum</m>
+	  </w>
+	  <w>
+	    <m lemma="768">áthiik</m>
+	  </w>.</txt>
+	<trans lang="eng">It is cold outside.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_24" audio-start-time="28:44">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="4299">naa</m>
+	  </w>
+	  <w>
+	    <m lemma="6675">vúra</m>
+	  </w>
+	  <w>
+	    <m lemma="6307">uum</m>
+	  </w>
+	  <w>
+	    <m lemma="3090">íshriiv</m>
+	  </w>.</txt>
+	<trans lang="eng">I am fat.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_25" audio-start-time="30:11">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="5506">tá</m>
+	  </w>
+	  <w gl="I am thin">
+	    <m lemma="4296">na</m>
+	    <m lemma="883">'áxaska</m>
+	  </w>.</txt>
+	<trans lang="eng">I am thin.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_26" audio-start-time="30:30">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6307">uum</m>
+	  </w>
+	  <w gl="he is thin">
+	    <m lemma="5506">t</m>
+	    <m lemma="6175">u</m>
+	    <m lemma="883">'áxaska</m>
+	  </w>.</txt>
+	<trans lang="eng">He is thin.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_27" audio-start-time="31:17">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="english">Andrew</m>
+	  </w>
+	  <w>
+	    <m lemma="6307">uum</m>
+	  </w>
+	  <w gl="already thin">
+	    <m lemma="5506">t</m>
+	    <m lemma="6175">u</m>
+	    <m lemma="883">'áxaska</m>
+	  </w>.</txt>
+	<trans lang="eng">Andrew is thin.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_28" audio-start-time="32:07">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="5506">tá</m>
+	  </w>
+	  <w gl="I understand">
+	    <m lemma="4349">ni</m>
+	    <m lemma="44">'áapunma</m>
+	  </w>.</txt>
+	<trans lang="eng">I understand.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_29" audio-start-time="32:28">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="4299">naa</m>
+	  </w>
+	  <w gl="I understand">
+	    <m lemma="4349">ni</m>
+	    <m lemma="44">'aapúnmu</m>
+	    <m lemma="6035">ti</m>
+	  </w>.</txt>
+	<trans lang="eng">I understand.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_30" audio-start-time="33:17">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="4299">naa</m>
+	  </w>
+	  <w>
+	    <m lemma="5506">tá</m>
+	  </w>
+	  <w gl="I know">
+	    <m lemma="4349">ni</m>
+	    <m lemma="3213">'ítap</m>
+	  </w>.</txt>
+	<trans lang="eng">I learned.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_31" audio-start-time="35:26">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="4299">naa</m>
+	  </w>
+	  <w>
+	    <m lemma="6675">vúra</m>
+	  </w>
+	  <w gl="I do not know">
+	    <m lemma="5082">pu</m>
+	    <m lemma="4295">na</m>
+	    <m lemma="44">'aapúnmu</m>
+	    <m lemma="6035">tih</m>
+	    <m lemma="1371">ara</m>
+	  </w>.</txt>
+	<trans lang="eng">I do not know.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_32" audio-start-time="36:28">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1656">iim</m>
+	  </w>
+	  <w>
+	    <m lemma="5506">tá</m>
+	  </w>
+	  <w gl="I know you">
+	    <m lemma="4370">nu</m>
+	    <m lemma="2674">p</m>
+	    <m lemma="3213">ítap</m>
+	  </w>.</txt>
+	<trans lang="eng">I know you.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_33" audio-start-time="37:01">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1656">iim</m>
+	  </w>
+	  <w gl="I do not know you">
+	    <m lemma="5082">pu</m>
+	    <m lemma="4370">nu</m>
+	    <m lemma="2674">p</m>
+	    <m lemma="3213">ítap</m>
+	    <m lemma="6035">tih</m>
+	    <m lemma="1371">ara</m>
+	  </w>.</txt>
+	<trans lang="eng">I don't know you.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_34" audio-start-time="39:53">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6307">uum</m>
+	  </w>
+	  <w>
+	    <m lemma="5156">puxích</m>
+	  </w>
+	  <w>
+	    <m lemma="2940">íshaha</m>
+	  </w>
+	  <w>
+	    <m lemma="5506">tá</m>
+	  </w>
+	  <w gl="I thirst for it">
+	    <m lemma="4296">née</m>
+	    <m lemma="3517">xra</m>
+	  </w>.</txt>
+	<trans lang="eng">I am very thirsty.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_35" audio-start-time="40:25">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1656">iim</m>
+	  </w>
+	  <w>
+	    <m lemma="2940">íshaha</m>
+	  </w>
+	  <w gl="you thirst for it">
+	    <m lemma="5506">t</m>
+	    <m lemma="1418">ée</m>
+	    <m lemma="3517">xra</m>
+	  </w>?</txt>
+	<trans lang="eng">Are you thirsty?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_36" audio-start-time="40:55">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="4299">naa</m>
+	  </w>
+	  <w gl="I am not thirsting for it">
+	    <m lemma="5082">pu</m>
+	    <m lemma="4296">née</m>
+	    <m lemma="3517">xra</m>
+	    <m lemma="6035">tih</m>
+	    <m lemma="1371">ara</m>
+	  </w>.</txt>
+	<trans lang="eng">I am not thirsty.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_37" audio-start-time="43:05">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="5506">tá</m>
+	  </w>
+	  <w gl="I am stuck">
+	    <m lemma="4296">née</m>
+	    <m lemma="1463">fchak</m>
+	  </w>.</txt>
+	<trans lang="eng">I am stuck.</trans>
+      </s>
+    </paragraph>
+   <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-3_38" audio-start-time="44:33">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="5136">pûuhara</m>
+	  </w>
+	  <w>
+	    <m lemma="4299">naa</m>
+	  </w>
+	  <w gloss="I am not stuck">
+	    <m lemma="5082">pu</m>
+	    <m lemma="4296">née</m>
+	    <m lemma="1463">fchak</m>
+	    <m lemma="6035">tih</m>
+	    <m lemma="1371">ara</m>
+	  </w>.</txt>
+	<trans lang="eng">No, I am not stuck.</trans>
+      </s>
+    </paragraph>
+  </data>
+</text>

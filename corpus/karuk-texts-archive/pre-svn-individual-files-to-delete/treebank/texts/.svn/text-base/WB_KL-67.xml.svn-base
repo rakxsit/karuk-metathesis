@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <text id="WB_KL-67">
+		<metadata>
+			<title>"A Quack Doctor"</title>
+			<author>Julia <alph>Starritt</alph></author>
+			<date>1957</date>
+			<publication>William Bright, <em>The Karok Language</em> (1957), pp. 280-281</publication>
+		</metadata>
+		<data>
+			<paragraph>
+				<s>
+					<txt lang="kyh">
+				<w id="WB_KL-67:1" head="WB_KL-67:4" synrel="ADV">
+					<m lemma="1361">hâari</m>
+				</w>
+				<w gl="the Indian doctors" id="WB_KL-67:2" head="WB_KL-67:4" synrel="SBJ">
+					<m lemma="4407" id="WB_KL-67:3" head="WB_KL-67:2" synrel="ATR">pa</m>
+					<m lemma="1232">'êem</m>
+				</w>
+				<w gl="they practice deception" id="WB_KL-67:4">
+					<m lemma="3977">kun</m>
+					<m lemma="4869">píkshaayvu</m>
+					<m lemma="6035">tih</m>
+				</w>.
+					</txt>
+					<trans lang="eng">Sometimes the Indian doctors practice deception.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+				<w id="WB_KL-67:5" head="WB_KL-67:8" synrel="ADV">
+					<m lemma="3753">káruk</m>
+				</w>
+				<w id="WB_KL-67:6" head="WB_KL-67:7" synrel="POSS">
+					<m lemma="7097">yítha</m>
+				</w>
+				<w gl="doctor" id="WB_KL-67:7" head="WB_KL-67:8" synrel="IO">
+					<m lemma="6376">va</m>
+					<m lemma="1232">'êem</m>
+				</w>
+				<w gl="she took it away from her" id="WB_KL-67:8" head="0" synrel="PRED">
+					<m lemma="3977">kun</m>
+					<m lemma="1265">'êetheep</m>
+					<m lemma="1369">anik</m>
+				</w>
+				<w gl="her pain" id="WB_KL-67:9" head="WB_KL-67:8" synrel="OBJ">
+					<m lemma="4260">mu</m>
+					<m lemma="548">'arátaanva</m>
+				</w>
+				<w gl="the preacher" id="WB_KL-67:10" head="WB_KL-67:12" synrel="POSS">
+					<m lemma="4407" id="WB_KL-67:11" head="WB_KL-67:10" synrel="ATR">pa</m>
+					<m language="english">preacher</m>
+				</w>
+				<w gl="his wife" id="WB_KL-67:12" head="WB_KL-67:13" synrel="COMP">
+					<m lemma="4260">mu</m>
+					<m lemma="1576">hrooha</m>
+					<m lemma="1670" id="WB_KL-67:13" head="WB_KL-67:8" synrel="SBJ">'íin</m>
+				</w>.
+					</txt>
+					<trans lang="eng">The preacher's wife took the 'pain' (disease object) away from a certain doctor upriver.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+				<w gl="the preacher" id="WB_KL-67:14" head="WB_KL-67:16" synrel="POSS">
+					<m lemma="4407" id="WB_KL-67:15" head="WB_KL-67:14" synrel="ATR">pa</m>
+					<m language="english">preacher</m>
+				</w>
+				<w gl="his wife" id="WB_KL-67:16" head="WB_KL-67:17" synrel="SBJ">
+					<m lemma="4260">mu</m>
+					<m lemma="1576">hrôoha</m>
+				</w>
+				<w gl="she suspected her" id="WB_KL-67:17" head="0" synrel="PRED">
+					<m lemma="6175">u</m>
+					<m lemma="5908">thaxustâa</m>
+					<m lemma="1369">nik</m>
+				</w>
+				<w gl="the doctor" id="WB_KL-67:18" head="WB_KL-67:17" synrel="OBJ">
+					<m lemma="4407" id="WB_KL-67:19" head="WB_KL-67:18" synrel="ATR">pa</m>
+					<m lemma="1232">'éem</m>
+				</w>.
+					</txt>
+					<trans lang="eng">The preacher's wife suspected the doctor.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+				<w id="WB_KL-67:20" head="WB_KL-67:22" synrel="DIS">
+					<m lemma="6847">xás</m>
+				</w>
+				<w id="WB_KL-67:21" head="WB_KL-67:22" synrel="ADV">
+					<m lemma="4076">kúuk</m>
+				</w>
+				<w gl="she went" id="WB_KL-67:22" head="0" synrel="PRED">
+					<m lemma="6175">u</m>
+					<m lemma="6306">'úum</m>
+					<m lemma="1369">anik</m>
+				</w>
+				<w gl="the preacher" id="WB_KL-67:23" head="WB_KL-67:25" synrel="POSS">
+					<m lemma="4407" id="WB_KL-67:24" head="WB_KL-67:23" synrel="ATR">pa</m>
+					<m language="english">preacher</m>
+				</w>
+				<w gl="his wife" id="WB_KL-67:25" head="WB_KL-67:22" synrel="SBJ">
+					<m lemma="4260">mu</m>
+					<m lemma="1576">hrôoha</m>
+				</w>.
+					</txt>
+					<trans lang="eng">So the preacher's wife went there.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+				<w id="WB_KL-67:25" head="WB_KL-67:26" synrel="DIS">
+					<m lemma="6847">xás</m>
+				</w>
+				<w gl="she watched" id="WB_KL-67:26" head="0" synrel="PRED">
+					<m lemma="6175">ú</m>
+					<m lemma="2585">muustih</m>
+					<m lemma="1369">anik</m>
+				</w>
+				<w gl="as the doctor" id="WB_KL-67:27" head="WB_KL-67:31" synrel="SBJ">
+					<m lemma="4408" id="WB_KL-67:28" head="WB_KL-67:31" synrel="SUB">pa</m>
+					<m lemma="1232">'êem</m>
+				</w>
+				<w gl="the person" id="WB_KL-67:29" head="WB_KL-67:31" synrel="OBJ">
+					<m lemma="4407" id="WB_KL-67:30" head="WB_KL-67:29" synrel="ATR">pa</m>
+					<m lemma="505">'ára</m>
+				</w>
+				<w gl="she sucked disease out of him" id="WB_KL-67:31" head="WB_KL-67:26" synrel="COMP">
+					<m lemma="6175">u</m>
+					<m lemma="4673">patumkôo</m>
+					<m lemma="6035">tih</m>
+				</w>.
+					</txt>
+					<trans lang="eng">And she watched as the doctor sucked a person.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+				<w id="WB_KL-67:32" head="WB_KL-67:36" synrel="DIS">
+					<m lemma="6847">xás</m>
+				</w>
+				<w gl="the doctor" id="WB_KL-67:33" head="WB_KL-67:36" synrel="SBJ">
+					<m lemma="4407" id="WB_KL-67:34" head="WB_KL-67:33" synrel="ATR">pa</m>
+					<m lemma="1232">'êem</m>
+				</w>
+				<w gl="wide belt" id="WB_KL-67:35" head="WB_KL-67:36" synrel="OBJ">
+					<m lemma="5366">sichakvutvara</m>
+					<m lemma="6087">tíri</m>
+				</w>
+				<w gl="she was wearing a belt" id="WB_KL-67:36" head="0" synrel="PRED">
+					<m lemma="6175">u</m>
+					<m lemma="5365">síchakvutvu</m>
+					<m lemma="6035">tih</m>
+				</w>.
+					</txt>
+					<trans lang="eng">And the doctor was wearing a wide belt around her waist.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+				<w id="WB_KL-67:37" head="WB_KL-67:42" synrel="DIS">
+					<m lemma="6847">xás</m>
+				</w>
+				<w id="WB_KL-67:38" head="WB_KL-67:42" synrel="DIS">
+					<m lemma="3745">kári</m>
+				</w>
+				<w gl="the preacher" id="WB_KL-67:39" head="WB_KL-67:42" synrel="POSS">
+					<m lemma="4407" id="WB_KL-67:40" head="WB_KL-67:39" synrel="ATR">pa</m>
+					<m language="english">preacher</m>
+				</w>
+				<w gl="his wife" id="WB_KL-67:41" head="WB_KL-67:42" synrel="SBJ">
+					<m lemma="4260">mu</m>
+					<m lemma="1576">hrôoha</m>
+				</w>
+				<w gl="she saw" id="WB_KL-67:42" head="0" synrel="PRED">
+					<m lemma="6175">u</m>
+					<m lemma="4155">máh</m>
+				</w> "
+				<w id="WB_KL-67:43" head="WB_KL-67:44" synrel="OBJ">
+					<m lemma="1281">fâat</m>
+				</w>
+				<w gl="she took out" id="WB_KL-67:44" head="WB_KL-67:42" synrel="QUOT">
+					<m lemma="5506" id="WB_KL-67:45" head="WB_KL-67:44" synrel="TAM">t</m>
+					<m lemma="6175">u</m>
+					<m lemma="6259">'úrishuk</m>
+				</w>
+				<w gl="out of the belt" id="WB_KL-67:46" head="WB_KL-67:44" synrel="ADV">
+					<m lemma="5366">sichakvutvara</m>
+					<m lemma="5478">súruk</m>
+				</w>."
+					</txt>
+					<trans lang="eng">And the preacher's wife saw her take something out of the belt.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+				<w id="WB_KL-67:47" head="WB_KL-67:58" synrel="DIS">
+					<m lemma="6847">xás</m>
+				</w>
+				<w id="WB_KL-67:48" head="WB_KL-67:58" synrel="DIS">
+					<m lemma="3745">kári</m>
+				</w>
+				<w gl="when she displayed it" id="WB_KL-67:49" head="WB_KL-67:58" synrel="ADV">
+					<m lemma="4408" id="WB_KL-67:50" head="WB_KL-67:49" synrel="SUB">p</m>
+					<m lemma="6175">oo</m>
+					<m lemma="3134">'íshupish</m>
+				</w>
+				<w gl="the pain" id="WB_KL-67:51" head="WB_KL-67:49" synrel="OBJ">
+					<m lemma="4407" id="WB_KL-67:52" head="WB_KL-67:51" synrel="ATR">pa</m>
+					<m lemma="548">'arátaanva</m>
+				</w>
+				<w id="WB_KL-67:53" head="WB_KL-67:58" synrel="DIS">
+					<m lemma="6847">xás</m>
+				</w>
+				<w gl="the preacher" id="WB_KL-67:54" head="WB_KL-67:56" synrel="POSS">
+					<m lemma="4407" id="WB_KL-67:55" head="WB_KL-67:54" synrel="ATR">pa</m>
+					<m language="english">preacher</m>
+				</w>
+				<w gl="his wife" id="WB_KL-67:56" head="WB_KL-67:57" synrel="COMP">
+					<m lemma="4260">mu</m>
+					<m lemma="1576">hrooha</m>
+					<m lemma="1670" id="WB_KL-67:57" head="WB_KL-67:58" synrel="SBJ">'íin</m>
+				</w>
+				<w gl="she took it away from her" id="WB_KL-67:58" head="0" synrel="PRED">
+					<m lemma="3977">kun</m>
+					<m lemma="843">áveep</m>
+				</w>
+				<w gl="the pain" id="WB_KL-67:59" head="WB_KL-67:58" synrel="OBJ">
+					<m lemma="4407" id="WB_KL-67:60">pa</m>
+					<m lemma="548">'arátaanva</m>
+				</w>.
+					</txt>
+					<trans lang="eng">So when (the doctor) displaying the 'pain,' then the preacher's wife took the pain away from her.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+				<w id="WB_KL-67:61" head="WB_KL-67:62" synrel="DIS">
+					<m lemma="7038">yánava</m>
+				</w>
+				<w gl="a little mouse" id="WB_KL-67:62" head="0" synrel="PRED">
+					<m lemma="5384">sít</m>
+					<m lemma="375">'anamahach</m>
+				</w>, 
+				<w id="WB_KL-67:63" head="0" synrel="PRED">
+					<m lemma="918">axicheekyamíichvar</m>
+				</w>.
+					</txt>
+					<trans lang="eng">She saw it was a little mouse, a children's toy.</trans>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<txt lang="kyh">
+				<w id="WB_KL-67:64" head="WB_KL-67:68" synrel="DIS">
+					<m lemma="1383">hínupa</m>
+				</w>
+				<w id="WB_KL-67:65" head="WB_KL-67:68" synrel="OBJ"><!-- head="WB_KL-67:67" synrel="ATR" -->
+					<m lemma="4715">páy</m>
+				</w>
+				<w id="WB_KL-67:66" head="WB_KL-67:68" synrel="SBJ">
+					<m lemma="6307">uum</m>
+				</w>
+				<w id="WB_KL-67:67" head="WB_KL-67:68" synrel="COMP">
+					<m lemma="6383">vaa</m>
+				</w>
+				<w gl="she was making mischief" id="WB_KL-67:68" head="0" synrel="PRED">
+					<m lemma="6175">u</m>
+					<m lemma="4007">kupavêenahi</m>
+					<m lemma="6035">ti</m>
+				</w>
+				<w id="WB_KL-67:69" head="WB_KL-67:68" synrel="ADV">
+					<m lemma="744">atahári</m>
+				</w>.
+					</txt>
+					<trans lang="eng">There (the doctor) was doing that mischief all the time.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+				<w gl="she was deceiving them" id="WB_KL-67:70" head="0" synrel="PRED">
+					<m lemma="6175">u</m>
+					<m lemma="4872">pikshayvûunish</m>
+					<m lemma="6648">vunaa</m>
+					<m lemma="6035">ti</m>
+				</w>
+				<w gl="the Indians" id="WB_KL-67:71" head="WB_KL-67:70" synrel="OBJ">
+					<m lemma="4407">pa</m>
+					<m lemma="506">'áraar</m>
+				</w>.
+					</txt>
+					<trans lang="eng">She was deceiving the Indians.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+				<w id="WB_KL-67:72" head="WB_KL-67:76" synrel="DIS">
+					<m lemma="3758">káruma</m>
+				</w>
+				<w id="WB_KL-67:73" head="WB_KL-67:76" synrel="COMP">
+					<m lemma="3409">itráhyar</m>
+				</w>
+				<w id="WB_KL-67:74" head="WB_KL-67:75" synrel="DIS">
+					<m lemma="3752">káru</m>
+				</w>
+				<w id="WB_KL-67:75" head="WB_KL-67:73" synrel="COORD">
+					<m lemma="3412">itrôop</m>
+				</w>
+				<w gl="it is worth" id="WB_KL-67:76" head="0" synrel="PRED">
+					<m lemma="6175">ú</m>
+					<m lemma="3323">thvuuy</m>
+					<m lemma="6035">ti</m>
+				</w>
+				<w gl="for" id="WB_KL-67:77" head="WB_KL-67:80" synrel="ADV">
+					<m lemma="4408" id="WB_KL-67:78" head="WB_KL-67:80" synrel="SUB">pa</m>
+					<m lemma="4059">kúth</m>
+				</w>
+				<w id="WB_KL-67:79" head="WB_KL-67:80" synrel="OBJ">
+					<m lemma="505">ára</m>
+				</w>
+				<w gl="she sucked disease out of him" id="WB_KL-67:80" head="WB_KL-67:76" synrel="SBJ"><!-- synrel="ADV" -->
+					<m lemma="6175">u</m>
+					<m lemma="4673">patumkôo</m>
+					<m lemma="6035">tih</m>
+				</w>.
+					</txt>
+					<trans lang="eng">The fact was, she charged fifteen (dollars) for sucking a person.</trans>
+				</s>
+			</paragraph>
+		</data>
+	</text>
+				
+				
+				
+				
+				
+					
+				
+					

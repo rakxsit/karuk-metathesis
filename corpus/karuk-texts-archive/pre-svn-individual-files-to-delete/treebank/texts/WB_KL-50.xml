@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <text id="WB_KL-50">
+		<metadata>
+			<title>"Medicine to Get a Husband"</title>
+			<author>Nettie <alph>Reuben</alph></author>
+			<date>1957</date>
+			<publication>William Bright, <em>The Karok Language</em> (1957), pp. 250-253, Text 50</publication>
+		</metadata>
+		<data>
+			<paragraph>
+				<s>
+					<txt lang="kyh">
+						<w gl="behind Orleans">
+							<m lemma="4528">panamníh</m>
+							<m lemma="4146">maam</m>
+						</w>
+						<w>
+							<m lemma="3930">koovúra</m>
+						</w>
+						<w>
+							<m lemma="5506">tá</m>
+						</w>
+						<w gl="they gathered together">
+							<m lemma="3977">kun</m>
+							<m lemma="2420">imfipíshriihva</m>
+						</w>,
+						<w gl="the spirit girls">
+							<m lemma="4407">p</m>
+							<m lemma="2252">eekxariya</m>
+							<m lemma="1459">'ifápiit</m>
+							<m lemma="5200">shas</m>
+						</w>.
+					</txt>
+					<trans lang="eng">All the spirit girls gathered back of Orleans.</trans>
+					<note>eekxariya is linked to ikxareeyav, because there is no dictionary entry for ikxariya.</note>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w gl="they heard">
+							<m lemma="3977">kun</m>
+							<m lemma="5954">thítiim</m>
+							<m lemma="6035">ti</m>
+						</w> "
+						<w>
+							<m lemma="6383">vaa</m>
+						</w>
+						<w>
+							<m lemma="3670">káan</m>
+						</w>
+						<w gl="they were digging roots">
+							<m lemma="3977">kun</m>
+							<m lemma="6321">'ûupvu</m>
+							<m lemma="4298">naa</m>
+							<m lemma="6035">tih</m>
+						</w>,
+						<w>
+							<m lemma="5817">tayiith</m>
+						</w>."
+					</txt>
+					<trans lang="eng">They heard that (people) were digging brodiaea roots there.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="6570">víri</m>
+						</w>
+						<w>
+							<m lemma="3919">kôokinay</m>
+						</w>
+						<w>
+							<m lemma="3725">kahyúras</m>
+						</w>
+						<w>
+							<m lemma="5506">tá</m>
+						</w>
+						<w gl="they came from">
+							<m lemma="3977">kun</m>
+							<m lemma="514">'aramsípriin</m>
+						</w>,
+						<w gl="the spirit girls">
+							<m lemma="4407">p</m>
+							<m lemma="2252">eekxariya</m>
+							<m lemma="1459">'ifápiit</m>
+							<m lemma="5200">shas</m>
+						</w>.
+					</txt>
+					<trans lang="eng">They came from Klamath Lakes and everywhere, the spirit girls.</trans>
+					<note>aramsipriin is an unexpected form--the last vowel shouldn't long and the second one should, according to the dictionary.</note>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="5506">tá</m>
+						</w>
+						<w gl="they gathered together">
+							<m lemma="3977">kun</m>
+							<m lemma="2420">imfipíshriihva</m>
+						</w>
+						<w gl="behind Orleans">
+							<m lemma="4528">panamníh</m>
+							<m lemma="4146">maam</m>
+						</w>.
+					</txt>
+					<trans lang="eng">They gathered back of Orleans.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="3745">kári</m>
+						</w>
+						<w>
+							<m lemma="6847">xás</m>
+						</w>
+						<w>
+							<m lemma="7097">yítha</m>
+						</w>
+						<w>
+							<m lemma="6307">uum</m>
+						</w>
+						<w>
+							<m lemma="3670">káan</m>
+						</w>
+						<w gl="she had grown up">
+							<m lemma="6175">u</m>
+							<m lemma="1453">'íf</m>
+							<m lemma="1369">anik</m>
+						</w>.
+					</txt>
+					<trans lang="eng">And one (girl) had grown up there (at Orleans).</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="6307">uum</m>
+						</w>
+						<w>
+							<m lemma="6675">vúra</m>
+						</w>
+						<w>
+							<m lemma="3671">kâanimich</m>
+						</w>.
+					</txt>
+					<trans lang="eng">She was poor.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="6383">vaa</m>
+						</w>
+						<w>
+							<m lemma="6675">vúra</m>
+						</w>
+						<w gl="she had been raised that way">
+							<m lemma="6175">u</m>
+							<m lemma="4004">kupa</m>
+							<m lemma="1640">'iifshípree</m>
+							<m lemma="1369">nik</m>
+						</w>,
+						<w gl="since poor">
+							<m lemma="4408">pa</m>
+							<m lemma="3671">kâanimich</m>
+						</w>
+						<w gl="she had been raised">
+							<m lemma="6175">u</m>
+							<m lemma="1640">'iifshípree</m>
+							<m lemma="1369">nik</m>
+						</w>.
+					</txt>
+					<trans lang="eng">She had grown up that way, since she had grown up poor.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="3745">kári</m>
+						</w>
+						<w>
+							<m lemma="6847">xás</m>
+						</w>
+						<w gl="she thought">
+							<m lemma="6175">u</m>
+							<m lemma="6939">xus</m>
+						</w>, "
+						<w>
+							<m lemma="1633">ii</m>
+						</w>!
+						<w>
+							<m lemma="6042">tîi</m>
+						</w>
+						<w>
+							<m lemma="4299">naa</m>
+						</w>
+						<w>
+							<m lemma="3752">káru</m>
+						</w>
+						<w gl="let me go dig roots!">
+							<m lemma="3735">kan</m>
+							<m lemma="6324">'ûupvan</m>
+						</w>."
+					</txt>
+					<trans lang="eng">And she thought, "Oh, let me go dig roots too!"</trans>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="3745">kári</m>
+						</w>
+						<w>
+							<m lemma="6847">xás</m>
+						</w>
+						<w>
+							<m lemma="6174">ta'ítam</m>
+						</w>
+						<w gl="she arrived">
+							<m lemma="6175">u</m>
+							<m lemma="6306">'uum</m>
+							<m lemma="1378">áheen</m>
+						</w>
+						<w gl="behind Orleans">
+							<m lemma="4528">panamníh</m>
+							<m lemma="4146">maam</m>
+						</w>.
+					</txt>
+					<trans lang="eng">And so she arrived back of Orleans.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="6570">víri</m>
+						</w>
+						<w gl="when she looked around">
+							<m lemma="4408">p</m>
+							<m lemma="6175">oo</m>
+							<m lemma="6138">túraayva</m>
+						</w>,
+						<w>
+							<m lemma="5105">púra fátaak</m>
+						</w>
+						<w>
+							<m lemma="6675">vúra</m>
+						</w>
+						<w gl="she didn't fit in">
+							<m lemma="6997">yâahi</m>
+							<m lemma="6035">tih</m>
+							<m lemma="1371">ara</m>
+						</w>,
+						<w gl="where they were digging roots">
+							<m lemma="4408">pa</m>
+							<m lemma="3977">kun</m>
+							<m lemma="6321">'ûupvu</m>
+							<m lemma="4298">naa</m>
+							<m lemma="6035">tih</m>
+						</w>
+						<w gl="the spirit girls">
+							<m lemma="4407">p</m>
+							<m lemma="2252">eekxariya</m>
+							<m lemma="1459">'ifápiit</m>
+							<m lemma="5200">sha</m>
+						</w>.
+					</txt>
+					<trans lang="eng">When she looked around, she couldn't fit in anyplace where the spirit girls were digging roots.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="6570">víri</m>
+						</w>
+						<w gl="when she was laughed at">
+							<m lemma="4408">p</m>
+							<m lemma="6175">oo</m>
+							<m lemma="2079">ksah</m>
+							<m lemma="501">ár</m>
+							<m lemma="168">ahi</m>
+							<m lemma="6035">tih</m>
+						</w>,
+						<w gl="they ridiculed her">
+							<m lemma="3977">kun</m>
+							<m lemma="5584">tákaam</m>
+							<m lemma="6035">tih</m>
+						</w>,
+						<w gl="the woman">
+							<m lemma="4407">pa</m>
+							<m lemma="656">'asiktávaan</m>
+						</w>,
+						<w gl="the poor (one)">
+							<m lemma="4407">pa</m>
+							<m lemma="3671">kâanimich</m>
+						</w>,
+						<w gl="as she dug roots">
+							<m lemma="4408">p</m>
+							<m lemma="6175">oo</m>
+							<m lemma="6321">'ûupvu</m>
+							<m lemma="6035">tih</m>
+						</w>.
+					</txt>
+					<trans lang="eng">So they laughed, they ridiculed her, the woman, the poor one, as she dug roots.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w gl="her dress">
+							<m lemma="4407">pa</m>
+							<m lemma="4260">mu</m>
+							<m lemma="7028">yáfus</m>
+						</w>
+						<w>
+							<m lemma="7273">á'</m>
+						</w>
+						<w gl="it had">
+							<m lemma="5506">t</m>
+							<m lemma="6175">óo</m>
+						</w>
+						<w>
+							<m lemma="3117">stakúraan</m>
+						</w>.
+					</txt>
+					<trans lang="eng">Her dress was ripped up.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w gl="so">
+							<m lemma="6570">víri</m>
+							<m lemma="6383">va</m>
+						</w>
+						<w>
+							<m lemma="7081">yiimúsich</m>
+						</w>
+						<w>
+							<m lemma="6675">vúra</m>
+						</w>
+						<w gl="she was digging roots">
+							<m lemma="4408">p</m>
+							<m lemma="6175">oo</m>
+							<m lemma="6321">'ûupvu</m>
+							<m lemma="6035">tih</m>
+						</w>.
+					</txt>
+					<trans lang="eng">She dug roots a little ways away.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="6570">víri</m>
+						</w>
+						<w gl="the spirit girls">
+							<m lemma="4407">p</m>
+							<m lemma="2252">eekxariya</m>
+							<m lemma="1459">'ifápiit</m>
+							<m lemma="5200">sha</m>
+						</w>
+						<w>
+							<m lemma="5506">tá</m>
+						</w>
+						<w gl="they said">
+							<m lemma="3977">kun</m>
+							<m lemma="4823">piip</m>
+						</w>, "
+						<w>
+							<m lemma="1457">íf</m>
+						</w>
+						<w gl="she thinks">
+							<m lemma="6175">u</m>
+							<m lemma="6939">xú</m>
+							<m lemma="6035">tih</m>
+						</w> '
+						<w gl="I will dig it out">
+							<m lemma="4349">ni</m>
+							<m lemma="5536">tâatruprav</m>
+							<m lemma="1379">eesh</m>
+						</w>.'"
+					</txt>
+					<trans lang="eng">The spirit girls said, "She really thinks she's going to dig up something!"</trans>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="6570">víri</m>
+						</w>
+						<w>
+							<m lemma="1096">chavúra</m>
+						</w>
+						<w>
+							<m lemma="5670">tapipshítaani</m>
+						</w>
+						<w>
+							<m lemma="3745">kári</m>
+						</w>
+						<w>
+							<m lemma="6847">xás</m>
+						</w>
+						<w gl="they said">
+							<m lemma="3977">kun</m>
+							<m lemma="4823">piip</m>
+						</w>, 
+						<w gl="the spirit girls">
+							<m lemma="4407">p</m>
+							<m lemma="2252">eekxariya</m>
+							<m lemma="1459">'ifápiit</m>
+							<m lemma="5200">shas</m>
+						</w>, "
+						<w>
+							<m lemma="7055">yáxa</m>
+						</w>, 
+						<w>	
+							<m lemma="1410">hûut</m>
+						</w>
+						<w gl="she is saying">
+							<m lemma="6175">u</m>
+							<m lemma="4823">pí</m>
+							<m lemma="6035">tih</m>
+						</w>."
+					</txt>
+					<trans lang="eng">Finally after a while the spirit girls said, "Look, what is she saying?"</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="7038">yánava</m>
+						</w>
+						<w gl="she was singing">
+							<m lemma="6175">u</m>
+							<m lemma="4511">pakurîihvu</m>
+							<m lemma="6035">tih</m>
+						</w>, 
+						<w gl="the poor (one)">
+							<m lemma="4407">pa</m>
+							<m lemma="3671">kâanimich</m>
+						</w>.
+					</txt>
+					<trans lang="eng">They saw the poor one was singing.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="7038">yánava</m>
+						</w>
+						<w gl="she was saying">
+							<m lemma="6175">u</m>
+							<m lemma="4823">pí</m>
+							<m lemma="6035">tih</m>
+						</w>, "
+						<w>
+							<m lemma="7113">yôotva</m>
+						</w>,
+						<w gl="my husband">
+							<m lemma="4364">nini</m>
+							<m lemma="828">'ávan</m>
+						</w>
+						<w>
+							<m lemma="5506">tá</m>
+						</w>
+						<w gl="I dug him out">
+							<m lemma="4349">ni</m>
+							<m lemma="5536">tâatruprav</m>
+						</w>."
+					</txt>
+					<trans lang="eng">They saw her say, "Hurray, I've dug up my husband!"</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="3745">kári</m>
+						</w>
+						<w>
+							<m lemma="6847">xás</m>
+						</w>
+						<w gl="her blanket">
+							<m lemma="4407">pa</m>
+							<m lemma="4260">mú</m>
+							<m lemma="6399">vaas</m>
+						</w>
+						<w>
+							<m lemma="6847">xás</m>
+						</w>
+						<w>
+							<m lemma="6383">vaa</m>
+						</w>
+						<w gl="she covered him with">
+							<m lemma="6175">u</m>
+							<m lemma="3653">yxôorariv</m>
+						</w>.
+					</txt>
+					<trans lang="eng">And she covered him with her blanket.</trans>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="3745">kári</m>
+						</w>
+						<w>
+							<m lemma="6847">xás</m>
+						</w>
+						<w>
+							<m lemma="6383">vaa</m>
+						</w>
+						<w gl="they did">
+							<m lemma="3977">kun</m>
+							<m lemma="4086">kúupha</m>
+						</w>,
+						<w gl="the spirit girls">
+							<m lemma="4407">p</m>
+							<m lemma="2252">eekxariya</m>
+							<m lemma="1459">'ifápiit</m>
+							<m lemma="5200">sha</m>
+						</w>.
+					</txt>
+					<trans lang="eng">Then the spirit girls did this.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w gl="when she looked around">
+							<m lemma="4408">p</m>
+							<m lemma="6175">oo</m>
+							<m lemma="6138">túraayva</m>
+						</w>, 
+						<w>
+							<m lemma="7038">yánava</m>
+						</w>
+						<w>
+							<m lemma="3930">koovúra</m>
+						</w>
+						<w>
+							<m lemma="5506">tá</m>
+						</w>
+						<w>
+							<m lemma="5085">púfaat</m>
+						</w>,
+						<w gl="the spirit girls">
+							<m lemma="4407">p</m>
+							<m lemma="2252">eekxariya</m>
+							<m lemma="1459">'ifápiit</m>
+							<m lemma="5200">sha</m>
+						</w>.
+					</txt>
+					<trans lang="eng">When (the poor one) looked around, she saw they were all gone, the spirit girls.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="5506">tá</m>
+						</w>
+						<w gl="they were transformed">
+							<m lemma="3977">kun</m>
+							<m lemma="2773">ipkeevíshriih</m>
+							<m lemma="6380">va</m>
+						</w>.
+					</txt>
+					<trans lang="eng">They were transformed.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="3745">kári</m>
+						</w>
+						<w>
+							<m lemma="6847">xás</m>
+						</w>
+						<w gl="she thought">
+							<m lemma="6175">u</m>
+							<m lemma="6939">xus</m>
+						</w>, "
+						<w gl="when Humankind">
+							<m lemma="4408">pa</m>
+							<m lemma="7022">yaas'ára</m>
+						</w>
+						<w gl="it comes into existence">
+							<m lemma="6175">u</m>
+							<m lemma="1676">'iiníshrih</m>
+							<m lemma="1358">aak</m>
+						</w>,
+						<w>
+							<m lemma="6570">víri</m>
+						</w>
+						<w>
+							<m lemma="6307">uum</m>
+						</w>
+						<w>
+							<m lemma="3752">káru</m>
+						</w>
+						<w>
+							<m lemma="6675">vúra</m>
+						</w>
+						<w>
+							<m lemma="6383">vaa</m>
+						</w>
+						<w gl="she will do">
+							<m lemma="6175">u</m>
+							<m lemma="4086">kuph</m>
+							<m lemma="1379">eesh</m>
+						</w>,
+						<w>
+							<m lemma="6734">xáat</m>
+						</w>
+						<w>
+							<m lemma="3671">kâanimich</m>
+						</w>.
+					</txt>
+					<trans lang="eng">And she thought, "When Mankind comes into existence, (a woman) will do this way also, (though) she may be poor.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w gl="so">
+							<m lemma="6570">víri</m>
+							<m lemma="6383">va</m>
+						</w>
+						<w>
+							<m lemma="6675">vúra</m>
+						</w>
+						<w>
+							<m lemma="828">ávan</m>
+						</w>
+						<w gl="she will have">
+							<m lemma="6175">u</m>
+							<m lemma="5916">thiiná</m>
+							<m lemma="6035">tih</m>
+							<m lemma="1379">eesh</m>
+						</w>.
+					</txt>
+					<trans lang="eng">She will have a husband.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w gl="if my song">
+							<m lemma="4408">pa</m>
+							<m lemma="4364">nini</m>
+							<m lemma="4509">pákuri</m>
+						</w>
+						<w gl="she knows">
+							<m lemma="6175">u</m>
+							<m lemma="44">'aapúnm</m>
+							<m lemma="1358">ahaak</m>
+						</w>,
+						<w gl="so">
+							<m lemma="6570">víri</m>
+							<m lemma="6383">va</m>
+						</w>
+						<w>
+							<m lemma="6675">vúra</m>
+						</w>
+						<w>
+							<m lemma="828">ávan</m>
+						</w>
+						<w gl="she will have">
+							<m lemma="6175">u</m>
+							<m lemma="5916">thiiná</m>
+							<m lemma="6035">tih</m>
+							<m lemma="1379">eesh</m>
+						</w>,
+						<w>
+							<m lemma="6734">xáat</m>
+						</w>
+						<w gl="a homely woman">
+							<m lemma="656">asiktavan</m>
+							<m lemma="3790">kéem</m>
+						</w>."
+					</txt>
+					<trans lang="eng">If she knows my song, she will have a husband, (though) she may be a homely woman."</trans>
+					<note>asiktavankeem is in the dictionary, but as a specific person's name, so I did not link to it.</note>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="6570">víri</m>
+						</w>
+						<w>
+							<m lemma="3745">kári</m>
+						</w>
+						<w>
+							<m lemma="6847">xás</m>
+						</w>
+						<w>
+							<m lemma="7102">yíthuk</m>
+						</w>
+						<w gl="she went">
+							<m lemma="6175">u</m>
+							<m lemma="6306">'uum</m>
+						</w>.
+					</txt>
+					<trans lang="eng">Then she went elsewhere (i.e., was transformed).</trans>
+				</s>
+			</paragraph>
+		</data>
+	</text>
+						
+						
+							
+							
+						
+							

@@ -1,0 +1,216 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 2.525011337868481
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "transcription - words"
+		xmin = 0.0
+		xmax = 2.525011337868481
+		intervals: size = 10
+			intervals [1]:
+				xmin = 0.0000
+				xmax = 0.1200
+				text = "naa"
+			intervals [2]:
+				xmin = 0.1200
+				xmax = 0.5000
+				text = "karu"
+			intervals [3]:
+				xmin = 0.5000
+				xmax = 0.7700
+				text = "vura"
+			intervals [4]:
+				xmin = 0.7700
+				xmax = 0.8300
+				text = "uum"
+			intervals [5]:
+				xmin = 0.8300
+				xmax = 1.1200
+				text = "ta"
+			intervals [6]:
+				xmin = 1.1200
+				xmax = 1.2000
+				text = ""
+			intervals [7]:
+				xmin = 1.2000
+				xmax = 2.0100
+				text = "nipipshinvarihva"
+			intervals [8]:
+				xmin = 2.0100
+				xmax = 2.3900
+				text = "karu"
+			intervals [9]:
+				xmin = 2.3900
+				xmax = 2.5100
+				text = "vura"
+			intervals [10]:
+				xmin = 2.5100
+				xmax = 2.525011337868481
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "transcription - phones"
+		xmin = 0.0
+		xmax = 2.525011337868481
+		intervals: size = 39
+			intervals [1]:
+				xmin = 0.0000
+				xmax = 0.0400
+				text = "N"
+			intervals [2]:
+				xmin = 0.0400
+				xmax = 0.1200
+				text = "AA1"
+			intervals [3]:
+				xmin = 0.1200
+				xmax = 0.2500
+				text = "K"
+			intervals [4]:
+				xmin = 0.2500
+				xmax = 0.3200
+				text = "AH0"
+			intervals [5]:
+				xmin = 0.3200
+				xmax = 0.4500
+				text = "R"
+			intervals [6]:
+				xmin = 0.4500
+				xmax = 0.5000
+				text = "UH0"
+			intervals [7]:
+				xmin = 0.5000
+				xmax = 0.6300
+				text = "V"
+			intervals [8]:
+				xmin = 0.6300
+				xmax = 0.6700
+				text = "UH0"
+			intervals [9]:
+				xmin = 0.6700
+				xmax = 0.7000
+				text = "R"
+			intervals [10]:
+				xmin = 0.7000
+				xmax = 0.7700
+				text = "AH0"
+			intervals [11]:
+				xmin = 0.7700
+				xmax = 0.8000
+				text = "UW1"
+			intervals [12]:
+				xmin = 0.8000
+				xmax = 0.8300
+				text = "M"
+			intervals [13]:
+				xmin = 0.8300
+				xmax = 0.9100
+				text = "T"
+			intervals [14]:
+				xmin = 0.9100
+				xmax = 1.1200
+				text = "AH0"
+			intervals [15]:
+				xmin = 1.1200
+				xmax = 1.2000
+				text = "sp"
+			intervals [16]:
+				xmin = 1.2000
+				xmax = 1.2300
+				text = "N"
+			intervals [17]:
+				xmin = 1.2300
+				xmax = 1.2600
+				text = "IH0"
+			intervals [18]:
+				xmin = 1.2600
+				xmax = 1.3400
+				text = "P"
+			intervals [19]:
+				xmin = 1.3400
+				xmax = 1.3900
+				text = "IH0"
+			intervals [20]:
+				xmin = 1.3900
+				xmax = 1.4200
+				text = "P"
+			intervals [21]:
+				xmin = 1.4200
+				xmax = 1.5400
+				text = "SH"
+			intervals [22]:
+				xmin = 1.5400
+				xmax = 1.5700
+				text = "IH0"
+			intervals [23]:
+				xmin = 1.5700
+				xmax = 1.6000
+				text = "N"
+			intervals [24]:
+				xmin = 1.6000
+				xmax = 1.6300
+				text = "V"
+			intervals [25]:
+				xmin = 1.6300
+				xmax = 1.6700
+				text = "AH0"
+			intervals [26]:
+				xmin = 1.6700
+				xmax = 1.8000
+				text = "R"
+			intervals [27]:
+				xmin = 1.8000
+				xmax = 1.8300
+				text = "IH0"
+			intervals [28]:
+				xmin = 1.8300
+				xmax = 1.9100
+				text = "HH"
+			intervals [29]:
+				xmin = 1.9100
+				xmax = 1.9400
+				text = "V"
+			intervals [30]:
+				xmin = 1.9400
+				xmax = 2.0100
+				text = "AH0"
+			intervals [31]:
+				xmin = 2.0100
+				xmax = 2.1100
+				text = "K"
+			intervals [32]:
+				xmin = 2.1100
+				xmax = 2.2400
+				text = "AH0"
+			intervals [33]:
+				xmin = 2.2400
+				xmax = 2.3400
+				text = "R"
+			intervals [34]:
+				xmin = 2.3400
+				xmax = 2.3900
+				text = "UH0"
+			intervals [35]:
+				xmin = 2.3900
+				xmax = 2.4200
+				text = "V"
+			intervals [36]:
+				xmin = 2.4200
+				xmax = 2.4500
+				text = "UH0"
+			intervals [37]:
+				xmin = 2.4500
+				xmax = 2.4800
+				text = "R"
+			intervals [38]:
+				xmin = 2.4800
+				xmax = 2.5100
+				text = "AH0"
+			intervals [39]:
+				xmin = 2.5100
+				xmax = 2.525011337868481
+				text = ""

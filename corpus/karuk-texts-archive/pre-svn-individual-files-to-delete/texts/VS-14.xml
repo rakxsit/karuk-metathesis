@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="VS-14" audio-source="karuk-2010-07-23-ag-vs-1">
+  <metadata>
+    <title>Sentences about animals, questions</title>
+    <author> Vina <alph>Smith</alph>
+    </author>
+    <date>2010</date>
+    <publication> Unpublished (recorded by Andrew Garrett on July 23, 2010) </publication>
+  </metadata>
+  <data>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-1_01" audio-start-time="1:30">
+	<kar>
+	  <w>
+	    <m id="119">achviiv</m>
+	  </w>
+	  <w>
+	    <m id="5506">tá</m>
+	  </w>
+	  <w gl="I see it">
+	    <m id="4349">ni</m>
+	    <m id="4155">mah</m>
+	</w>.</kar>
+	<eng>I see a bird.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-1_02" audio-start-time="2:06">
+	<kar>
+	  <w>
+	    <m id="119">achviiv</m>
+	  </w>
+	  <w gl="you have">
+	    <m id="5506">t</m>
+	    <m id="1418">ee</m>
+	  </w>
+	  <w>
+	    <m id="4155">mah</m>
+	</w>.</kar>
+	<eng>You see a bird.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-1_03" audio-start-time="2:06">
+	<kar>
+	  <w>
+	    <m id="119">achviiv</m>
+	  </w>
+	  <w>
+	    <m id="5506">tá</m>
+	  </w>
+	  <w gl="we see it">
+	    <m id="4370">nu</m>
+	    <m id="4155">mah</m>
+	</w>.</kar>
+	<eng>We see a bird.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-1_05" audio-start-time="3:23">
+	<kar>
+	  <w>
+	    <m id="1404">hûuka</m>
+	  </w>
+	  <w gl="it has">
+	    <m id="5506">t</m>
+	    <m id="6175">óo</m>
+	  </w>
+	  <w>
+	    <m id="2279">kxip</m>
+	  </w>
+	  <w>
+	    <m id="4289">ma'</m>
+	  </w>
+	  <w gl="the bird">
+	    <m id="4407">pa</m>
+	    <m id="119">'achviiv</m>
+	</w>?</kar>
+	<eng>To where did the bird fly?</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-1_06" audio-start-time="3:43">
+	<kar>
+	  <w gl="you have">
+	    <m id="5506">t</m>
+	    <m id="1418">ée</m>
+	  </w>
+	  <w>
+	    <m id="4155">mah</m>
+	  </w>
+	  <w>
+	    <m id="1402">húm</m>
+	  </w>
+	  <w gl="the bird">
+	    <m id="4407">pa</m>
+	    <m id="119">'achviiv</m>
+	</w>?</kar>
+	<eng>Do you see the bird?</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-1_07" audio-start-time="4:30">
+	<kar>
+	  <w gl="you are looking at it">
+	    <m id="1418">í</m>
+	    <m id="2570">muus</m>
+	    <m id="6035">tih</m>
+	  </w>
+	  <w gl="the bird">
+	    <m id="4407">pa</m>
+	    <m id="119">'achviiv</m>
+	</w>.</kar>
+	<eng>You are looking at the bird.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-1_08" audio-start-time="4:52">
+	<kar>
+	  <w>
+	    <m id="7055">yáxa</m>
+	  </w>
+	  <w gl="the bird">
+	    <m id="4407">pa</m>
+	    <m id="119">'achvíiv</m>
+	</w>!</kar>
+	<eng>Look, the bird!</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-1_09" audio-start-time="5:35">
+	<kar>
+	  <w>
+	    <m id="5506">tá</m>
+	  </w>
+	  <w gl="I see it">
+	    <m id="4349">ni</m>
+	    <m id="4155">mah</m>
+	  </w>
+	  <w gl="the bear">
+	    <m id="4407">pa</m>
+	    <m id="6574">vírusur</m>
+	</w>.</kar>
+	<eng>I saw the bear.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-1_10" audio-start-time="5:52">
+	<kar>
+	  <w gl="the bear">
+	    <m id="4407">pa</m>
+	    <m id="6574">vírusur</m>
+	  </w>
+	  <w>
+	    <m id="2671">íp</m>
+	  </w>
+	  <w gl="I see it">
+	    <m id="4349">ni</m>
+	    <m id="4155">mah</m>
+	</w>.</kar>
+	<eng>I saw the bear.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-1_11" audio-start-time="7:43">
+	<kar>
+	  <w gl="the bear">
+	    <m id="4407">pa</m>
+	    <m id="6574">virusura</m>
+	  </w>
+	  <w>
+	    <m id="3011">íshkih</m>
+	  </w>
+	  <w gl="it has">
+	    <m id="5506">t</m>
+	    <m id="6175">óo</m>
+	  </w>
+	  <w>
+	    <m id="2195">kviip</m>
+	</w>.</kar>
+	<eng>The bear runs fast.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-1_12" audio-start-time="8:16">
+	<kar>
+	  <w gl="the bear">
+	    <m id="4407">pa</m>
+	    <m id="6574">virusur</m>
+	  </w>
+	  <w>
+	    <m id="2766">ipít</m>
+	  </w>
+	  <w>
+	    <m id="3011">íshkih</m>
+	  </w>
+	  <w gl="it runs">
+	    <m id="6175">u</m>
+	    <m id="2195">kviip</m>
+	</w>.</kar>
+	<eng>The bear ran fast yesterday.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-1_13" audio-start-time="13:21">
+	<kar>
+	  <w gl="you have">
+	    <m id="5506">t</m>
+	    <m id="1418">ée</m>
+	  </w>
+	  <w>
+	    <m id="4155">mah</m>
+	  </w>
+	  <w>
+	    <m id="1402">húm</m>
+	  </w>
+	  <w gl="the deer">
+	    <m id="4407">pa</m>
+	    <m id="5135">púufich</m>
+	</w>?</kar>
+	<eng>Do you see the deer?</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-1_14" audio-start-time="15:50">
+	<kar>
+	  <w>
+	    <m id="1054">chak'îimich</m>
+	  </w>
+	  <w gl="the deer">
+	    <m id="4407">pa</m>
+	    <m id="5135">púufich</m>
+	  </w>
+	  <w gl="it has walked">
+	    <m id="5506">t</m>
+	    <m id="6175">u</m>
+	    <m id="205">'áhoo</m>
+	</w>.</kar>
+	<eng>The deer is walking slow.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-1_15" audio-start-time="16:26">
+	<kar>
+	  <w gl="the deer">
+	    <m id="4407">pa</m>
+	    <m id="5135">púufich</m>
+	  </w>
+	  <w gl="he has shot it">
+	    <m id="5506">t</m>
+	    <m id="6175">u</m>
+	    <m id="3995">kuníihka</m>
+	</w>.</kar>
+	<eng>He shot the deer.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-1_16" audio-start-time="17:56">
+	<kar>
+	  <w>
+	    <m id="2391">imáan</m>
+	  </w>
+	  <w gl="the deer">
+	    <m id="4407">pa</m>
+	    <m id="5135">púufich</m>
+	  </w>
+	  <w gl="he will shoot it">
+	    <m id="6175">u</m>
+	    <m id="3995">kúniihk</m>
+	    <m id="1379">eesh</m>
+	</w>.</kar>
+	<eng>He is going to shoot the deer tomorrow.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-1_17" audio-start-time="18:14">
+	<kar>
+	  <w>
+	    <m id="2391">imáan</m>
+	  </w>
+	  <w gl="the deer">
+	    <m id="4407">pa</m>
+	    <m id="5135">púufich</m>
+	  </w>
+	  <w gl="I will shoot it">
+	    <m id="4349">ni</m>
+	    <m id="3995">kúniihk</m>
+	    <m id="1379">eesh</m>
+	</w>.</kar>
+	<eng>Tomorrow I am going to shoot the deer.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-1_18" audio-start-time="19:52">
+	<kar>
+	  <w>
+	    <m id="7055">yáxa</m>
+	  </w>
+	  <w gl="the bobcat">
+	    <m id="4407">pa</m>
+	    <m id="320">'ákviish</m>
+	</w>!</kar>
+	<eng>Look, the bobcat!</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-1_19" audio-start-time="21:05">
+	<kar>
+	  <w>
+	    <m id="4299">naa</m>
+	  </w>
+	  <w>
+	    <m id="6675">vura</m>
+	  </w>
+	  <w>
+	    <m id="2600">imxathakêem</m>
+	</w>.</kar>
+	<eng>I smell bad.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-1_20" audio-start-time="23:58">
+	<kar>
+	  <w>
+	    <m id="7055">yáxa</m>
+	  </w>
+	  <w gl="the raccoon">
+	    <m id="4407">pa</m>
+	    <m id="119">'akvaat</m>
+	</w>!</kar>
+	<eng>Look, the raccoon!</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-1_21" audio-start-time="24:17">
+	<kar>
+	  <w>
+	    <m id="7055">yáxa</m>
+	  </w>
+	  <w>
+	    <m id="4717">páykuuk</m>
+
+	</w>!</kar>
+	<eng>Look there!</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-1_22" audio-start-time="25:38">
+	<kar>
+	  <w>
+	    <m id="7055">yáxa</m>
+	  </w>
+	  <w>
+	    <m id="4715">páy</m>
+
+	</w>!</kar>
+	<eng>Look here!</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-1_23" audio-start-time="27:19">
+	<kar>
+	  <w>
+	    <m id="6381">vaa</m>
+	  </w>
+	  <w>
+	    <m id="7049">yáv</m>
+	  </w>
+	  <w gl="I am swimming">
+	    <m id="4408">pa</m>
+	    <m id="4349">ní</m>
+	    <m id="1909">kpuuh</m>
+	    <m id="6035">ti</m>
+	</w>.</kar>
+	<eng>I am swimming well.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-1_24" audio-start-time="29:42">
+	<kar>
+	  <w>
+	    <m id="1285">fâat</m>
+	  </w>
+	  <w>
+	    <m id="6307">uum</m>
+	  </w>
+
+	  <w gl="the cow">
+	    <m id="4407">pa</m>
+	    <m id="4278">músmus</m>
+	  </w>
+	  <w gl="it is eating">
+	    <m id="6175">u</m>
+	    <m id="814">'áam</m>
+	    <m id="6035">ti</m>
+	</w>?</kar>
+	<eng>What does a cow eat?</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-1_25" audio-start-time="29:42">
+	<kar>
+	  <w gl="the cow">
+	    <m id="4407">pa</m>
+	    <m id="4278">músmus</m>
+	  </w>
+	  <w>
+	    <m id="6307">uum</m>
+	  </w>
+	  <w>
+	    <m id="4963">pírish</m>
+	  </w>
+	  <w gl="it is eating">
+	    <m id="6175">u</m>
+	    <m id="814">'áam</m>
+	    <m id="6035">ti</m>
+	</w>.</kar>
+	<eng>The cow eats grass.</eng>
+      </s>
+    </paragraph>
+  </data>
+</text>

@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-80">
+    <metadata>
+        <title>"The Sucking Doctor"</title>
+        <author>Julia <alph>Starritt</alph></author>
+        <date>1957</date>
+        <publication>William Bright,<em>The Karok Language</em> (1957), pp. 292-293, Text
+            80</publication>
+    </metadata>
+    <data>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w gl="the Indian (sucking) Doctor">
+                        <m lemma="4407">pa</m>
+                        <m lemma="506">'arara</m>
+                        <m lemma="1232">'êem</m>
+                    </w>
+                    <w>
+                        <m lemma="6307">uum</m>
+                    </w>
+                    <w>
+                        <m lemma="505">ára</m>
+                    </w>
+                    <w gl="she sucks out disease">
+                        <m lemma="6175">u</m>
+                        <m lemma="4673">patumkôo</m>
+                        <m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">The Indian Doctor sucked people.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w>
+                        <m lemma="6381">vaa</m>
+                    </w>
+                    <w>
+                        <m lemma="3670">káan</m>
+                    </w>
+                    <w gl="she put mouth">
+                        <m lemma="5506">t</m>
+                        <m lemma="6175">u</m>
+                        <m lemma="4669">pátum</m>
+                    </w>
+                    <w gl="there">
+                        <m lemma="4408">pa</m>
+                        <m lemma="3670">káan</m>
+                    </w>
+                    <w gl="the pain">
+                        <m lemma="4407">pa</m>
+                        <m lemma="548">'arátaanva</m>
+                    </w>
+                    <w gl="it was trembling">
+                        <m lemma="6175">u</m>
+                        <m lemma="3799">kêena</m>
+                        <m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">She put her mouth there where the 'pain' (i.e. disease object) was
+                    quivering.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w>
+                        <m lemma="6381">vaa</m>
+                    </w>
+                    <w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+                    <w>
+                        <m lemma="6779">xánahich</m>
+                    </w>
+                    <w gl="she put mouth">
+                        <m lemma="5506">t</m>
+                        <m lemma="6175">u</m>
+                        <m lemma="4673">patúmkoo</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">And she sucked at it for a little while.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w>
+                        <m lemma="421">apmáan</m>
+                    </w>
+                    <w gl="she put into">
+                        <m lemma="5506">t</m>
+                        <m lemma="6175">u</m>
+                        <m lemma="29">'áakvar</m>
+                    </w>, 
+                    <w>
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w>
+                        <m lemma="5541">taay</m>
+                    </w>
+                    <w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+                    <w>
+                        <m lemma="6911">xúnxun</m>
+                    </w>
+                    <w gl="she had">
+                        <m lemma="5506">t</m>
+                        <m lemma="6175">óo</m>
+					</w>
+					<w>
+                        <m lemma="2348">kyav</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">Then she put her hands in her mouth, and she made a lot of phlegm.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="41">âapun</m>
+                    </w>
+                    <w gl="she sits">
+                        <m lemma="6175">ú</m>
+                        <m lemma="1974">krii</m>
+                    </w>
+                    <w gl="thus">
+                        <m lemma="4408">pá</m>
+                        <m lemma="6381">vaa</m>
+                    </w>
+                    <w gl="she does">
+                        <m lemma="6175">u</m>
+                        <m lemma="4015">kupi</m>
+                        <m lemma="6035">tih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">She sat on the floor as she did that.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w>
+                        <m lemma="3745">kári</m>
+                    </w>
+                    <w gl="she got up">
+                        <m lemma="5506">t</m>
+                        <m lemma="6175">u</m>
+                        <m lemma="6613">vôonsip</m>
+                    </w>.
+                </txt>
+                <trans lang="eng"> Then she got up.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w>
+                        <m lemma="6045">tíikan</m>
+                    </w>
+                    <w gl="she spit into">
+                        <m lemma="6175">u</m>
+                        <m lemma="7224">yuuhrámnih</m></w>,
+                    <w>
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w gl="the pain-saliva">
+                        <m lemma="4407">pa</m>
+                        <m lemma="548">'arataanva</m>
+                        <m lemma="6247">'úpas</m>
+                    </w>
+                    <w gl="she held">
+                        <m lemma="6175">ú</m>
+                        <m lemma="2125">ktaam</m>
+                        <m lemma="6035">ti</m>
+                    </w>
+                    <w>
+                        <m lemma="6045">tíikan</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">And she spat into her hands, and she held the pain-saliva in her hands.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="5163">púyava</m>
+                    </w>
+                    <w>
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w>
+                        <m lemma="548">arátaanva</m>
+                    </w>
+                    <w gl="she used">
+                        <m lemma="5506">t</m>
+                        <m lemma="6175">u</m>
+                        <m lemma="2674">p</m>
+                        <m lemma="1584">íhruv</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">Then she used the pain (i.e. danced and sang with it).</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w gl="she finished">
+                        <m lemma="4408">pa</m>
+                        <m lemma="5506">t</m>
+                        <m lemma="6175">u</m>
+                        <m lemma="3909">kôo</m>
+                        <m lemma="1358">haak</m>
+                    </w>
+                    <w>
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w gl="the pain">
+                        <m lemma="4407">pa</m>
+                        <m lemma="548">'arátaanva</m>
+                    </w>
+                    <w gl="she blew away">
+                        <m lemma="5506">t</m>
+                        <m lemma="6175">u</m>
+                        <m lemma="1336">fumyíhpiithva</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">And when she finished, then she blew the pain away.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="5163">púyava</m>
+                    </w>
+                    <w>
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w>
+                        <m lemma="3969">kúkuum</m>
+                    </w>
+                    <w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+                    <w>
+                        <m lemma="6381">vaa</m>
+                    </w>
+                    <w gl="she had">
+                        <m lemma="5506">t</m>
+                        <m lemma="6175">óo</m>
+					</w>
+					<w gl="do again">
+                        <m lemma="2674">p</m>
+                        <m lemma="4086">kuupha</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">Then she did the same thing.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="1372">hâari</m>
+                    </w>
+                    <w>
+                        <m lemma="72">aax</m>
+                    </w>
+                    <w gl="she had">
+                        <m lemma="5506">t</m>
+                        <m lemma="6175">óo</m>
+					</w>
+					<w gl="take off">
+                        <m lemma="5312">sáan</m>
+                        <m lemma="5475">sur</m>
+                    </w>
+                    <w gl="the sick">
+                        <m lemma="4407">pa</m>
+                        <m lemma="7094">yíkihar</m>
+                    </w>
+                    <w>
+                        <m lemma="3752">káru</m>
+                    </w>
+                    <w>
+                        <m lemma="1372">hâari</m>
+                    </w>
+                    <w>
+                        <m lemma="6014">thúkin</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">Sometimes she took blood off of the sick person, and sometimes bile.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="5163">púyava</m>
+                    </w>
+                    <w>
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w>
+                        <m lemma="3745">kári</m>
+                    </w>
+                    <w>
+                        <m lemma="5506">t</m>
+                        <m lemma="6175">u</m>
+                        <m lemma="3909">kôoha</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">And so then she finished.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w gl="in water">
+                        <m lemma="2940">íshaha</m>
+                        <m lemma="3660">k</m>
+                    </w>
+                    <w gl="she had">
+                        <m lemma="5506">t</m>
+                        <m lemma="6175">óo</m>
+					</w>
+					<w>
+                        <m lemma="4443">páatva</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">And she bathed in water.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w gl="she had">
+                        <m lemma="5506">t</m>
+                        <m lemma="6175">óo</m>
+					</w>
+					<w gl="crawl back indoors">
+                        <m lemma="2674">p</m>
+                        <m lemma="6606">vôonfuruk</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">And she came indoors again.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="5163">púyava</m>
+                    </w>
+                    <w>
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w>
+                        <m lemma="3745">kári</m>
+                    </w>
+                    <w gl="she smoked">
+                        <m lemma="5506">t</m>
+                        <m lemma="6175">u</m>
+                        <m lemma="1531">héer</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">Then she smoked.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w>
+                        <m lemma="3745">kári</m>
+                    </w>
+                    <w>
+                        <m lemma="815">áv</m>
+                    </w>
+                    <w>
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w gl="they make for">
+                        <m lemma="3977">kun</m>
+                        <m lemma="2358">íkyee</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">And they gave her food.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w gl="so">
+                        <m lemma="6570">víri</m>
+                        <m lemma="6383">va</m>
+                    </w>
+                    <w>
+                        <m lemma="6675">vúra</m>
+                    </w>
+                    <w>
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w>
+                        <m lemma="3906">koo</m>
+                    </w>
+                </txt>.
+                <trans lang="eng">That's all.</trans>
+            </s>
+        </paragraph>
+    </data>
+</text>

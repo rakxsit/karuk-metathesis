@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="VS-03" audio-source="karuk-2011-01-29-vs-1">
+    <metadata>
+        <title>Sentences: questions</title>
+        <author>Vina <alph>Smith</alph></author>
+        <date>2011</date>
+        <publication>Unpublished (recorded by Andrew Garrett, Line Mikkelsen, and Tammy Stark on
+            January 29, 2011)</publication>
+		<genre type="elicitation"/>
+    </metadata>
+    <data>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_01" audio-start-time="2:19">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6965">xúun</m>
+                    </w>
+                    <w>
+                        <m lemma="2671">íp</m>
+                    </w>
+                    <w gl="I ate it">
+                        <m lemma="4349">ni</m>
+                        <m lemma="814">'av</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I ate acorn soup.</trans>
+                <note>This example does not use the final -at past suffix, at least, it is
+                    completely inaudible</note>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_02" audio-start-time="2:29">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6965">xúun</m>
+                    </w>
+                    <w>
+                        <m lemma="2671">íp</m>
+                    </w>
+                    <w gl="I ate it">
+                        <m lemma="4349">ni</m>
+                        <m lemma="814">'áv</m>
+                        <m lemma="738">at</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I ate acorn soup.</trans>
+                <note>Is xuun accented? If so, why? (It shouldn't -- may just be prosodic?) This
+                    example uses the final -at past marker</note>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_03" audio-start-time="3:53">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="1281">fâat</m>
+                    </w>
+                    <w gl="you ate it">
+                        <m lemma="1418">i</m>
+                        <m lemma="814">'áv</m>
+                        <m lemma="1378">aheen</m>
+                    </w>?
+                </txt>
+                <trans lang="eng">What did you eat?</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_04" audio-start-time="4:15">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="1281">fâat</m>
+                    </w>
+                    <w gl="you are going to eat it">
+                        <m lemma="1418">i</m>
+                        <m lemma="814">'áv</m>
+                        <m lemma="1379">eesh</m>
+                    </w>?
+                </txt>
+                <trans lang="eng">What are you going to eat?</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_05" audio-start-time="4:22">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="1281">fâat</m>
+                    </w>
+                    <w gl="you are eating it">
+                        <m lemma="1418">i</m>
+                        <m lemma="814">'áam</m>
+                        <m lemma="6035">ti</m>
+                    </w>
+                    <w>
+                        <m lemma="4716">payêem</m>
+                    </w>?
+                </txt>
+                <trans lang="eng">What are you eating now?</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_06" audio-start-time="4:50">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="1281">fâat</m>
+                    </w>
+                    <w gl="that you are eating it">
+                        <m lemma="4408">p</m>
+                        <m lemma="1418">ee</m>
+                        <m lemma="814">'áam</m>
+                        <m lemma="6035">ti</m>
+                    </w>?
+                </txt>
+                <trans lang="eng">What are you eating?</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_07" audio-start-time="6:42">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="234">akâay</m>
+                    </w>
+                    <w gl="he ate it">
+                        <m lemma="6175">u</m>
+                        <m lemma="814">'áv</m>
+                        <m lemma="1378">aheen</m>
+                    </w>?
+                </txt>
+                <trans lang="eng">Who ate it?</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_08" audio-start-time="9:03">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="1375">hárivari</m>
+                    </w>
+                    <w gl="you ate it">
+						<m lemma="1419">i</m>
+                        <m lemma="814">'áv</m>
+                        <m lemma="1378">aheen</m>
+                    </w>
+                    <w gl="the potato">
+                        <m lemma="4407">pa</m>
+                        <m lemma="5128">putíruh</m>
+                    </w>?
+                </txt>
+                <trans lang="eng">When did you eat the potato?</trans>
+                <note>I couldn't hear person inflection in any of the instances of this
+                    sentence.</note>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_09">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6381">vaa</m>
+                    </w>
+                    <w>
+                        <m lemma="1402">húm</m>
+                    </w>
+                    <w gl="you ate it">
+                        <m lemma="1418">i</m>
+                        <m lemma="814">'áv</m>
+                        <m lemma="1378">aheen</m>
+                    </w>?
+                </txt>
+                <trans lang="eng">Did you eat it?</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_10">
+                <txt lang="kyh">
+                    <w gl="the potato">
+                        <m lemma="4407">pa</m>
+                        <m lemma="5128">putíruh</m>
+                    </w>
+                    <w>
+                        <m lemma="1402">húm</m>
+                    </w>
+                    <w gl="you ate it">
+                        <m lemma="1418">i</m>
+                        <m lemma="814">'áv</m>
+                        <m lemma="1378">aheen</m>
+                    </w>?
+                </txt>
+                <trans lang="eng">Did you eat the potato?</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_11">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6381">vaa</m>
+                    </w>
+                    <w>
+                        <m lemma="1402">húm</m>
+                    </w>
+                    <w gl="that you ate it">
+                        <m lemma="4408">p</m>
+                        <m lemma="1418">ee</m>
+                        <m lemma="814">'áv</m>
+                        <m lemma="1378">aheen</m>
+                    </w>?
+                </txt>
+                <trans lang="eng">Did you eat it?</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_12">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6381">vaa</m>
+                    </w>
+                    <w>
+                        <m lemma="1402">húm</m>
+                    </w>
+                    <w gl="that you ate it">
+                        <m lemma="4408">p</m>
+                        <m lemma="1418">ee</m>
+                        <m lemma="814">'áv</m>
+                        <m lemma="1378">aheen</m>
+                    </w>
+                    <w gl="the potato">
+                        <m lemma="4407">pa</m>
+                        <m lemma="5128">putíruh</m>
+                    </w>?
+                </txt>
+                <trans lang="eng">Did you eat the potato?</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_13">
+                <txt lang="kyh">
+                    <w gl="the potato">
+                        <m lemma="4407">pa</m>
+                        <m lemma="5128">putíruh</m>
+                    </w>
+                    <w>
+                        <m lemma="1402">húm</m>
+                    </w>
+                    <w gl="you ate">
+                        <m lemma="1418">i</m>
+                        <m lemma="814">'áv</m>
+                        <m lemma="1378">aheen</m>
+                    </w>?
+                </txt>
+                <trans lang="eng">Did you eat the potato?</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_14">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="4299">naa</m>
+                    </w>
+                    <w gl="I am looking at it">
+                        <m lemma="4349">ní</m>
+                        <m lemma="2570">muus</m>
+                        <m lemma="6035">tih</m>
+                    </w>
+                    <w>
+                        <m lemma="6381">váa</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">I am looking at it.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_15">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="1281">fâat</m>
+                    </w>
+                    <w gl="you are looking at it">
+                        <m lemma="1418">í</m>
+                        <m lemma="2570">muus</m>
+                        <m lemma="6035">ti</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">What are you looking at?</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_16">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="1281">fâat</m>
+                    </w>
+                    <w gl="you are looking at it">
+                        <m lemma="1418">í</m>
+                        <m lemma="2570">muus</m>
+                        <m lemma="6035">tih</m>
+                    </w>
+                    <w>
+                        <m lemma="1656">íim</m>
+                    </w>?
+                </txt>
+                <trans lang="eng">What are you looking at?</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_17">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6381">vaa</m>
+                    </w>
+                    <w>
+                        <m lemma="1402">húm</m>
+                    </w>
+                    <w gl="that you are looking at it">
+                        <m lemma="4408">p</m>
+                        <m lemma="1418">ée</m>
+                        <m lemma="2570">muus</m>
+                        <m lemma="6035">ti</m>
+                    </w>?
+                </txt>
+                <trans lang="eng">Are you looking at it?</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_18">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6381">váa</m>
+                    </w>
+                    <w>
+                        <m lemma="1402">húm</m>
+                    </w>
+                    <w gl="you are looking at it">
+                        <m lemma="1418">í</m>
+                        <m lemma="2570">muus</m>
+                        <m lemma="6035">ti</m>
+                    </w>?
+                </txt>
+                <trans lang="eng">Are you looking at it?</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_19">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6381">vaa</m>
+                    </w>
+                    <w>
+                        <m lemma="1402">húm</m>
+                    </w>
+                    <w gl="that you are looking at it">
+                        <m lemma="4408">p</m>
+                        <m lemma="1418">ée</m>
+                        <m lemma="2570">muus</m>
+                        <m lemma="6035">tih</m>
+                    </w>
+                    <w>
+                        <m lemma="1656">íim</m>
+                    </w>?
+                </txt>
+                <trans lang="eng">Are you looking at it?</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_20">
+                <txt lang="kyh">
+                    <w gl="the cat">
+                        <m lemma="4407">pa</m>
+                        <m lemma="5120">púsihich</m>
+                    </w>
+                    <w gl="you are looking at it">
+                        <m lemma="1418">í</m>
+                        <m lemma="2570">muus</m>
+                        <m lemma="6035">tih</m>
+                    </w>
+                    <w>
+                        <m lemma="1402">hum</m>
+                    </w>?
+                </txt>
+                <trans lang="eng">Are you looking at the cat?</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_21">
+                <txt lang="kyh">
+                    <w gl="the cat">
+                        <m lemma="4407">pa</m>
+                        <m lemma="5120">púsihich</m>
+                    </w>
+                    <w gl="you are looking at it">
+                        <m lemma="1418">í</m>
+                        <m lemma="2570">muus</m>
+                        <m lemma="6035">tih</m>
+                    </w>
+                    <w>
+                        <m lemma="1656">íim</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">You are looking at the cat.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2011-01-29-vs-1_22">
+                <txt lang="kyh">
+                    <w>
+                        <m lemma="6381">vaa</m>
+                    </w>
+                    <w gl="my cat">
+                        <m lemma="4407">pa</m>
+                        <m lemma="4326">nani</m>
+                        <m lemma="5120">púsihich</m>
+                    </w>
+                    <w gl="it likes it">
+                        <m lemma="6175">u</m>
+                        <m lemma="5672">tapkûupu</m>
+                        <m lemma="6035">ti</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">My cat likes it.</trans>
+            </s>
+        </paragraph>
+    </data>
+</text>

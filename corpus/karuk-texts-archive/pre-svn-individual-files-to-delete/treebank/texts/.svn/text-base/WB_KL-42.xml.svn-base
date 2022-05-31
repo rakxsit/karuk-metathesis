@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-42">
+    <metadata>
+        <title>"The Story of Crane"</title>
+        <author>Nettie <alph>Reuben</alph></author>
+        <date>1957</date>
+        <publication>William Bright, <em>The Karok Language</em> (1957), pp. 242-243, Text 42</publication>
+    </metadata>
+    <data>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3930">koovúra</m>
+					</w>
+					<w gl="they were living">
+                        <m lemma="3977">kun</m>
+                        <m lemma="508">'áraarahi</m>
+                        <m lemma="6035">ti</m>
+                    </w>,
+					<w>
+						<m lemma="5546">taayvávan</m>
+					</w>
+					<w>
+						<m lemma="6675">vúra</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Everyone was (there), lots of people.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="1109">chí</m>
+					</w>
+					<w gl="they were going to leave">
+						<m lemma="3977">kun</m>
+						<m lemma="3496">ívyiihshipree</m>
+						<m lemma="1379">vish</m>
+					</w>
+					<w>
+						<m lemma="6219">uknamxánahich</m>
+					</w>,
+					<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w>
+						<m lemma="1109">chí</m>
+					</w>
+					<w gl="they were going to have a flower dance">
+						<m lemma="3977">kun</m>
+						<m lemma="1593">'íhuk</m>
+						<m lemma="6648">vunaa</m>
+						<m lemma="1379">vish</m>
+					</w>.
+				</txt>
+				<trans lang="eng">They were going to leave for 'uknamxánahich, they were going to have a flower dance there.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w>
+						<m lemma="6847">xás</m>
+					</w> "
+					<w>
+						<m lemma="1107">chémi</m>
+					</w>,
+					<w gl="let's put necklaces on you guys!">
+						<m lemma="3830">kiik</m>
+						<m lemma="4811">piikívmath</m>
+						<m lemma="398">ap</m>
+					</w>."
+				</txt>
+				<trans lang="eng">And (they said), "All right, put necklaces on them!"</trans>
+			</s>
+			<s>
+				<txt lang="kyh"> "
+					<w>
+						<m lemma="1107">chémi</m>
+					</w>."
+				</txt>
+				<trans lang="eng">"All right."</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6174">ta'ítam</m>
+					</w>
+					<w gl="they put necklaces on">
+						<m lemma="3977">kun</m>
+						<m lemma="4812">píikivshiiprin</m>
+						<m lemma="1378">aheen</m>
+					</w>.
+				</txt>
+				<trans lang="eng">So they put necklaces on.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w> "
+					<w>
+						<m lemma="1144">chími</m>
+					</w>
+					<w>
+						<m lemma="980">áxvaay</m>
+					</w>
+					<w gl="let's put necklaces on him">
+						<m lemma="4370">nú</m>
+						<m lemma="4811">piikivmath</m>
+						<m lemma="1419">i</m>
+					</w>."
+				</txt>
+				<trans lang="eng">And (they said), "Let's put necklaces on Crane."</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="6174">ta'ítam</m>
+					</w>
+					<w gl="they put necklaces on him">
+						<m lemma="3977">kun</m>
+						<m lemma="4811">píikivmath</m>
+						<m lemma="1378">aheen</m>
+					</w>.
+				</txt>
+				<trans lang="eng">So they put necklaces on him.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6675">vúra</m>
+					</w>
+					<w>
+						<m lemma="6307">uum</m>
+					</w>
+					<w>
+						<m lemma="5541">táay</m>
+					</w>
+					<w gl="he had">
+						<m lemma="4408">pa</m>
+						<m lemma="5506">t</m>
+						<m lemma="6175">óo</m>
+					</w>
+					<w>
+						<m lemma="4812">piikívshiip</m>
+					</w>,
+					<w>
+						<m lemma="5915">thíin</m>
+					</w>
+					<w>
+						<m lemma="1010">axyár</m>
+					</w>
+					<w>
+						<m lemma="6675">vúra</m>
+					</w>.
+				</txt>
+				<trans lang="eng">He had lots of necklaces on, (his neck was) full up to his throat-glands.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="980">áxvaay</m>
+					</w> "
+					<w>
+						<m lemma="1107">chémi</m>
+					</w>,"
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w>
+						<m lemma="3906">koo</m>
+					</w>,
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="they put on all the necklaces">
+						<m lemma="3977">kun</m>
+						<m lemma="4812">piikívshiip</m>
+					</w>
+					<w>
+						<m lemma="3930">koovúra</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And Crane (said), "All right," and that was all, he had on all the necklaces.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="980">áxvaay</m>
+					</w>
+					<w gl="he stood up">
+						<m lemma="6175">u</m>
+						<m lemma="1618">hyárihship</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Then Crane stood up.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="1115">chîimich</m>
+					</w>
+					<w>
+						<m lemma="5328">sáruk</m>
+					</w>
+					<w>
+						<m lemma="4357">ník</m>
+					</w>
+					<w gl="it was lying coiled">
+						<m lemma="6175">u</m>
+						<m lemma="253">'ákichnim</m>
+						<m lemma="84">ach</m>
+					</w>
+					<w gl="his necklaces">
+						<m lemma="4407">pa</m>
+						<m lemma="4260">mú</m>
+						<m lemma="1652">'iikiv</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And his necklaces were just a little dab down at the bottom (of his neck)</trans>
+				<note publish="yes">Bright: "The point is that Crane had his neck retracted when the necklaces were put on. When he stood up, his neck was so long that the necklaces were hardly noticeable."</note>
+			</s>
+		</paragraph>.
+	</data>
+</text>
+					
+			
+						
+					
+					
+					
+					
+						

@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-16">
+    <metadata>
+        <title>"Coyote Marries His Own Daughter"</title>
+        <author>Julia <alph>Starritt</alph></author>
+        <date>1957</date>
+        <publication>William Bright, <em>The Karok Language</em> (1957), pp. 202-205, Text 16</publication>
+    </metadata>
+    <data>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-16:1" head="WB_KL-16:3" synrel="ADV">
+						<m lemma="3670">káan</m>
+					</w>
+                    <w id="WB_KL-16:2" head="WB_KL-16:3" synrel="SBJ">
+						<m lemma="4782">pihnêefich</m>
+					</w>
+                    <w gl="he lives" id="WB_KL-16:3" head="0" synrel="PRED">
+						<m lemma="6175">ú</m>
+						<m lemma="1974">krii</m>
+					</w>, 
+					<w gl="his daughter" id="WB_KL-16:4" head="WB_KL-16:5" synrel="COMP">
+						<m lemma="4260">mu</m>
+						<m lemma="7067">yeeripáxvu</m>
+					</w>
+                    <w id="WB_KL-16:5" head="WB_KL-16:6" synrel="SBJ">
+						<m lemma="6756">xákaan</m>
+					</w>
+                    <w gl="they lived" id="WB_KL-16:6" head="0" synrel="PRED">
+						<m lemma="3977">kun</m>
+						<m lemma="1664">'iin</m>
+					</w>, 
+					<w gl="his wife" id="WB_KL-16:7" head="WB_KL-16:9" synrel="SBJ">
+						<m lemma="4260">mu</m>
+						<m lemma="1576">hrôoha</m>
+					</w>
+                    <w id="WB_KL-16:8" head="WB_KL-16:9" synrel="TAM"> <!-- should tá be split off as a separate morpheme and clitic here? -->
+						<m lemma="5630">támit</m>
+					</w>
+                    <w gl="she died" id="WB_KL-16:9" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="3441">'ív</m>
+						<m lemma="738">at</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">Coyote lived there, he and his daughter lived, his wife had died.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-16:10" head="WB_KL-16:14" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w gl="the daughter" id="WB_KL-16:11" head="WB_KL-16:14" synrel="SBJ">
+						<m lemma="4407" id="WB_KL-16:12" head="WB_KL-16:11" synrel="ATR">pa</m>
+						<m lemma="7067">yeeripáxvu</m>
+					</w>
+                    <w gl="she" id="WB_KL-16:13" head="WB_KL-16:14" synrel="TAM">
+						<m lemma="5506">t</m>
+						<m lemma="6175">óo</m>
+                    </w>
+                    <w id="WB_KL-16:14" head="0" synrel="PRED">
+						<m lemma="3781">kêechha</m>
+					</w>, 
+					<w id="WB_KL-16:15" head="WB_KL-16:17" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w id="WB_KL-16:16" head="WB_KL-16:17" synrel="SPRED"><!-- synrel="SBJSPRED" or an attribute that states that it predicates over the SBJ -->
+						<m lemma="7000">yâamach</m>
+					</w>
+                    <w gl="she grew up" id="WB_KL-16:17" head="0" synrel="PRED">
+						<m lemma="5506" id="WB_KL-16:18" head="WB_KL-16:17" synrel="TAM">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="1640">'íifship</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">And the girl got big, and she grew up pretty.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-16:19" head="WB_KL-16:22" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w gl="the old man" id="WB_KL-16:20" head="WB_KL-16:22" synrel="SBJ">
+						<m lemma="4407" id="WB_KL-16:21" head="WB_KL-16:20" synrel="ATR">pa</m>
+						<m lemma="4792">pihnîich</m>
+					</w>
+                    <w gl="he falls in love" id="WB_KL-16:22" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="4816">píimni</m>
+					</w>
+                    <w gl="his child" id="WB_KL-16:23" head="WB_KL-16:22" synrel="OBJ">
+						<m lemma="4407" id="WB_KL-16:24" head="WB_KL-16:23">pa</m>
+						<m lemma="4260">mú</m>
+						<m lemma="511">'aramah</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">And the old man fell in love with his child.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-16:25" head="WB_KL-16:26" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w gl="he thinks" id="WB_KL-16:26" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="6939">xús</m>
+					</w> "
+					<w id="WB_KL-16:27" head="WB_KL-16:28" synrel="TAM">
+						<m lemma="6738">xâatik</m>
+					</w>
+                    <w gl="I tell her" id="WB_KL-16:28" head="WB_KL-16:26" synrel="QUOT">
+						<m lemma="4349">ni</m>
+						<m lemma="2733">pêer</m>
+					</w> '
+					<w id="WB_KL-16:29" head="WB_KL-16:30" synrel="TAM">
+						<m lemma="1144">chími</m>
+					</w>
+                    <w gl="get married!" id="WB_KL-16:30" head="WB_KL-16:28" synrel="QUOT">
+						<m lemma="7043">yararah</m>
+						<m lemma="1419">i</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">And he thought, "Let me tell her, 'Get married!</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-16:31" head="WB_KL-16:34" synrel="DIS">
+						<m lemma="6381">vaa</m>
+					</w>
+                    <w id="WB_KL-16:32" head="WB_KL-16:34" synrel="ADV">
+						<m lemma="3670">káan</m>
+					</w>
+                    <w id="WB_KL-16:33" head="WB_KL-16:34" synrel="SBJ">
+						<m lemma="833">ávansa</m>
+					</w>
+                    <w gl="he lives" id="WB_KL-16:34" head="0" synrel="PRED">
+						<m lemma="6175">ú</m>
+						<m lemma="1974">krii</m>
+					</w>, 
+					<w id="WB_KL-16:35" head="WB_KL-16:37" synrel="ADV">
+						<m lemma="4717">páykuuk</m>
+					</w>
+                    <w id="WB_KL-16:36" head="WB_KL-16:37" synrel="ADV">
+						<m lemma="7085">yíiv</m>
+					</w>
+                    <w gl="he lives" id="WB_KL-16:37" head="0" synrel="PRED">
+						<m lemma="6175">ú</m>
+						<m lemma="1974">krii</m>
+					</w>, 
+					<w gl="on the other side of the mountain" id="WB_KL-16:38" head="WB_KL-16:37" synrel="ADV">
+						<m lemma="4407" id="WB_KL-16:39" head="WB_KL-16:38" synrel="ATR">pa</m>
+						<m lemma="6162">tuyshipriha</m>
+						<m lemma="411">'ápap</m>
+						<m lemma="3731">kam</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">A man lives there, he lives far off there, on the other side of the
+                    mountain.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-16:40" head="WB_KL-16:44" synrel="DIS">
+						<m lemma="3978">kúna</m>
+					</w>
+                    <w id="WB_KL-16:41" head="WB_KL-16:44" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w id="WB_KL-16:42" head="WB_KL-16:44" synrel="ADV">
+						<m lemma="3999">kúnish</m>
+					</w>
+                    <w id="WB_KL-16:43" head="WB_KL-16:44" synrel="TAM">
+						<m lemma="5506">tá</m>
+					</w>
+                    <w id="WB_KL-16:44" head="0" synrel="PRED">
+						<m lemma="509">arákaas</m>
+					</w>.'" 
+				</txt>
+                <trans lang="eng">But he's sort of old.'"</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-16:45" head="WB_KL-16:46" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w gl="he is saying to her" id="WB_KL-16:46" head="0" synrel="PRED">
+						<m lemma="6175">ú</m>
+						<m lemma="2733">peen</m>
+						<m lemma="6035">ti</m>
+					</w>
+                    <w gl="his child" id="WB_KL-16:47" head="WB_KL-16:46" synrel="IO"><!-- synrel="OBJ" ? -->
+						<m lemma="4407" id="WB_KL-16:48" head="WB_KL-16:47" synrel="ATR">pa</m>
+						<m lemma="4260">mú</m>
+						<m lemma="511">'aramah</m>
+					</w>, "
+					<w id="WB_KL-16:49" head="WB_KL-16:52" synrel="DIS">
+						<m lemma="3978">kúna</m>
+					</w>
+                    <w id="WB_KL-16:50" head="WB_KL-16:52" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w id="WB_KL-16:51" head="WB_KL-16:52" synrel="COMP">
+						<m lemma="7049">yáv</m>
+					</w>
+                    <w gl="that you will be living in that way" id="WB_KL-16:52" head="WB_KL-16:46" synrel="QUOT">
+						<m lemma="4408" id="WB_KL-16:53" head="WB_KL-16:52" synrel="SUB">p</m>
+						<m lemma="1418">ee</m>
+						<m lemma="4004">kup</m>
+						<m lemma="1974">eekrêe</m>
+						<m lemma="169">hi</m>
+						<m lemma="6035">ti</m>
+						<m lemma="1379">heesh</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">And he told his child, "But you will live well.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-16:54" head="WB_KL-16:56" synrel="TAM">
+						<m lemma="6738">xâatik</m>
+					</w>
+                    <w id="WB_KL-16:55" head="WB_KL-16:56" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w gl="get married!" id="WB_KL-16:56" head="0" synrel="PRED">
+						<m lemma="7043">yararah</m>
+						<m lemma="1419">i</m>
+					</w>, 
+					<w id="WB_KL-16:57" head="WB_KL-16:59" synrel="SBJ">
+						<m lemma="1656">iim</m>
+					</w>
+                    <w id="WB_KL-16:58" head="WB_KL-16:59" synrel="TAM">
+						<m lemma="5506">t</m>
+						<m lemma="1418">ée</m>
+					</w>
+                    <w gl="gotten big" id="WB_KL-16:59" head="0" synrel="PRED">
+						<m lemma="3781">kêechha</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">You should get married, you've gotten big.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-16:60" head="WB_KL-16:63" synrel="DIS">
+						<m lemma="3752">káru</m>
+					</w>
+                    <w id="WB_KL-16:61" head="WB_KL-16:63" synrel="SBJ">
+						<m lemma="4299">naa</m>
+					</w>
+                    <w id="WB_KL-16:62" head="WB_KL-16:63" synrel="TAM">
+						<m lemma="5506">tá</m>
+					</w>
+                    <w gl="I become old" id="WB_KL-16:63" head="0" synrel="PRED">
+						<m lemma="4349">ni</m>
+						<m lemma="4793">pihnîichha</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">And I've gotten old.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-16:64" head="WB_KL-16:69" synrel="ADV">
+						<m lemma="1396">hôoy</m> 
+					</w>
+					<w id="WB_KL-16:65" head="WB_KL-16:69" synrel="ADV">
+						<m lemma="1457">íf</m>
+					</w>
+                    <w id="WB_KL-16:66" head="WB_KL-16:67" synrel="COMP">
+						<m lemma="239">akáray</m>
+					</w>
+                    <w id="WB_KL-16:67" head="WB_KL-16:69" synrel="SBJ">
+						<m lemma="1670">îin</m>
+					</w>
+                    <w id="WB_KL-16:68" head="WB_KL-16:69" synrel="OBJ"><!-- synrel="COMP"? what is argument structure of the verb when used in this idiom? -->
+						<m lemma="6971">xuus</m>
+					</w>
+                    <w gl="will be taking it of you" id="WB_KL-16:69" head="0" synrel="PRED">
+						<m lemma="1418">i</m>
+						<m lemma="1260">'éeth</m>
+						<m lemma="6035">ti</m>
+						<m lemma="1379">heesh</m>
+                        <m lemma="398">ap</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">Nobody will take care of you.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-16:70" head="WB_KL-16:72" synrel="SBJ">
+						<m lemma="4299">naa</m>
+					</w>
+                    <w id="WB_KL-16:71" head="WB_KL-16:72" synrel="TAM">
+						<m lemma="5506">tá</m>
+					</w>
+                    <w gl="I become old" id="WB_KL-16:72" head="0" synrel="PRED">
+						<m lemma="4349">ni</m>
+						<m lemma="4793">pihnîichha</m>
+					</w>." 
+				</txt>
+                <trans lang="eng">I've gotten old."</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-16:73" head="WB_KL-16:74" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w gl="she is saying" id="WB_KL-16:74" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="2767">píti</m>
+					</w> "
+					<w id="WB_KL-16:75" head="WB_KL-16:74" synrel="QUOT">
+						<m lemma="1107">chémi</m>
+					</w>." 
+				</txt>
+                <trans lang="eng">And she said, "All right."</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">"
+                    <w id="WB_KL-16:76" head="WB_KL-16:82" synrel="DIS">
+						<m lemma="3978">kúna</m>
+					</w>
+                    <w id="WB_KL-16:77" head="WB_KL-16:82" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w gl="his house" id="WB_KL-16:78" head="WB_KL-16:82" synrel="SBJ">
+						<m lemma="4407" id="WB_KL-16:79" head="WB_KL-16:78" synrel="ATR">pa</m>
+						<m lemma="4260">mu</m>
+						<m lemma="2032">krívraam</m>
+					</w>
+                    <w id="WB_KL-16:80" head="WB_KL-16:82" synrel="COMP"><!-- synrel="APOS" if postverbal is obj/comp -->
+						<m lemma="6381">vaa</m>
+					</w>
+                    <w id="WB_KL-16:81" head="WB_KL-16:82" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w gl="it looks like" id="WB_KL-16:82" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="2572">músahi</m>
+						<m lemma="6035">ti</m>
+					</w>
+                    <w gl="our house" id="WB_KL-16:83" head="WB_KL-16:80" synrel="APOS"><!-- external-dependency="yes" --><!-- synrel="OBJ" -->
+						<m lemma="4407" id="WB_KL-16:84" head="WB_KL-16:83" synrel="ATR">pa</m>
+						<m lemma="4327">nunu</m>
+						<m lemma="2032">krívraam</m>
+					</w>, 
+					<w id="WB_KL-16:85" head="WB_KL-16:91" synrel="SBJ">
+						<m lemma="3930">koovúra</m>
+					</w>
+                    <w gl="that they are many" id="WB_KL-16:86" head="WB_KL-16:91" synrel="ATR">
+						<m lemma="4408" id="WB_KL-16:87" head="WB_KL-16:86" synrel="SUB">p</m>
+						<m lemma="6175">oo</m>
+						<m lemma="5542">tâayhi</m>
+						<m lemma="6035">ti</m>
+					</w>
+                    <w id="WB_KL-16:88" head="WB_KL-16:86" synrel="ADV">
+						<m lemma="1671">iinâak</m>
+					</w>
+                    <w id="WB_KL-16:89" head="WB_KL-16:91" synrel="COMP"><!-- synrel="APOS" if postverbal is obj/comp -->
+						<m lemma="6381">vaa</m>
+					</w>
+                    <w id="WB_KL-16:90" head="WB_KL-16:91" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w gl="it looks like" id="WB_KL-16:91" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="2572">músahi</m>
+						<m lemma="6035">ti</m>
+					</w>
+                    <w id="WB_KL-16:92" head="WB_KL-16:94" synrel="ADV">
+						<m lemma="4385">ôok</m>
+					</w>
+                    <w id="WB_KL-16:93" head="WB_KL-16:94" synrel="ADV">
+						<m lemma="1671">iinâak</m>
+					</w>
+                    <w gl="that they are many" id="WB_KL-16:94" head="WB_KL-16:89" synrel="APOS"><!-- external-dependency="yes" --><!-- synrel="OBJ" -->
+						<m lemma="4408" id="WB_KL-16:95" head="WB_KL-16:94" synrel="SUB">p</m>
+						<m lemma="6175">oo</m>
+						<m lemma="5542">tâayhi</m>
+						<m lemma="6035">tih</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">"But his house looks just like our house, everything that is inside looks just
+                    like what is inside here.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-16:96" head="WB_KL-16:100" synrel="DIS">
+						<m lemma="3752">káru</m>
+					</w>
+                    <w id="WB_KL-16:97" head="WB_KL-16:101" synrel="APOS">
+						<m lemma="6307">uum</m>
+					</w>
+                    <w id="WB_KL-16:98" head="WB_KL-16:100" synrel="OBJ"><!-- synrel="COMP" --><!-- synrel="SBJ" and the nee on the verb is id 4296 -->
+						<m lemma="4299">naa</m>
+					</w>
+                    <w id="WB_KL-16:99" head="WB_KL-16:100" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w gl="he looks like me" id="WB_KL-16:100" head="0" synrel="PRED">
+						<m lemma="4294">nee</m>
+						<m lemma="2572">músahi</m>
+						<m lemma="6035">ti</m>
+					</w>
+                    <!--how to translate verb? right na?-->
+                    <w gl="the man" id="WB_KL-16:101" head="WB_KL-16:100" synrel="SBJ"><!-- synrel="COMP" when naa is SBJ -->
+						<m lemma="4407" id="WB_KL-16:102" head="WB_KL-16:101" synrel="ATR">pa</m>
+						<m lemma="833">'ávansa</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">And he looks just like me, the man.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w gl="his ear" id="WB_KL-16:103" head="WB_KL-16:107" synrel="SBJ">
+						<m lemma="4407" id="WB_KL-16:104" head="WB_KL-16:103" synrel="ATR">pa</m>
+						<m lemma="4260">mu</m>
+						<m lemma="6058">tiiv</m>
+					</w>
+                    <w id="WB_KL-16:105" head="WB_KL-16:103" synrel="ATR"><!-- synrel="DIS" -->
+						<m lemma="3752">káru</m>
+					</w>
+                    <w id="WB_KL-16:106" head="WB_KL-16:107" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w gl="reddish" id="WB_KL-16:107" head="0" synrel="PRED">
+						<m lemma="78">aaxkúnish</m>
+						<m lemma="1420">ich</m>
+						<m lemma="584">as</m>
+					</w>, 
+					<w id="WB_KL-16:108" head="WB_KL-16:112" synrel="COMP"><!--head="WB_KL-16:113" synrel="APOS" if postverbal clause is obj/comp -->
+						<m lemma="6381">vaa</m>
+					</w>
+                    <w id="WB_KL-16:109" head="WB_KL-16:112" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w gl="as I" id="WB_KL-16:110" head="WB_KL-16:113" synrel="POSS">
+						<m lemma="4408" id="WB_KL-16:111" head="WB_KL-16:112" synrel="SUB">pá</m>
+						<m lemma="4299">naa</m>
+					</w>
+                    <w gl="I look like" id="WB_KL-16:112" head="WB_KL-16:107" synrel="ADV">
+						<m lemma="4296">nee</m>
+						<m lemma="2572">músahi</m>
+						<m lemma="6035">ti</m>
+					</w>
+                    <w gl="my ear" id="WB_KL-16:113" head="WB_KL-16:112" synrel="SBJ"><!-- if nee is 4294, this is OBJ -->
+						<m lemma="4407" id="WB_KL-16:114" head="WB_KL-16:113" synrel="ATR">pa</m>
+						<m lemma="4326">naní</m>
+						<m lemma="6058">tiiv</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">His ears are reddish too, just like my ears look.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-16:115" head="WB_KL-16:116" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w gl="you won't be homesick" id="WB_KL-16:116" head="0" synrel="PRED">
+						<m lemma="5082" id="WB_KL-16:117" head="WB_KL-16:116" synrel="NEG">pu</m>
+						<m lemma="5262">sakeemvárihv</m>
+						<m lemma="1379">eesh</m>
+						<m lemma="1371">ara</m>
+					</w>, 
+					<w id="WB_KL-16:118" head="WB_KL-16:120" synrel="SBJ">
+						<m lemma="3930">koovúra</m>
+					</w>
+                    <w id="WB_KL-16:119" head="WB_KL-16:120" synrel="COMP"><!-- head="WB_KL-16:121" synrel="APOS" -->
+						<m lemma="6381">vaa</m>
+					</w>
+                    <w gl="it looks like" id="WB_KL-16:120" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="2572">músahi</m>
+						<m lemma="6035">ti</m>
+					</w>
+                    <w gl="our possessions" id="WB_KL-16:121" head="WB_KL-16:120" synrel="APOS"><!-- external-dependency="yes"--><!-- head="WB_KL-16:120" synrel="OBJ" or COMP -->
+						<m lemma="4407" id="WB_KL-16:122">pa</m>
+						<m lemma="4327">nunú</m>
+						<m lemma="6319">'uup</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">You won't be homesick, everything looks like our things.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-16:123" head="WB_KL-16:124" synrel="TAM">
+						<m lemma="1144">chími</m>
+					</w>
+                    <w gl="leave" id="WB_KL-16:124" head="0" synrel="PRED">
+						<m lemma="6396">vâaram</m>
+						<m lemma="1419">i</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">Go on.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-16:125" head="WB_KL-16:129" synrel="DIS">
+						<m lemma="3978">kúna</m>
+					</w>
+                    <w id="WB_KL-16:126" head="WB_KL-16:129" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w id="WB_KL-16:127" head="WB_KL-16:129" synrel="ADV">
+						<m lemma="4717">páykuuk</m>
+					</w>
+                    <w id="WB_KL-16:128" head="WB_KL-16:129" synrel="ADV">
+						<m lemma="7085">yíiv</m>
+					</w>
+                    <w gl="go travel" id="WB_KL-16:129" head="0" synrel="PRED">
+						<m lemma="205">áhoo</m>
+						<m lemma="501">n</m>
+					</w>, 
+					<w id="WB_KL-16:130" head="WB_KL-16:133" synrel="ADV">
+						<m lemma="4719">payôok</m>
+					</w>
+                    <w id="WB_KL-16:131" head="WB_KL-16:133" synrel="TAM">
+						<m lemma="6881">xáyfaat</m>
+					</w>
+                    <w gl="you go" id="WB_KL-16:132" head="0" synrel="PRED">
+						<m lemma="1418">i</m>
+						<m lemma="205">'áhoo</m>
+					</w>, 
+					<w gl="the short road" id="WB_KL-16:133" head="WB_KL-16:132" synrel="ADV">
+						<m lemma="4407" id="WB_KL-16:134" head="WB_KL-16:133" synrel="ATR">p</m>
+						<m lemma="2472">eempahee</m>
+						<m lemma="2810">pshûunkinich</m>
+					</w>, 
+					<w id="WB_KL-16:135" head="WB_KL-16:136" synrel="COMP">
+						<m lemma="3678">kâarim</m>
+					</w>
+                    <w gl="you will do" id="WB_KL-16:136" head="0" synrel="PRED">
+						<m lemma="1418">i</m>
+						<m lemma="4014">kupheesh</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">But go by the far way yonder, don't travel (by the way) right here, on the
+                    short road, you'll do badly.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-16:137" head="WB_KL-16:141" synrel="ADV">
+						<m lemma="1361">hâari</m>
+					</w>
+                    <w id="WB_KL-16:138" head="WB_KL-16:141" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w id="WB_KL-16:139" head="WB_KL-16:141" synrel="DIS">
+						<m lemma="6848">xas</m>
+						<m lemma="1729" id="WB_KL-16:140" head="WB_KL-16:141" synrel="DIS">ík</m><!-- synrel="TAM" -->
+					</w>
+                    <w gl="you will visit me here" id="WB_KL-16:141" head="0" synrel="PRED">
+						<m lemma="4294">na</m>
+						<m lemma="2674">pi</m>
+						<m lemma="2576">musarûuk</m>
+						<m lemma="6380">vu</m>
+						<m lemma="6035">ti</m>
+						<m lemma="1379">heesh</m>
+					</w>." 
+				</txt>
+                <trans lang="eng">You can come back to see me sometime."</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-16:142" head="WB_KL-16:144" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w id="WB_KL-16:143" head="WB_KL-16:144" synrel="TAM">
+						<m lemma="6174">ta'ítam</m>
+					</w>
+                    <w gl="she left" id="WB_KL-16:144" haed="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="6396">vâaram</m>
+						<m lemma="1378">aheen</m>
+					</w>.
+				</txt>
+                <trans lang="eng">And so she left.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-16:145" head="WB_KL-16:151" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w gl="when she arrives" id="WB_KL-16:146" head="WB_KL-16:151" synrel="ADV">
+						<m lemma="4408" id="WB_KL-16:147" head="WB_KL-16:146" synrel="SUB">p</m>
+						<m lemma="6175">oo</m>
+						<m lemma="6306">'úum</m>
+					</w>
+                    <w id="WB_KL-16:148" head="WB_KL-16:151" synrel="DIS">
+						<m lemma="7038">yánava</m>
+					</w>
+                    <w id="WB_KL-16:149" head="WB_KL-16:151" synrel="SBJ">
+						<m lemma="3930">koovúra</m>
+					</w>
+                    <w id="WB_KL-16:150" head="WB_KL-16:151" synrel="COMP"><!-- head="WB_KL-16:154" synrel="APOS" -->
+						<m lemma="6381">vaa</m>
+					</w>
+                    <w gl="it looks like" id="WB_KL-16:151" head="0" synrel="PRED">
+						<m lemma="6175">u</m>
+						<m lemma="2572">músahi</m>
+						<m lemma="6035">ti</m>
+					</w>
+                    <w gl="that their outdoors" id="WB_KL-16:152" head="WB_KL-16:154" synrel="SBJ">
+						<m lemma="4408" id="WB_KL-16:153" head="WB_KL-16:152" synrel="SUB">pa</m>
+						<m lemma="4264">mukun</m>
+						<m lemma="1649">'îikam</m>
+					</w>
+                    <w gl="it looks like" id="WB_KL-16:154" head="WB_KL-16:151" synrel="APOS"><!-- head="WB_KL-16:151" synrel="COMP" or OBJ -->
+						<m lemma="6175">u</m>
+						<m lemma="2572">músahi</m>
+						<m lemma="6035">tih</m>
+					</w>, 
+					<w id="WB_KL-16:155" head="WB_KL-16:158" synrel="DIS">
+						<m lemma="6570">víri</m>
+					</w>
+                    <w id="WB_KL-16:156" head="WB_KL-16:158" synrel="ADV">
+						<m lemma="1457">íf</m>
+					</w>
+                    <w id="WB_KL-16:157" head="WB_KL-16:158" synrel="SBJ">
+						<m lemma="3729">kákach</m>
+					</w>
+                    <w gl="how he said" id="WB_KL-16:158" head="0" synrel="PRED">
+						<m lemma="4408" id="WB_KL-16:159" head="WB_KL-16:158" synrel="SUB">p</m>
+						<m lemma="6175">oo</m>
+						<m lemma="2767">píti</m>
+					</w>
+                    <w id="WB_KL-16:160" head="WB_KL-16:161" synrel="COMP">
+						<m lemma="6381">vaa</m>
+					</w>
+                    <w gl="it looks like" id="WB_KL-16:161" head="WB_KL-16:158" synrel="COMP">
+						<m lemma="6175">u</m>
+						<m lemma="2572">músahi</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+                <trans lang="eng">And when she arrived, she saw that everything looked like it looked outside
+                    their house, it was true how daddy said it looked.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w gl="when he comes outdoors"><m lemma="4408">p</m><m lemma="6175">oo</m><m lemma="6618"
+                            >vôonupuk</m></w>
+                    <w gl="the man"><m lemma="4407">pa</m><m lemma="833">'ávansa</m></w>, <w><m lemma="6570"
+                            >víri</m></w>
+                    <w><m lemma="6675">vúra</m></w>
+                    <w><m lemma="6386">vaahyâach</m></w>
+                    <w gl="her father"><m lemma="4407">pa</m><m lemma="4260">mu</m><m lemma="236"
+                        >'áka</m></w>. </txt>
+                <trans lang="eng">And when the man came out, he was just like her father.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w><m lemma="6174">ta'ítam</m></w>
+                    <w><m lemma="6381">vaa</m></w>
+                    <w><m lemma="6675">vúra</m></w>
+                    <w><m lemma="3670">káan</m></w>
+                    <w gl="she lived"><m lemma="6175">u</m><m lemma="1974">krêe</m><m lemma="1378"
+                        >heen</m></w>.</txt>
+                <trans lang="eng">And so she lived there.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w gl="he is saying"><m lemma="6175">u</m><m lemma="2767">píti</m></w> "<w><m
+                            lemma="1144">chími</m></w>
+                    <w gl="your father"><m lemma="4407">pa</m><m lemma="4238">mi</m><m lemma="236"
+                        >'áka</m></w>
+                    <w gl="go to see again"><m lemma="2674">pi</m><m lemma="2575">músan</m></w>." </txt>
+                <trans lang="eng">Then (her husband) said, "Go see your father again."</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w gl="she leaves again"><m lemma="6175">u</m><m lemma="2674">p</m><m lemma="6396"
+                            >vâaram</m></w>. </txt>
+                <trans lang="eng">So she left.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w><m lemma="3969">kúkuum</m></w>
+                    <w><m lemma="6381">vaa</m></w>
+                    <w><m lemma="6675">vúra</m></w>
+                    <w><m lemma="3670">káan</m></w>
+                    <w gl="she goes back"><m lemma="6175">u</m><m lemma="2690">'ípahoo</m></w>
+                    <w><m lemma="4248">míta</m></w>
+                    <w><m lemma="4078">kûukam</m></w>
+                    <w gl="she started from"><m lemma="6175">u</m><m lemma="554">'arávuuk</m><m lemma="738"
+                            >at</m></w>. </txt>
+                <trans lang="eng">And she traveled again the way she had come there.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w gl="when she gets back"><m lemma="4408">p</m><m lemma="6175">oo</m><m lemma="1692"
+                            >'íipma</m></w>, <w><m lemma="7038">yánava</m></w>
+                    <w><m lemma="4792">pihnîich</m></w>
+                    <w gl="he sits"><m lemma="6175">ú</m><m lemma="1974">krii</m></w>. </txt>
+                <trans lang="eng">And when she got back, she saw the old man sitting.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w gl="he was happy"><m lemma="5506">t</m><m lemma="6175">u</m><m lemma="2"
+                            >'aachíchha</m></w>
+                    <w gl="when he had"><m lemma="4408">pa</m><m lemma="5506">t</m><m lemma="6175"
+                            >óo</m></w>
+					<w gl="saw again"><m lemma="2783">pma</m></w>
+                    <w gl="his child"><m lemma="4407">pa</m><m lemma="4260">mú</m><m lemma="511"
+                        >'aramah</m></w>. </txt>
+                <trans lang="eng">And he was happy when he saw his child.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w gl="she is saying"><m lemma="6175">u</m><m lemma="2767">píti</m></w> "<w><m
+                            lemma="6675">vúra</m></w>
+                    <w><m lemma="1456">if</m></w>, <w><m lemma="6381">vaa</m></w>
+                    <w gl="it looks like"><m lemma="6175">u</m><m lemma="2572">músahi</m><m lemma="6035"
+                            >ti</m></w>
+                    <w><m lemma="4385">ôok</m></w>
+                    <w gl="our things"><m lemma="4407">pa</m><m lemma="4327">nanú</m><m lemma="6319"
+                        >'uup</m></w>, <w gl="my husband"><m lemma="4407">pa</m><m lemma="4326">nini</m><m
+                            lemma="828">'ávan</m></w>
+                    <w gl="his house"><m lemma="4260">mu</m><m lemma="2032">krívraam</m></w>." </txt>
+                <trans lang="eng">And she said, "It's true, everything looks like our things here, in my
+                    husband's house."</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w><m lemma="3969">kúkuum</m></w>
+                    <w gl="she leaves again"><m lemma="6175">u</m><m lemma="2674">p</m><m lemma="6396"
+                            >vâaram</m></w>. </txt>
+                <trans lang="eng">Then she left again.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w gl="she is saying"><m lemma="6175">u</m><m lemma="2767">píti</m></w> "<w><m
+                            lemma="5506">tá</m></w>
+                    <w gl="I am tired"><m lemma="4296">na</m><m lemma="6328">'ûuri</m></w>
+                    <w><m lemma="4717">páykuuk</m></w>
+                    <w gl="that I go travel"><m lemma="4408">pa</m><m lemma="4349">ni</m><m lemma="205"
+                            >'ahoo</m><m lemma="501">n</m><m lemma="3907">kôo</m><m lemma="6035">ti</m></w>
+                    <w><m lemma="7085">yiiv</m></w>." </txt>
+                <trans lang="eng">And she said, "I'm tired of going by the far way yonder."</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w gl="he says"><m lemma="6175">u</m><m lemma="4823">píip</m></w>
+                    <w gl="the old man"><m lemma="4407">pa</m><m lemma="4792">pihnîich</m></w> "<w><m
+                            lemma="6675">vúra</m></w>
+                    <w><m lemma="3670">káan</m></w>
+                    <w gl="you go back"><m lemma="2690">ípahoo</m></w>
+                    <w><m lemma="3969">kúkuum</m></w>, <w><m lemma="6879">xáy</m></w>
+                    <w><m lemma="1407">húun</m></w>
+                    <w gl="have something happen to you"><m lemma="1418">i</m><m lemma="1667"
+                    >'íin</m></w>. </txt>
+                <trans lang="eng">And the old man said, "Just go there again! Something might happen to you
+                    (otherwise).</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w gl="not a good place"><m lemma="5082">pu</m><m lemma="6998">yâak</m><m lemma="1371"
+                            >hara</m></w>
+                    <w gl="this side"><m lemma="4407">pa</m><m lemma="4388">'ôokukam</m></w>." </txt>
+                <trans lang="eng">This side is a bad place.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w><m lemma="6174">ta'ítam</m></w>
+                    <w gl="he packs up again"><m lemma="6175">u</m><m lemma="2674">p</m><m lemma="3299"
+                            >ithvásip</m></w>
+                    <w gl="his house"><m lemma="4407">pa</m><m lemma="4260">mu</m><m lemma="2032"
+                            >krívraam</m></w>. </txt>
+                <trans lang="eng">So then he packed up his house.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w><m lemma="6307">uum</m></w>
+                    <w><m lemma="4978">píshiip</m></w>
+                    <w gl="he got back"><m lemma="5506">t</m><m lemma="6175">u</m><m lemma="1692"
+                        >'ípma</m></w>. </txt>
+                <trans lang="eng">And he got back first.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w><m lemma="4420">pâanpay</m></w>
+                    <w><m lemma="6847">xás</m></w>
+                    <w gl="she thinks"><m lemma="6175">u</m><m lemma="6939">xús</m></w> "<w><m lemma="4299"
+                            >naa</m></w>
+                    <w gl="I am thinking"><m lemma="4349">ni</m><m lemma="6939">xú</m><m lemma="6035"
+                        >ti</m></w> '<w gl="he is lying to me"><m lemma="4294">na</m><m lemma="4872"
+                            >pikshayvûunish</m><m lemma="6035">ti</m></w>,' <w><m lemma="7157"
+                        >yukún</m></w>
+                    <w><m lemma="3930">koovúra</m></w>
+                    <w><m lemma="6381">vaa</m></w>
+                    <w gl="it looks like"><m lemma="6175">u</m><m lemma="2572">músahi</m><m lemma="6035"
+                            >ti</m></w>
+                    <w gl="our possessions"><m lemma="4407">pa</m><m lemma="4327">nunú</m><m lemma="6319"
+                            >'uup</m></w>, <w><m lemma="3752">káru</m></w>
+                    <w><m lemma="6307">uum</m></w>
+                    <w><m lemma="6675">vúra</m></w>
+                    <w><m lemma="6381">vaa</m></w>
+                    <w gl="he looks like"><m lemma="6175">u</m><m lemma="2572">músahi</m><m lemma="6035"
+                            >ti</m></w>
+                    <w gl="my father"><m lemma="4407">pa</m><m lemma="4364">nini</m><m lemma="236"
+                        >'áka</m></w>. </txt>
+                <trans lang="eng">Then after a while she thought, "I think he's deceiving me, everything looks
+                    like our things, and he looks just like my father."</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6570">víri</m></w>
+                    <w><m lemma="4716">payêem</m></w>
+                    <w gl="when I visit"><m lemma="4408">pa</m><m lemma="4349">ni</m><m lemma="2674">pi</m><m
+                            lemma="2575">músar</m><m lemma="1358">ahaak</m></w>
+                    <w><m lemma="6570">víri</m></w>
+                    <w><m lemma="6381">vaa</m></w>
+                    <w><m lemma="4357">ník</m></w>
+                    <w><m lemma="3745">kári</m></w>
+                    <w gl="I will see"><m lemma="4349">ni</m><m lemma="4155">máh</m><m lemma="1379"
+                        >eesh</m></w>
+                    <w gl="if the house"><m lemma="4408">p</m><m lemma="2032">eekrívraam</m></w>
+                    <w><m lemma="3670">káan</m></w>
+                    <w><m lemma="6675">vúra</m></w>
+                    <w gl="when it is standing"><m lemma="6175">u</m><m lemma="1653">'iikrá</m><m
+                            lemma="1358">haak</m></w>." </txt>
+                <trans lang="eng">Now when I go back to see (my father), then I'll see if the house is standing
+                    there."</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w><m lemma="6174">ta'ítam</m></w>
+                    <w gl="she left again"><m lemma="6175">u</m><m lemma="2674">p</m><m lemma="6396"
+                            >vâaram</m><m lemma="1378">aheen</m></w>.</txt>
+                <trans lang="eng">And so she went again.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w gl="she is saying"><m lemma="6175">u</m><m lemma="2767">píti</m></w> "<w><m
+                            lemma="1107">chémi</m></w>. </txt>
+                <trans lang="eng">And she said, "All right.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="1192">chôora</m></w>
+                    <w gl="let's go back together"><m lemma="4370">nu</m><m lemma="2674">p</m><m lemma="6756"
+                            >xákaan</m><m lemma="4409">p</m><m lemma="1419">i</m></w>
+                    <w><m lemma="4716">payêem</m></w>." </txt>
+                <trans lang="eng">Let's go back together now."</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w gl="he is saying"><m lemma="6175">u</m><m lemma="2767">píti</m></w> "<w><m
+                            lemma="5136">pûuhara</m></w>, <w><m lemma="1656">iim</m></w>
+                    <w><m lemma="6675">vúra</m></w>
+                    <w><m lemma="4450">pácheech</m></w>
+                    <w gl="go back!"><m lemma="2674">ip</m><m lemma="6396">vâaram</m><m lemma="1419"
+                        >i</m></w>." </txt>
+                <trans lang="eng">And he said, "No, you go back alone."</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w><m lemma="6174">ta'ítam</m></w>
+                    <w gl="she left again"><m lemma="6175">u</m><m lemma="2674">p</m><m lemma="6396"
+                            >vâaram</m><m lemma="1378">aheen</m></w>.</txt>
+                <trans lang="eng">And so she left again.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w gl="behind her"><m lemma="4407">pa</m><m lemma="4260">mu</m><m lemma="1504"
+                        >'ífuth</m></w>
+                    <w><m lemma="6847">xás</m></w>
+                    <w gl="he packs up again"><m lemma="6175">u</m><m lemma="2674">p</m><m lemma="3299"
+                            >ithvásip</m></w>
+                    <w gl="his house"><m lemma="4407">pa</m><m lemma="4260">mu</m><m lemma="2032"
+                            >krívraam</m></w>.</txt>
+                <trans lang="eng">And behind her then he packed up his house.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w><m lemma="6174">ta'ítam</m></w>
+                    <w gl="the woman"><m lemma="4407">pa</m><m lemma="656">'asiktávaan</m></w>
+                    <w gl="she turns back"><m lemma="6175">u</m><m lemma="4566">paratánmaahpa</m></w>. </txt>
+                <trans lang="eng">So then the woman turned back.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="7038">yánava</m></w>
+                    <w><m lemma="6675">vúra</m></w>
+                    <w><m lemma="5085">púfaat</m></w>
+                    <w gl="the house"><m lemma="4407">p</m><m lemma="2032">eekrívraam</m></w>, <w><m
+                            lemma="5085">púfaat</m></w>
+                    <w><m lemma="6675">vúra</m></w>
+                    <w gl="not lie"><m lemma="5957">thêe</m><m lemma="1371">ra</m></w>. </txt>
+                <trans lang="eng">She saw there was no house, nothing was there.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w><m lemma="6174">ta'ítam</m></w>
+                    <w gl="she chased him"><m lemma="6175">u</m><m lemma="180">'áharam</m><m lemma="1378"
+                            >aheen</m></w>.</txt>
+                <trans lang="eng">And so she chased him.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="7038">yánava</m></w>
+                    <w><m lemma="3670">káan</m></w>
+                    <w><m lemma="506">áraar</m></w>
+                    <w gl="he is travelling"><m lemma="6175">u</m><m lemma="205">'áhoo</m><m lemma="6035"
+                            >tih</m></w>, <w><m lemma="2032">ikrívraam</m></w>
+                    <w gl="he is packing"><m lemma="6175">u</m><m lemma="1713">'iithvú</m><m lemma="6035"
+                            >tih</m></w>. </txt>
+                <trans lang="eng">She saw a person travelling there, he was carrying a house.</trans>
+            </s>
+            <s>
+                <txt lang="kyh"> "<w><m lemma="7038">yánava</m></w>
+                    <w gl="my father"><m lemma="4407">pa</m><m lemma="4364">nini</m><m lemma="236"
+                        >'áka</m></w>." </txt>
+                <trans lang="eng">"I see it is my father!"</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w><m lemma="6174">ta'ítam</m></w>
+                    <w gl="she grabbed him"><m lemma="6175">u</m><m lemma="1784">kfuukir</m><m lemma="1378"
+                            >aheen</m></w>, <w><m lemma="6847">xás</m></w>
+                    <w><m lemma="6174">ta'ítam</m></w>
+                    <w><m lemma="6675">vúra</m></w>
+                    <w gl="she chops him up"><m lemma="6175">u</m><m lemma="1898">kpákpak</m></w>. </txt>
+                <trans lang="eng">So then she grabbed him, and she chopped him up.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w><m lemma="6847">xás</m></w>
+                    <w><m lemma="4782">pihnêefich</m></w>
+                    <w gl="he is saying"><m lemma="6175">u</m><m lemma="2767">píti</m></w>, "<w><m
+                            lemma="6381">vaa</m></w>
+                    <w><m lemma="6675">vúra</m></w>
+                    <w><m lemma="3752">káru</m></w>
+                    <w><m lemma="6675">vúra</m></w>
+                    <w gl="the human"><m lemma="4407">pa</m><m lemma="506">'áraar</m></w>
+                    <w><m lemma="6309">uumkun</m></w>
+                    <w gl="they will do"><m lemma="3977">kun</m><m lemma="4014">kupheesh</m></w>, 
+					<w gl="as I"><m lemma="4408">pá</m><m lemma="4299">naa</m></w>
+                    <w><m lemma="5506">tá</m></w>
+                    <w gl="I do"><m lemma="4349">ni</m><m lemma="4086">kuupha</m></w>." </txt>
+                <trans lang="eng">And Coyote said, "The people will do just like that too, like I did."</trans>
+            </s>
+        </paragraph>
+    </data>
+</text>

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="CT-02">
+    <metadata>
+        <title>How Charlie Grew Up</title>
+        <author>Charlie <alph>Thom</alph>, Sr.</author>
+        <date>2013</date>
+        <publication>Unpublished (recorded by Andrew Garrett, Erik Maier, Line Mikkelsen, and Clare Sandy on June 16th, 2013)</publication>
+        <audio filename="CT-02-amp">CT-02</audio>
+		<note publish="yes">This anecdote was spoken partly in English and partly in Karuk. Only Karuk sections are transcribed below. </note>
+    </metadata>
+    <data>
+      <paragraph>
+	<s spkr="CT" audio="CT-02_01_amp" audio-start-time="0:17">
+		<txt lang="kyh">
+			<w gl="I know it">
+				<m lemma="4349">ni</m>
+				<m lemma="44">'áapunma</m>
+			</w>
+			<w>
+				<m lemma="3930">koovúra</m>
+			</w>.
+		</txt>
+		<trans lang="eng">But I learned.</trans>
+	</s>
+</paragraph>
+<paragraph>
+	<s spkr="CT" audio="CT-02_02_amp" audio-start-time="0:36">
+		<txt lang="kyh">
+			<w>
+				<m lemma="1281">fâat</m>
+			</w>
+			<w>
+				<m lemma="3971">kumá'ii</m>
+			</w>
+			<w gl="my mother">
+				<m lemma="4407">pa</m>
+				<m lemma="4326">naní</m>
+				<m lemma="5532">taat</m>
+			</w>
+			<w>
+				<m lemma="3752">káru</m>
+			</w>
+			<w gl="my father">
+				<m lemma="4407">pa</m>
+				<m lemma="4326">nani</m>
+				<m lemma="236">'áka</m>  
+			</w>
+			<w>
+				<m lemma="5506">tá</m>
+			</w>
+			<w gl="they took them away">
+				<m lemma="3977">kun</m>
+				<m lemma="">uuyárah</m> 
+			</w>,
+			<w>
+				<m lemma="1281">fâat</m>
+			</w>
+			<w>
+				<m lemma="3971">kumá'ii</m>
+			</w>?
+		</txt>
+		<trans lang="eng">Why did they take my father and mother away?</trans>
+	</s>
+</paragraph>
+<paragraph>
+	<s spkr="CT" audio="CT-02_03_amp" audio-start-time="0:58">
+		<txt lang="kyh">
+			<w>
+				<m lemma="4715">páy</m>
+			</w>
+			<w>
+				<m lemma="3905">kóo</m>
+			</w>
+			<w gl="the oak tree">
+				<m lemma="4407">pa</m>
+				<m lemma="6813">xánthiip</m>
+			</w>,
+			<w>
+				<m lemma="4715">páy</m>
+			</w>
+			<w>
+				<m lemma="7097">yítha</m>
+			</w>
+			<w>
+				<m lemma="3905">kóo</m>
+			</w>
+			<w gl="the oak tree">
+				<m lemma="4407">pa</m>
+				<m lemma="6813">xánthiip</m>
+			</w>
+			<w>
+				<m lemma="3670">káan</m>
+			</w>
+			<w gl="it was standing">
+				<m lemma="6175">u</m>
+				<m lemma="1646">'íihya</m>
+			</w>.
+		</txt>
+		<trans lang="eng">There's an oak tree, there's an oak tree standing there.</trans>
+	</s>
+	<s spkr="CT" audio="CT-02_04_amp" audio-start-time="1:10">
+		<txt lang="kyh">
+			"
+			<w>
+				<m lemma="1281">fâat</m>
+			</w>
+			<w>
+				<m lemma="3971">kumá'ii</m>
+			</w>
+			<w gl="that you are crying">
+				<m lemma="4408">p</m>
+				<m lemma="1418">ee</m>
+				<m lemma="3518">xrára</m>
+				<m lemma="6035">ti</m>
+			</w>?
+			<w>
+				<m lemma="4299">naa</m> 
+			</w>
+			<w>
+				<m lemma="4357">ník</m>
+			</w>
+			<w>
+				<m lemma="4385">ôok</m>
+			</w>
+			<w>
+				<m lemma="4715">páy</m>
+			</w>
+			<w gl="I am sitting">
+				<m lemma="4349">ní</m>
+				<m lemma="1974">krii</m>
+			</w>."
+		</txt>
+		<trans lang="eng">"What are you crying for? I'm here with you."</trans>
+	</s>
+</paragraph>
+<paragraph>
+	<s spkr="CT" audio="CT-02_05_amp" audio-start-time="2:05">
+		<txt lang="kyh">
+			<w gl="it had become winter">
+				<m lemma="5506">t</m>
+				<m lemma="6175">u</m>
+				<m lemma="5005">pishyáavpa</m>
+			</w>
+			<w>
+				<m lemma="5506">tá</m>
+			</w>
+			<w>
+				<m lemma="3906">kóo</m>
+			</w>
+			<w>
+				<m lemma="5506">tá</m>
+			</w>
+			<w gl="they came back">
+				<m lemma="3977">kun</m>
+				<m lemma="2694">'ípak</m>
+			</w>.
+		</txt>
+		<trans lang="eng">In wintertime they all came back.</trans>
+	</s>
+</paragraph>
+<paragraph>
+	<s spkr="CT" audio="CT-02_06_amp" audio-start-time="2:38">
+		<txt lang="kyh">
+			<w gl="my grandmother">
+				<m lemma="4326">nani</m>
+				<m lemma="3834">kîit</m>
+			</w>
+			<w gl="she taught me">
+				<m lemma="4294">nee</m>
+				<m lemma="2090">kshúpih</m>
+				<m lemma="738">at</m>
+			</w>.
+		</txt>
+		<trans lang="eng">My grandmother taught me.</trans>
+	</s>
+</paragraph>
+<paragraph>
+	<s spkr="CT" audio="CT-02_07_amp" audio-start-time="3:09">
+		<txt lang="kyh">
+			<w>
+				<m lemma="3930">koovúra</m>
+			</w>
+			<w gl="I know it">
+				<m lemma="4349">ni</m>
+				<m lemma="44">'áapunma</m>
+			</w>
+			<w>
+				<m lemma="1281">fâat</m>
+			</w>
+			<w gl="I am making it">
+				<m lemma="4349">ni</m>
+				<m lemma="2348">kyâa</m>
+				<m lemma="6035">tih</m>
+			</w>.
+		</txt>
+		<trans lang="eng">I learned everything, I can make anything.</trans>
+	</s>
+	<s spkr="CT" audio="CT-02_08_amp" audio-start-time="3:13">
+		<txt lang="kyh">
+			<w gl="it had become winter">
+				<m lemma="5506">t</m>
+				<m lemma="6175">u</m>
+				<m lemma="5005">pishyáavpa</m>
+			</w>
+			<w>
+				<m lemma="6675">vúra</m>
+			</w>
+			<w>
+				<m lemma="6307">uum</m>
+			</w>
+			<w>
+				<m lemma="5541">táay</m>
+			</w>
+			<w gl="my wood">
+				<m lemma="4407">pa</m>
+				<m lemma="4326">nani</m>
+				<m lemma="215">'áhup</m>
+			</w>.
+		</txt>
+		<trans lang="eng">In wintertime I had a lot of wood.</trans>
+	</s>
+	<s spkr="CT" audio="CT-02_09_amp" audio-start-time="3:37">
+		<txt lang="kyh">
+			<w>
+				<m lemma="3930">koovúra</m>
+			</w>
+			<w>
+				<m lemma="7049">yáv</m>
+			</w>.
+		</txt>
+		<trans lang="eng">Everything was good.</trans>
+	</s>
+</paragraph>
+</data>
+</text>
+		
+		
+	
+			
+			
+				
+				
+			
+		
+	
+		
+				
+			
+		
+				
+			
+		
+			
+			
+			

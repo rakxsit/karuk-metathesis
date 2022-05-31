@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB56">
+    <metadata>
+        <title>"The Flood"</title>
+        <author>Mamie <alph>Offield</alph></author>
+        <date>1957</date>
+        <publication>William Bright, <em>The Karok Language</em> (1957), pp. 262-263, Text 56
+        </publication>
+    </metadata>
+    <data>
+        <paragraph>
+            <s>
+                <kar>
+                    <w gl="the earth"><m id="4407">pe</m><m id="3257">ethívthaaneen</m></w>
+                    <w><m id="50">aas</m></w>
+                    <w gl="collected"><m id="6175">u</m><m id="2674">p</m><m id="1711">iithr</m><m
+                            id="1369">ánik</m></w>.</kar>
+                <eng>Water collected on the earth.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w><m id="3748">kári</m></w>
+                    <w><m id="6847">xás</m></w>
+                    <w><m id="656">asiktâan</m></w>
+                    <w gl="they.were.told"><m id="3843">kin</m>
+                        <m id="2733">ipéer</m></w>
+                    "<w><m id="1144">chími</m></w>
+                    <w gl="big.storage.basket"><m id="5422">shipnúk</m><m id="3668">aam</m></w>
+                    <w gl="you.weave"><m id="3829">kiik</m><m id="6545">vîik</m><m id="1419"
+                        >i</m></w>."</kar>
+                <eng>And the women were told, "Weave a big storage basket."</eng>
+            </s>
+            <s>
+                <kar>
+                    <w><m id="3748">kári</m></w>
+                    <w><m id="6847">xás</m></w>
+                    <w gl="they.wove"><m id="3977">kun</m><m id="6545">vik</m></w>.</kar>
+                <eng>So they wove.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w><m id="6847">xás</m></w>
+                    <w><m id="6675">vúra</m></w>
+                    <w><m id="6839">xára</m></w>
+                    <w gl="they.wove"><m id="3977">kun</m><m id="6545">vik</m><m id="6326"
+                        >úur</m></w>.</kar>
+                <eng>And they wove for a long time.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w><m id="6675">vúra</m></w>
+                    <w><m id="5543">táayva</m></w>
+                    <w gl="they.wove.around"><m id="3977">kun</m><m id="6545">vík</m><m id="5191"
+                            >roon</m></w>
+                    <w><m id="1421">icháaniich</m></w>.</kar>
+                <eng>They wove several strands at one time.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w><m id="3748">kári</m></w>
+                    <w><m id="6847">xás</m></w>
+                    <w gl="they.finished.weaving"><m id="4408">pa</m><m id="3977">kun</m><m
+                            id="2845">ípthith</m></w>
+                    <w><m id="3748">kári</m></w>
+                    <w><m id="6847">xás</m></w>
+                    <w><m id="981">axváha</m></w>
+                    <w gl="they.rubbed"><m id="3977">kun</m><m id="3642">iyvúruk</m></w>.</kar>
+                <eng>And when they finished weaving, they smeared it with pitch.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <kar>
+                    <w><m id="5163">púyava</m></w>
+                    <w gl="the.water"><m id="4407">pá</m><m id="50">'aas</m></w>
+                    <w gl="it collected"><m id="6175">u</m><m id="2674">p</m><m id="1711">iithr</m>
+                        <m id="1369">ánik</m></w>.</kar>
+                <eng>So the water collected.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w><m id="6383">vaa</m></w>
+                    <w><m id="3870">káan</m></w>
+                    <w><m id="5502">sú'</m></w>
+                    <w gl="they.got.into"><m id="3977">kun</m><m id="3491">ívyiihramnih</m>
+                        <m id="1369">anik</m></w>, <w><m id="6383">vaa</m></w>
+                    <w gl="they.floated.around"><m id="6175">u</m><m id="5970">thivrúhuthun</m>
+                        <m id="1369">anik</m></w>.</kar>
+                <eng>(The people) got inside (the basket) there, they floated around that way.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w><m id="6383">vaa</m></w>
+                    <w><m id="3971">kumá'ii</m></w>
+                    <w><m id="4716">payêem</m></w>
+                    <w><m id="506">áraar </m></w>
+                    <w gl="they.are.living"><m id="3977">kun</m><m id="508">'áraarahi</m>
+                        <m id="6035">tih</m></w>.</kar>
+                <eng>That's why people are living now.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w><m id="6570">víri</m></w>
+                    <w><m id="6383">vaa</m></w>
+                    <w gl="they.were.told"><m id="3841">kin</m><m id="2733">ípeer</m><m id="1369"
+                            >anik</m></w>
+                    "<w><m id="1412">hûutva</m></w>
+                    <w><m id="3904">kóo</m></w>
+                    <w><m id="3257">ithívthaaneen</m></w>
+                    <w gl="exists"><m id="6175">u</m><m id="5844">thaanêen</m>
+                        <m id="1358">haak</m></w>,
+                    <w><m id="6881">xáyfaat</m></w>
+                    <w><m id="1729">ik</m></w>
+                    <w><m id="3969">kúkuum</m></w>
+                    <w><m id="6675">vúra</m></w>
+                    <w><m id="6383">vaa</m></w>
+                    <w gl="you must not weave that way"><m id="3939">ku</m><m id="4004">kup</m><m
+                            id="2674">eep</m>
+                        <m id="6545">vík</m><m id="169">aha</m></w>."</kar>
+                <eng>(But) they were told, "However long the earth exists, you musn't weave that way
+                    (several strands at a time) again."</eng>
+            </s>
+            <s>
+                <kar>
+                    <w><m id="7157">yukun</m></w>
+                    <w gl="the.world.comes.to.an.end"><m id="3257">ithivthaaneen</m>
+                        <m id="5519">taaníha</m></w>.</kar>
+                <eng>You see, (it will be) the end of the world.</eng>
+            </s>
+        </paragraph>
+    </data>
+</text>

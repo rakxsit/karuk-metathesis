@@ -1,0 +1,377 @@
+<text id="SD-VS-02" audio-source="karuk-2010-10-25-sd-vs-2">
+        <metadata>
+            <title>Sentences about driving and directions</title>
+            <author>Sonny <alph>Davis</alph> and Vina Smith</author>
+            <date>2010</date>
+            <publication>Unpublished (recorded by Andrew Garrett and Line Mikkelsen on October 25, 2010)</publication>
+			<genre type="elicitation"/>
+        </metadata>
+        <data>
+            <paragraph>
+                <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_01" audio-start-time="7:10">
+                    <txt lang="kyh">
+		        <w><m language="english">Medford</m></w>
+                        <w><m lemma="1144">chími</m></w>
+                        <w gl="I am going to go"><m lemma="4349">ni</m><m lemma="6396">vâaram</m><m lemma="1379">eesh</m></w>.</txt>
+                    <trans lang="eng">I am going to go to Medford.</trans>
+                </s>
+            </paragraph>
+<paragraph>
+                <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_02" audio-start-time="7:41">
+                    <txt lang="kyh">
+                          <w gl="I am going to buy"><m lemma="4349">ní</m><m lemma="2176">kvaar</m><m lemma="1379">eesh</m></w>
+			  <w><m lemma="6307">uum</m></w>
+			  <w gl="the car"><m lemma="4407">pa</m><m lemma="3363">thyur</m></w>.                    
+		    </txt>
+                    <trans lang="eng">I am going to buy a car.</trans>
+                </s>
+            </paragraph>
+<paragraph>
+                <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_03" audio-start-time="7:45">
+                    <txt lang="kyh">
+                          <w gl="I am going to buy"><m lemma="4349">ní</m><m lemma="2176">kvaar</m><m lemma="1379">eesh</m></w>
+			  <w gl="the car"><m lemma="4407">pa</m><m lemma="3363">thyur</m></w>.</txt>                    
+                    <trans lang="eng">I'm going to buy a car.</trans>
+                </s>
+            </paragraph>
+<paragraph>
+                <s spkr="VS" audio="karuk-2010-10-25-sd-vs-2_04" audio-start-time="8:04">
+                    <txt lang="kyh">
+			  <w gl="the car"><m lemma="4407">pee</m><m lemma="3363">thyur</m></w>  
+                          <w gl="I am going to buy"><m lemma="4349">ní</m><m lemma="2176">kvaar</m><m lemma="1379">eesh</m></w>.
+		      </txt>
+                    <trans lang="eng">I am going to buy a car.</trans>
+                </s>
+            </paragraph>
+<paragraph>
+                <s spkr="VS" audio="karuk-2010-10-25-sd-vs-2_05" audio-start-time="8:33">
+                    <txt lang="kyh">
+                        <w><m lemma="3363">ithyur</m></w>
+                        <w gl="I am going to buy"><m lemma="4349">ní</m><m lemma="2176">kvaar</m><m lemma="1379">eesh</m></w>.
+		     </txt>
+                    <trans lang="eng">I am going to buy a car.</trans>
+                </s>
+            </paragraph>
+<paragraph>
+                <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_06" audio-start-time="8:59">
+                    <txt lang="kyh">
+		        <w gl="I am going to go"><m lemma="4349">ní</m><m lemma="6396">vâaram</m><m lemma="1379">eesh</m></w>
+                        <w><m language="english">Medford</m></w>
+		        <w gl="the car"><m lemma="4407">pa</m><m lemma="3363">thyuru</m></w>                   
+			<w><m lemma="1144">chími</m></w>
+			<w gl="I am going to buy"><m lemma="4349">ní</m><m lemma="2176">kvaar</m><m lemma="1379">eesh</m></w>.
+		    </txt>
+                    <trans lang="eng">I am going to Medford to buy a car.</trans>xs
+                </s>
+            </paragraph>
+<paragraph>
+                <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_07" audio-start-time="9:39">
+                    <txt lang="kyh">		      
+                        <w gl="I am going to look at"><m lemma="4349">ní</m><m lemma="2585">muustih</m><m lemma="1379">eesh</m></w>
+			<w gl="the car"><m lemma="4407">pa</m><m lemma="3363">thyuru</m></w>
+		        <w><m lemma="3752">káru</m></w>.
+		    </txt>
+                    <trans lang="eng">I am also going to look at a car.</trans>
+                </s>
+            </paragraph>
+<paragraph>
+                <s spkr="VS" audio="karuk-2010-10-25-sd-vs-2_08" audio-start-time="11:17">
+                    <txt lang="kyh">
+		        <w><m language="english">Medford</m></w>
+		        <w gl="I am going to go"><m lemma="4349">ni</m><m lemma="6396">vâaram</m><m lemma="1379">eesh</m></w>
+			<w><m lemma="3363">ithyuru</m></w>
+			<w gl="I am going to buy"><m lemma="4349">ní</m><m lemma="2176">kvaar</m><m lemma="1379">eesh</m></w>.
+		    </txt>
+                    <trans lang="eng">I am going to Medford to buy a car.</trans>
+                </s>
+            </paragraph>
+<paragraph>
+                <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_09" audio-start-time="13:19">
+                    <txt lang="kyh">
+                        <w gl="I am driving"><m lemma="4349">ni</m><m lemma="3378">thyurí</m><m lemma="6035">tih</m></w>
+                        <w gl="my car"><m lemma="4407">pa</m><m lemma="4326">naní</m><m lemma="3363">thyur</m></w>.</txt>
+                    <trans lang="eng">I am driving my car.</trans>
+                </s>
+            </paragraph>
+<paragraph>
+                <s spkr="VS" audio="karuk-2010-10-25-sd-vs-2_10" audio-start-time="13:36">
+                    <txt lang="kyh">
+		        <w gl="I am driving"><m lemma="4349">ni</m><m lemma="3378">thyurí</m><m lemma="6035">tih</m></w>
+			<w gl="the car"><m lemma="4407">pee</m><m lemma="3363">thyur</m></w>.</txt>
+                    <trans lang="eng">I am driving the car.</trans>
+                </s>
+            </paragraph>
+<paragraph>
+                <s spkr="VS" audio="karuk-2010-10-25-sd-vs-2_11" audio-start-time="15:09">
+                    <txt lang="kyh">
+		        <w><m language="english">Medford</m></w>
+			<w gl="I am going to go"><m lemma="4349">ni</m><m lemma="6396">vâaram</m><m lemma="1379">eesh</m></w>
+                        <w><m lemma="6381">vaa</m></w>
+			<w><m lemma="3670">káan</m></w>
+                        <w gl="my sister"><m lemma="4407">pa</m><m lemma="4326">nani</m><m lemma="4046">kústaan</m></w>
+			<w gl="she lives"><m lemma="6175">ú</m><m lemma="1974">krii</m></w>.
+		    </txt>
+                    <trans lang="eng">I am going to Medford because my sister lives there.</trans>
+                </s>
+            </paragraph>
+<paragraph>
+                <s spkr="VS" audio="karuk-2010-10-25-sd-vs-2_12" audio-start-time="15:41">
+                    <txt lang="kyh">
+                        <w gl="the dog"><m lemma="4407">pa</m><m lemma="1175">chishíih</m></w>
+                        <w gl="he has"><m lemma="5506">t</m><m lemma="6175">óo</m></w>
+		        <w gl="come back inside"><m lemma="2674">p</m><m lemma="6606">vôonfuruk</m></w>.</txt>
+                    <trans lang="eng">The dog came back inside.</trans>
+                </s>
+            </paragraph>
+<paragraph>
+                <s spkr="VS" audio="karuk-2010-10-25-sd-vs-2_13" audio-start-time="15:49">
+                    <txt lang="kyh">
+		        <w gl="he has"><m lemma="5506">t</m><m lemma="6175">óo</m></w>
+                        <w><m lemma="6924">xúriha</m></w>.
+	            </txt>
+                    <trans lang="eng">He's hungry.</trans>
+                </s>
+            </paragraph>
+
+<paragraph>
+                <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_14" audio-start-time="16:02">
+                    <txt lang="kyh">
+		        <w gl="he has"><m lemma="5506">t</m><m lemma="6175">óo</m></w>
+                        <w><m lemma="6924">xúriha</m></w>
+	            </txt>
+                    <trans lang="eng">He's hungry.</trans>
+                </s>
+            </paragraph>
+<paragraph>
+                <s spkr="VS" audio="karuk-2010-10-25-sd-vs-2_15" audio-start-time="16:04">
+                    <txt lang="kyh">
+		        <w><m lemma="6307">uum</m></w>
+		        <w gl="he has"><m lemma="5506">t</m><m lemma="6175">óo</m></w>
+                        <w><m lemma="6924">xúriha</m></w>
+	            </txt>
+                    <trans lang="eng">He's hungry.</trans>
+                </s>
+            </paragraph>
+<paragraph>
+                <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_16" audio-start-time="18:16">
+                    <txt lang="kyh">
+                        <w><m lemma="5135">púufich</m></w>
+                        <w><m lemma="1649">îikam</m></w>.</txt>
+                    <trans lang="eng">There is a deer outside.</trans>
+                </s>
+            </paragraph>
+<paragraph>
+                <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_17" audio-start-time="18:32">
+                    <txt lang="kyh">
+                        <w><m lemma="7055">yáxa</m></w>
+                        <w gl="the deer"><m lemma="4407">pa</m><m lemma="5135">púufich</m></w>
+		        <w><m lemma="1649">îikam</m></w>.</txt>
+                    <trans lang="eng">Look at the deer outside.</trans>
+                </s>
+            </paragraph>
+<paragraph>
+                <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_18" audio-start-time="20:02">
+                    <txt lang="kyh">
+		        <w gl="the deer"><m lemma="4407">pa</m><m lemma="5135">púufich</m></w>
+                        <w><m lemma="1671">îinaak</m></w>
+		    <w gl="it has come inside"><m lemma="5506">t</m><m lemma="6175">u</m><m lemma="6606">vôonfuruk</m></w>.</txt>
+                    <trans lang="eng">The deer came inside.</trans>
+                </s>
+            </paragraph>
+<paragraph>
+                <s spkr="VS" audio="karuk-2010-10-25-sd-vs-2_19" audio-start-time="20:17">
+                    <txt lang="kyh">
+		        <w gl="the deer"><m lemma="4407">pa</m><m lemma="5135">púufich</m></w>
+                        <w><m lemma="1671">îinaak</m></w>
+		    <w gl="it has come inside"><m lemma="5506">t</m><m lemma="6175">u</m><m lemma="6606">vôonfuruk</m></w>.</txt>
+                    <trans lang="eng">The deer came inside.</trans>
+                </s>
+            </paragraph>
+<paragraph>
+                <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_20" audio-start-time="21:10">
+                    <txt lang="kyh">
+                        <w><m lemma="1192">chôora</m></w>
+                        <w gl="uphill"><m lemma="3940">ku</m><m lemma="4147">mâam</m></w>.</txt>
+                    <trans lang="eng">Let's go uphill!</trans>
+                </s>
+            </paragraph>
+<paragraph>
+                <s spkr="VS" audio="karuk-2010-10-25-sd-vs-2_21" audio-start-time="21:26">
+                    <txt lang="kyh">
+		        <w gl="uphill"><m lemma="3940">ku</m><m lemma="4147">mâam</m></w>
+                        <w gl="we go"><m lemma="4370">nú</m><m lemma="3496">vyiiship</m></w>.</txt>
+                    <trans lang="eng">Let's go uphill.</trans>
+                </s>
+            </paragraph>
+<paragraph>
+                <s spkr="VS" audio="karuk-2010-10-25-sd-vs-2_22" audio-start-time="22:14">
+                    <txt lang="kyh">
+                        <w><m lemma="2766">ipít</m></w>
+			<w gl="uphill"><m lemma="3940">ku</m><m lemma="4147">mâam</m></w>
+			<w gl="we went"><m lemma="4370">nú</m><m lemma="3496">vyiishipriv</m></w>.
+		    </txt>
+                    <trans lang="eng">Yesterday we went up the hill.</trans>
+                </s>
+            </paragraph>
+<paragraph>
+                <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_23" audio-start-time="25:09">
+                    <txt lang="kyh">
+		        <w gl="up the hill"><m lemma="3940">ku</m><m lemma="4147">mâam</m></w>
+                        <w><m lemma="5506">tá</m></w>
+                        <w gl="I got"><m lemma="4349">ni</m><m lemma="560">'árihishrih</m></w>.</txt>
+                    <trans lang="eng">I made it to the top of the hill.</trans>
+                </s>
+            </paragraph>
+<paragraph>
+                <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_24" audio-start-time="26:23">
+                    <txt lang="kyh">
+		      <w gl="downhill"><m lemma="3940">ku</m><m lemma="5207">sâam</m></w>
+                        <w gl="our garden"><m lemma="4407">pa</m><m lemma="4327">nunu</m><m lemma="6207">'úhthaam</m></w>.</txt>
+                    <trans lang="eng">Our garden is down the hill.</trans>
+                </s>
+            </paragraph>
+<paragraph>
+                <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_25" audio-start-time="28:41">
+                    <txt lang="kyh">
+                        <w><m lemma="3669">kâam</m></w>
+			<w><m lemma="6307">uum</m></w>
+			<w><m language="english">Chester</m></w>
+                        <w gl="he lives"><m lemma="4408">pá</m><m lemma="6175">'u</m><m lemma="1974">kriiv</m><m lemma="6035">tih</m></w>.</txt>
+                    <trans lang="eng">Chester lives up the river a little ways.</trans>
+                </s>
+            </paragraph>
+<paragraph>
+                <s spkr="VS" audio="karuk-2010-10-25-sd-vs-2_26" audio-start-time="29:15">
+                    <txt lang="kyh">
+		        <w><m lemma="3669">kâam</m></w>
+			<w gl="the deer"><m lemma="4407">pa</m><m lemma="5135">púufich</m></w>
+                        <w><m lemma="5506">tá</m></w>
+                        <w gl="I see"><m lemma="4349">ni</m><m lemma="4155">mah</m></w>.</txt>
+                    <trans lang="eng">I see the deer up the river.</trans>
+                </s>
+            </paragraph>
+<paragraph>
+                <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_27" audio-start-time="29:55">
+                    <txt lang="kyh">
+                        <w><m lemma="3753">káruk</m></w>
+			<w><m lemma="5506">tá</m></w>
+                        <w gl="I go"><m lemma="4349">ni</m><m lemma="6396">vâaram</m></w>
+			<w><m lemma="3753">káruk</m></w>
+			<w gl="its person"><m lemma="6376">va</m><m lemma="505">'ára</m><m lemma="584">as</m></w>
+			<w><m lemma="5506">tá</m></w>
+			<w gl="I am going to see"><m lemma="4349">ní</m><m lemma="2570">muus</m><m lemma="6035">tih</m><m lemma="1379">eesh</m></w>.
+		    </txt>
+                    <trans lang="eng">I'm going upriver and I'll see someone (an Indian person) upriver.</trans>
+                </s>
+            </paragraph>
+<paragraph>
+                <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_28" audio-start-time="30:06">
+                    <txt lang="kyh">
+		        <w><m lemma="3753">káruk</m></w>
+                        <w gl="its person"><m lemma="6376">va</m><m lemma="506">'áraar</m></w>
+			<w gl="I am going to see"><m lemma="4349">ní</m><m lemma="2570">muus</m><m lemma="6035">tih</m><m lemma="1379">eesh</m></w>.</txt>
+		<trans lang="eng">I am going to see a person who lives upriver.</trans>
+                </s>
+            </paragraph>
+<paragraph>
+                <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_29" audio-start-time="30:56">
+                    <txt lang="kyh">
+                        <w><m lemma="5506">tá</m></w>
+                        <w gl="I go back"><m lemma="4349">ni</m><m lemma="2860">pvâaram</m></w>.</txt>
+                    <trans lang="eng">I went back.</trans>
+                </s>
+            </paragraph>
+<paragraph>
+                <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_30" audio-start-time="31:02">
+                    <txt lang="kyh">
+                        <w gl="I'm going to go"><m lemma="4349">ni</m><m lemma="6396">vâaram</m><m lemma="1379">eesh</m></w>.</txt>
+                    <trans lang="eng">I'm going to go.</trans>
+                </s>
+            </paragraph>
+<paragraph>
+                <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_32" audio-start-time="34:27">
+                    <txt lang="kyh">
+                        <w><m lemma="7233">yûum</m></w>
+			<w><m lemma="5506">tá</m></w>
+                        <w gl="I see"><m lemma="4349">ni</m><m lemma="4155">mah</m></w>
+			<w gl="the deer"><m lemma="4407">pa</m><m lemma="5135">púufich</m></w>.</txt>
+                    <trans lang="eng">I saw a deer downriver.</trans>
+                </s>
+            </paragraph>
+<paragraph>
+                <s spkr="VS" audio="karuk-2010-10-25-sd-vs-2_33" audio-start-time="34:56">
+                    <txt lang="kyh">
+                        <w><m lemma="7233">yûum</m></w>
+			<w><m lemma="5135">púufich</m></w>
+			<w><m lemma="5506">tá</m></w>
+                        <w gl="I see"><m lemma="4349">ni</m><m lemma="4155">mah</m></w>.</txt>
+                    <trans lang="eng">I saw a deer downriver.</trans>
+                </s>
+            </paragraph>
+<paragraph>
+                <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_34" audio-start-time="35:20">
+                    <txt lang="kyh">
+                        <w><m lemma="3343">ithyáruk</m></w>
+			<w gl="the deer"><m lemma="4407">pa</m><m lemma="5135">púufich</m></w>
+			<w><m lemma="5506">tá</m></w>
+                        <w gl="I see"><m lemma="4349">ni</m><m lemma="4155">mah</m></w>.</txt>
+                    <trans lang="eng">I see a deer across the river.</trans>
+                </s>
+            </paragraph>
+<paragraph>
+                <s spkr="VS" audio="karuk-2010-10-25-sd-vs-2_35" audio-start-time="35:39">
+                    <txt lang="kyh">
+                        <w><m lemma="3343">ithyáruk</m></w>
+			<w><m lemma="5506">tá</m></w>
+                        <w gl="I see"><m lemma="4349">ni</m><m lemma="4155">mah</m></w>
+		        <w gl="the deer"><m lemma="4407">pa</m><m lemma="5135">púufich</m></w>.</txt>
+                    <trans lang="eng">I see a deer across the river.</trans>
+                </s>
+            </paragraph>
+<paragraph>
+                <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_36" audio-start-time="36:27">
+                    <txt lang="kyh">
+                        <w gl="when I was walking"><m lemma="4408">pa</m><m lemma="4349">ni</m><m lemma="205">'áhoo</m><m lemma="6035">tih</m></w>
+			<w><m lemma="6307">uum</m></w>
+			<w><m lemma="3999">kúnish</m></w>
+			<w gl="I saw"><m lemma="4349">ni</m><m lemma="4155">máh</m><m lemma="6035">at</m></w>
+                        <w gl="the deer"><m lemma="4407">pa</m><m lemma="5135">púufich</m></w>
+			<w><m lemma="4719">pay'ôok</m></w>
+			<w gl="it is living"><m lemma="6175">ú</m><m lemma="1974">kriiv</m><m lemma="6035">tih</m></w>.
+		    </txt>
+                    <trans lang="eng">When I was walking, I saw where the deer lives.</trans>
+                </s>
+            </paragraph>
+<paragraph>
+                <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_37" audio-start-time="36:35">
+                    <txt lang="kyh">
+                        <w><m lemma="3999">kúnish</m></w>
+			<w gl="he is sleeping"><m lemma="6175">ú</m><m lemma="2189">kviit-hi</m><m lemma="6035">tih</m></w>
+                        <w><m lemma="4719">pay'ôok</m></w>.</txt>
+                    <trans lang="eng">He is making his bed right here.</trans>
+                </s>
+            </paragraph>
+<paragraph>
+                <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_38" audio-start-time="37:53">
+                    <txt lang="kyh"><w gl="when I was walking"><m lemma="4408">pa</m><m lemma="4349">ni</m><m lemma="205">'áhoo</m><m lemma="6035">tih</m></w>
+		         <w><m lemma="4719">pay'ôok</m></w>
+			 <w gl="I saw"><m lemma="4349">ni</m><m lemma="4155">mah</m><m lemma="6035">at</m></w>
+			 <w gl="where the deer"><m lemma="4407">pa</m><m lemma="5135">púufich</m></w>
+			 <w gl="it was sleeping"><m lemma="6175">ú</m><m lemma="2189">kviit-hi</m><m lemma="6035">tih</m></w>.</txt>
+                    <trans lang="eng">When I was walking,  I saw where the deer was sleeping</trans>
+                </s>
+</paragraph>
+<paragraph>
+                <s spkr="SD" audio="karuk-2010-10-25-sd-vs-2_39" audio-start-time="37:22">
+                    <txt lang="kyh">
+		        <w gl="when I was walking"><m lemma="4408">pa</m><m lemma="4349">ni</m><m lemma="205">'áhoo</m><m lemma="6035">tih</m></w>
+			<w gl="the deer"><m lemma="4407">pa</m><m lemma="5135">púufich</m></w>
+			<w><m lemma="6307">uum</m></w>
+                        <w gl="his bed"><m lemma="4407">pa</m><m lemma="4260">mu</m><m lemma="680">'asím</m><m lemma="5172">naam</m></w>
+                        <w><m lemma="5506">tá</m></w>
+                        <w gl="I see"><m lemma="4349">ni</m><m lemma="4155">mah</m></w>.</txt>
+                    <trans lang="eng">When I was walking, I saw the deer's bed.</trans>
+                </s>
+            </paragraph>
+</data>
+</text>

@@ -1,0 +1,124 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 1.5002721088435373
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "transcription - words"
+		xmin = 0.0
+		xmax = 1.5002721088435373
+		intervals: size = 6
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.3600
+				text = ""
+			intervals [2]:
+				xmin = 0.3600
+				xmax = 0.7500
+				text = "paanpay"
+			intervals [3]:
+				xmin = 0.7500
+				xmax = 0.8100
+				text = "vaa"
+			intervals [4]:
+				xmin = 0.8100
+				xmax = 0.8900
+				text = "ta"
+			intervals [5]:
+				xmin = 0.8900
+				xmax = 1.4800
+				text = "kunkuupha"
+			intervals [6]:
+				xmin = 1.4800
+				xmax = 1.5002721088435373
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "transcription - phones"
+		xmin = 0.0
+		xmax = 1.5002721088435373
+		intervals: size = 20
+			intervals [1]:
+				xmin = 0.0000
+				xmax = 0.3600
+				text = "sil"
+			intervals [2]:
+				xmin = 0.3600
+				xmax = 0.4100
+				text = "P"
+			intervals [3]:
+				xmin = 0.4100
+				xmax = 0.5200
+				text = "AA1"
+			intervals [4]:
+				xmin = 0.5200
+				xmax = 0.5900
+				text = "N"
+			intervals [5]:
+				xmin = 0.5900
+				xmax = 0.6200
+				text = "P"
+			intervals [6]:
+				xmin = 0.6200
+				xmax = 0.6900
+				text = "AH0"
+			intervals [7]:
+				xmin = 0.6900
+				xmax = 0.7500
+				text = "Y"
+			intervals [8]:
+				xmin = 0.7500
+				xmax = 0.7800
+				text = "V"
+			intervals [9]:
+				xmin = 0.7800
+				xmax = 0.8100
+				text = "AA1"
+			intervals [10]:
+				xmin = 0.8100
+				xmax = 0.8400
+				text = "T"
+			intervals [11]:
+				xmin = 0.8400
+				xmax = 0.8900
+				text = "AH0"
+			intervals [12]:
+				xmin = 0.8900
+				xmax = 0.9200
+				text = "K"
+			intervals [13]:
+				xmin = 0.9200
+				xmax = 1.0300
+				text = "UH0"
+			intervals [14]:
+				xmin = 1.0300
+				xmax = 1.1500
+				text = "N"
+			intervals [15]:
+				xmin = 1.1500
+				xmax = 1.2700
+				text = "K"
+			intervals [16]:
+				xmin = 1.2700
+				xmax = 1.3400
+				text = "UW1"
+			intervals [17]:
+				xmin = 1.3400
+				xmax = 1.3700
+				text = "P"
+			intervals [18]:
+				xmin = 1.3700
+				xmax = 1.4000
+				text = "HH"
+			intervals [19]:
+				xmin = 1.4000
+				xmax = 1.4800
+				text = "AH0"
+			intervals [20]:
+				xmin = 1.4800
+				xmax = 1.5002721088435373
+				text = ""

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="NYSK">
+	<metadata>
+		<title>Now You're Speaking Karuk</title>
+		<author>Nancy <alph>Richardson</alph></author>
+		<date>1993</date>
+		<publication>Book written by Nancy Richardson with Julian Lang, William Bright, Suzanne M.
+			Burcell, contributing editors (2nd edition 1993); audio by Vina Smith and Charlie Thom
+			(recorded by ... on ... 2013)</publication>
+	</metadata>
+	<data>
+		<paragraph>
+			<s spkr="VS" audio-folder="VS-18" audio="karuk-2013-01-27-vs-1_A_01">
+				<kar>
+					<w>Karuk word</w>.</kar>
+				<eng>Translation.</eng>
+			</s>
+		</paragraph>
+	</data>
+</text>

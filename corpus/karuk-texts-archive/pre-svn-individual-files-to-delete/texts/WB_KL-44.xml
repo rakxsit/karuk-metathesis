@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <text id="WB_KL-44">
+		<metadata>
+			<title>"Why Lightning Strikes Trees"</title>
+			<author>Nettie <alph>Reuben</alph></author>
+			<date>1957</date>
+			<publication>William Bright, <em>The Karok Language</em> (1957), pp. 244-245, Text 44</publication>
+		</metadata>
+		<data>
+			<paragraph>
+				<s>
+					<kar>
+						<w>
+							<m id="1144">chími</m>
+						</w>
+						<w gl="they were going to play shinny">
+							<m id="3977">kun</m>
+							<m id="2520">ímthaatvu</m>
+							<m id="4298">naa</m>
+							<m id="1379">vish</m>
+						</w>.
+					</kar>
+					<eng>They were going to play shinny.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="they told him">
+							<m id="3977">kun</m>
+							<m id="2733">ipéer</m>
+						</w>, "
+						<w>
+							<m id="5160">púya</m>
+						</w>
+						<w>
+							<m id="1457">íf</m>
+						</w>
+						<w>
+							<m id="7000">yâamach</m>
+						</w>
+						<w gl="you were painting your face">
+							<m id="4408">p</m>
+							<m id="1418">ee</m>
+							<m id="2674">p</m>
+							<m id="36">âanvu</m>
+							<m id="6035">tih</m>
+						</w>.
+					</kar>
+					<eng>And they said to (Horsefly), "My, your face is painted pretty!</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="1281">fâat</m>
+						</w>
+						<w>
+							<m id="3915">kôok</m>
+						</w>
+						<w gl="you were painting your face with">
+							<m id="4408">p</m>
+							<m id="1418">ee</m>
+							<m id="2674">p</m>
+							<m id="36">âanvu</m>
+							<m id="6035">ti</m>
+						</w>
+						<w>
+							<m id="1656">iim</m>
+						</w>."
+					</kar>
+					<eng>What did you paint it with?"</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						<w>
+							<m id="3745">kári</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="he had">
+							<m id="5506">t</m>
+							<m id="6175">óo</m>
+						</w>
+						<w>
+							<m id="4823">piip</m>
+						</w>, "
+						<w>
+							<m id="4208">mán</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w>
+							<m id="4299">naa</m>
+						</w>
+						<w>
+							<m id="6383">vaa</m>
+						</w>
+						<w>
+							<m id="3745">kári</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w>
+							<m id="5506">tá</m>
+						</w>
+						<w gl="I thought">
+							<m id="4349">ni</m>
+							<m id="6939">xus</m>
+						</w>, '
+						<w>
+							<m id="1144">chími</m>
+						</w>
+						<w gl="let me go look for it">
+							<m id="3735">kan</m>
+							<m id="415">'ápivan</m>
+						</w>
+						<w gl="what I will paint my face with">
+							<m id="4408">pa</m>
+							<m id="4349">ni</m>
+							<m id="2674">p</m>
+							<m id="36">âanv</m>
+							<m id="1379">eesh</m>
+						</w>.'
+					</kar>
+					<eng>And he said, "Why, I thought I would go look for something to paint my face with.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="5163">púyava</m>
+						</w>
+						<w>
+							<m id="2682">ípaha</m>
+						</w>
+						<w>
+							<m id="5506">tá</m>
+						</w>
+						<w gl="I tore it open">
+							<m id="4349">ni</m>
+							<m id="3167">shxáxaar</m>
+						</w>.
+					</kar>
+					<eng>So I ripped open a tree.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6570">víri</m>
+						</w>
+						<w>
+							<m id="6383">vaa</m>
+						</w>
+						<w>
+							<m id="3670">káan</m>
+						</w>
+						<w>
+							<m id="5506">tá</m>
+						</w>
+						<w gl="I found it">
+							<m id="4349">ni</m>
+							<m id="4155">máh</m>
+						</w>
+						<w gl="what I am painting my face with">
+							<m id="4408">pa</m>
+							<m id="4349">ni</m>
+							<m id="2674">p</m>
+							<m id="36">âanvu</m>
+							<m id="6035">tih</m>
+						</w>."
+					</kar>
+					<eng>There I found what I am painting it with."</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						<w>
+							<m id="3745">kári</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w>
+							<m id="1503">ífuth</m>
+						</w>
+						<w gl="they played shinny again">
+							<m id="4408">pa</m>
+							<m id="3977">kun</m>
+							<m id="2674">p</m>
+							<m id="2520">ímthaatvu</m>
+							<m id="4298">naa</m>
+						</w>.
+					</kar>
+					<eng>And afterward they played shinny again.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3745">kári</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w>
+							<m id="3969">kúkuum</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w>
+							<m id="6383">vaa</m>
+						</w>
+						<w>
+							<m id="1109">chí</m>
+						</w>
+						<w gl="they were going to play shinny">
+							<m id="3977">kun</m>
+							<m id="2520">ímthaatvu</m>
+							<m id="4298">naa</m>
+							<m id="1379">vish</m>
+						</w>.
+					</kar>
+					<eng>Again they were going to play shinny.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="5163">púyava</m>
+						</w>
+						<w gl="they were saying to him">
+							<m id="3977">kun</m>
+							<m id="2733">ípeen</m>
+							<m id="6035">tih</m>
+						</w>, "
+						<w>
+							<m id="1396">hôoy</m>
+						</w>
+						<w>
+							<m id="1656">iim</m>
+						</w>
+						<w gl="you were finding it">
+							<m id="1418">i</m>
+							<m id="4155">máah</m>
+							<m id="6035">tih</m>
+						</w>
+						<w gl="what you are painting your face with">
+							<m id="4408">p</m>
+							<m id="1418">ee</m>
+							<m id="2674">p</m>
+							<m id="36">âanvu</m>
+							<m id="6035">tih</m>
+						</w>."
+					</kar>
+					<eng>So they said to him, "How do you find what you paint your face with?"</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="they thought">
+							<m id="3977">kun</m>
+							<m id="6939">xús</m>
+						</w> "
+						<w>
+							<m id="4380">nuu</m>
+						</w>
+						<w>
+							<m id="3752">káru</m>
+						</w>
+						<w>
+							<m id="6383">vaa</m>
+						</w>
+						<w>
+							<m id="6042">tîi</m>
+						</w>
+						<w gl="let us do it">
+							<m id="4370">nú</m>
+							<m id="4086">kuuph</m>
+							<m id="1419">i</m>
+						</w>."
+					</kar>
+					<eng>And they thought, "Let us do that too!"</eng>
+				</s>
+				<s>
+					<kar>
+						<w gl="the trees">
+							<m id="4407">pa</m>
+							<m id="2682">'ípaha</m>
+						</w>
+						<w gl="they grabbed at them">
+							<m id="3977">kun</m>
+							<m id="1784">íkfuukiraa</m>
+						</w>.
+					</kar>
+					<eng>They grabbed the trees.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="5085">púfaat</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w gl="the blood">
+							<m id="4407">pá</m>
+							<m id="72">'aax</m>
+						</w>.
+					</kar>
+					<eng>There was no blood (in them).</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						<w>
+							<m id="3758">káruma</m>
+						</w>
+						<w>
+							<m id="6307">uum</m>
+						</w>
+						<w gl="the humans">
+							<m id="4407">pa</m>
+							<m id="506">'áraar</m>
+						</w>
+						<w gl="he had">
+							<m id="5506">t</m>
+							<m id="6175">óo</m>
+						</w>
+						<w>
+							<m id="4549">par</m>
+						</w>,
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="their blood">
+							<m id="4407">pa</m>
+							<m id="4260">mú</m>
+							<m id="72">'aax</m>
+						</w>
+						<w gl="he had">
+							<m id="5506">t</m>
+							<m id="6175">óo</m>
+						</w>
+						<w gl="taken it off into his mouth">	
+							<m id="5147">pûux</m>
+							<m id="5475">sur</m>
+						</w>.
+					</kar>
+					<eng>The fact was, (Horsefly) had bit human beings, and taken out a mouthful of their blood.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>	
+							<m id="6570">víri</m>
+						</w>
+						<w>
+							<m id="6381">vaa</m>
+						</w>
+						<w gl="what he was painting his face with">	
+							<m id="4408">p</m>
+							<m id="6175">oo</m>
+							<m id="2674">p</m>
+							<m id="36">âanvu</m>
+							<m id="6035">ti</m>
+						</w>
+						<w gl="the human blood">
+							<m id="4407">pa</m>
+							<m id="506">'arará</m>
+							<m id="72">'aax</m>
+						</w>.
+					</kar>
+					<eng>Human blood is what he painted his face with.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w>
+							<m id="524">araramvanyupsítanach</m>
+						</w>
+						<w gl="he thought">
+							<m id="6175">u</m>
+							<m id="6939">xus</m>
+						</w>, "
+						<w>
+							<m id="6881">xáyfaat</m>
+						</w>
+						<w>
+							<m id="6383">vaa</m>
+						</w>
+						<w gl="I say it">
+							<m id="4349">ni</m>
+							<m id="4823">piip</m>
+						</w>, "
+						<w gl="he had">
+							<m id="5506">t</m>
+							<m id="6175">óo</m>
+						</w>
+						<w>
+							<m id="4823">piip</m>
+						</w>, "
+						<w gl="in trees">
+							<m id="2682">ípah</m>
+							<m id="232">ak</m>
+						</w>
+						<w>
+							<m id="3809">kích</m>
+						</w>
+						<w gl="I am finding it">
+							<m id="4408">pa</m>
+							<m id="4349">ni</m>
+							<m id="4155">máah</m>
+							<m id="6035">ti</m>
+						</w>
+						<w gl="the blood">
+							<m id="4407">pá</m>
+							<m id="72">'aax</m>
+						</w>."
+					</kar>
+					<eng>and Horsefly thought, "Let me not say it"; he said, "I find the blood only in trees."</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="5163">púyava</m>
+						</w>
+						<w>
+							<m id="4716">payêem</m>
+						</w>
+						<w gl="when it has">
+							<m id="4408">pa</m>
+							<m id="5506">t</m>
+							<m id="6175">óo</m>
+						</w>
+						<w>
+							<m id="3045">snur</m>
+						</w>,
+						<w gl="the trees">
+							<m id="4407">pa</m>
+							<m id="2682">'ípaha</m>
+						</w>
+						<w gl="he has">
+							<m id="5506">t</m>
+							<m id="6175">óo</m>
+						</w>
+						<w>
+							<m id="1784">kfuukiraa</m>
+						</w>,
+						<w gl="he has">
+							<m id="5506">t</m>
+							<m id="6175">óo</m>
+						</w>
+						<w>
+							<m id="3167">sxáxaar</m>
+						</w>.
+					</kar>
+					<eng>So now when it thunders, (Lightning) grabs the trees, he rips them open.</eng>
+				</s>
+			</paragraph>
+		</data>
+	</text>
+						
+						
+					
+						
+						
+							
+							
+						
+				
+						
+						 
+							
+							
+							
+							
+						
+							
+						
+						
+						
+						
+				

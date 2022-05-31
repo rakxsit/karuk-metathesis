@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-37">
+    <metadata>
+        <title>"Eel and Sucker"</title>
+        <author>Mamie <alph>Offield</alph></author>
+        <date>1957</date>
+        <publication>William Bright, <em>The Karok Language</em> (1957), pp. 238-239, Text
+            37</publication>
+    </metadata>
+    <data>
+        <paragraph>
+            <s>
+                <kar>
+                    <w><m id="264">akráa</m></w>
+                    <w><m id="1063">chámuxich</m></w>
+                    <w><m id="6756">xákaan</m></w>
+                    <w gl="they gambled"><m id="3977">kun</m><m id="3288">íthtit</m></w>. </kar>
+                <eng>Eel and Sucker gambled together.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w><m id="1096">chavúra</m></w>
+                    <w><m id="6307">uum</m></w>
+                    <w><m id="3930">koovúra</m></w>
+                    <w><m id="5506">tá</m></w>
+                    <w gl="they beat"><m id="3977">kun</m><m id="1110">chífich</m></w>
+                    <w><m id="264">akráa</m></w>
+                    <w gl="sucker"><m id="1063">chamuxich</m><m id="1670">'îin</m></w>. </kar>
+                <eng>Finally Sucker won everything from Eel.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w><m id="3930">koovúra</m></w>
+                    <w gl="PERF"><m id="5506">t</m><m id="6175">óo</m></w>
+                    <w><m id="3514">xraam</m></w>. </kar>
+                <eng>He had bet everything.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w><m id="3745">kári</m></w>
+                    <w><m id="6847">xás</m></w>
+                    <w gl="he said"><m id="6175">u</m><m id="4823">píip</m></w>
+                    <w gl="the eel"><m id="4407">pá</m><m id="264">akraah</m></w>, "<w gl="my bone"
+                            ><m id="4326">nani</m><m id="2750">'ípi</m></w>
+                    <w><m id="5506">tá</m></w>
+                    <w gl="I bet"><m id="4349">ní</m><m id="3514">xraam</m></w>." </kar>
+                <eng>And Eel said, "I'll bet my bones."</eng>
+            </s>
+            <s>
+                <kar>
+                    <w><m id="3745">kári</m></w>
+                    <w><m id="6847">xás</m></w>
+                    <w><m id="6383">vaa</m></w>
+                    <w><m id="3752">káru</m></w>
+                    <w><m id="6675">vúra</m></w>
+                    <w gl="he beat"><m id="6175">u</m><m id="1110">chífich</m></w>. </kar>
+                <eng>Then he won those too.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w gl="so"><m id="6570">víri</m><m id="6377">va</m></w>
+                    <w><m id="3971">kumá'ii</m></w>
+                    <w><m id="264">akráa</m></w>
+                    <w><m id="5085">púfaat</m></w>
+                    <w gl="his bone"><m id="4260">mu</m><m id="2750">'ípih</m></w>. </kar>
+                <eng>For that reason Eel has no bones.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w><m id="3978">kúna</m></w>
+                    <w><m id="1063">chámuxich</m></w>
+                    <w><m id="6307">uum</m></w>
+                    <w><m id="6675">vúra</m></w>
+                    <w gl="bony"><m id="2752">ípihar</m></w>.</kar>
+                <eng>But Sucker is bony.</eng>
+            </s>
+        </paragraph>
+    </data>
+</text>

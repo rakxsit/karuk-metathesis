@@ -1,0 +1,156 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.3532426303854876 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription - words" 
+        xmin = 0 
+        xmax = 3.353242630385 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.33 
+            text = "" 
+        intervals [2]:
+            xmin = 0.33 
+            xmax = 0.67 
+            text = "iim" 
+        intervals [3]:
+            xmin = 0.67 
+            xmax = 2.35 
+            text = "punuqafishrihara" 
+        intervals [4]:
+            xmin = 2.35 
+            xmax = 3.3532426303854876 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "transcription - phones" 
+        xmin = 0 
+        xmax = 3.353242630385 
+        intervals: size = 20 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.33 
+            text = "sil" 
+        intervals [2]:
+            xmin = 0.33 
+            xmax = 0.56 
+            text = "IY1" 
+        intervals [3]:
+            xmin = 0.56 
+            xmax = 0.67 
+            text = "M" 
+        intervals [4]:
+            xmin = 0.67 
+            xmax = 0.8176464096749811 
+            text = "P" 
+        intervals [5]:
+            xmin = 0.8176464096749811 
+            xmax = 0.867909465588037 
+            text = "UH0" 
+        intervals [6]:
+            xmin = 0.867909465588037 
+            xmax = 0.96 
+            text = "N" 
+        intervals [7]:
+            xmin = 0.96 
+            xmax = 1.04 
+            text = "UH0" 
+        intervals [8]:
+            xmin = 1.04 
+            xmax = 1.07 
+            text = "T" 
+        intervals [9]:
+            xmin = 1.07 
+            xmax = 1.2 
+            text = "AH0" 
+        intervals [10]:
+            xmin = 1.2 
+            xmax = 1.42 
+            text = "F" 
+        intervals [11]:
+            xmin = 1.42 
+            xmax = 1.5 
+            text = "IH0" 
+        intervals [12]:
+            xmin = 1.5 
+            xmax = 1.66 
+            text = "SH" 
+        intervals [13]:
+            xmin = 1.66 
+            xmax = 1.7 
+            text = "R" 
+        intervals [14]:
+            xmin = 1.7 
+            xmax = 1.73 
+            text = "IH0" 
+        intervals [15]:
+            xmin = 1.73 
+            xmax = 1.94 
+            text = "HH" 
+        intervals [16]:
+            xmin = 1.94 
+            xmax = 1.98 
+            text = "AH0" 
+        intervals [17]:
+            xmin = 1.98 
+            xmax = 2.11 
+            text = "R" 
+        intervals [18]:
+            xmin = 2.11 
+            xmax = 2.35 
+            text = "AH0" 
+        intervals [19]:
+            xmin = 2.35 
+            xmax = 3.33 
+            text = "sp" 
+        intervals [20]:
+            xmin = 3.33 
+            xmax = 3.3532426303854876 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "targetseq" 
+        xmin = 0 
+        xmax = 3.353242630385 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.67 
+            text = "" 
+        intervals [2]:
+            xmin = 0.67 
+            xmax = 0.867909465588037 
+            text = "pu" 
+        intervals [3]:
+            xmin = 0.867909465588037 
+            xmax = 3.3532426303854876 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "targetphone" 
+        xmin = 0 
+        xmax = 3.353242630385 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.67 
+            text = "" 
+        intervals [2]:
+            xmin = 0.67 
+            xmax = 0.8176464096749811 
+            text = "P" 
+        intervals [3]:
+            xmin = 0.8176464096749811 
+            xmax = 0.867909465588037 
+            text = "UH0" 
+        intervals [4]:
+            xmin = 0.867909465588037 
+            xmax = 3.3532426303854876 
+            text = "" 

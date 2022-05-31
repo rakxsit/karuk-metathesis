@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 1.19875283446712
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "transcription - words"
+		xmin = 0.0
+		xmax = 1.19875283446712
+		intervals: size = 4
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.0800
+				text = ""
+			intervals [2]:
+				xmin = 0.0800
+				xmax = 0.3700
+				text = "faat"
+			intervals [3]:
+				xmin = 0.3700
+				xmax = 0.9800
+				text = "ixutih"
+			intervals [4]:
+				xmin = 0.9800
+				xmax = 1.19875283446712
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "transcription - phones"
+		xmin = 0.0
+		xmax = 1.19875283446712
+		intervals: size = 12
+			intervals [1]:
+				xmin = 0.0000
+				xmax = 0.0800
+				text = "sil"
+			intervals [2]:
+				xmin = 0.0800
+				xmax = 0.1500
+				text = "F"
+			intervals [3]:
+				xmin = 0.1500
+				xmax = 0.2400
+				text = "AA1"
+			intervals [4]:
+				xmin = 0.2400
+				xmax = 0.3700
+				text = "T"
+			intervals [5]:
+				xmin = 0.3700
+				xmax = 0.4200
+				text = "IH0"
+			intervals [6]:
+				xmin = 0.4200
+				xmax = 0.5500
+				text = "HH"
+			intervals [7]:
+				xmin = 0.5500
+				xmax = 0.7200
+				text = "UH0"
+			intervals [8]:
+				xmin = 0.7200
+				xmax = 0.7800
+				text = "T"
+			intervals [9]:
+				xmin = 0.7800
+				xmax = 0.8200
+				text = "IH0"
+			intervals [10]:
+				xmin = 0.8200
+				xmax = 0.9800
+				text = "HH"
+			intervals [11]:
+				xmin = 0.9800
+				xmax = 1.1800
+				text = "sp"
+			intervals [12]:
+				xmin = 1.1800
+				xmax = 1.19875283446712
+				text = ""

@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_LA78.1-004a">
+    <metadata>
+        <title>"Blue Jay as Doctor"</title>
+        <author>Nettie <alph>Reuben</alph></author>
+        <date>1949</date>
+        <publication>Unpublished (recorded by William Bright, 1949)</publication>
+        <audio filename="LA78.1-004a"
+            sourcelink="http://cla.berkeley.edu/item/10145?tab=description">"Karok audio recordings" (1949), California Language Archive, Item LA 78, Segment 4</audio>
+	<!--<pdf filename="LA78.1-004a_ms.pdf" caption="Manuscript scan"/>-->
+	<note publish="yes">This text was transcribed in Karuk by William Bright without English
+			free translations. Free translations were provided by Vina Smith (2013).</note>
+    </metadata>
+    <data>
+      <paragraph>
+	<s spkr="NR" audio="LA78.1-004a_01" audio-start-time="0:16">
+	  <txt lang="kyh">
+	    <w>mahnûuvanach</w>
+	    <w>uum</w>
+	    <w>vúra</w>
+	    <w>káan</w>
+	    <w>tuyíkiha</w>.
+	  </txt>
+	  <trans lang="eng">Chipmunk, he got sick.</trans>
+	</s>
+	<s spkr="NR" audio="LA78.1-004a_02" audio-start-time="0:21">
+	  <txt lang="kyh">
+	    <w>íi</w>,
+	    <w>kári</w>
+	    <w>xás</w>
+	    <w>[?]</w>
+	    <w>kunxus</w>,
+	    "<w>púya</w>
+	    <w>íf</w>
+	    <w>puxích</w>
+	    <w>tookúha</w>,
+	    <w>kíri</w>
+	    <w>xuus</w>
+	    <w>kun'uum</w>."
+	  </txt>
+	  <trans lang="eng">They were thinking, he's really sick, he needs to get doctored.</trans>
+	</s>
+	<s spkr="NR" audio="LA78.1-004a_03" audio-start-time="0:27">
+	  <txt lang="kyh">
+	    <w>kári</w>
+	    <w>xás</w>
+	    <w>ta'ítam</w>,
+	    "<w>chími</w>
+	    <w>kiikpíkaan</w>
+	    <w>kachakáach</w>."
+	  </txt>
+	  <trans lang="eng">Then they said to go get Kachakaach.</trans>
+	</s>	
+	<s spkr="NR" audio="LA78.1-004a_04" audio-start-time="0:32">
+	  <txt lang="kyh">
+	    <w>ta'ítam</w>
+	    <w>kunpikâaraheen</w>.
+	  </txt>
+	  <trans lang="eng">Then they went after her (Kachakaach).</trans>
+	</s>	
+	<s spkr="NR" audio="LA78.1-004a_05" audio-start-time="0:34">
+	  <txt lang="kyh">
+	    <w>ta'ítam</w>
+	    <w>u'uumáheen</w>.
+	  </txt>
+	  <trans lang="eng">She (Kachakaach) got there.</trans>
+	</s>	
+	<s spkr="NR" audio="LA78.1-004a_06" audio-start-time="0:37">
+	  <txt lang="kyh">
+	    <w>íi</w>
+	    <w>kári</w>
+	    <w>xás</w>
+	    <w>[?]</w>
+	    <w>púxay</w>
+	    <w>vúraxay</w>
+	    <w>xáy</w>
+	    <w>vura</w>
+	    <w>hûutheesh</w>,
+	    <w>vúra</w>
+	    <w>puxích</w>
+	    <w>tuyíkiha</w>.
+	  </txt>
+	  <trans lang="eng">[translation unsure], he's really sick.</trans>
+	</s>	
+	<s spkr="NR" audio="LA78.1-004a_07" audio-start-time="0:43">
+	  <txt lang="kyh">
+	    <w>ta'ítam</w>
+	    <w>xás</w>
+	    <w>u'uumáheen</w>.
+	  </txt>
+	  <trans lang="eng">She came.</trans>
+	  <note>WB had xúus for 2nd word, VS hears xás: "All of a sudden, not doctoring. He's getting there."</note>
+	</s>	
+	<s spkr="NR" audio="LA78.1-004a_08" audio-start-time="1:03">
+	  <txt lang="kyh">
+	    <w>xás</w>
+	    <w>kári</w>
+	    <w>upiip</w>,
+	    "<w>chími</w>
+	    <w>akâay</w>
+	    <w>kích</w>
+	    <w>vúra</w>
+	    <w>káru</w>
+	    <w>kiikpíkaan</w>.
+	  </txt>
+	  <trans lang="eng">All of a sudden, she's going to start in. They said, "Go get somebody else, too!"</trans>
+	<note>not sure where the first sentence of this translation goes</note>
+	</s>	
+	<s spkr="NR" audio="LA78.1-004a_09" audio-start-time="1:10">
+	  <txt lang="kyh">
+	    <w>vúra</w>
+	    <w>uum</w>
+	    <w>puxích</w>
+	    <w>tookúha</w>.
+	  </txt>
+	  <trans lang="eng">He's really hurting bad.</trans>
+	</s>	
+	<s spkr="NR" audio="LA78.1-004a_10" audio-start-time="1:12">
+	  <txt lang="kyh">
+	    <w>kári</w>
+	    <w>xás</w>
+	    <w>ta'ítam</w>
+	    <w>kunpíkaaraheen</w>,
+	    <w>xánkiit</w>.
+	  </txt>
+	  <trans lang="eng">They went after Bullhead.</trans>
+	</s>	
+	<s spkr="NR" audio="LA78.1-004a_11" audio-start-time="1:18">
+	  <txt lang="kyh">
+	    <w>koovúra</w>
+	    <w>tákun'oonvishrihanik</w>.
+	  </txt>
+	  <trans lang="eng">They all got there.</trans>
+	  <note>VS said tukun'oonvishrihanik? check recording</note>
+	</s>	
+	<s spkr="NR" audio="LA78.1-004a_12" audio-start-time="1:22">
+	  <txt lang="kyh">
+	    <w>víri</w>
+	    <w>vaa</w>
+	    <w>[?]</w>
+	    <w>ta'ítam</w>
+	    <w>xánkiit</w>,
+	    "<w>chémi</w>."
+	  </txt>
+	  <trans lang="eng"></trans>
+	  <note> no translation from VS, is this just hesitation/same as following sentence?</note>
+	</s>	
+	<s spkr="NR" audio="LA78.1-004a_13" audio-start-time="1:27">
+	  <txt lang="kyh">
+	    <w>ta'ítam</w>
+	    <w>xúus</w>
+	    <w>u'uumáheen</w>.
+	  </txt>
+	  <trans lang="eng">She started doctoring him.</trans>
+	</s>	
+      </paragraph>
+      <paragraph>
+	<s spkr="NR" audio="LA78.1-004a_14" audio-start-time="1:29">
+	  <txt lang="kyh">
+	    <w><m language="nonsense">ye-e-he-e-he-e</m></w>
+	  </txt>
+	  <trans lang="eng">ye-e-he-e-he-e</trans>
+	</s>	
+	<s spkr="NR">
+	  <txt lang="kyh">
+	    <w><m language="nonsense">ye-e-he-e-he-e</m></w>
+	  </txt>
+	  <trans lang="eng">ye-e-he-e-he-e</trans>
+	</s>	
+	<s spkr="NR">
+	  <txt lang="kyh">
+	    <w><m language="nonsense">ye-e-he-e-he-e</m></w>
+	  </txt>
+	  <trans lang="eng">ye-e-he-e-he-e</trans>
+	</s>	
+	<s spkr="NR">
+	  <txt lang="kyh">
+	    <w><m language="nonsense">ye-e-he-e-he-e</m></w>
+	  </txt>
+	  <trans lang="eng">ye-e-he-e-he-e</trans>
+	</s>	
+	<s spkr="NR">
+	  <txt lang="kyh">
+	    <w><m language="nonsense">ye-e-he-e-he-e</m></w>
+	  </txt>
+	  <trans lang="eng">ye-e-he-e-he-e</trans>
+	</s>
+      </paragraph>
+      <paragraph>
+	<s spkr="NR" audio="LA78.1-004a_15" audio-start-time="1:50">
+	  <txt lang="kyh">
+	    <w>kári</w>
+	    <w>xás</w>
+	    <w>upikrîish</w>,
+	    <w>upihéer</w>,
+	    <w>sahíshyuuxach</w>.
+	  </txt>
+	  <trans lang="eng">Rabbit sat back down and started smoking.</trans>
+	</s>
+	<s spkr="NR" audio="LA78.1-004a_16" audio-start-time="1:55">
+	  <txt lang="kyh">
+	    <w>xás</w>
+	    <w>uppiip</w>,
+	    "<w>púxay</w>
+	    <w>vaa</w>,
+	    <w>chími</w>
+	    <w>xuus</w>
+	    <w>kíikuumih</w>."
+	  </txt>
+	  <trans lang="eng">[He said,]"Go right ahead and doctor."</trans>
+	</s>	
+	<s spkr="NR" audio="LA78.1-004a_17" audio-start-time="1:59">
+	  <txt lang="kyh">
+	    <w>kári</w>
+	    <w>xás</w>
+	    <w>ta'ítam</w>,
+	    <w>uvôonsipreeheen</w>,
+	    <w>xánkiit</w>.
+	  </txt>
+	  <trans lang="eng">Bullhead, she got back up.</trans>
+	</s>
+	<s spkr="NR" audio="LA78.1-004a_18" audio-start-time="2:07">
+	  <txt lang="kyh">
+	    <w>úmpaan</w>
+	    <w>xúus</w>
+	    <w>u'uum</w>.
+	  </txt>
+	  <trans lang="eng">[he doctored him (another person) or they got another doctor]</trans>
+	</s>	<!-- check translation-->
+	<s spkr="NR" audio="LA78.1-004a_19" audio-start-time="2:10">
+	  <txt lang="kyh">
+	    <w>kári</w>
+	    <w>xás</w>
+	    <w>kári</w>,
+	    <w>ta'ítam</w>,
+	    <w>u'arihishriheen</w>:
+	  </txt>
+	  <trans lang="eng">All of a sudden, he's ready:</trans><!-- check translation-->
+	</s>	
+      </paragraph>
+      <paragraph>
+	<s spkr="NR" audio="LA78.1-004a_20" audio-start-time="2:17">
+	  <txt lang="kyh">
+	    <w><m language="nonsense">ye-he-he ha-na-he</m></w>
+	  </txt>
+	  <trans lang="eng">ye-he-he ha-na-he</trans>
+	</s>
+	<s spkr="NR">
+	  <txt lang="kyh">
+	    <w><m language="nonsense">ye-he-he ha-na-he</m></w>
+	  </txt>
+	  <trans lang="eng">ye-he-he ha-na-he</trans>
+	</s>
+	<s spkr="NR" audio="LA78.1-004a_21" audio-start-time="2:27">
+	  <txt lang="kyh">
+	    <w><m>áchpuus</m></w>
+	    <w><m>kanapíshaavsiprinih</m></w>
+	  </txt>
+	  <trans lang="eng">[?]</trans>
+	  <note>VS did not recognize these words but they seem to be Karuk, not nonsense</note>
+	</s>
+	<s spkr="NR" audio="LA78.1-004a_22" audio-start-time="2:33">
+	  <txt lang="kyh">
+	    <w><m language="nonsense">ye-he-he ha-na-he</m></w>
+	  </txt>
+	  <trans lang="eng">ye-he-he ha-na-he</trans>
+	</s>
+	<s spkr="NR">
+	  <txt lang="kyh">
+	    <w><m language="nonsense">ye-he-he ha-na-he</m></w>
+	  </txt>
+	  <trans lang="eng">ye-he-he ha-na-he</trans>
+	</s>
+	<s spkr="NR" audio="LA78.1-004a_23" audio-start-time="2:44">
+	  <txt lang="kyh">
+	    <w><m>áchpuus</m></w>
+	    <w><m>kanapíshaavsiprinih</m></w>
+	  </txt>
+	  <trans lang="eng">[?]</trans>
+	  <note>VS did not recognize these words but they seem to be Karuk, not nonsense</note>
+	</s>
+	<s spkr="NR" audio="LA78.1-004a_24" audio-start-time="2:50">
+	  <txt lang="kyh">
+	    <w><m language="nonsense">ye-he-he ha-na-he</m></w>
+	  </txt>
+	  <trans lang="eng">ye-he-he ha-na-he</trans>
+	</s>
+	<s spkr="NR" audio="LA78.1-004a_25" audio-start-time="2:56">
+	  <txt lang="kyh">
+	    <w><m>áchpuus</m></w>
+	    <w><m>kanapíshaavsiprinih</m></w>
+	  </txt>
+	  <trans lang="eng">[?]</trans>
+	  <note>VS did not recognize these words but they seem to be Karuk, not nonsense</note>
+	</s>
+	<s spkr="NR" audio="LA78.1-004a_26" audio-start-time="3:01">
+	  <txt lang="kyh">
+	    <w>kári</w>
+	    <w>xás</w>
+	    <w>upikrîish</w>,
+	    <w>xás</w>
+	    <w>upihéer</w>.
+	  </txt>
+	  <trans lang="eng">Then she sat back down and took her smoke.</trans>
+	</s>	
+	<s spkr="NR" audio="LA78.1-004a_27" audio-start-time="3:05">
+	  <txt lang="kyh">
+	    <w>kári</w>
+	    <w>xás</w>
+	    <w>upiip</w>,
+	    "<w>chími</w>
+	    <w>imkúnpaan</w>.
+	  </txt>
+	  <trans lang="eng">Then she said, "Maybe you guys again [it's your turn].</trans>
+	</s>
+	<s spkr="NR" audio="LA78.1-004a_28" audio-start-time="3:10">
+	  <txt lang="kyh">
+	    <w>púxay</w>
+	    <w>vúra</w>
+	    <w>hûut-heeshara</w>.
+	  </txt>
+	  <trans lang="eng">[?]</trans>
+	  <note>VS hears but can't translate</note>
+	</s>	
+	<s spkr="NR" audio="LA78.1-004a_29" audio-start-time="3:13">
+	  <txt lang="kyh">
+	    <w>vúra</w>
+	    <w>puxích</w>
+	    <w>tookúha</w>."
+	  </txt>
+	  <trans lang="eng">He's really sick, he's hurting.</trans>
+	</s>	
+	<s spkr="NR" audio="LA78.1-004a_30" audio-start-time="3:15">
+	  <txt lang="kyh">
+	    <w>mahnûuvanach</w>
+	    <w>vaas</w>
+	    <w>kích</w>
+	    <w>uthiv</w>,
+	    <w>vúra</w>
+	    <w>tákâarim</w>.
+	  </txt>
+	  <trans lang="eng">Chipmunk [?], she's really bad off.</trans>
+	</s>	
+<!-- got to here checking with VS notes -->
+	<s spkr="NR" audio="LA78.1-004a_31" audio-start-time="3:19">
+	  <txt lang="kyh">
+	    <w>kári</w>
+	    <w>xás</w>
+	    <w>ta'ítam</w>
+	    <w>xanpuchíniishveenach</w>.
+	  </txt>
+	  <trans lang="eng"></trans>
+	</s>	
+	<s spkr="NR" audio="LA78.1-004a_32" audio-start-time="3:26">
+	  <txt lang="kyh">
+	    <w>kári</w>
+	    <w>xás</w>
+	    "<w>chémi</w>."
+	  </txt>
+	  <trans lang="eng"></trans>
+	</s>	
+	<s spkr="NR" audio="LA78.1-004a_33" audio-start-time="3:28">
+	  <txt lang="kyh">
+	    <w>[?]</w>
+	    <w>kachakâach</w>
+	    <w>káan</w>
+	    <w>vúra</w>
+	    <w>úkrii</w>.
+	  </txt>
+	  <trans lang="eng"></trans>
+	</s>
+	<s spkr="NR" audio="LA78.1-004a_34" audio-start-time="3:32">
+	  <txt lang="kyh">
+	    <w>púxay</w>
+	    <w>vúraxay</w>,
+	    <w>vúra</w>
+	    <w>uum</w>
+	    <w>tookúha</w>.
+	  </txt>
+	  <trans lang="eng"></trans>
+	</s>
+      	<s spkr="NR" audio="LA78.1-004a_35" audio-start-time="3:35">
+	  <txt lang="kyh">
+	    <w>kári</w>
+	    <w>xás</w>
+	    <w>upiip</w>,
+	    "<w>chími</w>,
+	    <w>chími</w>
+	    <w>kanpátum</w>",
+	    <w>xanpuchíniishveenach</w>.
+	  </txt>
+	  <trans lang="eng"></trans>
+	  <note>WB has a mark following kanpátum as if there is a morpheme or word there he couldn't make out; I didn't hear anything</note>
+	</s>
+      	<s spkr="NR" audio="LA78.1-004a_36" audio-start-time="3:42">
+	  <txt lang="kyh">
+	    <w>kári</w>
+	    <w>xás</w>
+	    <w>kári</w>
+	    <w>ta'ítam</w>
+	    <w>upátumkaa</w>.
+	  </txt>
+	  <trans lang="eng"></trans>
+	</s>
+      	<s spkr="NR" audio="LA78.1-004a_37" audio-start-time="3:47">
+	  <txt lang="kyh">
+	    <w>xás</w>
+	    <w>upiip</w>,
+	  </txt>
+	  <trans lang="eng"></trans>
+	</s>
+      </paragraph>
+      <paragraph>
+	<s spkr="NR" audio="LA78.1-004a_38" audio-start-time="3:49">
+	  <txt lang="kyh">
+	    <w><m language="nonsense">a-yi-yi-yi-yi</m></w>
+	  </txt>
+	  <trans lang="eng">a-yi-yi-yi-yi</trans>
+	</s>
+	<s spkr="NR">
+	  <txt lang="kyh">
+	    <w><m language="nonsense">a-yi-yi-yi-ya</m></w>
+	  </txt>
+	  <trans lang="eng">a-yi-yi-yi-ya</trans>
+	</s>
+	<s spkr="NR">
+	  <txt lang="kyh">
+	    <w><m language="nonsense">a-yi-yi-yi-yi</m></w>
+	  </txt>
+	  <trans lang="eng">a-yi-yi-yi-yi</trans>
+	</s>
+	<s spkr="NR">
+	  <txt lang="kyh">
+	    <w><m language="nonsense">ha-na-i-naa</m></w>
+	  </txt>
+	  <trans lang="eng">ha-na-i-naa</trans>
+	</s>
+	<s spkr="NR">
+	  <txt lang="kyh">
+	    <w><m language="nonsense">a-yi-yi-yi-yi</m></w>
+	  </txt>
+	  <trans lang="eng">a-yi-yi-yi-yi</trans>
+	</s>
+	<s spkr="NR">
+	  <txt lang="kyh">
+	    <w><m language="nonsense">i-na-i-na-ya</m></w>
+	  </txt>
+	  <trans lang="eng">i-na-i-na-ya</trans>
+	</s>
+      	<s spkr="NR" audio="LA78.1-004a_39" audio-start-time="4:12">
+	  <txt lang="kyh">
+	    <w>hárivarihva</w>
+	    <w>véeniichva</w>
+	  </txt>
+	  <trans lang="eng"></trans>
+	</s>
+	<s spkr="NR" audio="LA78.1-004a_40" audio-start-time="4:15">
+	  <txt lang="kyh">
+	    <w><m language="nonsense">hana-i-naa-ya</m></w>
+	  </txt>
+	  <trans lang="eng">hana-i-naa-ya</trans>
+	</s>
+      	<s spkr="NR" audio="LA78.1-004a_41" audio-start-time="4:18">
+	  <txt lang="kyh">
+	    <w>hárivarihva</w>
+	    <w>véeniichva</w>
+	  </txt>
+	  <trans lang="eng"></trans>
+	</s>
+	<s spkr="NR" audio="LA78.1-004a_42" audio-start-time="4:21">
+	  <txt lang="kyh">
+	    <w><m language="nonsense">hana-i-naa-ya</m></w>
+	  </txt>
+	  <trans lang="eng">hana-i-naa-ya</trans>
+	</s>
+      	<s spkr="NR" audio="LA78.1-004a_43" audio-start-time="4:24">
+	  <txt lang="kyh">
+	    <w>naa</w>
+	    <w>vúra</w>
+	    <w>naapmán'anamahachitihi</w>
+	  </txt>
+	  <trans lang="eng"></trans>
+	</s>
+      	<s spkr="NR" audio="LA78.1-004a_44" audio-start-time="4:28">
+	  <txt lang="kyh">
+	    <w>ya</w>
+	    <w>naa</w>
+	    <w>vúra</w>
+	    <w>naapmán'anamahachitihi</w>
+	  </txt>
+	  <trans lang="eng"></trans>
+	</s>
+      	<s spkr="NR" audio="LA78.1-004a_45" audio-start-time="4:34">
+	  <txt lang="kyh">
+	    <w>hárivarihva</w>
+	    <w>véeniichva</w>
+	  </txt>
+	  <trans lang="eng"></trans>
+	</s>
+	<s spkr="NR" audio="LA78.1-004a_46" audio-start-time="4:38">
+	  <txt lang="kyh">
+	    <w><m language="nonsense">i-na-i-na-ya</m></w>
+	  </txt>
+	  <trans lang="eng">i-na-i-na-ya</trans>
+	</s>
+      	<s spkr="NR" audio="LA78.1-004a_47" audio-start-time="4:40">
+	  <txt lang="kyh">
+	    <w>hárivarihva</w>
+	    <w>véeniichva</w>
+	  </txt>
+	  <trans lang="eng"></trans>
+	</s>
+	<s spkr="NR" audio="LA78.1-004a_48" audio-start-time="4:44">
+	  <txt lang="kyh">
+	    <w><m language="nonsense">i-na-i-na-ya</m></w>
+	  </txt>
+	  <trans lang="eng">i-na-i-na-ya</trans>
+	</s>
+      </paragraph>
+      <paragraph>
+      	<s spkr="NR" audio="LA78.1-004a_49" audio-start-time="4:45">
+	  <txt lang="kyh">
+	    <w>kári</w>
+	    <w>xás</w>
+	    <w>kachakâach</w>
+	    <w>upiip</w>,
+	    "<w>áax<!-- nasal check orthography--></w>,
+	    <w>naa</w>
+	    <w>fatamakêesh</w>
+	    <w>kích</w>
+	    <w>átah</w>
+	    <w>úpeereesh</w>.
+	  </txt>
+	  <trans lang="eng"></trans>
+	</s>
+	<s spkr="NR" audio="LA78.1-004a_50" audio-start-time="4:52">
+	  <txt lang="kyh">
+	    <w>fáat</w>
+	    <w>vúr</w>
+	    <w>upéesh</w>."
+	  </txt>
+	  <trans lang="eng"></trans>
+	</s>
+	<s spkr="NR" audio="LA78.1-004a_51" audio-start-time="4:54">
+	  <txt lang="kyh">
+	    <w>víri</w>
+	    <w>vaa</w>
+	    <w>kích</w>
+	    <w>upítih</w>,
+	    <w>tupuxíchkaanva</w>,
+	    <w>vúra</w>
+	    <w>tu'[?]</w>,
+	    <w>toomáahrav</w>:
+	  </txt>
+	  <trans lang="eng"></trans>
+	</s>
+      </paragraph>
+      <paragraph>
+      	<s spkr="NR" audio="LA78.1-004a_52" audio-start-time="4:59">
+	  <txt lang="kyh">
+	    <w>hárivarihva</w>
+	    <w>véeniichva</w>
+	  </txt>
+	  <trans lang="eng"></trans>
+	</s>
+	<s spkr="NR" audio="LA78.1-004a_53" audio-start-time="5:03">
+	  <txt lang="kyh">
+	    <w><m language="nonsense">hana-i-naa-ya</m></w>
+	  </txt>
+	  <trans lang="eng">hana-i-naa-ya</trans>
+	</s>
+      	<s spkr="NR" audio="LA78.1-004a_54" audio-start-time="5:05">
+	  <txt lang="kyh">
+	    <w>hárivarihva</w>
+	    <w>véeniichva</w>
+	  </txt>
+	  <trans lang="eng"></trans>
+	</s>
+	<s spkr="NR" audio="LA78.1-004a_55" audio-start-time="5:09">
+	  <txt lang="kyh">
+	    <w><m language="nonsense">i-na-i-na-ya</m></w>
+	  </txt>
+	  <trans lang="eng">i-na-i-na-ya</trans>
+	</s>
+      	<s spkr="NR" audio="LA78.1-004a_56" audio-start-time="5:11">
+	  <txt lang="kyh">
+	    <w>hárivarihva</w>
+	    <w>véeniichva</w>
+	  </txt>
+	  <trans lang="eng"></trans>
+	</s>
+	<s spkr="NR" audio="LA78.1-004a_57" audio-start-time="5:15">
+	  <txt lang="kyh">
+	    <w><m language="nonsense">hana-i-naa-ya</m></w>
+	  </txt>
+	  <trans lang="eng">hana-i-naa-ya</trans>
+	</s>
+	<s spkr="NR" audio="LA78.1-004a_58" audio-start-time="5:17">
+	  <txt lang="kyh">
+	    <w>naa</w>
+	    <w>vúra</w>
+	    <w>naapmán'anamahachitihi</w>
+	  </txt>
+	  <trans lang="eng"></trans>
+	</s>
+	<s spkr="NR" audio="LA78.1-004a_59" audio-start-time="5:22">
+	  <txt lang="kyh">
+	    <w>kúmá'ii</w>
+	    <w>papuna'ûusurutih</w><!-- sounds like another na syllable following -tih-->
+	  </txt>
+	  <trans lang="eng"></trans>
+	</s>
+     	<s spkr="NR" audio="LA78.1-004a_60" audio-start-time="5:27">
+	  <txt lang="kyh">
+	    <w>hárivarihva</w>
+	    <w>véeniichva</w>
+	  </txt>
+	  <trans lang="eng"></trans>
+	</s>
+	<s spkr="NR" audio="LA78.1-004a_61" audio-start-time="5:31">
+	  <txt lang="kyh">
+	    <w><m language="nonsense">i-na-i-na-ya</m></w>
+	  </txt>
+	  <trans lang="eng">i-na-i-na-ya</trans>
+	</s>
+     	<s spkr="NR" audio="LA78.1-004a_62" audio-start-time="5:33">
+	  <txt lang="kyh">
+	    <w>kachakâach</w>
+	    <w>muvéeniichva</w>
+	  </txt>
+	  <trans lang="eng"></trans>
+	</s>
+	<s spkr="NR" audio="LA78.1-004a_63" audio-start-time="5:37">
+	  <txt lang="kyh">
+	    <w><m language="nonsense">i-na-i-na-ya</m></w>
+	  </txt>
+	  <trans lang="eng">i-na-i-na-ya</trans>
+	</s>
+     	<s spkr="NR" audio="LA78.1-004a_64" audio-start-time="5:39">
+	  <txt lang="kyh">
+	    <w>kachakâach</w>
+	    <w>muvéeniichva</w>
+	  </txt>
+	  <trans lang="eng"></trans>
+	</s>
+	<s spkr="NR" audio="LA78.1-004a_65" audio-start-time="5:42">
+	  <txt lang="kyh">
+	    <w><m language="nonsense">i-na-i</m></w>
+	  </txt>
+	  <trans lang="eng">i-na-i</trans>
+	</s>
+      </paragraph>
+      <paragraph>
+	<s spkr="NR" audio="LA78.1-004a_66" audio-start-time="5:43">
+	  <txt lang="kyh">
+	    <w>kári</w>
+	    <w>xás</w>
+	    <w>u'árihsip[__]</w>
+	    <w>kachakâach</w>
+	    <w>chanchaksúrak</w>
+	    <w>u'árihruprihva</w>,
+	    "<w>kchkchkchkchkch</w>."
+	  </txt>
+	  <trans lang="eng"></trans>
+	</s>
+	<s spkr="NR" audio="LA78.1-004a_67" audio-start-time="5:51">
+	  <txt lang="kyh">
+	    <w>mâa</w>
+	    <w>vúra</w>
+	    <w>vóokxiipsip[__]</w>
+	    <w>pakachakâach</w>
+	    <w>tu'árihish</w>.
+	  </txt>
+	  <trans lang="eng"></trans>
+	</s>
+	<s spkr="NR" audio="LA78.1-004a_68" audio-start-time="5:55">
+	  <txt lang="kyh">
+	    <w>púyavaa</w>
+	    <w>pay</w>.
+	  </txt>
+	  <trans lang="eng"></trans>
+	</s>      
+      </paragraph>
+    </data>
+</text>

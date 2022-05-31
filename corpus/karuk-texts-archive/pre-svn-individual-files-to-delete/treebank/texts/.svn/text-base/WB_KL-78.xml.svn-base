@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <text id="WB_KL-78">
+		<metadata>
+			<title>"The Shinny Game"</title>
+			<author>Julia <alph>Starritt</alph></author>
+			<date>1957</date>
+			<publication>William Bright, <em>The Karok Language</em> (1957), pp. 290-293, Text 78</publication>
+		</metadata>
+		<data>
+			<paragraph>
+				<s>
+					<txt lang="kyh">
+						<w gl="the Indian men's games" id="WB_KL-78:1" head="WB_KL-78:5" synrel="POSS">
+							<m lemma="4407" id="WB_KL-78:2" head="WB_KL-78:1" synrel="ATR">pa</m>
+							<m lemma="506">'arara</m>
+							<m lemma="833">'avans</m>
+							<m lemma="3531">éextiivha</m>
+						</w>
+						<w id="WB_KL-78:3" head="WB_KL-78:5" synrel="APOS">
+							<m lemma="6307">uum</m>
+						</w>
+						<w id="WB_KL-78:4" head="WB_KL-78:5" synrel="ATR"> 
+							<m lemma="7097">yítha</m>
+						</w>
+						<w gl="game" id="WB_KL-78:5" head="WB_KL-78:7" synrel="SBJ">
+							<m lemma="4407" id="WB_KL-78:6" head="WB_KL-78:5" synrel="ATR">pa</m>
+							<m lemma="3970">kum</m>
+							<m lemma="3531">éextiivha</m>
+						</w>
+						<w gl="it was called" id="WB_KL-78:7" head="0" synrel="PRED">
+							<m lemma="6175">ú</m>
+							<m lemma="3323">thvuuy</m>
+							<m lemma="6035">ti</m>
+						</w>
+						<w id="WB_KL-78:8" head="WB_KL-78:7" synrel="COMP">
+							<m lemma="2521">imtháatva</m>
+						</w>.
+					</txt>
+					<trans lang="eng">One game, of the Indian men's games, was called 'the stick game' (i.e., shinny).</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w gl="so" id="WB_KL-78:8" head="WB_KL-78:12" synrel="DIS">
+							<m lemma="5160">víri</m>
+							<m lemma="6383" id="WB_KL-78:9" head="WB_KL-78:12" synrel="DIS">va</m>
+						</w>
+						<w id="WB_KL-78:10" head="WB_KL-78:12" synrel="SBJ">
+							<m lemma="6307">uum</m>
+						</w>
+						<w gl="a level place" id="WB_KL-78:11" head="WB_KL-78:12" synrel="ADV">
+							<m lemma="6096">tishrám</m>
+							<m lemma="5180">niik</m>
+						</w>
+						<w gl="where they played it" id="WB_KL-78:12" head="0" synrel="PRED">
+							<m lemma="4408" id="WB_KL-78:13" head="WB_KL-78:12" synrel="SUB">pa</m>
+							<m lemma="3977">kun</m>
+							<m lemma="3530">íxtiivhi</m>
+							<m lemma="6035">tih</m>
+						</w>.
+					</txt>
+					<trans lang="eng">They played it on a level place.</trans>
+				</s>
+			<!--
+				<s>
+					<txt lang="kyh">
+						<w gl="so" id="WB_KL-78:8" head="WB_KL-78:11" synrel="DIS">
+							<m lemma="5160">víri</m>
+							<m lemma="6383" id="WB_KL-78:9" head="WB_KL-78:11" synrel="SBJ">va</m>
+						</w>
+						<w id="WB_KL-78:10" head="WB_KL-78:9" synrel="APOS">
+							<m lemma="6307">uum</m>
+						</w>
+						<w gl="a level place" id="WB_KL-78:11" head="0" synrel="PRED">
+							<m lemma="6096">tishrám</m>
+							<m lemma="5180">niik</m>
+						</w>
+						<w gl="where they played it" id="WB_KL-78:12" head="WB_KL-78:11" synrel="ADV">
+							<m lemma="4408" id="WB_KL-78:13" head="WB_KL-78:12" synrel="SUB">pa</m>
+							<m lemma="3977">kun</m>
+							<m lemma="3530">íxtiivhi</m>
+							<m lemma="6035">tih</m>
+						</w>.
+					</txt>
+					<trans lang="eng">They played it on a level place.</trans>
+				</s>
+			-->
+				<s>
+					<txt lang="kyh">
+						<w gl="The Orleans stick-game field" id="WB_KL-78:14" head="WB_KL-78:19" synrel="SBJ">
+							<m lemma="4407" id="WB_KL-78:15" head="WB_KL-78:14" synrel="ATR">pa</m>
+							<m lemma="4528">panamnih</m>
+							<m lemma="2546">imthatváram</m>
+						</w>
+						<w id="WB_KL-78:16" head="WB_KL-78:14" synrel="APOS">
+							<m lemma="6307">uum</m>
+						</w>
+						<w id="WB_KL-78:17" head="WB_KL-78:19" synrel="DIS">
+							<m lemma="6383">vaa</m>
+						</w>
+						<w id="WB_KL-78:18" head="WB_KL-78:19" synrel="ADV">
+							<m lemma="3670">káan</m>
+						</w>
+						<w gl="it began" id="WB_KL-78:19" head="0" synrel="PRED">
+							<m lemma="6175">u</m>
+							<m lemma="2341">kyâasipree</m>
+							<m lemma="168">hi</m>
+							<m lemma="6035">ti</m>
+						</w>
+						<w gl="Georgia" id="WB_KL-78:20" head="WB_KL-78:22" synrel="POSS">
+							<m lemma="4407" id="WB_KL-78:21" head="WB_KL-78:20" synrel="ATR">pa</m>
+							<m language="english">Georgia</m>
+						</w>
+						<w gl="outside her fence" id="WB_KL-78:22" head="WB_KL-78:19" synrel="ADV">
+							<m lemma="4260">mu</m>
+							<m lemma="5710">tasa</m>
+							<m lemma="1654">'îikukam</m>
+						</w>,
+						<w id="WB_KL-78:23" head="WB_KL-78:28" synrel="DIS">
+							<m lemma="6847">xás</m>
+						</w>
+						<w id="WB_KL-78:24" head="WB_KL-78:28" synrel="ADV">
+							<m lemma="7212">yúruk</m>
+						</w>
+						<w gl="where the black oak" id="WB_KL-78:25" head="WB_KL-78:27" synrel="SBJ">
+							<m lemma="4408" id="WB_KL-78:26" head="WB_KL-78:27" synrel="SUB">pa</m>
+							<m lemma="6813">xánthiip</m>
+						</w>
+						<w gl="it stands" id="WB_KL-78:27" head="WB_KL-78:28" synrel="ADV">
+							<m lemma="6175">u</m>
+							<m lemma="1646">'iihy</m>
+							<m lemma="1387">írak</m>
+						</w>
+						<w gl="it ended" id="WB_KL-78:28" head="0" synrel="PRED">
+							<m lemma="6175">u</m>
+							<m lemma="2699">'ípanhi</m>
+							<m lemma="6035">tih</m>
+						</w>.
+					</txt>
+					<trans lang="eng">The Orleans stick-game field began there just outside Georgia's (Mrs. Georgia Henry's) fence, and it ended downriver where the black oak stands.</trans>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<txt lang="kyh">
+						<w id="WB_KL-78:29" head="WB_KL-78:30" synrel="DIS">
+							<m lemma="6847">xás</m>
+						</w>
+						<w gl="they carried it" id="WB_KL-78:30" head="0" synrel="PRED">
+							<m lemma="3977">kun</m>
+							<m lemma="5229">sáanvu</m>
+							<m lemma="6035">ti</m>
+						</w>
+						<w id="WB_KL-78:31" head="WB_KL-78:30" synrel="OBJ">
+							<m lemma="215">áhup</m>
+						</w>,
+						<w gl="it was called" id="WB_KL-78:32" head="0" synrel="PRED">
+							<m lemma="6175">ú</m>
+							<m lemma="3323">thvuuy</m>
+							<m lemma="6035">ti</m>
+						</w>
+						<w id="WB_KL-78:33" head="WB_KL-78:32" synrel="SBJ">
+							<m lemma="2522">imtháatvar</m>
+						</w>
+						<w id="WB_KL-78:34" head="WB_KL-78:35" synrel="DIS">
+							<m lemma="3752">káru</m>
+						</w>
+						<w id="WB_KL-78:35" head="WB_KL-78:33" synrel="COORD">
+							<m lemma="5583">tákasar</m>
+						</w>.
+					</txt>
+					<trans lang="eng">And they carried sticks, they were called shinny sticks and a 'tossel' (i.e., a double ball).</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w id="WB_KL-78:36" head="WB_KL-78:40" synrel="DIS">
+							<m lemma="6847">xás</m>
+						</w>
+						<w gl="the tossel" id="WB_KL-78:37" head="WB_KL-78:40" synrel="SBJ">
+							<m lemma="4407" id="WB_KL-78:38" head="WB_KL-78:37" synrel="ATR">pa</m>
+							<m lemma="5583">tákasar</m>
+						</w>
+						<w id="WB_KL-78:39" head="WB_KL-78:37" synrel="APOS">
+							<m lemma="6307">uum</m>
+						</w>
+						<w gl="little sticks" id="WB_KL-78:40" head="0" synrel="PRED">
+							<m lemma="215">ahup</m>
+							<m lemma="6128">tunvêech</m>
+							<m lemma="584">as</m>
+						</w>,
+						<w gl="they were tied together" id="WB_KL-78:41" head="0" synrel="PRED">
+							<m lemma="6175">u</m>
+							<m lemma="2652">nhítunv</m>
+							<m lemma="168">ahi</m>
+							<m lemma="6035">tih</m>
+						</w>.
+					</txt>
+					<trans lang="eng">And the tossel was little sticks, they were tied together.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w id="WB_KL-78:42" head="0" synrel="PRED">
+							<m lemma="6767">xákarari</m>
+						</w>
+						<w id="WB_KL-78:43" head="WB_KL-78:44" synrel="ATR">
+							<m lemma="864">áxak</m>
+						</w>
+						<w gl="the men" id="WB_KL-78:44" head="WB_KL-78:42" synrel="SBJ">
+							<m lemma="4407" id="WB_KL-78:45" head="WB_KL-78:44" synrel="ATR">pa</m>
+							<m lemma="833">'ávans</m>
+							<m lemma="584">as</m>
+						</w>
+						<w id="WB_KL-78:46" head="WB_KL-78:47" synrel="DIS">
+							<m lemma="3752">káru</m>
+						</w>
+						<w id="WB_KL-78:47" head="WB_KL-78:42" synrel="COORD"><!-- head="0" synrel="PRED" -->
+							<m lemma="5">áachip</m>
+						</w>
+						<w id="WB_KL-78:48" head="WB_KL-78:47" synrel="SBJ">
+							<m lemma="864">áxak</m>
+						</w>.
+					</txt>
+					<trans lang="eng">There were two men at each end and two in the middle.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w id="WB_KL-78:49" head="WB_KL-78:51" synrel="ATR">
+							<m lemma="7097">yítha</m>
+						</w>
+						<w id="WB_KL-78:50" head="WB_KL-78:51" synrel="APOS">
+							<m lemma="6307">uum</m>
+						</w>
+						<w gl="the man" id="WB_KL-78:51" head="WB_KL-78:53" synrel="SBJ">
+							<m lemma="4407" id="WB_KL-78:52" head="WB_KL-78:51" synrel="ATR">pa</m>
+							<m lemma="833">'ávansa</m>
+						</w>
+						<w gl="that carried it" idd="WB_KL-78:53" head="0" synrel="PRED">
+							<m lemma="4408" id="WB_KL-78:54" head="WB_KL-78:53" synrel="SUB">p</m>
+							<m lemma="6175">oo</m>
+							<m lemma="846">'avíkvu</m>
+							<m lemma="6035">ti</m>
+						</w>
+						<w gl="the tossel" id="WB_KL-78:55" head="WB_KL-78:53" synrel="OBJ">
+							<m lemma="4407" id="WB_KL-78:56" head="WB_KL-78:55" synrel="ATR">pa</m>
+							<m lemma="5583">tákasar</m>
+						</w>.
+					</txt>
+					<trans lang="eng">One man carried the tossel.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w id="WB_KL-78:57" head="WB_KL-78:58" synrel="COMP">
+							<m lemma="421">apmáan</m>
+						</w>
+						<w id="WB_KL-78:58" head="WB_KL-78:59" synrel="ADV">
+							<m lemma="4281">mûuk</m>
+						</w>
+						<w gl="he bit it" id="WB_KL-78:59" head="0" synrel="PRED">
+							<m lemma="6175">u</m>
+							<m lemma="4549">pára</m>
+							<m lemma="6035">tih</m>
+						</w>.
+					</txt>
+					<trans lang="eng">He bit it with his mouth (i.e., held it between his teeth).</trans>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<txt lang="kyh">
+						<w gl="you see" id="WB_KL-78:60" head="WB_KL-78:65" synrel="DIS">
+							<m lemma="5160">púya</m>
+							<m lemma="6383" id="WB_KL-78:61" head="WB_KL-78:65" synrel="DIS">va</m>
+						</w>
+						<w id="WB_KL-78:62" head="WB_KL-78:65" synrel="DIS">
+							<m lemma="6847">xás</m>
+						</w>
+						<w id="WB_KL-78:63" head="WB_KL-78:65" synrel="DIS">
+							<m lemma="3745">kári</m>
+						</w>
+						<w id="WB_KL-78:64" head="WB_KL-78:65" synrel="TAM">
+							<m lemma="5506">tá</m>
+						</w>
+						<w gl="they began" id="WB_KL-78:65" head="0" synrel="PRED">
+							<m lemma="3977">kun</m>
+							<m lemma="2341">ikyâasip</m>
+						</w>.
+					</txt>
+					<trans lang="eng">Then they began.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w id="WB_KL-78:66" head="WB_KL-78:71" synrel="DIS">
+							<m lemma="6847">xás</m>
+						</w>
+						<w id="WB_KL-78:67" head="WB_KL-78:71" synrel="ADV">
+							<m lemma="41">âapun</m>
+						</w>
+						<w gl="the tossel" id="WB_KL-78:68" head="WB_KL-78:71" synrel="SBJ">
+							<m lemma="4407" id="WB_KL-78:69" head="WB_KL-78:68" synrel="ATR">pa</m>
+							<m lemma="5583">tákasar</m>
+						</w>
+						<w gl="it had" id="WB_KL-78:70" head="WB_KL-78:71" synrel="TAM">
+							<m lemma="5506">t</m>
+							<m lemma="6175">óo</m>
+						</w>
+						<w id="WB_KL-78:71" head="0" synrel="PRED">
+							<m lemma="2376">kyívish</m>
+						</w>.
+					</txt>
+					<trans lang="eng">The tossel fell on the ground.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w gl="you see" id="WB_KL-78:72" head="WB_KL-78:78" synrel="DIS">
+							<m lemma="5160">púya</m>
+							<m lemma="6383" id="WB_KL-78:73" head="WB_KL-78:78" synrel="DIS">va</m>
+						</w>
+						<w id="WB_KL-78:74" head="WB_KL-78:78" synrel="SBJ">
+							<m lemma="6757">xákaan</m>
+						</w>
+						<w id="WB_KL-78:75" head="WB_KL-78:78" synrel="DIS">
+							<m lemma="6675">vúra</m>
+						</w>
+						<w gl="that" id="WB_KL-78:76" head="WB_KL-78:78" synrel="TAM">
+							<m lemma="4408" id="WB_KL-78:77" head="WB_KL-78:78" synrel="SUB">pa</m>
+							<m lemma="5506">tá</m>
+						</w>
+						<w gl="they thought" id="WB_KL-78:78" head="0" synrel="PRED">
+							<m lemma="3977">kun</m>
+							<m lemma="6939">xús</m>
+						</w> "
+						<w id="WB_KL-78:79" head="WB_KL-78:80" synrel="TAM">
+							<m lemma="3857">kíri</m>
+						</w>
+						<w gl="we should toss it" id="WB_KL-78:80" head="WB_KL-78:78" synrel="QUOT">
+							<m lemma="4370">nu</m>
+							<m lemma="5533">tâat</m>
+							<m lemma="5417">sip</m>
+						</w>."
+					</txt>
+					<trans lang="eng">Both (men) thought, "Let's toss it!"</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w gl="you see" id="WB_KL-78:81" head="WB_KL-78:86" synrel="DIS">
+							<m lemma="5160">púya</m>
+							<m lemma="6383" id="WB_KL-78:82" head="WB_KL-78:86" synrel="DIS">va</m>
+						</w>
+						<w id="WB_KL-78:83" head="WB_KL-78:86" synrel="SBJ">
+							<m lemma="7097">yítha</m>
+						</w>
+						<w id="WB_KL-78:84" head="WB_KL-78:83" synrel="APOS">
+							<m lemma="6307">uum</m>
+						</w>
+						<w gl="he had" id="WB_KL-78:85" head="WB_KL-78:86" synrel="TAM">
+							<m lemma="5506">t</m>
+							<m lemma="6175">óo</m>
+						</w>
+						<w gl="tossed it" id="WB_KL-78:86" head="0" synrel="PRED">
+							<m lemma="5533">tâat</m>
+							<m lemma="5417">sip</m>
+						</w>.
+					</txt>
+					<trans lang="eng">And one tossed it.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w id="WB_KL-78:87" head="WB_KL-78:89" synrel="ADV">
+							<m lemma="7212">yúruk</m>
+						</w>
+						<w gl="he had" id="WB_KL-78:88" head="WB_KL-78:89" synrel="TAM">
+							<m lemma="5506">t</m>
+							<m lemma="6175">óo</m>
+						</w>
+						<w gl="tossed it outdoors" id="WB_KL-78:89" head="0" synrel="PRED">
+							<m lemma="5533">tâat</m>
+							<m lemma="5199">rupuk</m>
+						</w>.
+					</txt>
+					<trans lang="eng">He tossed it downriver.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w gl="you see" id="WB_KL-78:90" head="WB_KL-78:95" synrel="DIS">
+							<m lemma="5160">púya</m>
+							<m lemma="6383" id="WB_KL-78:91" head="WB_KL-78:95" synrel="DIS">va</m>
+						</w>
+						<w id="WB_KL-78:92" head="WB_KL-78:95" synrel="DIS">
+							<m lemma="6847">xás</m>
+						</w>
+						<w id="WB_KL-78:93" head="WB_KL-78:95" synrel="OBJ">
+							<m lemma="5101">puráan</m>
+						</w>
+						<w id="WB_KL-78:94" head="WB_KL-78:95" synrel="TAM">
+							<m lemma="5506">tá</m>
+						</w>
+						<w gl="they grabbed" id="WB_KL-78:95" head="0" synrel="PRED">
+							<m lemma="3977">kun</m>
+							<m lemma="1496">'ífukiraa</m>
+						</w>,
+						<w id="WB_KL-78:96" head="WB_KL-78:98" synrel="DIS">
+							<m lemma="6847">xás</m>
+						</w>
+						<w id="WB_KL-78:97" head="WB_KL-78:98" synrel="TAM">
+							<m lemma="5506">tá</m>
+						</w>
+						<w gl="they wrested" id="WB_KL-78:98" head="0" synrel="PRED">
+							<m lemma="3977">kun</m>
+							<m lemma="6710">vúunva</m>
+						</w>.
+					</txt>
+					<trans lang="eng">Then they grabbed each other, and they wrestled.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w gl="you see" id="WB_KL-78:99" head="WB_KL-78:106" synrel="DIS">
+							<m lemma="5160">púya</m>
+							<m lemma="6383" id="WB_KL-78:100" head="WB_KL-78:106" synrel="DIS">va</m>
+						</w>
+						<w id="WB_KL-78:101" head="WB_KL-78:106" synrel="DIS">
+							<m lemma="6847">xás</m>
+						</w>
+						<w id="WB_KL-78:102" head="WB_KL-78:106" synrel="ADV">
+							<m lemma="1361">hâari</m>
+						</w>
+						<w id="WB_KL-78:103" head="WB_KL-78:106" synrel="SBJ">
+							<m lemma="6757">xákaan</m>
+						</w>
+						<w id="WB_KL-78:104" head="WB_KL-78:106" synrel="DIS">
+							<m lemma="6675">vúra</m>
+						</w>
+						<w id="WB_KL-78:105" head="WB_KL-78:106" synrel="TAM">
+							<m lemma="5506">tá</m>
+						</w>
+						<w gl="they fell down" id="WB_KL-78:106" head="0" synrel="PRED">
+							<m lemma="3977">kun</m>
+							<m lemma="3359">ithyívish</m>
+						</w>.
+					</txt>
+					<trans lang="eng">Sometimes both of them fell down.</trans>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<txt lang="kyh">
+						<w gl="you see" id="WB_KL-78:107" head="WB_KL-78:115" synrel="DIS">
+							<m lemma="5160">púya</m>
+							<m lemma="6383" id="WB_KL-78:108" head="WB_KL-78:115" synrel="DIS">va</m>
+						</w>
+						<w id="WB_KL-78:109" head="WB_KL-78:115" synrel="DIS">
+							<m lemma="6847">xás</m>
+						</w>
+						<w id="WB_KL-78:110" head="WB_KL-78:112" synrel="APOS">
+							<m lemma="6309">uumkun</m>
+						</w>
+						<w gl="on the downriver end" id="WB_KL-78:111" head="WB_KL-78:112" synrel="ATR">
+							<m lemma="7270">yu'</m>
+							<m lemma="3965">kúkam</m>
+							<m lemma="3731">kam</m>
+						</w>
+						<w gl="the men" id="WB_KL-78:112" head="WB_KL-78:115" synrel="SBJ">
+							<m lemma="4407" id="WB_KL-78:113" head="WB_KL-78:112" synrel="ATR">pa</m>
+							<m lemma="833">'ávans</m>
+							<m lemma="584">as</m>
+						</w>
+						<w id="WB_KL-78:114" head="WB_KL-78:115" synrel="TAM">
+							<m lemma="5506">tá</m>
+						</w>
+						<w gl="they ran up from downriver" id="WB_KL-78:115" head="0" synrel="PRED">
+							<m lemma="3977">kun</m>
+							<m lemma="3310">ithvíripraa</m>
+						</w>.
+					</txt>
+					<trans lang="eng">Then the men on the downriver end ran up.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w gl="you see" id="WB_KL-78:116" head="WB_KL-78:124" synrel="DIS">
+							<m lemma="5160">púya</m>
+							<m lemma="6383" id="WB_KL-78:117" head="WB_KL-78:124" synrel="DIS">va</m>
+						</w>
+						<w gl="the one" id="WB_KL-78:118" head="WB_KL-78:124" synrel="SBJ">
+							<m lemma="4407" id="WB_KL-78:119" head="WB_KL-78:118" synrel="ATR">pa</m>
+							<m lemma="7097">yítha</m>
+						</w>
+						<w gl="if he was swift" id="WB_KL-78:120" head="WB_KL-78:124" synrel="ADV"><!-- head="WB_KL-78:118" synrel="ATR" -->
+							<m lemma="4408" id="WB_KL-78:121" head="WB_KL-78:120" synrel="SUB">p</m>
+							<m lemma="3032">eeshnaaních</m>
+							<m lemma="1358">haak</m>
+						</w>
+						<w id="WB_KL-78:122" head="WB_KL-78:118" synrel="APOS">
+							<m lemma="6307">uum</m>
+						</w>
+						<w id="WB_KL-78:123" head="WB_KL-78:124" synrel="ADV">
+							<m lemma="4978">píshiip</m>
+						</w>
+						<w gl="he arrived" id="WB_KL-78:124" head="0" synrel="PRED">
+							<m lemma="5506" id="WB_KL-78:125" head="WB_KL-78:124" synrel="TAM">t</m>
+							<m lemma="6175">u</m>
+							<m lemma="6306">'úum</m>
+						</w>
+						<w gl="where the tossel" id="WB_KL-78:126" head="WB_KL-78:128" synrel="SBJ">
+							<m lemma="4408" id="WB_KL-78:127" head="WB_KL-78:128" synrel="SUB">pa</m>
+							<m lemma="5583">tákasar</m>
+						</w>
+						<w gl="where it lay" id="WB_KL-78:128" head="WB_KL-78:124" synrel="ADV">
+							<m lemma="6175">u</m>
+							<m lemma="2746">phíriv</m>
+							<m lemma="1387">irak</m>
+						</w>.
+					</txt>
+					<trans lang="eng">If one was swift, he arrived first where the tossel lay.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w gl="you see" id="WB_KL-78:129" head="WB_KL-78:135" synrel="DIS">
+							<m lemma="5160">púya</m>
+							<m lemma="6383" id="WB_KL-78:130" head="WB_KL-78:135" synrel="DIS">va</m>
+						</w>
+						<w id="WB_KL-78:131" head="WB_KL-78:135" synrel="DIS">
+							<m lemma="6847">xás</m>
+						</w>
+						<w id="WB_KL-78:132" head="WB_KL-78:135" synreL="SBJ">
+							<m lemma="6307">uum</m>
+						</w>
+						<w id="WB_KL-78:133" head="WB_KL-78:135" synrel="ADV">
+							<m lemma="4978">píshiip</m>
+						</w>
+						<w gl="he" id="WB_KL-78:134" head="WB_KL-78:135" synrel="TAM">
+							<m lemma="5506">t</m>
+							<m lemma="6175">óo</m>
+						</w>
+						<w gl="tossed it" id="WB_KL-78:135" head="0" synrel="PRED">
+							<m lemma="5533">tâat</m>
+							<m lemma="5417">sip</m>
+						</w>.
+					</txt>
+					<trans lang="eng">So he tossed it first.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w id="WB_KL-78:136" head="WB_KL-78:138" synrel="COMP">
+							<m lemma="3753">káruk</m>
+						</w>
+						<w gl="he" id="WB_KL-78:137" head="WB_KL-78:138" synrel="TAM">
+							<m lemma="5506">t</m>
+							<m lemma="6175">óo</m>
+						</w>
+						<w gl="tossed it back upriver" id="WB_KL-78:138" head="0" synrel="PRED">
+							<m lemma="2674">p</m>
+							<m lemma="5533">tâat</m>
+							<m lemma="5192">roov</m>
+						</w>.
+					</txt>
+					<trans lang="eng">He tossed it back upriver.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w id="WB_KL-78:139" head="WB_KL-78:144" synrel="DIS">
+							<m lemma="6847">xás</m>
+						</w>
+						<w id="WB_KL-78:140" head="WB_KL-78:142" synrel="APOS">
+							<m lemma="6309">uumkun</m>
+						</w>
+						<w id="WB_KL-78:141" head="WB_KL-78:140" synrel="DIS">
+							<m lemma="3752">káru</m>
+						</w>
+						<w id="WB_KL-78:142" head="WB_KL-78:144" synrel="SBJ">
+							<m lemma="4127">ka'kúkam</m>
+						</w>
+						<w id="WB_KL-78:143" head="WB_KL-78:144" synrel="TAM">
+							<m lemma="5506">tá</m>
+						</w>
+						<w gl="they ran down from upriver" id="WB_KL-78:144" head="0" synrel="PRED">
+							<m lemma="3977">kun</m>
+							<m lemma="3315">ithvíripvarak</m>
+						</w>.
+					</txt>
+					<trans lang="eng">Then the ones on the upriver end ran down.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w gl="you see" id="WB_KL-78:145" head="WB_KL-78:154" synrel="DIS">
+							<m lemma="5160">púya</m>
+							<m lemma="6383" id="WB_KL-78:146" head="WB_KL-78:154" synrel="DIS">va</m>
+						</w>
+						<w gl="when the tossel" id="WB_KL-78:147" head="WB_KL-78:150" synrel="SBJ">
+							<m lemma="4408" id="WB_KL-78:148" head="WB_KL-78:150" synrel="SUB">pa</m>
+							<m lemma="5583">tákasar</m>
+						</w>
+						<w gl="it had" id="WB_KL-78:149" head="WB_KL-78:150" synrel="TAM">
+							<m lemma="5506">t</m>
+							<m lemma="6175">óo</m>
+						</w>
+						<w gl="fallen" id="WB_KL-78:150" head="WB_KL-78:154" synrel="ADV">
+							<m lemma="2376">kyívishri</m>
+							<m lemma="1358">haak</m>
+						</w>
+						<w gl="you see" id="WB_KL-78:151" head="WB_KL-78:154" synrel="DIS">
+							<m lemma="5160">púya</m>
+							<m lemma="6383" id="WB_KL-78:152" head="WB_KL-78:154" synrel="DIS">va</m>
+						</w>
+						<w gl="he" id="WB_KL-78:153" head="WB_KL-78:154" synrel="TAM">
+							<m lemma="5506">t</m>
+							<m lemma="6175">óo</m>
+						</w>
+						<w gl="tossed it" id="WB_KL-78:154" head="0" synrel="PRED">
+							<m lemma="5533">tâat</m>
+							<m lemma="5417">sip</m>
+						</w>.
+					</txt>
+					<trans lang="eng">When the tossel fell, (one of them) tossed it.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w id="WB_KL-78:155" head="WB_KL-78:157" synrel="COMP">
+							<m lemma="3753">káruk</m>
+						</w>
+						<w gl="he" id="WB_KL-78:156" head="WB_KL-78:157" synrel="TAM">
+							<m lemma="5506">t</m>
+							<m lemma="6175">óo</m>
+						</w>
+						<w gl="tossed it upriver" id="WB_KL-78:157" head="0" synrel="PRED">
+							<m lemma="5533">tâat</m>
+							<m lemma="5192">roov</m>
+						</w>.
+					</txt>
+					<trans lang="eng">He tossed it upriver.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w id="WB_KL-78:158">
+							<m lemma="6847">xás</m>
+						</w>
+						<w gl="the downriver end" id="WB_KL-78:159" head="WB_KL-78:164" synrel="SBJ">
+							<m lemma="4407" id="WB_KL-78:160" head="WB_KL-78:159" synrel="ATR">pa</m>
+							<m lemma="7270">yu'</m>
+							<m lemma="3965">kúkam</m>
+						</w>
+						<w id="WB_KL-78:161" head="WB_KL-78:159" synrel="APOS">
+							<m lemma="6309">uumkun</m>
+						</w>
+						<w id="WB_KL-78:162" head="WB_KL-78:164" synrel="COMP">
+							<m lemma="3753">káruk</m>
+						</w>
+						<w id="WB_KL-78:163" head="WB_KL-78:164" synrel="TAM">
+							<m lemma="5506">tá</m>
+						</w>
+						<w gl="they ran up from downriver" id="WB_KL-78:164" head="0" synrel="PRED">
+							<m lemma="3977">kun</m>
+							<m lemma="3311">ithvíriproov</m>
+						</w>.
+					</txt>
+					<trans lang="eng">Then the ones on the downriver end ran up.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w gl="you see" id="WB_KL-78:165" head="WB_KL-78:169" synrel="DIS">
+							<m lemma="5160">púya</m>
+							<m lemma="6383" id="WB_KL-78:166" head="WB_KL-78:169" synrel="DIS">va</m>
+						</w>
+						<w id="WB_KL-78:167" head="WB_KL-78:169" synrel="ADV">
+							<m lemma="1361">hâari</m>
+						</w>
+						<w id="WB_KL-78:168" head="WB_KL-78:169" synrel="DIS">
+							<m lemma="6675">vúra</m>
+						</w>
+						<w gl="it didn't fall over the goal line" id="WB_KL-78:169" head="0" synrel="PRED">
+							<m lemma="5082" id="WB_KL-78:170" head="WB_KL-78:169" synrel="NEG">pu</m>
+							<m lemma="2378">'ikyívivrath</m>
+							<m lemma="6035">tih</m>
+							<m lemma="1371">ara</m>
+						</w>.
+					</txt>
+					<trans lang="eng">Sometimes (the tossel) didn't fall over (the goal line).</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w gl="you see" id="WB_KL-78:171" head="WB_KL-78:180" synrel="DIS">
+							<m lemma="5160">púya</m>
+							<m lemma="6383" id="WB_KL-78:172" head="WB_KL-78:180" synrel="DIS">va</m>
+						</w>
+						<w>
+							<m lemma="1361" id="WB_KL-78:173" head="WB_KL-78:180" synrel="ADV">hâari</m>
+						</w>
+						<w>
+							<m lemma="6307" id="WB_KL-78:174" head="WB_KL-78:177" synrel="APOS">uum</m>
+						</w>
+						<w gl="the downriver end" id="WB_KL-78:175" head="WB_KL-78:177" synrel="ATR">
+							<m lemma="4407" id="WB_KL-78:176" head="WB_KL-78:175" synrel="ATR">pa</m>
+							<m lemma="7270">yu'</m>
+							<m lemma="3965">kúkam</m>
+						</w>
+						<w gl="the men" id="WB_KL-78:177" head="WB_KL-78:180" synrel="SBJ">
+							<m lemma="4407" id="WB_KL-78:178" head="WB_KL-78:177" synrel="ATR">pa</m>
+							<m lemma="833">'ávans</m>
+							<m lemma="584">as</m>
+						</w>
+						<w id="WB_KL-78:179" head="WB_KL-78:180" synrel="ADV">
+							<m lemma="4978">píshiip</m>
+						</w>
+						<w gl="they arrived" id="WB_KL-78:180" head="0" synrel="PRED">
+							<m lemma="5506" id="WB_KL-78:181" head="WB_KL-78:180" synrel="TAM">t</m>
+							<m lemma="6175">u</m>
+							<m lemma="6306">'úum</m>
+						</w>,
+						<w gl="where the tossel" id="WB_KL-78:182" head="WB_KL-78:184" synrel="SBJ">
+							<m lemma="4408" id="WB_KL-78:183" head="WB_KL-78:184" synrel="SUB">pa</m>
+							<m lemma="5583">tákasar</m>
+						</w>
+						<w gl="it lay" id="WB_KL-78:184" head="WB_KL-78:180" synrel="ADV">
+							<m lemma="6175">u</m>
+							<m lemma="2746">phíriv</m>
+							<m lemma="1387">irak</m>
+						</w>.
+					</txt>
+					<trans lang="eng">Sometimes the men on the downriver end arrived first where the tossel lay.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w gl="you see" id="WB_KL-78:185" head="WB_KL-78:189" synrel="DIS">
+							<m lemma="5160">púya</m>
+							<m lemma="6383" id="WB_KL-78:186" head="WB_KL-78:189" synrel="DIS">va</m>
+						</w>
+						<w id="WB_KL-78:187" head="WB_KL-78:189" synrel="ADV">
+							<m lemma="7212">yúruk</m>
+						</w>
+						<w gl="he had" id="WB_KL-78:188" head="WB_KL-78:189" synrel="TAM">
+							<m lemma="5506">t</m>
+							<m lemma="6175">óo</m>
+						</w>
+						<w gl="tossed it outdoors" id="WB_KL-78:189" head="0" synrel="PRED">
+							<m lemma="5533">tâat</m>
+							<m lemma="5199">rupuk</m>
+						</w>.
+					</txt>
+					<trans lang="eng">So (one of them) tossed it downriver</trans>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<txt lang="kyh">
+						<w gl="you see" id="WB_KL-78:190" head="WB_KL-78:200" synrel="DIS">
+							<m lemma="5160">púya</m>
+							<m lemma="6383" id="WB_KL-78:191" head="WB_KL-78:200" synrel="DIS">va</m>
+						</w>
+						<w gl="if the downriver end" id="WB_KL-78:192" head="WB_KL-78:195" synrel="SBJ">
+							<m lemma="4408" id="WB_KL-78:193" head="WB_KL-78:195" synrel="SUB">pa</m>
+							<m lemma="7270">yu'</m>
+							<m lemma="3965">kúkam</m>
+						</w>
+						<w id="WB_KL-78:194" head="WB_KL-78:195" synrel="TAM">
+							<m lemma="5506">tá</m>
+						</w>
+						<w gl="they toss it over the goal line" id="WB_KL-78:195" head="WB_KL-78:200" synrel="ADV">
+							<m lemma="3977">kun</m>
+							<m lemma="5533">tâat</m>
+							<m lemma="6631">ivruk</m>
+							<m lemma="1358">ahaak</m>
+						</w>
+						<w gl="you see" id="WB_KL-78:196" head="WB_KL-78:200" synrel="DIS">
+							<m lemma="5160">púya</m>
+							<m lemma="6383" id="WB_KL-78:197" head="WB_KL-78:200" synrel="DIS">va</m>
+						</w>
+						<w id="WB_KL-78:198" head="WB_KL-78:200" synrel="DIS">
+							<m lemma="3745">kári</m>
+						</w>
+						<w id="WB_KL-78:199" head="WB_KL-78:200" synrel="TAM">
+							<m lemma="5506">tá</m>
+						</w>
+						<w gl="they won" id="WB_KL-78:200" head="0" synrel="PRED">
+							<m lemma="3977">kun</m>
+							<m lemma="3921">kôokha</m>
+						</w>
+						<w gl="the downriver" id="WB_KL-78:201" head="WB_KL-78:203" synrel="POSS">
+							<m lemma="4407" id="WB_KL-78:202" head="WB_KL-78:203" synrel="ATR">pa</m><!-- head="WB_KL-78:201" -->
+							<m lemma="7212">yúruk</m>
+						</w>
+						<w gl="people" id="WB_KL-78:203" head="WB_KL-78:200" synrel="SBJ">
+							<m lemma="6376">va</m>
+							<m lemma="505">'ár</m>
+							<m lemma="584">as</m>
+						</w>.
+					</txt>
+					<trans lang="eng">If the ones on the downriver end toss it over (the goal line), then the downriver people won.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w id="WB_KL-78:204" head="WB_KL-78:209" synrel="DIS">
+							<m lemma="3752">káru</m>
+						</w>
+						<w id="WB_KL-78:205" head="WB_KL-78:206" synrel="APOS">
+							<m lemma="6309">uumkun</m>
+						</w>
+						<w gl="the upriver side" id="WB_KL-78:206" head="WB_KL-78:209" synrel="SBJ">
+							<m lemma="4407" id="WB_KL-78:207">pa</m>
+							<m lemma="4127">ka'kúkam</m>
+						</w>
+						<w id="WB_KL-78:208" head="WB_KL-78:209" synrel="DIS">
+							<m lemma="6675">vúra</m>
+						</w>
+						<w gl="they will do it" id="WB_KL-78:209" head="0" synrel="PRED">
+							<m lemma="3977">kun</m>
+							<m lemma="4086">kuph</m>
+							<m lemma="1379">eesh</m>
+						</w>.
+					</txt>
+					<trans lang="eng">Those on the upriver side would do it also.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w id="WB_KL-78:210" head="WB_KL-78:215" synrel="DIS">
+							<m lemma="6383">vaa</m>
+						</w>
+						<w id="WB_KL-78:211" head="WB_KL-78:212" synrel="APOS"><!-- where do pronouns fit in the hierarchy for nominal phrases without lexical nouns? are relative clauses ahead of them? -->
+							<m lemma="6307">uum</m>
+						</w>
+						<w gl="who win" id="WB_KL-78:212" head="WB_KL-78:215" synrel="SBJ">
+							<m lemma="4408" id="WB_KL-78:213" head="WB_KL-78:212" synrel="SUB">pa</m>
+							<m lemma="4446">paaxkív</m>
+							<m lemma="6035">tih</m>
+							<m lemma="369">an</m>
+						</w>
+						<w id="WB_KL-78:214" head="WB_KL-78:212" synrel="APOS">
+							<m lemma="6307">uum</m>
+						</w>
+						<w gl="the strongest" id="WB_KL-78:215" head="0" synrel="PRED">
+							<m lemma="4407" id="WB_KL-78:216" head="WB_KL-78:215" synrel="ATR">p</m>
+							<m lemma="1905">eekpihan</m>
+							<m lemma="2960">'íshiip</m>
+						</w>
+						<w id="WB_KL-78:217" head="WB_KL-78:218" synrel="DIS">
+							<m lemma="3752">káru</m>
+						</w>
+						<w gl="the swiftest" id="WB_KL-78:218" head="WB_KL-78:215" synrel="COORD">
+							<m lemma="4407" id="WB_KL-78:219" head="WB_KL-78:218" synrel="ATR">p</m>
+							<m lemma="3032">eeshnanich</m>
+							<m lemma="2960">'íshiip</m>
+						</w>.
+					</txt>
+					<trans lang="eng">The winners were the strongest and the swiftest.</trans>
+					<note publish="yes">Bright: "Regarding this game, see Goddard, pp.60-61, and plate 19, figures 3 and 4. Evidently each of the three pairs of players described in the present text consisted of one man from each team. After the middle pair had put the tossel in play, the other pairs would also wrestle, each man trying to keep his opponent from reaching the tossel. In sentences 27 and 28, the terms payu'kúkam 'the downriver side' and paka'kúkam 'the upriver side' evidently do not refer to the pairs of opponents at downriver and upriver ends of the field, but to the downriver and upriver teams, respectively. The course of play is not necessarily, of course, the exact one described in the present text."</note>
+				</s>
+			</paragraph>
+		</data>
+	</text>
+							
+							
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+							
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+				
+				
+				
+					
+				
+					

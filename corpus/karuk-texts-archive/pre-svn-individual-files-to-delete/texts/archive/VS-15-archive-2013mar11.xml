@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="VS-15" audio-source="karuk-2010-07-23-ag-vs-2">
+  <metadata>
+    <title>Sentences about animals, questions</title>
+    <author> Vina <alph>Smith</alph>
+    </author>
+    <date>2010</date>
+    <publication> Unpublished (recorded by Andrew Garrett on July 23, 2010) </publication>
+  </metadata>
+  <data>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-2_01" audio-start-time="0:27">
+	<kar>
+	  <w gl="the pig">
+	    <m id="4407">pa</m>
+	    <m id="4318">nákish</m>
+	  </w>
+	  <w>
+	    <m id="6175">uum</m>
+	  </w>
+	  <w>
+	    <m id="1003">axvíthirar</m></w>.</kar>
+	<eng>The pig is dirty.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-2_02" audio-start-time="0:52">
+	<kar>
+	  <w>
+	    <m id="1396">hôoy</m>
+	  </w>
+	  <w gl="the pig">
+	    <m id="4407">pa</m>
+	    <m id="4318">nákish</m></w>?</kar>
+	<eng>Where is the pig?</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-2_03" audio-start-time="1:04">
+	<kar>
+	  <w>
+	    <m id="1396">hôoy</m>
+	  </w>
+	  <w gl="the pig">
+	    <m id="4407">pa</m>
+	    <m id="4326">nani</m>
+	    <m id="4318">nákish</m></w>?</kar>
+	<eng>Where's my pig?</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-2_04" audio-start-time="1:23">
+	<kar>
+	  <w gl="the pig">
+	    <m id="4407">pa</m>
+	    <m id="4318">nákish</m>
+	  </w>
+	  <w gl="I have it">
+	    <m id="4349">ni</m>
+	    <m id="5916">thíina</m>
+	    <m id="6035">ti</m></w>.</kar>
+	<eng>I have a pig.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2010-07-23-ag-vs-2_05" audio-start-time="2:33">
+	<kar>
+	  <w>
+	    <m id="1175">chishíih</m>
+	  </w>
+	  <w gl="I have it">
+	    <m id="4349">ni</m>
+	    <m id="5916">thíina</m>
+	    <m id="6035">ti</m></w>.</kar>
+	<eng>I have a dog.</eng>
+      </s>
+    </paragraph>
+  </data>
+</text>

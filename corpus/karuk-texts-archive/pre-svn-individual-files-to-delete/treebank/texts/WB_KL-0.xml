@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-0">
+    <metadata>
+        <title>"Swearing"</title>
+        <author>Julia <alph>Starritt</alph></author>
+        <date>1957</date>
+        <publication>William Bright, <em>The Karok Language</em> (1957), pp. 142-149, Text With
+            Analysis</publication>
+    </metadata>
+    <data>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w gl="the Indian" id="WB_KL-0:1" head="WB_KL-0:4" synrel="SBJ">
+						<m lemma="4407" id="WB_KL-0:2" head="WB_KL-0:1" synrel="ATR">pa</m>
+						<m lemma="506">'áraar</m>
+					</w>
+                    <w id="WB_KL-0:3" head="WB_KL-0:1" synrel="APOS">
+						<m lemma="6307">uum</m>
+					</w>
+                    <w gl="he doesn't say" id="WB_KL-0:4" head="0" synrel="PRED">
+						<m lemma="5082" id="WB_KL-0:5" head="WB_KL-0:4" synrel="NEG">pu</m>
+						<m lemma="2767">'ipítih</m>
+						<m lemma="1371">ara</m>
+					</w>
+                    <w gl="his child" id="WB_KL-0:6" head="WB_KL-0:8" synrel="POSS">
+						<m lemma="4407" id="WB_KL-0:7" head="WB_KL-0:6" synrel="ATR">pa</m>
+						<m lemma="4260">mú</m>
+						<m lemma="511">'arama</m>
+					</w>
+                    <w gl="his name" id="WB_KL-0:8" head="WB_KL-0:4" synrel="OBJ">
+						<m lemma="4260">mú</m>
+						<m lemma="3322">thvuy</m>
+					</w>
+                    <w gl="when he dies" id="WB_KL-0:9" head="WB_KL-0:4" synrel="ADV">
+						<m lemma="4408" id="WB_KL-0:10" head="WB_KL-0:9" synrel="SUB">pa</m>
+						<m lemma="5506" id="WB_KL-0:11" head="WB_KL-0:9" synrel="TAM">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="3441">'ív</m>
+						<m lemma="1358">ahaak</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">The Indian did not say his child's name when it died.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-0:12" head="WB_KL-0:19" synrel="DIS">
+						<m lemma="3752">káru</m>
+					</w>
+                    <w id="WB_KL-0:13" head="WB_KL-0:19" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w id="WB_KL-0:14" head="WB_KL-0:15" synrel="ATR">
+						<m lemma="3930">koovúra</m>
+					</w>
+                    <w gl="when his relatives" id="WB_KL-0:15" head="WB_KL-0:18" synrel="SBJ">
+						<m lemma="4408" id="WB_KL-0:16" head="WB_KL-0:18" synrel="SUB">pa</m>
+						<m lemma="4260">mu</m>
+						<m lemma="507">'áraar</m>
+						<m lemma="584">as</m>
+					</w>
+                    <w id="WB_KL-0:17" head="WB_KL-0:18" synrel="TAM">
+						<m lemma="5506">tá</m>
+					</w>
+                    <w gl="when they die" id="WB_KL-0:18" head="WB_KL-0:19" synrel="ADV">
+						<m lemma="3977">kun</m>
+						<m lemma="3441">'ív</m>
+						<m lemma="1358">ahaak</m>
+					</w>
+                    <w gl="he doesn't say" id="WB_KL-0:19" head="0" synrel="PRED">
+						<m lemma="5082" id="WB_KL-0:20" head="WB_KL-0:19" synrel="NEG">pu</m>
+						<m lemma="2767">'ipítih</m>
+						<m lemma="1371">ara</m>
+					</w>
+                    <w gl="their names" id="WB_KL-0:21" head="WB_KL-0:19" synrel="OBJ">
+						<m lemma="4264">mukun</m>
+						<m lemma="3322">'íthvuy</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">And when any of his relatives died, he did not say their names.</trans>
+            </s>
+            <s>
+                <txt lang="kyh"> 
+					"
+					<w id="WB_KL-0:22" head="WB_KL-0:25" synrel="SBJ">
+						<m lemma="6381">vaa</m>
+					</w>
+                    <w id="WB_KL-0:23" head="WB_KL-0:25" synrel="APOS">
+						<m lemma="6307">uum</m>
+					</w>" 
+					<w gl="they say" id="WB_KL-0:24" head="0" synrel="PRED">
+						<m lemma="3977">kun</m>
+						<m lemma="4823">ipí</m>
+						<m lemma="6035">ti</m>
+					</w> "
+					<w id="WB_KL-0:25" head="WB_KL-0:24" synrel="QUOT">
+						<m lemma="5012">pitaxyárih</m>
+					</w>." 
+				</txt>
+                <trans lang="eng">That, they said, was "swearing."</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-0:26" head="WB_KL-0:29" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w id="WB_KL-0:27" head="WB_KL-0:29" synrel="ADV">
+						<m lemma="1361">hâari</m>
+					</w>
+                    <w id="WB_KL-0:28" head="WB_KL-0:29" synrel="TAM">
+						<m lemma="5506">tá</m>
+					</w>
+                    <w gl="they name him again" id="WB_KL-0:29" head="0" synrel="PRED">
+						<m lemma="3977">kun</m>
+						<m lemma="2674">ip</m>
+						<m lemma="3320">íthvuuymath</m>
+					</w>
+                    <w id="WB_KL-0:30" head="WB_KL-0:31" synrel="ATR">
+						<m lemma="4248">míta</m>
+					</w>
+                    <w gl="the deceased person" id="WB_KL-0:31" head="WB_KL-0:33" synrel="POSS">
+						<m lemma="4407" id="WB_KL-0:32" head="WB_KL-0:31" synrel="ATR">pa</m>
+						<m lemma="3795">kêemish</m>
+					</w>
+                    <w gl="his name" id="WB_KL-0:33" head="WB_KL-0:29" synrel="COMP">
+						<m lemma="4260">mú</m>
+						<m lemma="3322">thvuy</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">Sometimes they name someone again with the name of the deceased.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w gl="so" id="WB_KL-0:34" head="WB_KL-0:39" synrel="DIS">
+						<m lemma="6570">víri</m>
+						<m lemma="6383" id="WB_KL-0:35" head="WB_KL-0:39" synrel="DIS">va</m>
+					</w>
+                    <w id="WB_KL-0:36" head="WB_KL-0:39" synrel="DIS">
+						<m lemma="3745">kári</m>
+					</w>
+                    <w id="WB_KL-0:37" head="WB_KL-0:39" synrel="SBJ"><!-- synrel="OBJ"-->
+						<m lemma="6307">uum</m>
+					</w>
+                    <w id="WB_KL-0:38" head="WB_KL-0:39" synrel="TAM">
+						<m lemma="5506">tá</m>
+					</w>
+                    <w gl="they say" id="WB_KL-0:39" head="0" synrel="PRED">
+						<m lemma="3977">kun</m>
+						<m lemma="2767">ipíti</m>
+					</w>
+                    <w gl="the name" id="WB_KL-0:40" head="WB_KL-0:39" synrel="OBJ">
+						<m lemma="4407" id="WB_KL-0:41" head="WB_KL-0:40" synrel="ATR">p</m>
+						<m lemma="3322">eethvuy</m>
+					</w>, 
+					<w id="WB_KL-0:42" head="WB_KL-0:43" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w gl="not harmful" id="WB-KL-0:43" head="0" synrel="PRED">
+						<m lemma="5082" id="WB_KL-0:44" head="WB_KL-0:43" synrel="NEG">pu</m>
+						<m lemma="1407">húun</m>
+						<m lemma="1371">hara</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">Then they could still say the name, and no harm was done.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-0:45" head="WB_KL-0:49" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w id="WB_KL-0:46" head="WB_KL-0:49" synrel="ADV">
+						<m lemma="1361">hâari</m>
+					</w>
+                    <w id="WB_KL-0:47" head="WB_KL-0:49" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w id="WB_KL-0:48" head="WB_KL-0:49" synrel="SBJ">
+						<m lemma="505">ára</m>
+					</w>
+                    <w gl="he isn't thinking" id="WB_KL-0:49" head="0" synrel="PRED">
+						<m lemma="5082" id="WB_KL-0:50" head="WB_KL-0:49" synrel="NEG">pu</m>
+						<m lemma="6939">xú</m>
+						<m lemma="6035">tih</m>
+						<m lemma="1371">ara</m>
+					</w>, 
+					<w id="WB_KL-0:51" head="WB_KL-0:54" synrel="DIS">
+						<m lemma="6570">víri</m>
+					</w>
+                    <w id="WB_KL-0:52" head="WB_KL-0:54" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w gl="he" id="WB_KL-0:53" head="WB_KL-0:54" synrel="TAM">
+						<m lemma="5506">t</m>
+						<m lemma="6175">óo</m>
+					</w>
+                    <w id="WB_KL-0:54" head="0" synrel="PRED">
+						<m lemma="4823">piip</m>
+					</w>
+                    <w gl="the name" id="WB_KL-0:55" head="WB_KL-0:54" synrel="OBJ">
+						<m lemma="4407" id="WB_KL-0:56" head="WB_KL-0:55" synrel="ATR">p</m>
+						<m lemma="3322">eethvuy</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">Sometimes a person just wasn't thinking, so he said the name.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w gl="so" id="WB_KL-0:57" head="WB_KL-0:60" synrel="DIS">
+						<m lemma="5160">púya</m>
+						<m lemma="6383" id="WB_KL-0:58" head="WB_KL-0:60" synrel="DIS">va</m>
+					</w>
+                    <w id="WB_KL-0:59" head="WB_KL-0:60" synrel="TAM">
+						<m lemma="5506">tá</m>
+					</w>
+                    <w gl="they get angry at him" id="WB_KL-0:60" head="0" synrel="PRED">
+						<m lemma="3977">kun</m>
+						<m lemma="3545">ixvíphuunish</m>
+					</w>, 
+					<w id="WB_KL-0:61" head="WB_KL-0:63" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w id="WB_KL-0:62" head="WB_KL-0:63" synrel="TAM">
+						<m lemma="5506">tá</m>
+					</w>
+                    <w gl="they become enemies" id="WB_KL-0:63" head="0" synrel="PRED">
+						<m lemma="3977">kun</m>
+						<m lemma="6401">váasan</m>
+						<m lemma="1356">ha</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">Then they got angry at him and became his enemies.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-0:64" head="WB_KL-0:68" synrel="DIS">
+						<m lemma="5160">púya</m>
+						<m lemma="6383" id="WB_KL-0:65" head="WB_KL-0:68" synrel="DIS">va</m>
+					</w>
+                    <w id="WB_KL-0:66" head="WB_KL-0:68" synrel="SBJ">
+						<m lemma="6307">uum</m>
+					</w>
+                    <w id="WB_KL-0:67" head="WB_KL-0:68" synrel="OBJ">
+						<m lemma="1281">fâat</m>
+					</w>
+                    <w gl="he pays" id="WB_KL-0:68" head="0" synrel="PRED">
+						<m lemma="5506" id="WB_KL-0:69" head="WB_KL-0:68" synrel="TAM">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="6305">'ûukar</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">Then he paid something.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-0:70" head="WB_KL-0:72" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w id="WB_KL-0:71" head="WB_KL-0:72" synrel="TAM">
+						<m lemma="5506">tá</m>
+					</w>
+                    <w gl="they speak to him again" id="WB_KL-0:72" head="0" synrel="PRED">
+						<m lemma="3977">kun</m>
+						<m lemma="2674">ip</m>
+						<m lemma="1210">chúphuunish</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">Then they spoke to him again.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-0:73" head="WB_KL-0:75" synrel="ADV">
+						<m lemma="1361">hâari</m>
+					</w>
+                    <w id="WB_KL-0:74" head="WB_KL-0:75" synrel="OBJ">
+						<m lemma="3412">itrôop</m>
+					</w>
+                    <w gl="he pays" id="WB_KL-0:75" head="0" synrel="PRED">
+						<m lemma="5506" id="WB_KL-0:76" head="WB_KL-0:75" synrel="TAM">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="6305">'ûukar</m>
+					</w>
+                    <w id="WB_KL-0:77" head="WB_KL-0:75" synrel="DIS" external_dependency="yes">
+						<m lemma="3752">káru</m>
+					</w>
+                    <w id="WB_KL-0:78" head="WB_KL-0:75" synrel="ADV" external_dependency="yes">
+						<m lemma="1361">hâari</m>
+					</w>
+                    <w id="WB_KL-0:79" head="WB_KL-0:75" synrel="DIS" external_dependency="yes">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w id="WB_KL-0:80" head="WB_KL-0:75" synrel="OBJ" external_dependency="yes">
+						<m lemma="3409">itráhyar</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">Sometimes he paid five dollars and sometimes ten.</trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-0:81" head="WB_KL-0:91" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w id="WB_KL-0:82" head="WB_KL-0:91" synrel="ADV">
+						<m lemma="1361">hâari</m>
+					</w>
+                    <w id="WB_KL-0:83" head="WB_KL-0:91" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w id="WB_KL-0:84" head="WB_KL-0:89" synrel="APOS"><!-- head="WB_KL-0:85" -->
+						<m lemma="6307">uum</m>
+					</w>
+                    <w gl="the person" id="WB_KL-0:85" head="WB_KL-0:87" synrel="SBJ">
+						<m lemma="4407" id="WB_KL-0:86" head="WB_KL-0:85" synrel="ATR">pa</m>
+						<m lemma="506">'áraar</m>
+					</w>
+                    <w gl="when peculiar" id="WB_KL-0:87" head="WB_KL-0:91" synrel="ADV">
+						<m lemma="4408" id="WB_KL-0:88" head="WB_KL-0:87" synrel="SUB">pa</m>
+						<m lemma="1408">húunta</m>
+						<m lemma="1358">haak</m>
+					</w>
+                    <w id="WB_KL-0:89" head="WB_KL-0:91" synrel="SBJ">
+						<m lemma="505">ára</m>
+					</w>
+                    <w id="WB_KL-0:90" head="WB_KL-0:91" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w gl="he swears" id="WB_KL-0:91" head="0" synrel="PRED">
+						<m lemma="5506" id="WB_KL-0:92" head="WB_KL-0:91" synrel="TAM">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="5011">pitaxyárih</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">Sometimes when a person was peculiar, he "swore" (on purpose).</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-0:93" head="WB_KL-0:111" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w gl="when" id="WB_KL-0:94" head="WB_KL-0:96" synrel="TAM">
+						<m lemma="4408" id="WB_KL-0:95" head="WB_KL-0:96" synrel="SUB">pa</m>
+						<m lemma="5506">tá</m>
+					</w>
+                    <w gl="when they tell him" id="WB_KL-0:96" head="WB_KL-0:111" synrel="ADV">
+						<m lemma="3977">kun</m>
+						<m lemma="2733">ípeer</m>
+						<m lemma="1358">ahaak</m>
+					</w> "
+					<w id="WB_KL-0:97" head="WB_KL-0:98" synrel="OBJ">
+						<m lemma="1281">fâat</m>
+					</w>
+                    <w id="WB_KL-0:98" head="WB_KL-0:96" synrel="QUOT">
+						<m lemma="3611">iyúrish</m>
+					</w>" 
+					<w id="WB_KL-0:99" head="WB_KL-0:111" synrel="DIS">
+						<m lemma="6847">xás</m>
+					</w>
+                    <w gl="when he refuses" id="WB_KL-0:100" head="WB_KL-0:111" synrel="ADV">
+						<m lemma="4408" id="WB_KL-0:101" head="WB_KL-0:100" synrel="SUB">pa</m>
+						<m lemma="5506" id="WB_KL-0:102" head="WB_KL-0:100" synrel="TAM">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="6328">'ûuri</m>
+						<m lemma="1358">haak</m>
+					</w>
+                    <w gl="so" id="WB_KL-0:103" head="WB_KL-0:111" synrel="DIS">
+						<m lemma="5160">púya</m>
+						<m lemma="6383" id="WB_KL-0:104" head="WB_KL-0:111" synrel="DIS">va</m>
+					</w>
+                    <w id="WB_KL-0:105" head="WB_KL-0:106" synrel="APOS">
+						<m lemma="6307">uum</m>
+					</w>
+                    <w id="WB_KL-0:106" head="WB_KL-0:111" synrel="ADV">
+						<m lemma="1361">hâari</m>
+					</w>
+                    <w id="WB_KL-0:107" head="WB_KL-0:111" synrel="SBJ">
+						<m lemma="505">ára</m>
+					</w>
+                    <w id="WB_KL-0:108" head="WB_KL-0:109" synrel="COMP">
+						<m lemma="6383">vaa</m>
+					</w>
+                    <w id="WB_KL-0:109" head="WB_KL-0:111" synrel="ADV">
+						<m lemma="4059">kúth</m>
+					</w>
+                    <w gl="PERF" id="WB_KL-0:110" head="WB_KL-0:111" synrel="TAM">
+						<m lemma="5506">t</m>
+						<m lemma="6175">óo</m>
+					</w>
+                    <w id="WB_KL-0:111" head="0" synrel="PRED">
+						<m lemma="5845">tháaniv</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">When they told him to pay something and he refused, then sometimes a person was
+                    killed because of it.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-0:112" head="WB_KL-0:115" synrel="ADV">
+						<m lemma="1816">íkiich</m>
+					</w>
+                    <w id="WB_KL-0:113" head="WB_KL-0:115" synrel="DIS">
+						<m lemma="3752">káru</m>
+					</w>
+                    <w id="WB_KL-0:114" head="WB_KL-0:115" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w gl="his brother" id="WB_KL-0:115" head="0" synrel="PRED"><!-- synrel="FRAG" -->
+						<m lemma="4260">mu</m>
+						<m lemma="6081">típa</m>
+					</w>
+                    <w id="WB_KL-0:116" head="WB_KL-0:117" synrel="DIS">
+						<m lemma="3752">káru</m>
+					</w>
+                    <w gl="his mother's brother" id="WB_KL-0:117" head="WB_KL-0:115" synrel="COORD">
+						<m lemma="4260">mu</m>
+						<m lemma="6902">xúkam</m>
+					</w>
+                    <w id="WB_KL-0:118" head="WB_KL-0:122" synrel="DIS">
+						<m lemma="3752">káru</m>
+					</w>
+                    <w id="WB_KL-0:119" head="WB_KL-0:122" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w id="WB_KL-0:120" head="WB_KL-0:122" synrel="ATR">
+						<m lemma="234">akâay</m>
+					</w>
+                    <w id="WB_KL-0:121" head="WB_KL-0:122" synrel="DIS">
+						<m lemma="6675">vúra</m>
+					</w>
+                    <w gl="his relative" id="WB_KL-0:122" head="WB_KL-0:115" synrel="COORD">
+						<m lemma="4407" id="WB_KL-0:123" head="WB_KL-0:122" synrel="ATR">pa</m>
+						<m lemma="4260">mu</m>
+						<m lemma="507">'áraar</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">Maybe too it would be his brother or his uncle or any relative of his.</trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="WB_KL-0:124" head="WB_KL-0:126" synrel="SBJ">
+						<m lemma="6381">vaa</m>
+					</w>
+                    <w id="WB_KL-0:125" head="WB_KL-0:124" synrel="APOS">
+						<m lemma="6307">uum</m>
+					</w>
+                    <w gl="Indian law" id="WB_KL-0:126" head="0" synrel="PRED">
+						<m lemma="506">arará</m>
+						<m lemma="4087">kuupha</m>
+					</w>. 
+				</txt>
+                <trans lang="eng">That was Indian law.</trans>
+            </s>
+        </paragraph>
+    </data>
+</text>

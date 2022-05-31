@@ -1,0 +1,128 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.00000000000000000000
+xmax = 1.59367346938775500398
+tiers? <exists>
+size = 4
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "transcription - words"
+        xmin = 0.000000000000
+        xmax = 1.593673469388
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0.00000000000000000000
+            xmax = 0.22000000000000000111
+            text = ""
+        intervals [2]:
+            xmin = 0.22000000000000000111
+            xmax = 0.38000000000000000444
+            text = "chi"
+        intervals [3]:
+            xmin = 0.38000000000000000444
+            xmax = 1.38999999999999990230
+            text = "nupuunvi"
+        intervals [4]:
+            xmin = 1.38999999999999990230
+            xmax = 1.59367346938775500398
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "transcription - phones"
+        xmin = 0.000000000000
+        xmax = 1.593673469388
+        intervals: size = 12
+        intervals [1]:
+            xmin = 0.00000000000000000000
+            xmax = 0.22000000000000000111
+            text = "sil"
+        intervals [2]:
+            xmin = 0.22000000000000000111
+            xmax = 0.29999999999999998890
+            text = "CH"
+        intervals [3]:
+            xmin = 0.29999999999999998890
+            xmax = 0.38000000000000000444
+            text = "IH0"
+        intervals [4]:
+            xmin = 0.38000000000000000444
+            xmax = 0.52000000000000001776
+            text = "N"
+        intervals [5]:
+            xmin = 0.52000000000000001776
+            xmax = 0.55000000000000004441
+            text = "UH0"
+        intervals [6]:
+            xmin = 0.55000000000000004441
+            xmax = 0.77000000000000001776
+            text = "P"
+        intervals [7]:
+            xmin = 0.77000000000000001776
+            xmax = 1.03000000000000002665
+            text = "UW1"
+        intervals [8]:
+            xmin = 1.03000000000000002665
+            xmax = 1.23999999999999999112
+            text = "N"
+        intervals [9]:
+            xmin = 1.23999999999999999112
+            xmax = 1.30000000000000004441
+            text = "V"
+        intervals [10]:
+            xmin = 1.30000000000000004441
+            xmax = 1.38999999999999990230
+            text = "IH0"
+        intervals [11]:
+            xmin = 1.38999999999999990230
+            xmax = 1.57000000000000006217
+            text = "sp"
+        intervals [12]:
+            xmin = 1.57000000000000006217
+            xmax = 1.59367346938775500398
+            text = ""
+    item [3]:
+        class = "IntervalTier"
+        name = "targetseq"
+        xmin = 0.000000000000
+        xmax = 1.593673469388
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.00000000000000000000
+            xmax = 0.52000000000000001776
+            text = ""
+        intervals [2]:
+            xmin = 0.52000000000000001776
+            xmax = 1.03000000000000002665
+            text = "upuu"
+        intervals [3]:
+            xmin = 1.03000000000000002665
+            xmax = 1.59367346938775500398
+            text = ""
+    item [4]:
+        class = "IntervalTier"
+        name = "targetphone"
+        xmin = 0.000000000000
+        xmax = 1.593673469388
+        intervals: size = 5
+        intervals [1]:
+            xmin = 0.00000000000000000000
+            xmax = 0.52000000000000001776
+            text = ""
+        intervals [2]:
+            xmin = 0.52000000000000001776
+            xmax = 0.55000000000000004441
+            text = "UH0"
+        intervals [3]:
+            xmin = 0.55000000000000004441
+            xmax = 0.77000000000000001776
+            text = "P"
+        intervals [4]:
+            xmin = 0.77000000000000001776
+            xmax = 1.03000000000000002665
+            text = "UW1"
+        intervals [5]:
+            xmin = 1.03000000000000002665
+            xmax = 1.59367346938775500398
+            text = ""

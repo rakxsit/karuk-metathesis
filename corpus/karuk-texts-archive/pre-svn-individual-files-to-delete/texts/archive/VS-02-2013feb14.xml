@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="VS-02" audio-source="karuk-2010-09-13-ag-vs-2">
+    <metadata>
+        <title>Elicited sentences</title>
+        <author>Vina <alph>Smith</alph></author>
+        <date>2010</date>
+        <publication>Unpublished (recorded by Andrew Garrett on September 13, 2010)</publication>
+    </metadata>
+    <data>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-09-13-ag-vs-2_01" audio-start-time="4:06">
+                <kar>
+                    <w><m id="1410">hûut</m></w>
+                    <w gl="is called"><m id="6175">ú</m><m id="3323">thvuuy</m><m id="6035"
+                        >ti</m></w>?</kar>
+                <eng>What is her name?</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-09-13-ag-vs-2_02" audio-start-time="4:09">
+                <kar>
+                    <w><m id="1410">hûut</m></w>
+                    <w gl="is called"><m id="6175">ú</m><m id="3323">thvuuy</m><m id="6035"
+                        >ti</m></w>
+                    <w gl="your wife"><m id="4407">pa</m><m id="4238">mi</m><m id="1576"
+                        >hrôoha</m></w>?</kar>
+                <eng>What is your wife's name?</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-09-13-ag-vs-2_03" audio-start-time="4:38">
+                <kar>
+                    <w gl="her name"><m id="4260">mú</m><m id="3322">thvuy</m></w>
+                    <w><m id="6307">úum</m></w>
+                    <w>Leslie</w>.</kar>
+                <eng>Her name is Leslie.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-09-13-ag-vs-2_04" audio-start-time="5:10">
+                <kar>
+                    <w gl="my name"><m id="4326">naní</m><m id="3322">thvuy</m></w>
+                    <w><m id="6307">úum</m></w>
+                    <w>Andrew</w>.</kar>
+                <eng>My name is Andrew.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-09-13-ag-vs-2_05" audio-start-time="5:24">
+                <kar>
+                    <w gl="your name"><m id="4407">pa</m><m id="4238">mí</m><m id="3322"
+                        >thvuy</m></w>
+                    <w><m id="6307">úum</m></w>
+                    <w>Vina</w>.</kar>
+                <eng>Your name is Vina.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-09-13-ag-vs-2_06" audio-start-time="7:06">
+                <kar>
+                    <w gl="my father"><m id="4407">pa</m><m id="4326">nani</m><m id="236"
+                        >'akah</m></w>
+                    <w><m id="6675">vúra</m></w>
+                    <w gl="he is old"><m id="5506">t</m><m id="6175">u</m><m id="4792"
+                        >pihnîich</m></w>.</kar>
+                <eng>My father is old.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-09-13-ag-vs-2_07" audio-start-time="7:16">
+                <kar>
+                    <w gl="my father"><m id="4407">pa</m><m id="4326">nani</m><m id="236"
+                        >'akah</m></w>
+                    <w><m id="6675">vúra</m></w>
+                    <w><m id="6307">úum</m></w>
+                    <w gl="he is an old man"><m id="5506">t</m><m id="6175">u</m><m id="4792"
+                            >pihnîich</m></w>.</kar>
+                <eng>My father is old.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-09-13-ag-vs-2_08" audio-start-time="8:01">
+                <kar>
+                    <w gl="my mother"><m id="4407">pa</m><m id="4326">naní</m><m id="5532"
+                        >taat</m></w>
+                    <w><m id="3752">káru</m></w>
+                    <w gl="she is an old woman"><m id="5506">t</m><m id="6175">u</m><m id="3804"
+                            >kéevniikich</m><m id="1">a</m></w>.</kar>
+                <eng>My mother is old too.</eng>
+            </s>
+        </paragraph>
+    </data>
+</text>

@@ -1,0 +1,22 @@
+Notes from 2020.05.27
+
+- Some audio had to be manually filled in because the xml tag couldnt be found (wrong extension, etc.)
+	- CT-02 (tagged with amp extension)
+
+- Some of the audio files are two channel, causing errors, so I extracted just the left channel (they are in twochannel-audio). These include the followoing folders:
+	- CT-02
+	- LA-01
+	- LA-03 (except for LA-03_09
+	- SD-03
+	- VS-21
+
+- Some files couldn't align
+	- VS-29 : karuk-2010-05-01-arg-edited-2_14
+
+- Some issues with aligning the first time but ok after
+	- VS-39
+	- WB_KL-13
+
+- Cannot align--something about sampling rates being different? (in ALIGNMENT-ISSUES)
+	- WB_LA78.1-004b
+	- WB_LA78.1-009

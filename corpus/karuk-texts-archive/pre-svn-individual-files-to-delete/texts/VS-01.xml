@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="VS-01" audio-source="karuk-2010-09-13-ag-vs-1">
+    <metadata>
+        <title>Sentences: questions and answers</title>
+        <author>Vina <alph>Smith</alph></author>
+        <date>2010</date>
+        <publication>Unpublished (recorded by Andrew Garrett on September 13, 2010)</publication>
+    </metadata>
+    <data>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-09-13-ag-vs-1_02" audio-start-time="4:00">
+                <kar>
+                    <w gl="like it"><m id="6580">víshtaan</m><m id="6035">tih</m></w>.</kar>
+                <eng>(You) like it.</eng>
+            </s>
+            <note>Query is this a possible utterance.</note>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-09-13-ag-vs-1_03" audio-start-time="4:21">
+                <kar><w><m id="4715">páy</m></w>
+                    <w><m id="1402">úm</m></w>
+                    <w gl="you like"><m id="1418">i</m><m id="6580">víshtaan</m><m id="6035"
+                        >tih</m></w>?</kar>
+                <eng>Do you like this?</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-09-13-ag-vs-1_04" audio-start-time="6:47">
+                <kar><w><m id="1656">iim</m></w>
+                    <w><m id="7000">yâamach</m></w>.</kar>
+                <eng>You're beautiful.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-09-13-ag-vs-1_05" audio-start-time="7:23">
+                <kar><w><m id="4385">ôok</m></w>
+                    <w><m id="4297">naa</m></w>!</kar>
+                <eng>Come here!</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-09-13-ag-vs-1_06" audio-start-time="26:43">
+                <kar><w><m id="1396">hôoy</m></w>
+                    <w gl="your child"><m id="4407">pa</m><m id="4238">mí</m><m id="511"
+                        >'aramah</m></w>?</kar>
+                <eng>Where is your child?</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="VS" audio="karuk-2010-09-13-ag-vs-1_07" audio-start-time="29:27">
+                <kar><w><m id="1396">hôoy</m></w>
+                    <w gl="your mother"><m id="4407">pa</m><m id="4238">mí</m><m id="5532"
+                        >taat</m></w>?</kar>
+                <eng>Where is your mother?</eng>
+            </s>
+        </paragraph>
+    </data>
+</text>

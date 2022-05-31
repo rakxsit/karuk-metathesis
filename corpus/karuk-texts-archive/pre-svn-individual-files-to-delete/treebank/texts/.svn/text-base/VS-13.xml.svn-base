@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="VS-13" audio-source="karuk-2011-08-16-vs-3">
+  <metadata>
+    <title>Sentences about spatial relations</title>
+    <author> Vina <alph>Smith</alph>
+    </author>
+    <date>2011</date>
+    <publication> Unpublished (recorded by Andrew Garrett on October 16, 2011) </publication>
+	<genre type="elicitation"/>
+  </metadata>
+  <data>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_01" audio-start-time="3:09">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1671">iinâak</m>
+	  </w>
+	  <w gl="he goes inside">
+	    <m lemma="5506">t</m>
+	    <m lemma="6175">u</m>
+	    <m lemma="6606">vôonfuruk</m>
+	</w>.</txt>
+	<trans lang="eng">He is going inside the house.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_02" audio-start-time="4:10">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1671">iinâak</m>
+	  </w>
+	  <w gl="he runs to">
+	    <m lemma="5506">t</m>
+	    <m lemma="6175">u</m>
+	    <m lemma="2203">kvíripma</m>
+	</w>.</txt>
+	<trans lang="eng">He is running into the house.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_03" audio-start-time="5:11">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="1671">iinâak</m>
+	  </w>
+	  <w gl="he has">
+	    <m lemma="5506">t</m>
+	    <m lemma="6175">óo</m>
+	  </w>
+	  <w gl="flies toward">
+	    <m lemma="2279">kxip</m>
+	    <m lemma="4131">ma</m>
+	  </w>
+	  <w gl="the bird">
+	    <m lemma="4407">pa</m>
+	    <m lemma="119">'achviiv</m>
+	</w>.</txt>
+	<trans lang="eng">The bird is flying into the house.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_04" audio-start-time="5:35">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6881">xáyfaat</m>
+	  </w>
+	  <w gl="he has">
+	    <m lemma="5506">t</m>
+	    <m lemma="6175">óo</m>
+	  </w>
+	  <w gl="flies toward">
+	    <m lemma="2279">kxip</m>
+	    <m lemma="4131">ma</m>
+	  </w>
+	  <w>
+	    <m lemma="1671">iinâak</m>
+	</w>.</txt>
+	<trans lang="eng">Don't fly into the house.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_05" audio-start-time="6:00">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="4299">naa</m>
+	  </w>
+	  <w>
+	    <m lemma="1671">iinâak</m>
+	  </w>
+	  <w gl="I will fly">
+	    <m lemma="5506">ní</m>
+	    <m lemma="2279">kxipm</m>
+	    <m lemma="1379">eesh</m>
+	  </w>
+	  <w gl="your house">
+	    <m lemma="4238">mi</m>
+	    <m lemma="2032">krívraam</m>
+	</w>.</txt>
+	<trans lang="eng">I am going to fly into your house.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_06" audio-start-time="9:04">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6383">vaa</m>
+	  </w>
+	  <w>
+	    <m lemma="2671">íp</m>
+	  </w>
+	  <w>
+	    <m lemma="3670">káan</m>
+	  </w>
+	  <w gl="he is playing">
+	    <m lemma="6175">u</m>
+	    <m lemma="2346">kyamîichvu</m>
+	    <m lemma="6035">tih</m>
+	  </w>
+	  <w>
+	    <m lemma="6847">xás</m>
+	  </w>
+	  <w gl="he has">
+	    <m lemma="5506">t</m>
+	    <m lemma="6175">óo</m>
+	  </w>
+	  <w>
+	    <m lemma="2279">kxip</m>
+	</w>.</txt>
+	<trans lang="eng">He was playing there but he flew (away).</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_07" audio-start-time="10:03">
+	<txt lang="kyh">
+	  <w gl="the bird">
+	    <m lemma="4407">pa</m>
+	    <m lemma="119">'achviiv</m>
+	  </w>
+	  <w gl="he has">
+	    <m lemma="5506">t</m>
+	    <m lemma="6175">óo</m>
+	  </w>
+	  <w gl="fly up">
+	    <m lemma="2279">kxip</m>
+	    <m lemma="5417">ship</m>
+	</w>.</txt>
+	<trans lang="eng">The bird flew away.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_08" audio-start-time="11:45">
+	<txt lang="kyh">
+	  <w gl="the salmon">
+	    <m lemma="4407">pa</m>
+	    <m lemma="30">'áama</m>
+	  </w>
+	  <w gl="he has">
+	    <m lemma="5506">t</m>
+	    <m lemma="6175">óo</m>
+	  </w>
+	  <w>
+	    <m lemma="1926">kpuuhsip</m>
+	</w>.</txt>
+	<trans lang="eng">The salmon swam away.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_09" audio-start-time="12:07">
+	<txt lang="kyh">
+	  <w gl="the man">
+	    <m lemma="4407">pa</m>
+	    <m lemma="833">'ávansa</m>
+	  </w>
+	  <w>
+	    <m lemma="4213">máruk</m>
+	  </w>
+	  <w gl="he has">
+	    <m lemma="5506">t</m>
+	    <m lemma="6175">oo</m>
+	  </w>
+	  <w>
+	    <m lemma="1781">kfúkuraa</m>
+	</w>.</txt>
+	<trans lang="eng">The man went uphill.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_11" audio-start-time="12:41">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="4299">naa</m>
+	  </w>
+	  <w>
+	    <m lemma="3753">káruk</m>
+	  </w>
+	  <w>
+	    <m lemma="4213">máruk</m>
+	  </w>
+	  <w>
+	    <m lemma="5506">tá</m>
+	  </w>
+	  <w gl="I climb uphill">
+	    <m lemma="4349">ni</m>
+	    <m lemma="1781">kfúkuraa</m>
+	</w>.</txt>
+	<trans lang="eng">I walked uphill too.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_12" audio-start-time="13:01">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6881">xáyfaat</m>
+	  </w>
+	  <w>
+	    <m lemma="4213">máruk</m>
+	  </w>
+	  <w gl="you go away">
+	    <m lemma="1418">i</m>
+	    <m lemma="6396">vâaram</m>
+	</w>.</txt>
+	<trans lang="eng">Don't go uphill.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_13" audio-start-time="14:12">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6881">xáyfaat</m>
+	  </w>
+	  <w>
+	    <m lemma="5328">sáruk</m>
+	  </w>
+	  <w gl="you walk downhill">
+	    <m lemma="1418">i'</m>
+	    <m lemma="559">árihfak</m>
+	</w>.</txt>
+	<trans lang="eng">Don't walk downhill.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_14" audio-start-time="14:28">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="4299">naa</m>
+	  </w>
+	  <w>
+	    <m lemma="3752">káru</m>
+	  </w>
+	  <w>
+	    <m lemma="5328">sáruk</m>
+	  </w>
+	  <w gl="I will walk downhill">
+	    <m lemma="4349">née</m>
+	    <m lemma="559">rihfak</m>
+	    <m lemma="1379">eesh</m>
+	</w>.</txt>
+	<trans lang="eng">I am going to go downhill.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_15" audio-start-time="14:59">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="234">akâay</m>
+	  </w>
+	  <w>
+	    <m lemma="5328">sáruk</m>
+	  </w>
+	  <w gl=" he has walked downhill">
+	    <m lemma="5506">t</m>
+	    <m lemma="6175">u</m>
+	    <m lemma="559">'árihfak</m>
+	</w>?</txt>
+	<trans lang="eng">Who walked down the hill?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_16" audio-start-time="15:39">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="234">akâay</m>
+	  </w>
+	  <w>
+	    <m lemma="5328">sáruk</m>
+	  </w>
+	  <w gl="he has">
+	    <m lemma="5506">t</m>
+	    <m lemma="6175">oo</m>
+	  </w>
+	  <w gl="walked downhill">
+	    <m lemma="559">árihfaku</m>
+	    <m lemma="1378">heen</m>
+	  </w>
+	  <w>
+	    <m lemma="2766">ipít</m>
+	</w>?</txt>
+	<trans lang="eng">Who walked down the hill yesterday?</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_17" audio-start-time="17:56">
+	<txt lang="kyh">
+	  <w gl="the bird">
+	    <m lemma="4407">pa</m>
+	    <m lemma="119">'achvíiv</m>
+	  </w>
+	  <w>
+	    <m lemma="4213">máruk</m>
+	  </w>
+	  <w gl="it has">
+	    <m lemma="5506">t</m>
+	    <m lemma="6175">oo</m>
+	  </w>
+	  <w>
+	    <m lemma="2284">kxípuraa</m>
+	  </w>
+	  <w>
+	    <m lemma="2766">ipít</m>
+	</w>.</txt>
+	<trans lang="eng">The bird flew uphill yesterday.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_18" audio-start-time="24:00">
+	<txt lang="kyh">
+	  <w gl="the rock">
+	    <m lemma="4407">pa</m>
+	    <m lemma="583">'as</m>
+	  </w>
+	  <w>
+	    <m lemma="5506">tá</m>
+	  </w>
+	  <w gl="I put it down">
+	    <m lemma="4349">ni</m>
+	    <m lemma="5886">thárishrih</m>
+	  </w>
+	  <w>
+	    <m lemma="6847">xás</m>
+	  </w>
+	  <w gl="the box">
+	    <m lemma="4407">p</m>
+	    <m lemma="219">ahup'ásip</m>
+	</w>.</txt>
+	<trans lang="eng">I put the rock in the box.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_19" audio-start-time="31:32">
+	<txt lang="kyh">
+	  <w gl="the snake">
+	    <m lemma="4407">pa</m>
+	    <m lemma="454">'ápsuun</m>
+	  </w>
+	  <w>
+	    <m lemma="3670">káan</m>
+	  </w>
+	  <w>
+	    <m lemma="5145">pûuvish</m>
+	  </w>
+	  <w gl="it sits">
+	    <m lemma="6175">ú</m>
+	    <m lemma="1974">krii</m>
+	</w>.</txt>
+	<trans lang="eng">The snake is in the bag.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_20" audio-start-time="32:12">
+	<txt lang="kyh">
+	  <w gl="I will throw it">
+	    <m lemma="4349">ni</m>
+	    <m lemma="4625">páath</m>
+	    <m lemma="1379">eesh</m>
+	  </w>
+	  <w gl="the rock">
+	    <m lemma="4407">pa</m>
+	    <m lemma="583">'as</m>
+	</w>.</txt>
+	<trans lang="eng">I am going to throw the rock.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_21" audio-start-time="34:00">
+	<txt lang="kyh">
+	  <w gl="the rock">
+	    <m lemma="4407">pa</m>
+	    <m lemma="583">'as</m>
+	  </w>
+	  <w>
+	    <m lemma="3670">káan</m>
+	  </w>
+	  <w gl="I will throw it into (a vessel)">
+	    <m lemma="4349">ni</m>
+	    <m lemma="4625">paath</m>
+	    <m lemma="4022">kúrih</m>
+	    <m lemma="1379">eesh</m>
+	</w>.</txt>
+	<trans lang="eng">I will throw the rock into it (a vessel).</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_22" audio-start-time="35:19">
+	<txt lang="kyh">
+	  <w gl="the bag">
+	    <m lemma="4407">pa</m>
+	    <m lemma="5145">pûuvish</m>
+	  </w>
+	  <w>
+	    <m lemma="6381">vaa</m>
+	  </w>
+	  <w>
+	    <m lemma="3670">káan</m>
+	  </w>
+	  <w gl="the rock">
+	    <m lemma="4407">pa</m>
+	    <m lemma="583">'as</m>
+	  </w>
+	  <w gl="I will throw it into (a vessel)">
+	    <m lemma="4349">ni</m>
+	    <m lemma="4625">paath</m>
+	    <m lemma="4022">kúrih</m>
+	    <m lemma="1379">eesh</m>
+	</w>.</txt>
+	<trans lang="eng">I will throw the rock into the bag.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_23" audio-start-time="38:01">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6381">vaa</m>
+	  </w>
+	  <w>
+	    <m lemma="3670">káan</m>
+	  </w>
+	  <w gl="it is on top of">
+	    <m lemma="6175">u</m>
+	    <m lemma="5877">thaan</m>
+	    <m lemma="5572">tákoo</m>
+	  </w>
+	  <w gl="the box">
+	    <m lemma="219">ahup'ásip</m>
+	    <m lemma="232">ak</m>
+	</w>.</txt>
+	<trans lang="eng">It is on top of the box.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_24" audio-start-time="38:45">
+	<txt lang="kyh">
+	  <w gl="the rock">
+	    <m lemma="4407">pa</m>
+	    <m lemma="583">'as</m>
+	  </w>
+	  <w>
+	    <m lemma="6307">uum</m>
+	  </w>
+	  <w gl="the box">
+	    <m lemma="219">ahup'ásip</m>
+	    <m lemma="232">ak</m>
+	  </w>
+	  <w>
+	    <m lemma="5481">súrukam</m>
+	</w>.</txt>
+	<trans lang="eng">The rock is underneath the box.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_25" audio-start-time="39:38">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6381">vaa</m>
+	  </w>
+	  <w>
+	    <m lemma="3670">káan</m>
+	  </w>
+	  <w gl="the snake">
+	    <m lemma="4407">pa</m>
+	    <m lemma="454">'ápsuun</m>
+	  </w>
+	  <w gl="it sits">
+	    <m lemma="6175">ú</m>
+	    <m lemma="1974">krii</m>
+	  </w>
+	  <w>
+	    <m lemma="219">ásip</m>
+	  </w>
+	  <w>
+	    <m lemma="5481">súrukam</m>
+	</w>.</txt>
+	<trans lang="eng">The snake is underneath the box.</trans>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-08-16-vs-3_26" audio-start-time="46:36">
+	<txt lang="kyh">
+	  <w>
+	    <m lemma="6881">xáyfaat</m>
+	  </w>
+	  <w>
+	    <m lemma="6381">vaa</m>
+	  </w>
+	  <w>
+	    <m lemma="3670">káan</m>
+	  </w>
+	  <w gl="you put it down">
+	    <m lemma="1418">i</m>
+	    <m lemma="5886">thárishrih</m>
+	  </w>
+	  <w>
+	    <m lemma="219">ahup'ásip</m>
+	  </w>
+	  <w>
+	    <m lemma="5481">súrukam</m>
+	</w>.</txt>
+	<trans lang="eng">Don't put it underneath the box.</trans>
+      </s>
+    </paragraph>
+  </data>
+</text>

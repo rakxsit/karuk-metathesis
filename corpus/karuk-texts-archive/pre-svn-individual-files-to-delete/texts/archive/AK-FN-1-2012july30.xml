@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="AK-FN-1">
+    <metadata>
+        <title>
+            "Screech Owl and Coyote"
+        </title>
+        <author>Mrs. <alph>Bennett</alph></author>
+        <date>1903</date>
+        <publication>
+            A.L. Kroeber, Unpublished field notes
+        </publication>
+        <comment>
+            Kroeber notes that the first paragraph is repeated three or four times.
+        </comment>
+    </metadata>
+    <data>
+        <!-- change all kari_xas one entry items to kari and xas, two entries-->
+        <paragraph>
+            <s>
+                <kar>
+                    <w>
+                        <m id="2713">ipasnáhvaanich</m>
+                    </w>
+                    <w>
+                        <m id="3670">káan</m>
+                    </w>
+                    <w gl="he stopped">
+                        <m id="6175">ú</m>
+                        <m id="1974">krii</m>
+                    </w>.
+                </kar>
+                <eng>
+                    Pygmy Owl stopped there.
+                </eng>
+            </s>
+            <s>
+                <kar>
+                    <w>
+                        <m id="3969">kúkuum</m>
+                    </w>
+                    <w>
+                        <m id="2391">imáan</m>
+                    </w>
+                    <w gl="he went hunting again">
+                        <m id="5506">t</m>
+                        <m id="6175">u</m>
+                        <m id="307">'ákunvar</m>
+                    </w>.
+                </kar>
+                <eng>
+                    The next day, he went hunting again.
+                </eng>
+            </s>
+            <s>
+                <kar>
+                    <w>
+                        <m id="3745">kári</m> 
+                    </w>
+                    <w>
+                        <m id="6847">xás</m>
+                    </w>
+                    <w>
+                        <m id="5135">púufich</m>
+                    </w>
+                    <w gl="he">
+                        <m id="5506">t</m>
+                        <m id="6175">óo</m>
+                    </w>
+                    <w>
+                        <m id="3580">ykar</m>
+                    </w>.
+                </kar>
+                <eng>
+                    Then he killed a deer.
+                </eng>
+            </s>
+            <s>
+                <kar>
+                    <w> 
+                        <m id="6847">xás</m>
+                    </w>
+                    <w>
+                        <m id="5328">sáruk</m>
+                    </w>
+                    <w gl="he">
+                        <m id="5506">t</m>
+                        <m id="6175">óo</m>
+                    </w>
+                    <w gl="dragged downhill">
+                        <m id="3378">thyúru</m>
+                        <m id="1289">fak</m>
+                    </w>
+                    <w>
+                        <m id="708">ástiip</m>
+                    </w>.                  
+                </kar>
+                <eng>
+                    Then he dragged it downhill to the riverbank.
+                </eng>
+            </s>
+            <s>
+                <kar>
+                    <w> 
+                        <m id="6847">xás</m>
+                    </w>
+                    <w gl="its horns">
+                        <m id="4260">mu</m>
+                        <m id="6515">vêeshur</m>
+                        <m id="232">ak</m>
+                    </w>
+                    <w gl="he just sat back down on top of">
+                        <m id="5506">t</m>
+                        <m id="6175">u</m>
+                        <m id="2674">p</m>
+                        <m id="1974">ikniiv</m>
+                        <m id="5572">ták</m>
+                        <m id="2937">ishnih</m>
+                        <m id="84">ach</m>
+                    </w>.
+                </kar>
+                <eng>
+                    Then he just sat back down on top of its horns.
+                </eng>
+            </s>
+            <s>
+                <kar>
+                    <w> 
+                        <m id="6847">xás</m>
+                    </w>
+                    <w gl="the deer">
+                        <m id="4407">pa</m>
+                        <m id="5135">púufich</m>
+                    </w>
+                    <w gl="it">
+                        <m id="5506">t</m>
+                        <m id="6175">óo</m>
+                    </w>
+                    <w>
+                        <m id="1927">kpúuhvarak</m>
+                    </w>.
+                </kar>
+                <eng>
+                    Then the deer swam downriver.
+                </eng>
+            </s>
+            <s>
+                <kar>
+                    <w> 
+                        <m id="6847">xás</m>
+                    </w>
+                    <w gl="he">
+                        <m id="5506">t</m>
+                        <m id="6175">óo</m>
+                    </w>
+                    <w>
+                        <m id="3372">thyúruripaa</m>
+                    </w>.
+                </kar>
+                <eng>
+                    Then he dragged it ashore.
+                </eng>
+            </s>
+            <s>
+                <kar>
+                    <w> 
+                        <m id="6847">xás</m>
+                    </w>
+                    <w gl="he">
+                        <m id="5506">t</m>
+                        <m id="6175">óo</m>
+                    </w>
+                    <w>
+                        <m id="2959">sfir</m>
+                    </w>.
+                </kar>
+                <eng>
+                    Then he skinned it.
+                </eng>
+            </s>
+            <s>
+                <kar>
+                    <w>
+                        <m id="3745">kári</m> 
+                    </w>
+                    <w>
+                        <m id="6847">xás</m>
+                    </w>
+                    <w>
+                        <m id="3670">káan</m>
+                    </w>
+                    <w>
+                        <m id="506">áraar</m>
+                    </w>
+                    <w gl="he">
+                        <m id="5506">t</m>
+                        <m id="6175">óo</m>
+                    </w>
+                    <w>
+                        <m id="1833">kmárihivrik</m>
+                    </w>.
+                </kar>
+                <eng>
+                    Then a man met him coming there.
+                </eng>
+            </s>
+            <s>
+                <kar>
+                    <w>
+                        <m id="506">áraar</m>
+                    </w>
+                    <w gl="his face">
+                        <m id="4407">pa</m>
+                        <m id="4260">mu</m>
+                        <m id="67">'áav</m>
+                    </w>
+                    <w>
+                        <m id="411">ápap</m>
+                    </w>
+                    <w gl="it was a spring down">
+                        <m id="6175">u</m>
+                        <m id="?">'ávas</m> <!-- check for coalescence or G.S. -->
+                        <m id="1356">h</m>
+                        <m id="6239">unih</m>
+                        <m id="6378">va</m> <!-- essive -->
+                    </w>.
+                </kar>
+                <eng>
+                    One side of the man's face was a spring (flowing) down.
+                </eng>
+            </s>
+            <s>
+                <kar>
+                    <w> 
+                        <m id="6847">xás</m>
+                    </w>                   
+                    <w>
+                        <m id="411">ápap</m>
+                    </w>
+                    <w gl="it was plants down">
+                        <m id="6175">u</m>
+                        <m id="4965">pírishh</m> <!-- check for coalescence or G.S. -->
+                        <m id="6239">unih</m>
+                        <m id="6378">va</m>
+                    </w>.
+                </kar>
+                <eng>
+                    One side was plants (hanging) down.
+                </eng>
+            </s>
+            <s>
+                <kar>
+                    <w>
+                        <m id="3745">kári</m> 
+                    </w>
+                    <w>
+                        <m id="6847">xás</m>
+                    </w>  
+                    <w gl="the deer"> 
+                        <m id="4407">pa</m>
+                        <m id="5135">púufich</m>
+                    </w>
+                    <w gl="he took away from him"> 
+                        <m id="5506">t</m>
+                        <m id="6175">u</m>
+                        <m id="1265">'êetheep</m>
+                    </w>.
+                </kar>
+                <eng>
+                    Then he (the man) took the deer away from him.
+                </eng>
+            </s>
+            <s>
+                <kar>
+                    <w> 
+                        <m id="6847">xás</m>
+                    </w>
+                    <w gl="the kidney"> 
+                        <m id="4407">pa</m>
+                        <m id="6243">'únuhich</m>
+                    </w>
+                    <w> 
+                        <m id="3809">kich</m>
+                    </w>
+                    <w gl="he threw to him"> 
+                        <m id="5506">t</m>
+                        <m id="6175">u</m>
+                        <m id="4636">páthih</m>
+                    </w>.
+                </kar>
+                <eng>
+                    Then he threw only the kidney to him.
+                </eng>
+            </s>
+            <s>
+                <kar>
+                    <w> 
+                        <m id="6847">xás</m>
+                    </w>
+                    <w gl="he"> 
+                        <m id="5506">t</m>
+                        <m id="6175">óo</m>
+                    </w>
+                    <w> 
+                        <m id="2860">pvâaram</m>
+                    </w>.
+                </kar>
+                <eng>
+                    Then he (Pygmy Owl) went home.
+                </eng>
+            </s>
+            <s>
+                <kar>
+                    <w> 
+                        <m id="6847">xás</m>
+                    </w>
+                    <w gl="he"> 
+                        <m id="5506">t</m>
+                        <m id="6175">óo</m>
+                    </w>
+                    <w> 
+                        <m id="2465">mnish</m>
+                    </w>
+                    <w gl="the kidney">
+                        <m id="4407">pa</m>
+                        <m id="6243">'únuhich</m>
+                    </w>.
+                </kar>
+                <eng>
+                    Then he cooked the kidney.
+                </eng>
+            </s>
+            <s>
+                <kar>
+                    <w> 
+                        <m id="6847">xás</m>
+                    </w>
+                    <w gl="he ate it"> 
+                        <m id="5506">t</m>
+                        <m id="6175">u</m>
+                        <m id="814">'áv</m>
+                    </w>.
+                </kar>
+                <eng>
+                    Then he ate it.
+                </eng>
+            </s>
+            <s>
+                <kar>
+                    <w> 
+                        <m id="3969">kúkuum</m>
+                    </w>
+                    <w>
+                        <m id="2391">imáan</m>
+                    </w>
+                    <w gl="he went hunting again">
+                        <m id="5506">t</m>
+                        <m id="6175">u</m>
+                        <m id="2674">p</m>
+                        <m id="307">ákunvar</m>
+                    </w>.
+                </kar>
+                <eng>
+                    The next day, he went hunting again.
+                </eng>
+            </s>
+            <s>
+                <kar>
+                    <w> 
+                        <m id=""></m>   <!-- fix this line -->
+                    </w>
+                </kar>
+                <eng>
+                    (Story is repeated to here 3 - 4 times)
+                </eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <kar>
+                    <w>
+                        <m id="3745">kári</m> 
+                    </w>
+                    <w>
+                        <m id="6847">xás</m>
+                    </w>
+                    <w>
+                        <m id="3670">káan</m>
+                    </w>
+                    <w gl="he arrived">
+                        <m id="6175">u</m>
+                        <m id="6306">'úum</m>
+                    </w>.
+                </kar>
+                <eng>
+                    Then he (Coyote) arrived there.
+                </eng>
+            </s>
+            <s>
+                <kar>
+                    "<w> 
+                        <m id="1224">ee</m>
+                    </w>,
+                    <w>
+                        <m id="2949">ishávaas</m>
+                    </w>,
+                    <w>
+                        <m id="4385">ôok</m>
+                    </w>
+                    <w>
+                        <m id="5506">tá</m>
+                    </w>
+                    <w gl="I have come">
+                        <m id="4349">ni</m>
+                        <m id="205">'áhoo</m>
+                    </w>.
+                </kar>
+                <eng>
+                    "Ee, nephew, I have come.
+                </eng>
+            </s>
+            <s>
+                <kar>
+                    <w gl="we will kill him"> 
+                        <m id="4370">nu</m>
+                        <m id="3580">ykár</m>
+                        <m id="1379">eesh</m>
+                    </w>
+                    <w gl="because he">
+                        <m id="4408">pa</m>
+                        <m id="1670">'îin</m>
+                    </w>
+                    <w>
+                        <m id="5135">púufich</m>
+                    </w>
+                    <w gl="he has been taking from you">
+                        <m id="1418">i</m>
+                        <m id="?">'êethiipvu</m>
+                        <m id="6035">tih</m>
+                        <m id="738">at</m>
+                    </w>."
+                </kar>
+                <eng>
+                    We will kill him because he has been taking the deer from you."
+                </eng>
+            </s>
+            <s>
+                <kar>
+                    <w>
+                        <m id="3745">kári</m> 
+                    </w>
+                    <w>
+                        <m id="6847">xás</m>
+                    </w>
+                    <w> 
+                        <m id="4782">pihnêefich</m>
+                    </w>
+                    <w>
+                        <m id="262">akôor</m>
+                    </w>
+                    <w gl="he made">
+                        <m id="6175">ú</m>
+                        <m id="2348">kyav</m>
+                    </w>
+                    <w gl="gum axe">
+                        <m id="2495">imshaxvuh</m>
+                        <m id="262">'ákoor</m>
+                    </w>.
+                </kar>
+                <eng>
+                    Then Coyote made an axe, a (pine) gum axe.
+                </eng>
+            </s>
+            <s>
+                <kar>
+                    <w>
+                        <m id="3745">kári</m> 
+                    </w>
+                    <w>
+                        <m id="6847">xás</m>
+                    </w>
+                    "<w> 
+                        <m id="1144">chími</m>
+                    </w>
+                    <w gl="go hunting">
+                        <m id="1418">i</m>
+                        <m id="307">'ákunvar</m>
+                    </w>."
+                </kar>
+                <eng>
+                    Then (Coyote said), "Go hunting!"
+                </eng>
+            </s>
+            <s>
+                <kar>
+                    <w>
+                        <m id="3745">kári</m> 
+                    </w>
+                    <w>
+                        <m id="6847">xás</m>
+                    </w>
+                    <w gl="he killed"> 
+                        <m id="6175">u</m>
+                        <m id="3580">ykár</m>
+                    </w>
+                    <w gl="the deer">
+                        <m id="4407">pa</m>
+                        <m id="5135">púufich</m>
+                    </w>.
+                </kar>
+                <eng>
+                    Then he (Pygmy Owl) killed a deer.
+                </eng>
+            </s>
+            <s>
+                <kar>
+                    <w> 
+                        <m id="6847">xás</m>
+                    </w>
+                    <w gl="he swam down from upriver"> 
+                        <m id="6175">u</m>
+                        <m id="1927">kpúuhvarak</m>
+                    </w>
+                    <w>
+                        <m id="3969">kúkuum</m>
+                    </w>.
+                </kar>
+                <eng>
+                    Then he swam down from upriver again.
+                </eng>
+            </s>
+            <s>
+                <kar>
+                    <w>
+                        <m id="3745">kári</m> 
+                    </w>
+                    <w>
+                        <m id="6847">xás</m>
+                    </w>
+                    <w gl="he pulled it toward land"> 
+                        <m id="6175">u</m>
+                        <m id="3372">thyúruripaa</m>
+                    </w>.
+                </kar>
+                <eng>
+                    Then he pulled it toward land.
+                </eng>
+            </s>
+            <s>
+                <kar>
+                    <w> 
+                        <m id="6847">xás</m>
+                    </w>
+                    <w gl="they skinned it"> 
+                        <m id="3977">kun</m>
+                        <m id="2959">íshfir</m>
+                    </w>.
+                </kar>
+                <eng>
+                    Then they skinned it.
+                </eng>
+            </s>
+            <s>
+                <kar>
+                    <w> 
+                        <m id="6847">xás</m>
+                    </w>
+                    <w>
+                        <m id="4782">pihnêefich</m>
+                    </w>
+                    <w gl="he ate">
+                        <m id="6175">u</m>
+                        <m id="814">'áam</m>
+                        <m id="6380">va</m>
+                    </w>
+                    <w gl="the fat"> 
+                        <m id="4407">paa</m>
+                        <m id="779">thkúrit</m>
+                    </w>.
+                </kar>
+                <eng>
+                    Then Coyote ate the fat.
+                </eng>
+            </s>            
+            <s>
+                <kar>
+                    <w>
+                        <m id="3745">kári</m> 
+                    </w>
+                    <w>
+                        <m id="6847">xás</m>
+                    </w>
+                    <w>
+                        <m id="3969">kúkuum</m>
+                    </w>
+                    <w gl="the man"> 
+                        <m id="4407">pa</m>
+                        <m id="506">'áraar</m>
+                    </w>
+                    <w>
+                        <m id="3670">káan</m>
+                    </w>
+                    <w gl="he arrived">
+                        <m id="6175">u</m>
+                        <m id="6306">'úum</m>
+                    </w>.
+                </kar>
+                <eng>
+                    Then the man came there again.
+                </eng>
+            </s>
+            <s>
+                <kar>
+                    <w> 
+                        <m id="6847">xás</m>
+                    </w>
+                    <w> 
+                        <m id="3969">kúkuum</m>
+                    </w>
+                    <w gl="the deer">
+                        <m id="4407">pa</m>
+                        <m id="5135">púufich</m>
+                    </w>
+                    <w gl="he threw to them">
+                        <m id="3843">kin</m>
+                        <m id="4636">páthih</m>
+                    </w>
+                    <w gl="the kidney">
+                        <m id="4407">pa</m>
+                        <m id="6243">'únuhich</m>
+                    </w>.
+                </kar>
+                <eng>
+                    Then again he threw the deer's kidney to them.
+                </eng>
+            </s>
+            <s>
+                <kar>
+                    <w> 
+                        <m id="6847">xás</m>
+                    </w>
+                    <w gl="he said"> 
+                        <m id="6175">u</m>
+                        <m id="4823">píip</m>
+                    </w>,
+                    "<w gl="push me up">
+                        <m id="3737">kanee</m>
+                        <m id="?">yfúut</m>
+                        <m id="5417">sip</m>
+                    </w>."
+                </kar>
+                <eng>
+                    Then he said, "Push me up (the load onto my back)!"
+                </eng>
+            </s>
+            <s>
+                <kar>
+                    <w>
+                        <m id="3745">kári</m> 
+                    </w>
+                    <w>
+                        <m id="6847">xás</m>
+                    </w>
+                    <w>
+                        <m id="4782">pihnêefich</m>
+                    </w>
+                    <w gl="on the head"> 
+                        <m id="969">axvâa</m>
+                        <m id="3660">k</m>
+                    </w>
+                    <w gl="he chopped him">
+                        <m id="6175">u</m>
+                        <m id="17">'áaka</m>
+                    </w>
+                    <w gl="the axe">
+                        <m id="4407">pa</m>
+                        <m id="262">'akôora</m>
+                    </w>
+                    <w>
+                        <m id="4281">mûuk</m>
+                    </w>.
+                </kar>
+                <eng>
+                    Then Coyote struck him on the head with the axe.
+                </eng>
+            </s>
+            <s>
+                <kar>
+                    <w> 
+                        <m id="6847">xás</m>
+                    </w>
+                    <w gl="they killed him"> 
+                        <m id="3977">kun</m>
+                        <m id="3580">íykar</m>
+                    </w>.
+                </kar>
+                <eng>
+                    Then they killed him.
+                </eng>
+            </s>
+            <s>
+                <kar>
+                    <w> 
+                        <m id="6847">xás</m>
+                    </w>
+                    <w>
+                        <m id="4782">pihnêefich</m>
+                    </w>
+                    <w gl="he said"> 
+                        <m id="6175">u</m>
+                        <m id="4823">píip</m>
+                    </w>,
+                    "<w>
+                        <m id="5160">púya</m>
+                    </w>
+                    <w>
+                        <m id="4715">pay</m>
+                    </w>
+                    <w>
+                        <m id="6307">uum</m>
+                    </w>
+                    <w>
+                        <m id="6383">váah</m>
+                    </w>."
+                </kar>
+                <eng>
+                    Then Coyote said, "So this is all right!"
+                </eng>
+            </s>
+            <s>
+                <kar>
+                    <w> 
+                        <m id="6847">xás</m>
+                    </w>
+                    <w gl="they cooked meat"> 
+                        <m id="3977">kun</m>
+                        <m id="2468">imníshkirihva</m>
+                    </w>.
+                </kar>
+                <eng>
+                    Then they cooked the meat.
+                </eng>
+            </s>
+            <s>
+                <kar>
+                    <w> 
+                        <m id="4005">kupánakanakana</m>
+                    </w>.
+                </kar>
+                <eng>
+                    Kupánakanakana.
+                </eng>
+            </s>
+            <s>
+                <kar>
+                    <w> 
+                        <m id="2713">ipasnáhvaanich</m>
+                    </w>
+                    <w gl="he did it">
+                        <m id="6175">u</m>
+                        <m id="4086">kúphaa</m>
+                        <m id="1369">nik</m>
+                    </w>.
+                </kar>
+                <eng>
+                    Pygmy Owl did it.
+                </eng>
+            </s>
+        </paragraph>
+    </data>
+</text>

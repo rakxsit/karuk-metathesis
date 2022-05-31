@@ -1,0 +1,128 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.00000000000000000000
+xmax = 1.63591836734693885091
+tiers? <exists>
+size = 4
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "transcription - words"
+        xmin = 0.000000000000
+        xmax = 1.635918367347
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0.00000000000000000000
+            xmax = 0.07000000000000000666
+            text = ""
+        intervals [2]:
+            xmin = 0.07000000000000000666
+            xmax = 0.46000000000000001998
+            text = "ahup"
+        intervals [3]:
+            xmin = 0.46000000000000001998
+            xmax = 1.32000000000000006217
+            text = "kiikyav"
+        intervals [4]:
+            xmin = 1.32000000000000006217
+            xmax = 1.63591836734693885091
+            text = ""
+    item [2]:
+        class = "IntervalTier"
+        name = "transcription - phones"
+        xmin = 0.000000000000
+        xmax = 1.635918367347
+        intervals: size = 13
+        intervals [1]:
+            xmin = 0.00000000000000000000
+            xmax = 0.07000000000000000666
+            text = "sil"
+        intervals [2]:
+            xmin = 0.07000000000000000666
+            xmax = 0.14999999999999999445
+            text = "AH0"
+        intervals [3]:
+            xmin = 0.14999999999999999445
+            xmax = 0.20000000000000001110
+            text = "HH"
+        intervals [4]:
+            xmin = 0.20000000000000001110
+            xmax = 0.30999999999999999778
+            text = "UH0"
+        intervals [5]:
+            xmin = 0.30999999999999999778
+            xmax = 0.46000000000000001998
+            text = "P"
+        intervals [6]:
+            xmin = 0.46000000000000001998
+            xmax = 0.52000000000000001776
+            text = "K"
+        intervals [7]:
+            xmin = 0.52000000000000001776
+            xmax = 0.63000000000000000444
+            text = "IY1"
+        intervals [8]:
+            xmin = 0.63000000000000000444
+            xmax = 0.73999999999999999112
+            text = "K"
+        intervals [9]:
+            xmin = 0.73999999999999999112
+            xmax = 0.91000000000000003109
+            text = "Y"
+        intervals [10]:
+            xmin = 0.91000000000000003109
+            xmax = 1.06000000000000005329
+            text = "AH0"
+        intervals [11]:
+            xmin = 1.06000000000000005329
+            xmax = 1.32000000000000006217
+            text = "V"
+        intervals [12]:
+            xmin = 1.32000000000000006217
+            xmax = 1.62000000000000010658
+            text = "sp"
+        intervals [13]:
+            xmin = 1.62000000000000010658
+            xmax = 1.63591836734693885091
+            text = ""
+    item [3]:
+        class = "IntervalTier"
+        name = "targetseq"
+        xmin = 0.000000000000
+        xmax = 1.635918367347
+        intervals: size = 3
+        intervals [1]:
+            xmin = 0.00000000000000000000
+            xmax = 0.46000000000000001998
+            text = ""
+        intervals [2]:
+            xmin = 0.46000000000000001998
+            xmax = 0.63000000000000000444
+            text = "kii"
+        intervals [3]:
+            xmin = 0.63000000000000000444
+            xmax = 1.63591836734693885091
+            text = ""
+    item [4]:
+        class = "IntervalTier"
+        name = "targetphone"
+        xmin = 0.000000000000
+        xmax = 1.635918367347
+        intervals: size = 4
+        intervals [1]:
+            xmin = 0.00000000000000000000
+            xmax = 0.46000000000000001998
+            text = ""
+        intervals [2]:
+            xmin = 0.46000000000000001998
+            xmax = 0.52000000000000001776
+            text = "K"
+        intervals [3]:
+            xmin = 0.52000000000000001776
+            xmax = 0.63000000000000000444
+            text = "IY1"
+        intervals [4]:
+            xmin = 0.63000000000000000444
+            xmax = 1.63591836734693885091
+            text = ""

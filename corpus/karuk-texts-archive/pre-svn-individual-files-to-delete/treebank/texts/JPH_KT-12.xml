@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="JPH_KT-12">
+    <metadata>
+        <title>"Coyote Falls through the Living-House Roof Hole"</title>
+        <author>
+            <alph>Afrîich</alph>
+        </author>
+        <date>1930</date>
+        <publication>J. P. Harrington, <em>International Journal of American Linguistics</em> 6
+            (1930), p. 159, Text 12</publication>
+	    <pdf filename="JPH_KT-12.pdf" caption="Published text scan"/>
+	    <note publish="yes">This text retains Harrington's spelling in some cases. For example, writing double consonants, writing a small y and w for consonants that have these sounds following them, and writing some small words together as one word. Long vowels, ', ch, th, sh, and accent (where possible) are written using the current spelling system.</note><!-- add note about glottal marks when we figure out what's going on-->
+<!-- version with palatalization/labialization and gemination-->
+    </metadata>
+    <data>
+      <paragraph>
+	<s>
+	  <txt lang="kyh">
+	  <w><m lemma="6221">uknii</m></w>.
+	  </txt>
+	  <trans lang="eng">Ukni.</trans>
+	  <note>Accent discrepancy: JPH writes as stressed low falling, WB writes as falling-rising. JPH writes with short i in English. </note>
+	</s>
+	<s>
+	  <txt lang="kyh">
+	    <w><m lemma="4782">pihnêeffich</m></w>
+	    <w gl="this he did"><m lemma="6383">v</m><m lemma="6175">oo</m><m lemma="4086">kúph</m><m lemma="1369">aan'nik</m></w>
+	    <w><m lemma="4385">ôok</m></w>
+	    <w><m lemma="3260">ithivthanéen'aachip</m></w>.
+	</txt>
+	<trans lang="eng">Coyote did this, here at the world center.</trans>
+      </s>
+	<s>
+	  <txt lang="kyh">
+	    <w><m lemma="6307">uum</m></w>
+	    <w><m lemma="6675">vúra</m></w>
+	    <w gl="he was doing that way"><m lemma="6383">v</m><m lemma="6175">oo</m><m lemma="4015">kupitti'</m></w>,
+	    <w gl="when it was"><m lemma="4408">pa</m><m lemma="5506">t</m><m lemma="6175">óo</m></w>
+	    <w><m lemma="2241">kxáramha</m></w>
+	    <w><m lemma="3745">kári</m></w>
+	    <w gl="he did"><m lemma="5506">t</m><m lemma="6175">óo</m></w>
+	    <w gl="repeatedly go to close the roof-hatch"><m lemma="2674">p</m><m lemma="1076">chanchákkar</m></w>,
+	    <w><m lemma="3752">káru</m></w>
+	    <w gl="when it became day"><m lemma="4408">pa</m><m lemma="5506">t</m><m lemma="6175">u</m><m lemma="5469">súpaaha</m></w>
+	    <w><m lemma="3745">kári</m></w>
+	    <w><m lemma="3969">k<sup>y</sup>úkkuum</m></w>
+	    <w gl="he went to take it off"><m lemma="5506">t</m><m lemma="6175">u</m><m lemma="1226">'êetchúr</m><m lemma="501">ar</m></w>,
+	    <w gl="when it became day"><m lemma="4408">pa</m><m lemma="5506">t</m><m lemma="6175">u</m><m lemma="5469">súpaaha'</m></w>,
+	    <w gl="he went to close the roof-hatch"><m lemma="5506">t</m><m lemma="6175">u</m><m lemma="1072">chánchaaksur</m><m lemma="501">ar</m></w>
+	    <w gl="when it became day"><m lemma="4408">pa</m><m lemma="5506">t</m><m lemma="6175">u</m><m lemma="5469">súpaaha'</m></w>.
+	  </txt>
+	  <trans lang="eng">He [Coyote] was doing that way, was closing evenings the living-house roof hole and mornings opened it up, when morning came, opened it when morning came.</trans>
+	</s>
+	<s>
+	  <txt lang="kyh">
+	    <w><m lemma="6307">uum</m></w>
+	    <w><m lemma="6675">vúra</m></w>
+	    <w><m lemma="6383">vaa</m></w>
+	    <w><m lemma="1391">hitíhaan</m></w>
+	    <w gl="he was doing"><m lemma="6175">u</m><m lemma="4015">kupítti'</m></w>.
+	  </txt>
+	  <trans lang="eng">That was his job.</trans>
+	</s>
+      </paragraph>
+      <paragraph>
+	<s>
+	  <txt lang="kyh">
+	    <w><m lemma="1096">chavúra</m></w>
+	    <w><m lemma="4420">pâanpay</m></w>
+	    <w><m lemma="3219">ithâan</m></w>
+	    <w gl="when it became day"><m lemma="4408">p</m><m lemma="6175">oo</m><m lemma="5469">súpaaha</m></w>,
+	    <w><m lemma="6847">xás</m></w>
+	    <w gl="he went to close the roof-hatch"><m lemma="6175">u</m><m lemma="1072">chánchaaksur</m><m lemma="501">ar</m></w>.
+	  </txt>
+	  <trans lang="eng">Then after a while one morning, then he opened it.</trans>
+	</s>
+	<s>
+	  <txt lang="kyh">
+	    <w><m lemma="6847">xás</m></w>
+	    <w gl="he thought"><m lemma="6175">u</m><m lemma="6939">xus</m></w>:
+	    "<w><m lemma="6042">ti</m></w><!--this is part of next word in JPH - check w/ AG, write it thus?-->
+	    <w gl="let me look through it"><m lemma="3735">kan</m><m lemma="3404">ítnuupnih</m><m lemma="1419">i'</m></w>."
+	  </txt>
+	  <trans lang="eng">He thought: "I am going to look in!"</trans>
+	  <note> ti (tîi) written as prefix on following word</note>
+	  <note publish="yes">Harrington: "It was always a man's duty to remove and replace the board that covers the roofhole of the living-house.  A man came from the sweathouse early to do this.  He never looked in since the women folks slept without their skirts on; If a man looked in he would soon die: <em>Puxxár imyáahtihara, pootnuupníhtihaak chanchaaksúrak</em>, he would not live long if he peeked through the living-house roofhole. But Coyote again cuts custom."</note>
+	</s>
+	<s>
+	  <txt lang="kyh">
+	    <w><m lemma="7038">yánava</m></w>
+	    <w><m lemma="1671">îinâak</m></w>
+	    <w><m lemma="1459">ifápiit</m></w>
+	    <w gl="she was lying"><m lemma="6175">ú</m><m lemma="3601">yruuvriv</m></w>.
+	  </txt>
+	  <trans lang="eng">Behold inside he saw a maiden lying.</trans>
+	  <note>yruuvriv is yruuhriv in the dictionary</note>
+	</s>
+      </paragraph>
+      <paragraph>
+	<s>
+	  <txt lang="kyh">
+	    <w><m lemma="6847">xás</m></w>
+	    <w gl="he cried"><m lemma="6175">ú</m><m lemma="3518">xrar</m></w>
+	    <w><m lemma="4782">pihnêeffich</m></w>.
+	  </txt>
+	  <trans lang="eng">Then Coyote cried. </trans>
+	</s>
+	<s>
+	  <txt lang="kyh">
+ "<w><m lemma="244">akée</m></w>.
+	  </txt>
+	  <trans lang="eng">"Ouch.</trans>
+	</s>
+	<s>
+	  <txt lang="kyh">
+	    <w gl="I got hurt"><m lemma="5506">ta</m><m lemma="4296">na</m><m lemma="4861">píkriivrav</m></w>.
+	  </txt>
+	  <trans lang="eng">I got hurt.</trans>
+	  <note> r not n in this word - coyote speech or ?</note>
+	</s>
+	<s>
+	  <txt lang="kyh">
+	    <w><m lemma="244">akée</m></w>.
+	  </txt>
+	  <trans lang="eng">Ouch.</trans>
+	</s>
+	<s>
+	  <txt lang="kyh">
+	    <w><m lemma="3857">kiri</m></w>
+	    <w><m lemma="7273">a'</m></w>
+	    <w gl="she lies stomach upward"><m lemma="6175">u</m><m lemma="3251">'íthimship</m></w>.
+	  </txt>
+	  <trans lang="eng">Would that she would lie stomach up.</trans>
+	</s>
+	<s>
+	  <txt lang="kyh">
+	    <w><m lemma="1144">chimi</m></w>
+	    <w gl="let me sing"><m lemma="3735">k<sup>y</sup>an</m><m lemma="4511">pakúriihv</m><m lemma="1419">i'</m></w>.
+	  </txt>
+	  <trans lang="eng">Let me sing.</trans>
+<note>note difference between ' and actual glottal stop at end of word, ' may be where WB writes h, other where he writes '</note>
+	</s>
+	<s>
+	  <txt lang="kyh">
+	    <w><m lemma="3857">kíri</m></w>
+	    <w><m lemma="7273">a'</m></w>
+<w gl="she lies stomach upward"><m lemma="6175">u</m><m lemma="3251">'íthimship</m></w>."
+	  </txt>
+	  <trans lang="eng">Would that she lie stomach up."</trans>
+	  <note publish="yes">Harrington: "Coyote keeps switching his penis with a little stick, to keep it erect when about to perform such a deed. <em>Tupimthayu</em>, he switches it thus."</note>
+	</s>
+      </paragraph>
+      <paragraph title="Coyote's Song as He Descended">
+	<s>
+	  <txt lang="kyh">
+	  "<w><m language="nonsense">káp</m></w>
+	  <w><m language="nonsense">káp</m></w>,
+	  <w><m language="nonsense">sishíxrup</m></w>,
+	  </txt>
+	  <trans lang="eng">"Káp káp, sishíxrup,</trans>
+	<note publish="yes">Harrington: "Cp. <em>káp</em> said repeatedly to a baby to stop it crying, as one approaches his hand little by little to the baby's belly, closing the fingers graspingly at each repetition of <em>káp</em>."; [sishíxrup:] "A word of Coyote's language, reminding one of <em>siish</em>, penis, and <em>tanéexrup</em>, erectionem teneo."</note><!--would be nice to have footnotes indexed to word not line - we can do this as child of word node-->
+	</s>
+	<s>
+	  <txt lang="kyh">
+	  "<w><m language="nonsense">káp</m></w>
+	  <w><m language="nonsense">káp</m></w>,
+	  <w><m language="nonsense">sishíxrup</m></w>."
+	  </txt>
+	  <trans lang="eng">Káp káp, sishíxrup."</trans>
+	</s>
+      </paragraph>
+      <paragraph>
+	<s>
+	  <txt lang="kyh">
+	    <w><m lemma="6174">ta'íttam</m></w>
+	    <w><m lemma="7273">a'</m></w>
+	    <w gl="she laid stomach upward"><m lemma="6175">u</m><m lemma="3251">'íththimshipree</m><m lemma="1378">heen</m></w>.
+	  </txt>
+	  <trans lang="eng">Then she turned stomach up.</trans>
+	</s>
+	<s>
+	  <txt lang="kyh">
+	    "<w><m lemma="1633">íii</m></w>.
+	  </txt>
+	  <trans lang="eng">"Oh.</trans>
+	</s>
+	<s>
+	  <txt lang="kyh">
+	    <w><m lemma="244">akée</m></w>."
+	  </txt>
+	  <trans lang="eng">Ouch."</trans>
+	</s>
+	<s>
+	  <txt lang="kyh">
+	    <w><m lemma="6174">ta'íttam</m></w>
+	    <w><m lemma="4782">pihnêeffich</m></w>
+	    <w gl="he fell in through it"><m lemma="6175">ú</m><m lemma="2370">kyiimnupri</m><m lemma="1378">heen</m></w>
+	    <w gl="at the roof hatch"><m lemma="1073">chanchaaksúr</m><m lemma="232">ak</m></w>.
+	  </txt>
+	  <trans lang="eng">Then Coyote fell through the living-house roof hole.</trans>
+	</s>
+	<s>
+	  <txt lang="kyh">
+	    "<w><m lemma="1633">íii</m></w>.
+	  </txt>
+	  <trans lang="eng">"Oh.</trans>
+	</s>
+	<s>
+	  <txt lang="kyh">
+	    <w><m lemma="244">akée</m></w>.
+	  </txt>
+	  <trans lang="eng">Ouch.</trans>
+	</s>
+	<s>
+	  <txt lang="kyh">
+	    <w><m lemma="244">akée</m></w>.
+	  </txt>
+	  <trans lang="eng">Ouch.</trans>
+	</s>
+	<s>
+	  <txt lang="kyh">
+	    <w><m lemma="4385">ôok</m></w>
+	    <w><m lemma="1447">ichvánnihich</m></w>." 
+	  </txt>
+	  <trans lang="eng">Get closer to me," [Coyote said].</trans>
+	</s>
+	<s>
+	  <txt lang="kyh">
+	    "<w><m lemma="244">akee</m></w>."
+	  </txt>
+	  <trans lang="eng">"Ouch."</trans>
+	</s>
+	<s>
+	  <txt lang="kyh">
+	    <w><m lemma="6675">vura</m></w>
+	    <w gl="she felt sorry for him"><m lemma="5506">t</m><m lemma="6175">u</m><m lemma="3913">koohímmach'va</m></w>.
+	  </txt>
+	  <trans lang="eng">She felt sorry for him.</trans>
+	</s>
+	<s>
+	  <txt lang="kyh">
+	    <w><m lemma="6383">vaa</m></w>
+	    <w><m lemma="6675">vúra</m></w>
+	    <w><m lemma="3670">káan</m></w>
+	    <w gl="they got stuck together"><m lemma="3977">kun</m><m lemma="4769">piftákkantun'va</m></w>.
+	  </txt>
+	  <trans lang="eng">The two got stuck together there.</trans>
+	</s>
+      </paragraph>
+      <paragraph>
+	<s>
+	  <txt lang="kyh">
+	    <w><m lemma="5160">púya</m></w>
+	    <w><m lemma="6307">uum</m></w>
+	    <w gl="he did this"><m lemma="6381">v</m><m lemma="6175">oo</m><m lemma="4086">kuph</m><m lemma="1369">aanik</m></w>
+	    <w><m lemma="4782">pihnêeffich</m></w>.
+	  </txt>
+	  <trans lang="eng">Coyote did this.</trans>
+	</s>
+	<s>
+	  <txt lang="kyh">
+	    <w><m lemma="4005">kupánnakanakana</m></w>.
+	  </txt>
+	  <trans lang="eng">Kupannakanakana.</trans>
+	</s>
+	<s>
+	  <txt lang="kyh">
+	    <w><m lemma="1102">chéemyaach</m></w>
+	    <w><m lemma="1729">ík</m></w>
+	    <w><m lemma="6675">vúr</m></w>
+	    <w><m lemma="3177">ishyâat</m></w>
+	    <w gl="you shine this way upriver"><m lemma="1418">i</m><m lemma="2497">mshîinnaa</m><m lemma="1379">vish</m></w>.
+	  </txt>
+	  <trans lang="eng">Shine early, Spring Salmon, hither up river.</trans>
+	</s>
+      </paragraph>
+    </data>
+</text>

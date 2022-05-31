@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-41">
+    <metadata>
+        <title>"The Creation of Eels"</title>
+        <author>Nettie <alph>Reuben</alph></author>
+        <date>1957</date>
+        <publication>William Bright, <em>The Karok Language</em> (1957), pp. 242-243, Text 41</publication>
+		<note publish="yes">Bright: "This is the only story about Across-the-Water-Widower which I was able to record; one other Karok story about him appears in Harrington, 1032a, pp.67-72. A character with a similar name is much more prominent in the mythology of the Yurok and the Hupa; cf. Kroeber, 1925, pp.73 and 134."</note>
+    </metadata>
+    <data>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3350">ithyarukpíhriiv</m>
+					</w>
+					<w gl="he went upriver">
+						<m lemma="6175">u</m>
+						<m lemma="567">'árihroov</m>
+					</w>,
+					<w gl="he thought">
+						<m lemma="6175">u</m>
+						<m lemma="6939">xus</m>
+					</w>, "
+					<w>
+						<m lemma="6042">tîi</m>
+					</w>
+					<w>
+						<m lemma="3753">káruk</m>
+					</w>
+					<w gl="let me go!">
+						<m lemma="3735">kan</m>
+						<m lemma="6396">vâaram</m>
+						<m lemma="1419">i</m>
+					</w>."
+				</txt>
+				<trans lang="eng">Across-the-Water Widower went upriver, he thought, "Let me go upriver!"</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w>
+						<m lemma="1096">chavúra</m>
+					</w>
+					<w>
+						<m lemma="7085">yíiv</m>
+					</w>
+					<w>
+						<m lemma="3753">káruk</m>
+					</w>
+					<w gl="he had gone upriver">
+						<m lemma="5506">t</m>
+						<m lemma="6175">u</m>
+						<m lemma="567">'árihroov</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And finally he went a long ways upriver.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="they were shouting">
+						<m lemma="3977">kun</m>
+						<m lemma="1624">íhyiiv</m>
+						<m lemma="6035">ti</m>
+					</w>
+					<w>
+						<m lemma="1397">hôoyva</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And there was a shout somewhere.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6675">vúra</m>
+					</w>
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w gl="he was traveling">
+						<m lemma="6175">u</m>
+						<m lemma="205">'áhoo</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">He was traveling like that.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="1096">chavúra</m>
+					</w>
+					<w>
+						<m lemma="7085">yíiv</m>
+					</w>
+					<w>
+						<m lemma="3969">kúkuma</m>
+					</w>
+					<w gl="she had">
+						<m lemma="5506">t</m>
+						<m lemma="6175">óo</m>
+					</w>
+					<w>
+						<m lemma="1624">hyiv</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Finally, a long ways on, there was a shout again.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="she was saying">
+						<m lemma="6175">u</m>
+						<m lemma="4823">pí</m>
+						<m lemma="6035">tih</m>
+					</w>, "
+					<w gl="copulate with me!">
+						<m lemma="4294">na</m>
+						<m lemma="4058">kûush</m>
+						<m lemma="1419">i</m>
+					</w>."
+				</txt>
+				<trans lang="eng">And (the person) said, "Copulate with me!"</trans>
+				<note publish="yes">Bright: "nakûushi is a distortion of nakûuthi." Cf. the footnote to sentence 61 of "Coyote's Homecoming" (WB_KL-02).</note>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3350">ithyarukpíhriiv</m>
+					</w>
+					<w gl="they were shouting at him">
+						<m lemma="3977">kun</m>
+						<m lemma="1632">ihyûunish</m>
+						<m lemma="6035">tih</m>
+					</w>,
+					<w gl="she was telling him">
+						<m lemma="6175">u</m>
+						<m lemma="2733">pêen</m>
+						<m lemma="6035">tih</m>
+					</w>, "
+					<w gl="copulate with me!">
+						<m lemma="4294">na</m>
+						<m lemma="4058">kûush</m>
+						<m lemma="1419">i</m>
+					</w>."
+				</txt>
+				<trans lang="eng">Across-the-Water Widower was shouted at, (the person) said to him, "Copulate with me!"</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>	
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w gl="he was thinking">
+						<m lemma="6175">u</m>
+						<m lemma="6939">xú</m>
+						<m lemma="6035">tih</m>
+					</w>, "
+					<w>
+						<m lemma="7058">yee</m>
+					</w>!
+					<w>
+						<m lemma="1281">fâat</m>
+					</w>
+					<w>
+						<m lemma="7055">yáxa</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And he thought, "Well, look! What is it?</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="1281">fâat</m>
+					</w>
+					<w>
+						<m lemma="3971">kumá'ii</m>
+					</w>
+					<w gl="she is shouting at me">
+						<m lemma="4408">pa</m>
+						<m lemma="4294">nee</m>
+						<m lemma="1632">hyûunish</m>
+						<m lemma="6035">tih</m>
+					</w>."
+				</txt>
+				<trans lang="eng">Why is she shouting at me?"</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="4076">kúuk</m>
+					</w>
+					<w gl="he grabbed at">
+						<m lemma="6175">ú</m>
+						<m lemma="1784">kfuukiraa</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And he grabbed in that direction.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="he copulated with her">
+						<m lemma="6175">u</m>
+						<m lemma="4058">kuth</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And he copulated with her.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="1383">hínupa</m>
+					</w>
+					<w>
+						<m lemma="1083">chantírih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And there it was Tick.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+						<m lemma="3670">káan</m>
+					</w>
+					<w>
+						<m lemma="5502">sú'</m>
+					</w>
+					<w>
+						<m lemma="6675">vúra</m>
+					</w>
+					<w gl="she stayed">
+						<m lemma="6175">u</m>
+						<m lemma="2674">p</m>
+						<m lemma="1974">íkrii</m>
+					</w>.
+				</txt>
+				<trans lang="eng">She stayed there inside (his penis).</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="he went upriver">
+						<m lemma="6175">u</m>
+						<m lemma="567">'árihroov</m>
+					</w>
+					<w>
+						<m lemma="3350">ithyarukpíhriiv</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Then Across-the-Water Widower went upriver.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="he thought">
+						<m lemma="6175">u</m>
+						<m lemma="6939">xus</m>
+					</w>, "
+					<w>
+						<m lemma="7058">yée</m>
+					</w>
+					<w>
+						<m lemma="4299">naa</m>
+					</w>,
+					<w>
+						<m lemma="1457">íf</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="it hurts me">
+						<m lemma="4294">na</m>
+						<m lemma="3957">kúha</m>
+					</w>."
+				</txt>
+				<trans lang="eng">And he thought, "Say, it really hurts me!"</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w>
+						<m lemma="6847">xás</m>
+					</w> "
+					<w>
+						<m lemma="1410">hûut</m>
+					</w>
+					<w>
+						<m lemma="739">áta</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="I have something wrong with me">
+						<m lemma="4296">ná</m>
+						<m lemma="1667">'iin</m>
+					</w>."
+				</txt>
+				<trans lang="eng">And (he thought), "I wonder what's wrong with me?"</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="1096">chavúra</m>
+					</w>
+					<w>
+						<m lemma="5156">puxích</m>
+					</w>
+					<w gl="it had">
+						<m lemma="5506">t</m>
+						<m lemma="6175">óo</m>
+					</w>
+					<w>
+						<m lemma="3957">kúha</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And finally it hurt him very much.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="he cut it off straight">
+						<m lemma="6175">ú</m>
+						<m lemma="1890">kpaaksur</m>
+					</w>
+					<w gl="his penis">
+						<m lemma="4407">pa</m>
+						<m lemma="4260">mú</m>
+						<m lemma="5383">siish</m>
+					</w>.
+				</txt>
+				<trans lang="eng">So he cut off (part of) his penis.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="6337">úuth</m>
+					</w>
+					<w gl="he threw it into the water">
+						<m lemma="6175">u</m>
+						<m lemma="4426">páathkar</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And he threw it out into the river.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="he went upriver">
+						<m lemma="6175">u</m>
+						<m lemma="567">'árihroov</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And he went upriver.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="1096">chavúra</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w>
+						<m lemma="7085">yíiv</m>
+					</w>
+					<w>
+						<m lemma="3753">káruk</m>
+					</w>
+					<w gl="he went upriver">
+						<m lemma="6175">u</m>
+						<m lemma="567">'árihroov</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Finally, he went a long ways upriver.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w gl="he was thinking">
+						<m lemma="6175">u</m>
+						<m lemma="6939">xú</m>
+						<m lemma="6035">tih</m>
+					</w>, "
+					<w>
+						<m lemma="1457">íf</m>
+					</w>
+					<w>
+						<m lemma="3969">kúkuum</m>
+					</w>
+					<w>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="it hurts me">
+						<m lemma="4294">na</m>
+						<m lemma="3957">kúha</m>
+					</w>."
+				</txt>
+				<trans lang="eng">And he thought, "It really hurts me again!"</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="3745">kári</m>
+					</w>
+					<w>
+						<m lemma="3969">kúkuum</m>
+					</w>
+					<w gl="he cut it off straight">
+						<m lemma="6175">ú</m>
+						<m lemma="1890">kpaaksur</m>
+					</w>
+					<w gl="his penis">
+						<m lemma="4407">pa</m>
+						<m lemma="4260">mú</m>
+						<m lemma="5383">siish</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And he again cut off (part of) his penis.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="6847">xás</m>
+					</w>
+					<w>
+						<m lemma="3969">kúkuum</m>
+					</w>
+					<w>
+						<m lemma="6337">úuth</m>
+					</w>
+					<w gl="he threw it into the water">
+						<m lemma="6175">u</m>
+						<m lemma="4426">páathkar</m>
+					</w>.
+				</txt>
+				<trans lang="eng">And again he threw it out into the river.</trans>
+			</s>
+		</paragraph>
+		<paragraph>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="5163">púyava</m>
+					</w>
+					<w>
+						<m lemma="4716">payêem</m>
+					</w>
+					<w gl="the eels">
+						<m lemma="4407">p</m>
+						<m lemma="264">aakráa</m>
+					</w>
+					<w>
+						<m lemma="6381">vaa</m>
+					</w>
+					<w gl="which out into the river">
+						<m lemma="4408">pa</m>
+						<m lemma="6337">'úuth</m>
+					</w>
+					<w gl="he was throwing into the water">
+						<m lemma="6175">u</m>
+						<m lemma="3550">xyakâanvu</m>
+						<m lemma="6035">tih</m>
+					</w>.
+				</txt>
+				<trans lang="eng">So now the eels are that which he threw out into the river.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="3350">ithyarukpíhriiv</m>
+					</w>
+					<w gl="his penis">
+						<m lemma="4407">pa</m>
+						<m lemma="4260">mú</m>
+						<m lemma="5383">siish</m>
+					</w>
+					<w gl="he cut it off">
+						<m lemma="6175">u</m>
+						<m lemma="6665">vupaksúr</m>
+						<m lemma="6380">oo</m>
+						<m lemma="1369">nik</m>
+					</w>.
+				</txt>
+				<trans lang="eng">Across-the-Water Widower cut off his penis.</trans>
+			</s>
+			<s>
+				<txt lang="kyh">
+					<w>
+						<m lemma="1383">hínupa</m>
+					</w>
+					<w gl="Tick">
+						<m lemma="1083">chantirih</m>
+						<m lemma="1670">'îin</m>
+					</w>
+					<w>
+						<m lemma="5502">sú'</m>
+					</w>
+					<w gl="that">
+						<m lemma="4408">pa</m>
+						<m lemma="5506">tá</m>
+					</w>
+					<w gl="she crawled in">
+						<m lemma="3977">kun</m>
+						<m lemma="6612">vôonkurih</m>
+					</w>,
+					<w>
+						<m lemma="6383">vaa</m>
+					</w>
+					<w>
+						<m lemma="4059">kúth</m>
+					</w>
+					<w gl="that he cut it off straight">
+						<m lemma="4408">p</m>
+						<m lemma="6175">oo</m>
+						<m lemma="1890">kpaksúr</m>
+						<m lemma="6380">oo</m>
+						<m lemma="6035">ti</m>
+					</w>
+					<w gl="his penis">
+						<m lemma="4407">pa</m>
+						<m lemma="4260">mú</m>
+						<m lemma="5383">siish</m>
+					</w>.
+				</txt>
+				<trans lang="eng">There it was Tick that crawled into him, that's why he cut off his penis.</trans>
+				<note publish="yes">Bright: "Another informant offered additional information: Before Across-the-Water-Widower's meeting with Tick, men (or rather, male ikxaréeyavs) had penises long enough to wrap several times around their necks, and could copulate with a woman on the other side of the river."</note>
+			</s>
+		</paragraph>
+	</data>
+</text>
+					

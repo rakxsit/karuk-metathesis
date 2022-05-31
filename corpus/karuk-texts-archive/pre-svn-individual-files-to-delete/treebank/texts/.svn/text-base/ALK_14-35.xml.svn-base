@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="ALK_14-35"> 
+    <metadata>
+        <title>
+            "Screech Owl and Coyote"
+        </title>
+        <author>Mrs. <alph>Bennett</alph></author>
+        <date>1903</date>
+        <publication>
+            A.L. Kroeber papers, Bancroft Library, UC Berkeley: call no. BANC MSS C-B 925, field notebook 14, pp 35-37
+        </publication>
+        <comment>
+            Kroeber notes that the first paragraph of this story is repeated three or four times.
+        </comment>
+    </metadata>
+    <data>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w id="ALK_14-35:1" head="ALK_14-35:3" synrel="SBJ">
+                        <m lemma="2713">ipasnáhvaanich</m>
+                    </w>
+                    <w id="ALK_14-35:2" head="ALK_14-35:3" synrel="ADV">
+                        <m lemma="3670">káan</m>
+                    </w>
+                    <w gl="he stopped" id="ALK_14-35:3" head="0" synrel="PRED">
+                        <m lemma="6175">ú</m>
+                        <m lemma="1974">krii</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">
+                    Pygmy Owl stopped there.
+                </trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="ALK_14-35:4" head="ALK_14-35:6" synrel="ADV">
+                        <m lemma="3969">kúkuum</m>
+                    </w>
+                    <w id="ALK_14-35:5" head="ALK_14-35:6" synrel="ADV">
+                        <m lemma="2391">imáan</m>
+                    </w>
+                    <w gl="he went hunting again" id="ALK_14-35:6" head="0" synrel="PRED">
+                        <m lemma="5506" id="ALK_14-35:7" head="ALK_14-35:6" synrel="TAM">t</m>
+                        <m lemma="6175">u</m>
+                        <m lemma="307">'ákunvar</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">
+                    The next day, he went hunting again.
+                </trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="ALK_14-35:8" head="ALK_14-35:12" synrel="DIS">
+                        <m lemma="3745">kári</m> 
+                    </w>
+                    <w id="ALK_14-35:9" head="ALK_14-35:12" synrel="DIS">
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w id="ALK_14-35:10" head="ALK_14-35:12" synrel="OBJ">
+                        <m lemma="5135">púufich</m>
+                    </w>
+                    <w gl="he" id="ALK_14-35:11" head="ALK_14-35:12" synrel="TAM">
+                        <m lemma="5506">t</m>
+                        <m lemma="6175">óo</m>
+                    </w>
+                    <w id="ALK_14-35:12" head="0" synrel="PRED">
+                        <m lemma="3580">ykar</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">
+                    Then he killed a deer.
+                </trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="ALK_14-35:13" head="ALK_14-35:16" synrel="DIS"> 
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w id="ALK_14-35:14" head="ALK_14-35:16" synrel="COMP">
+                        <m lemma="5328">sáruk</m>
+                    </w>
+                    <w gl="he" id="ALK_14-35:15" head="ALK_14-35:16" synrel="TAM">
+                        <m lemma="5506">t</m>
+                        <m lemma="6175">óo</m>
+                    </w>
+                    <w gl="dragged downhill" id="ALK_14-35:16" head="0" synrel="PRED">
+                        <m lemma="3378">thyúru</m>
+                        <m lemma="1289">fak</m>
+                    </w>
+                    <w id="ALK_14-35:17" head="ALK_14-35:16" synrel="ADV">
+                        <m lemma="708">ástiip</m>
+                    </w>.                  
+                </txt>
+                <trans lang="eng">
+                    Then he dragged it downhill to the riverbank.
+                </trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="ALK_14-35:18" head="ALK_14-35:20" synrel="DIS"> 
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w gl="its horns" id="ALK_14-35:19" head="ALK_14-35:20" synrel="COMP">
+                        <m lemma="4260">mu</m>
+                        <m lemma="6515">vêeshur</m>
+                        <m lemma="232">ak</m>
+                    </w>
+                    <w gl="he just sat back down on top of" id="ALK_14-35:20" head="0" synrel="PRED">
+                        <m lemma="5506" id="ALK_14-35:21" head="ALK_14-35:20" synrel="TAM">t</m>
+                        <m lemma="6175">u</m>
+                        <m lemma="2674">p</m>
+                        <m lemma="1974">ikniiv</m>
+                        <m lemma="5572">ták</m>
+                        <m lemma="2937">ishnih</m>
+                        <m lemma="84">ach</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">
+                    Then he just sat back down on top of its horns.
+                </trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="ALK_14-35:22" head="ALK_14-35:26" synrel="DIS"> 
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w gl="the deer" id="ALK_14-35:23" head="ALK_14-35:26" synrel="SBJ">
+                        <m lemma="4407" id="ALK_14-35:24" head="ALK_14-35:23" synrel="ATR">pa</m>
+                        <m lemma="5135">púufich</m>
+                    </w>
+                    <w gl="it" id="ALK_14-35:25" head="ALK_14-35:26" synrel="TAM">
+                        <m lemma="5506">t</m>
+                        <m lemma="6175">óo</m>
+                    </w>
+                    <w id="ALK_14-35:26" head="0" synrel="PRED">
+                        <m lemma="1927">kpúuhvarak</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">
+                    Then the deer swam downriver.
+                </trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="ALK_14-35:27" head="ALK_14-35:29" synrel="DIS"> 
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w gl="he" id="ALK_14-35:28" head="ALK_14-35:29" synrel="TAM">
+                        <m lemma="5506">t</m>
+                        <m lemma="6175">óo</m>
+                    </w>
+                    <w id="ALK_14-35:29" head="0" synrel="PRED">
+                        <m lemma="3372">thyúruripaa</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">
+                    Then he dragged it ashore.
+                </trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="ALK_14-35:30" head="ALK_14-35:32" synrel="DIS"> 
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w gl="he" id="ALK_14-35:31" head="ALK_14-35:32" synrel="TAM">
+                        <m lemma="5506">t</m>
+                        <m lemma="6175">óo</m>
+                    </w>
+                    <w id="ALK_14-35:32" head="0" synrel="PRED">
+                        <m lemma="2959">sfir</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">
+                    Then he skinned it.
+                </trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="ALK_14-35:33" head="ALK_14-35:38" synrel="DIS">
+                        <m lemma="3745">kári</m> 
+                    </w>
+                    <w id="ALK_14-35:34" head="ALK_14-35:38" synrel="DIS">
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w id="ALK_14-35:35" head="ALK_14-35:38" synrel="ADV">
+                        <m lemma="3670">káan</m>
+                    </w>
+                    <w id="ALK_14-35:36" head="ALK_14-35:38" synrel="SBJ">
+                        <m lemma="506">áraar</m>
+                    </w>
+                    <w gl="he" id="ALK_14-35:37" head="ALK_14-35:38" synrel="TAM">
+                        <m lemma="5506">t</m>
+                        <m lemma="6175">óo</m>
+                    </w>
+                    <w id="ALK_14-35:38" head="0" synrel="PRED">
+                        <m lemma="1833">kmárihivrik</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">
+                    Then a man met him coming there.
+                </trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="ALK_14-35:39" head="ALK_14-35:40" synrel="POSS">
+                        <m lemma="506">áraar</m>
+                    </w>
+                    <w gl="his face" id="ALK_14-35:40" head="ALK_14-35:43" synrel="SBJ">
+                        <m lemma="4407" id="ALK_14-35:41" head="ALK_14-35:40" synrel="ATR">pa</m>
+                        <m lemma="4260">mu</m>
+                        <m lemma="67">'áav</m>
+                    </w>
+                    <w id="ALK_14-35:42" head="ALK_14-35:43" synrel="ADV">
+                        <m lemma="411">ápap</m>
+                    </w>
+                    <w gl="it was a spring down" id="ALK_14-35:43" head="0" synrel="PRED">
+                        <m lemma="6175">u</m>
+                        <m lemma="?">'ávas</m> <!-- check for coalescence or G.S. -->
+                        <m lemma="1356">h</m>
+                        <m lemma="6239">unih</m>
+                        <m lemma="6378">va</m> <!-- essive -->
+                    </w>.
+                </txt>
+                <trans lang="eng">
+                    One side of the man's face was a spring (flowing) down.
+                </trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="ALK_14-35:44" head="ALK_14-35:46" synrel="DIS"> 
+                        <m lemma="6847">xás</m>
+                    </w>                   
+                    <w id="ALK_14-35:45" head="ALK_14-35:46" synrel="ADV">
+                        <m lemma="411">ápap</m>
+                    </w>
+                    <w gl="it was plants down" id="ALK_14-35:46" head="0" synrel="PRED">
+                        <m lemma="6175">u</m>
+                        <m lemma="4965">pírishh</m> <!-- check for coalescence or G.S. -->
+                        <m lemma="6239">unih</m>
+                        <m lemma="6378">va</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">
+                    One side was plants (hanging) down.
+                </trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="ALK_14-35:47" head="ALK_14-35:51" synrel="DIS">
+                        <m lemma="3745">kári</m> 
+                    </w>
+                    <w id="ALK_14-35:48" head="ALK_14-35:51" synrel="DIS">
+                        <m lemma="6847">xás</m>
+                    </w>  
+                    <w gl="the deer" id="ALK_14-35:49" head="ALK_14-35:51" synrel="OBJ"> 
+                        <m lemma="4407" id="ALK_14-35:50" head="ALK_14-35:49" synrel="ATR">pa</m>
+                        <m lemma="5135">púufich</m>
+                    </w>
+                    <w gl="he took away from him" id="ALK_14-35:51" head="0" synrel="PRED"> 
+                        <m lemma="5506" id="ALK_14-35:52" head="ALK_14-35:51" synrel="TAM">t</m>
+                        <m lemma="6175">u</m>
+                        <m lemma="1265">'êetheep</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">
+                    Then he (the man) took the deer away from him.
+                </trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="ALK_14-35:53" head="ALK_14-35:57" synrel="DIS"> 
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w gl="the kidney" id="ALK_14-35:54" head="ALK_14-35:57" synrel="OBJ"> 
+                        <m lemma="4407" id="ALK_14-35:55" head="ALK_14-35:54" synrel="ATR">pa</m>
+                        <m lemma="6243">'únuhich</m>
+                    </w>
+                    <w id="ALK_14-35:56" head="ALK_14-35:54" synrel="ATR">
+                        <m lemma="3809">kich</m>
+                    </w>
+                    <w gl="he threw to him" id="ALK_14-35:57" head="0" synrel="PRED"> 
+                        <m lemma="5506" id="ALK_14-35:58" head="ALK_14-35:57" synrel="TAM">t</m>
+                        <m lemma="6175">u</m>
+                        <m lemma="4636">páthih</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">
+                    Then he threw only the kidney to him.
+                </trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="ALK_14-35:59" head="ALK_14-35:61" synrel="DIS"> 
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w gl="he" id="ALK_14-35:60" head="ALK_14-35:61" synrel="TAM"> 
+                        <m lemma="5506">t</m>
+                        <m lemma="6175">óo</m>
+                    </w>
+                    <w id="ALK_14-35:61" head="0" synrel="PRED"> 
+                        <m lemma="2860">pvâaram</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">
+                    Then he (Pygmy Owl) went home.
+                </trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="ALK_14-35:62" head="ALK_14-35:64" synrel="DIS"> 
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w gl="he" id="ALK_14-35:63" head="ALK_14-35:64" synrel="TAM"> 
+                        <m lemma="5506">t</m>
+                        <m lemma="6175">óo</m>
+                    </w>
+                    <w id="ALK_14-35:64" head="0" synrel="PRED"> 
+                        <m lemma="2465">mnish</m>
+                    </w>
+                    <w gl="the kidney" id="ALK_14-35:65" head="ALK_14-35:64" synrel="OBJ">
+                        <m lemma="4407" id="ALK_14-35:66" head="0" synrel="ATR">pa</m>
+                        <m lemma="6243">'únuhich</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">
+                    Then he cooked the kidney.
+                </trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="ALK_14-35:67" head="ALK_14-35:68" synrel="DIS"> 
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w gl="he ate it" id="ALK_14-35:68" head="0" synrel="PRED"> 
+                        <m lemma="5506" id="ALK_14-35:69" head="ALK_14-35:68" synrel="TAM">t</m>
+                        <m lemma="6175">u</m>
+                        <m lemma="814">'áv</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">
+                    Then he ate it.
+                </trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="ALK_14-35:70" head="ALK_14-35:72" synrel="ADV"> 
+                        <m lemma="3969">kúkuum</m>
+                    </w>
+                    <w id="ALK_14-35:71" head="ALK_14-35:72" synrel="ADV">
+                        <m lemma="2391">imáan</m>
+                    </w>
+                    <w gl="he went hunting again" id="ALK_14-35:72" head="0" synrel="PRED">
+                        <m lemma="5506" id="ALK_14-35:73" head="ALK_14-35:72" synrel="TAM">t</m>
+                        <m lemma="6175">u</m>
+                        <m lemma="2674">p</m>
+                        <m lemma="307">ákunvar</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">
+                    The next day, he went hunting again.
+                </trans>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s>
+                <txt lang="kyh">
+                    <w id="ALK_14-35:74" head="ALK_14-35:77" synrel="DIS">
+                        <m lemma="3745">kári</m> 
+                    </w>
+                    <w id="ALK_14-35:75" head="ALK_14-35:77" synrel="DIS">
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w id="ALK_14-35:76" head="ALK_14-35:77" synrel="ADV">
+                        <m lemma="3670">káan</m>
+                    </w>
+                    <w gl="he arrived" id="ALK_14-35:77" head="0" synrel="PRED">
+                        <m lemma="6175">u</m>
+                        <m lemma="6306">'úum</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">
+                    Then he (Coyote) arrived there.
+                </trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    "<w id="ALK_14-35:78" head="0" synrel="INTERJ">
+                        <m lemma="1224">ee</m>
+                    </w>,
+                    <w id="ALK_14-35:79" head="0" synrel="VOC">
+                        <m lemma="2949">ishávaas</m>
+                    </w>,
+                    <w id="ALK_14-35:80" head="ALK_14-35:82" synrel="ADV">
+                        <m lemma="4385">ôok</m>
+                    </w>
+                    <w id="ALK_14-35:81" head="ALK_14-35:82" synrel="TAM">
+                        <m lemma="5506">tá</m>
+                    </w>
+                    <w gl="I have come" id="ALK_14-35:82" head="0" synrel="PRED">
+                        <m lemma="4349">ni</m>
+                        <m lemma="205">'áhoo</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">
+                    "Ee, nephew, I have come.
+                </trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w gl="we will kill him" id="ALK_14-35:83" head="0" synrel="PRED"> 
+                        <m lemma="4370">nu</m>
+                        <m lemma="3580">ykár</m>
+                        <m lemma="1379">eesh</m>
+                    </w>
+                    <w gl="because he" id="ALK_14-35:84" head="ALK_14-35:87" synrel="SBJ">
+                        <m lemma="4408" id="ALK_14-35:85" head="ALK_14-35:87" synrel="SUB">pa</m>
+                        <m lemma="1670">'îin</m>
+                    </w>
+                    <w id="ALK_14-35:86" head="ALK_14-35:87" synrel="OBJ">
+                        <m lemma="5135">púufich</m>
+                    </w>
+                    <w gl="he has been taking it from you" id="ALK_14-35:87" head="ALK_14-35:83" synrel="ADV">
+                        <m lemma="1418">i</m>
+                        <m lemma="?">'êethiipvu</m> 
+                        <m lemma="6035">tih</m>
+                        <m lemma="738">at</m>
+                    </w>."
+                </txt>
+                <trans lang="eng">
+                    We will kill him because he has been taking the deer from you."
+                </trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="ALK_14-35:88" head="ALK_14-35:92" synrel="DIS">
+                        <m lemma="3745">kári</m> 
+                    </w>
+                    <w id="ALK_14-35:89" head="ALK_14-35:92" synrel="DIS">
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w id="ALK_14-35:90" head="ALK_14-35:92" synrel="SBJ"> 
+                        <m lemma="4782">pihnêefich</m>
+                    </w>
+                    <w id="ALK_14-35:91" head="ALK_14-35:92" synrel="OBJ">
+                        <m lemma="262">akôor</m>
+                    </w>
+                    <w gl="he made" id="ALK_14-35:92" head="0" synrel="PRED">
+                        <m lemma="6175">ú</m>
+                        <m lemma="2348">kyav</m>
+                    </w>
+                    <w gl="gum axe" id="ALK_14-35:93" head="ALK_14-35:92" synrel="APOS">
+                        <m lemma="2495">imshaxvuh</m>
+                        <m lemma="262">'ákoor</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">
+                    Then Coyote made an axe, a (pine) gum axe.
+                </trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="ALK_14-35:94" head="ALK_14-35:97" synrel="DIS">
+                        <m lemma="3745">kári</m> 
+                    </w>
+                    <w id="ALK_14-35:95" head="ALK_14-35:97" synrel="DIS">
+                        <m lemma="6847">xás</m>
+                    </w>
+                    "<w id="ALK_14-35:96" head="ALK_14-35:97" synrel="TAM">
+                        <m lemma="1144">chími</m>
+                    </w>
+                    <w gl="you go hunt" id="ALK_14-35:97" head="0" synrel="PRED">
+                        <m lemma="1418">i</m>
+                        <m lemma="307">'ákunvar</m>
+                    </w>."
+                </txt>
+                <trans lang="eng">
+                    Then (Coyote said), "Go hunting!"
+                </trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="ALK_14-35:98" head="ALK_14-35:100" synrel="DIS">
+                        <m lemma="3745">kári</m> 
+                    </w>
+                    <w id="ALK_14-35:99" head="ALK_14-35:100" synrel="DIS">
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w gl="he killed" id="ALK_14-35:100" head="0" synrel="PRED"> 
+                        <m lemma="6175">u</m>
+                        <m lemma="3580">ykár</m>
+                    </w>
+                    <w gl="the deer" id="ALK_14-35:101" head="ALK_14-35:100" synrel="OBJ">
+                        <m lemma="4407" id="ALK_14-35:102" head="ALK_14-35:101" synrel="ATR">pa</m>
+                        <m lemma="5135">púufich</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">
+                    Then he (Pygmy Owl) killed a deer.
+                </trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="ALK_14-35:103" head="ALK_14-35:104" synrel="DIS"> 
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w gl="he swam down from upriver" id="ALK_14-35:104" head="0" synrel="PRED"> 
+                        <m lemma="6175">u</m>
+                        <m lemma="1927">kpúuhvarak</m>
+                    </w>
+                    <w id="ALK_14-35:105" head="ALK_14-35:104" synrel="ADV">
+                        <m lemma="3969">kúkuum</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">
+                    Then he swam down from upriver again.
+                </trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="ALK_14-35:106" head="ALK_14-35:108" synrel="DIS">
+                        <m lemma="3745">kári</m> 
+                    </w>
+                    <w id="ALK_14-35:107" head="ALK_14-35:108" synrel="DIS">
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w gl="he pulled it toward land" id="ALK_14-35:108" head="0" synrel="PRED"> 
+                        <m lemma="6175">u</m>
+                        <m lemma="3372">thyúruripaa</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">
+                    Then he pulled it toward land.
+                </trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="ALK_14-35:109" head="ALK_14-35:110" synrel="DIS"> 
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w gl="they skinned it" id="ALK_14-35:110" head="0" synrel="PRED"> 
+                        <m lemma="3977">kun</m>
+                        <m lemma="2959">íshfir</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">
+                    Then they skinned it.
+                </trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="ALK_14-35:111" head="ALK_14-35:113" synrel="DIS"> 
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w id="ALK_14-35:112" head="ALK_14-35:113" synrel="SBJ">
+                        <m lemma="4782">pihnêefich</m>
+                    </w>
+                    <w gl="he ate" id="ALK_14-35:113" head="0" synrel="PRED">
+                        <m lemma="6175">u</m>
+                        <m lemma="814">'áam</m>
+                        <m lemma="6380">va</m>
+                    </w>
+                    <w gl="the fat" id="ALK_14-35:114" head="ALK_14-35:113" synrel="OBJ"> 
+                        <m lemma="4407" id="ALK_14-35:115" head="ALK_14-35:114" synrel="ATR">p</m>
+                        <m lemma="779">aathkúrit</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">
+                    Then Coyote ate the fat.
+                </trans>
+            </s>            
+            <s>
+                <txt lang="kyh">
+                    <w id="ALK_14-35:116" head="ALK_14-35:122" synrel="DIS">
+                        <m lemma="3745">kári</m> 
+                    </w>
+                    <w id="ALK_14-35:117" head="ALK_14-35:122" synrel="DIS">
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w id="ALK_14-35:118" head="ALK_14-35:122" synrel="ADV">
+                        <m lemma="3969">kúkuum</m>
+                    </w>
+                    <w gl="the man" id="ALK_14-35:119" head="ALK_14-35:122" synrel="SBJ"> 
+                        <m lemma="4407" id="ALK_14-35:120" head="ALK_14-35:119" synrel="ATR">pa</m>
+                        <m lemma="506">'áraar</m>
+                    </w>
+                    <w id="ALK_14-35:121" head="ALK_14-35:122" synrel="ADV">
+                        <m lemma="3670">káan</m>
+                    </w>
+                    <w gl="he arrived" id="ALK_14-35:122" head="0" synrel="PRED">
+                        <m lemma="6175">u</m>
+                        <m lemma="6306">'úum</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">
+                    Then the man came there again.
+                </trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="ALK_14-35:123" head="ALK_14-35:127" synrel="DIS"> 
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w id="ALK_14-35:124" head="ALK_14-35:127" synrel="ADV"> 
+                        <m lemma="3969">kúkuum</m>
+                    </w>
+                    <w gl="the deer" id="ALK_14-35:125" head="ALK_14-35:127" synrel="OBJ"> <!-- head="ALK_14-35:128" synrel="POSS" -->
+                        <m lemma="4407" id="ALK_14-35:126" head="ALK_14-35:125" synrel="ATR">pa</m>
+                        <m lemma="5135">púufich</m>
+                    </w>
+                    <w gl="he threw to them" id="ALK_14-35:127" head="0" synrel="PRED">
+                        <m lemma="3843">kin</m>
+                        <m lemma="4636">páthih</m>
+                    </w>
+                    <w gl="the kidney" id="ALK_14-35:128" head="ALK_14-35:125" synrel="APOS"><!-- head="ALK_14-35:127" synrel="OBJ" -->
+                        <m lemma="4407" id="ALK_14-35:129">pa</m>
+                        <m lemma="6243">'únuhich</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">
+                    Then again he threw the deer's kidney to them.
+                </trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="ALK_14-35:130" head="ALK_14-35:131" synrel="DIS"> 
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w gl="he said" id="ALK_14-35:131" head="0" synrel="PRED"> 
+                        <m lemma="6175">u</m>
+                        <m lemma="4823">píip</m>
+                    </w>,
+                    "<w gl="push me up" id="ALK_14-35:132" head="ALK_14-35:131" synrel="QUOT">
+                        <m lemma="3737">kanee</m>
+                        <m lemma="?">yfúut</m>
+                        <m lemma="5417">sip</m>
+                    </w>."
+                </txt>
+                <trans lang="eng">
+                    Then he said, "Push me up (the load onto my back)!"
+                </trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="ALK_14-35:133" head="ALK_14-35:137" synrel="DIS">
+                        <m lemma="3745">kári</m> 
+                    </w>
+                    <w id="ALK_14-35:134" head="ALK_14-35:137" synrel="DIS">
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w id="ALK_14-35:135" head="ALK_14-35:137" synrel="SBJ">
+                        <m lemma="4782">pihnêefich</m>
+                    </w>
+                    <w gl="on the head" id="ALK_14-35:136" head="ALK_14-35:137" synrel="ADV"> 
+                        <m lemma="969">axvâa</m>
+                        <m lemma="3660">k</m>
+                    </w>
+                    <w gl="he chopped him" id="ALK_14-35:137" head="0" synrel="PRED">
+                        <m lemma="6175">u</m>
+                        <m lemma="17">'áaka</m>
+                    </w>
+                    <w gl="the axe" id="ALK_14-35:138" head="ALK_14-35:137" synrel="COMP">
+                        <m lemma="4407" id="ALK_14-35:139" head="ALK_14-35:138" synrel="ATR">pa</m>
+                        <m lemma="262">'akôora</m>
+                    </w>
+                    <w id="ALK_14-35:140" head="ALK_14-35:137" synrel="ADV">
+                        <m lemma="4281">mûuk</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">
+                    Then Coyote struck him on the head with the axe.
+                </trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="ALK_14-35:141" head="ALK_14-35:142" synrel="DIS"> 
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w gl="they killed him" id="ALK_14-35:142" head="0" synrel="PRED"> 
+                        <m lemma="3977">kun</m>
+                        <m lemma="3580">íykar</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">
+                    Then they killed him.
+                </trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="ALK_14-35:143" head="ALK_14-35:145" synrel="DIS"> 
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w id="ALK_14-35:144" head="ALK_14-35:145" synrel="SBJ">
+                        <m lemma="4782">pihnêefich</m>
+                    </w>
+                    <w gl="he said" id="ALK_14-35:145" head="0" synrel="PRED"> 
+                        <m lemma="6175">u</m>
+                        <m lemma="4823">píip</m>
+                    </w>,
+                    "<w id="ALK_14-35:146" head="ALK_14-35:149" synrel="DIS">
+                        <m lemma="5160">púya</m>
+                    </w>
+                    <w id="ALK_14-35:147" head="ALK_14-35:149" synrel="SBJ">
+                        <m lemma="4715">pay</m>
+                    </w>
+                    <w id="ALK_14-35:148" head="ALK_14-35:149" synrel="APOS">
+                        <m lemma="6307">uum</m>
+                    </w>
+                    <w id="ALK_14-35:149" head="ALK_14-35:145" synrel="QUOT">
+                        <m lemma="6383">váah</m>
+                    </w>."
+                </txt>
+                <trans lang="eng">
+                    Then Coyote said, "So this is all right!"
+                </trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="ALK_14-35:150" head="ALK_14-35:151" synrel="DIS"> 
+                        <m lemma="6847">xás</m>
+                    </w>
+                    <w gl="they cooked meat" id="ALK_14-35:151" head="0" synrel="PRED"> 
+                        <m lemma="3977">kun</m>
+                        <m lemma="2468">imníshkirihva</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">
+                    Then they cooked the meat.
+                </trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="ALK_14-35:152" head="0" synrel="INTERJ"><!-- synrel="?" --> 
+                        <m lemma="4005">kupánakanakana</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">
+                    Kupánakanakana.
+                </trans>
+            </s>
+            <s>
+                <txt lang="kyh">
+                    <w id="ALK_14-35:153" head="ALK_14-35:154" synrel="SBJ"> 
+                        <m lemma="2713">ipasnáhvaanich</m>
+                    </w>
+                    <w gl="he did it" id="ALK_14-35:154" head="0" synrel="PRED">
+                        <m lemma="6175">u</m>
+                        <m lemma="4086">kúphaa</m>
+                        <m lemma="1369">nik</m>
+                    </w>.
+                </txt>
+                <trans lang="eng">
+                    Pygmy Owl did it.
+                </trans>
+            </s>
+        </paragraph>
+    </data>
+</text>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-81">
+  <metadata>
+            <title>"The Sweating Doctor"</title>
+            <author>Julia <alph>Starritt</alph></author>
+            <date>1957</date>
+            <publication>William Bright, <em>The Karok Language</em> (1957), pp. 294-295, Text 81</publication>
+        </metadata>
+        <data>
+            <paragraph>
+                <s>
+                    <kar>
+                        <w gl="the sweating doctor"><m id="4407">pa</m><m id="382">'aneekyávaan</m></w>
+                        <w><m id="6307">uum</m></w>
+			<w><m id="4963">pírish</m></w>
+			<w gl="he used"><m id="4408">pa</m><m id="6175">'óo</m><m id="1584">hruuv</m><m id="6035">tih</m></w>
+			<w><m id="3752">káru</m></w>
+			<w><m id="1361">hâari</m></w>
+			<w gl="plant roots"><m id="4963">pirish</m><m id="1251">'éepuum</m></w>.
+                  </kar>
+                    <eng>The sweating doctor used plants and sometimes plant roots.</eng>
+                </s>
+                <s>
+                    <kar>
+		      <w><m id="5163">púyava</m></w>
+		      <w><m id="6847">xás</m></w>
+		      <w gl="he talked to"><m id="6175">u</m><m id="6212">'uhyanakôo</m><m id="6035">ti</m></w>
+		      <w gl="the plants"><m id="4407">pa</m><m id="4963">pírish</m></w>.
+		    </kar>
+                    <eng>And he talked to the plants.</eng>
+                </s>
+		<s>
+                    <kar>
+		      <w><m id="5163">púyava</m></w>
+		      <w><m id="6847">xás</m></w>
+		      <w gl="in bowl basket"><m id="665">ásip</m><m id="232">ak</m></w>
+		      <w gl="he put them in"><m id="5506">t</m><m id="6175">u</m><m id="4195">máhyaan</m></w>.
+		    </kar>
+                    <eng>Then he put them in a bowl-basket.</eng>
+                </s>
+	      <s>
+		<kar>
+		  <w><m id="6847">xás</m></w>
+		  <w><m id="2940">íshaha</m></w>
+		  <w gl="he did"><m id="5506">t</m><m id="6175">óo</m></w>
+		  <w gl="pour in"><m id="">yvaay</m><m id="5175">ramnih</m></w>.
+		</kar>
+		<eng>And he poured in water.</eng>
+	      </s>
+	      <s>
+		<kar>
+		  <w><m id="6847">xás</m></w>
+		  <w><m id="3745">kári</m></w>
+		  <w gl="hot stones"><m id="583">as</m><m id="2425">éemfir</m></w>
+		  <w gl="he put in"><m id="5506">t</m><m id="6175">u</m><m id="6143">turu</m><m id="5175">ráamnih</m><m id="6380">va</m></w>.
+		</kar>
+		<eng>Then he put in hot stones.</eng>
+	      </s>
+	      <s>
+		<kar>
+		 <w><m id="5163">púyava</m></w>
+		 <w><m id="6847">xás</m></w>
+		 <w><m id="6383">vaa</m></w>
+		 <w gl="he did"><m id="5506">t</m><m id="6175">óo</m></w>
+		 <w><m id="4561">páramva</m></w>.
+		</kar>
+		<eng>And he boiled them.</eng>
+	      </s>
+	      <s>
+		<kar>
+		  <w><m id="6847">xás</m></w>
+		  <w><m id="6383">vaa</m></w>
+		  <w gl="the sick"><m id="4407">pa</m><m id="7094">yíkihar</m></w>
+		  <w gl="his underneath"><m id="4260">mu</m><m id="5481">súrukam</m></w>
+		  <w gl="he did"><m id="5506">t</m><m id="6175">óo</m></w>
+		  <w><m id="3282">thríish</m></w>.
+		</kar>
+		<eng>Then he set them down underneath the sick person.</eng>
+	      </s>
+	      <s>
+		<kar>
+		  <w><m id="6847">xás</m></w>
+		  <w><m id="6399">váas</m></w>
+		  <w><m id="5506">tá</m></w>
+		  <w gl="they covered with"><m id="3977">kun</m><m id="3653">iyxôorariv</m></w>.
+		</kar>
+		<eng>And they covered (the patient) with a blanket.</eng>
+	      </s>
+	      <s>
+		<kar>
+		  <w><m id="5163">púyava</m></w>
+		  <w gl="when he used"><m id="4408">pa</m><m id="5506">t</m><m id="6175">u</m><m id="3909">kôo</m><m id="1358">haak</m></w>
+		  <w><m id="5163">púyava</m></w>
+		  <w><m id="3745">kári</m></w>
+		  <w gl="the medicine"><m id="4407">pa</m><m id="379">'ánav</m></w>
+		  <w><m id="1657">îim</m></w>
+		  <w><m id="5506">tá</m></w>
+		  <w gl="they poured out"><m id="3977">kun</m><m id="4406">p</m><m id="3653">iyvêesh</m></w>.
+		</kar>
+		<eng>When he was finished, they poured the medicine on the ground, outdoors.</eng>
+	      </s>
+	      <s>
+		<kar>
+		  <w><m id="3752">káru</m></w>
+		  <w><m id="1361">hâari</m></w>
+		  <w gl="he drank"><m id="5506">t</m><m id="6175">u</m><m id="2936">'ísh</m></w>
+		  <w><m id="3667">káakum</m></w>
+		  <w gl="the medicine"><m id="4408">pa</m><m id="379">'ánav</m></w>.
+		</kar>
+		<eng>And sometimes (the patient) drank some of the medicine.</eng>
+	      </s>
+	      <s>
+		<kar>
+		  <w><m id="5163">púyava</m></w>
+		  <w><m id="4715">páy</m></w>
+		  <w><m id="6307">uum</m></w>
+		  <w gl="plant medicine"><m id="4407">pa</m><m id="4963">pirish</m><m id="379">'ánav</m></w>
+		  <w gl="how they made it"><m id="3977">kun</m><m id="4004">kupee</m><m id="2348">kyâa</m><m id="169">hi</m><m id="6035">tih</m></w>.
+		</kar>
+		<eng>That’s how they made plant medicine.</eng>
+	      </s>
+	      <s>
+		<kar>
+		  <w><m id="6847">xás</m></w>
+		  <w gl="the sweating doctor"><m id="4407">pa</m><m id="382">'aneekyávaan</m></w>
+		  <w><m id="6675">vúra</m></w>
+		  <w><m id="3999">kúnish</m></w>
+		  <w><m id="2252">ikxaréeyav</m></w>.
+		</kar>
+		<eng>And the doctor was kind of (like) an ikxaréeyav.</eng>
+	      </s>
+	    </paragraph>
+	</data>
+</text>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-12">
+    <metadata>
+        <title>"Coyote Tries to Reach the Sun"</title>
+        <author>Chester <alph>Pepper</alph></author>
+        <date>1957</date>
+        <publication>William Bright, <em>The Karok Language</em> (1957), pp. 198-199, Text
+            12</publication>
+    </metadata>
+    <data>
+        <paragraph>
+            <s>
+                <kar>
+                    <w><m id="6383">vaa</m></w>
+                    <w gl="he did"><m id="6175">u</m><m id="4086">kúpha</m><m id="1369">anik</m></w>
+                    <w><m id="4782">pihnêefich</m></w>
+                    <w><m id="6307">uum</m></w>. </kar>
+                <eng>Coyote did this way.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w><m id="4147">mâam</m></w>
+                    <w gl="the sun"><m id="4407">pa</m><m id="4094">kúusra</m></w>
+                    <w gl="it rose"><m id="5506">t</m><m id="6175">u</m><m id="6450"
+                        >váruprav</m></w>. </kar>
+                <eng>The sun rose just uphill.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w gl="he thinks"><m id="6175">u</m><m id="6939">xú</m><m id="6035">tih</m></w>,
+                        "<w gl="uphill from here"><m id="3940">ku</m><m id="4147">mâam</m></w>
+                    <w gl="it lives"><m id="6175">ú</m><m id="1974">krii</m></w>, <w gl="the sun"><m
+                            id="4407">pa</m><m id="4094">kúusrah</m></w>." </kar>
+                <eng>He thought, "The sun is just uphill from here."</eng>
+            </s>
+            <s>
+                <kar>
+                    <w><m id="6847">xás</m></w>
+                    <w gl="he thinks"><m id="6175">u</m><m id="6939">xú</m><m id="6035">tih</m></w>,
+                            "<w><m id="6383">vaa</m></w>
+                    <w><m id="5506">tá</m></w>
+                    <w><m id="3670">káan</m></w>
+                    <w gl="it lives"><m id="6175">ú</m><m id="1974">krii</m></w>, <w gl="the sun"><m
+                            id="4407">pa</m><m id="4094">kúusrah</m></w>." </kar>
+                <eng>He thought, "The sun's right there."</eng>
+            </s>
+            <s>
+                <kar>
+                    <w gl="when he climbed over"><m id="4408">p</m><m id="6175">oo</m><m id="1781"
+                            >kfúkuvraa</m></w>, <w><m id="7038">yánava</m></w>
+                    <w><m id="3343">ithyáruk</m></w>
+                    <w><m id="6847">xás</m></w>
+                    <w gl="it rose"><m id="5506">t</m><m id="6175">u</m><m id="6450"
+                        >váruprav</m></w>
+                    <w gl="the sun"><m id="4407">pa</m><m id="4094">kúusrah</m></w>. </kar>
+                <eng>When he climbed up over (the ridge), he saw the sun was rising across (above
+                    the next ridge).</eng>
+            </s>
+            <s>
+                <kar>
+                    <w><m id="1096">chavúra</m></w>
+                    <w gl="he does not see"><m id="5082">pu</m><m id="4155">mah</m><m id="1371"
+                            >ára</m></w>, <w><m id="1396">hôoy</m></w>
+                    <w gl="it came from"><m id="4408">p</m><m id="6175">oo</m><m id="514"
+                            >'aramsîipriv</m><m id="6035">tih</m></w>. </kar>
+                <eng>In the end he didn't find where it came from.</eng>
+            </s>
+            <s>
+                <kar>
+                    <w gl="thus"><m id="6570">víri</m><m id="6377">va</m></w>
+                    <w><m id="4782">pihnêefich</m></w>
+                    <w gl="he did"><m id="6175">u</m><m id="4086">kúpha</m><m id="1369"
+                    >anik</m></w>. </kar>
+                <eng>Coyote did that.</eng>
+            </s>
+        </paragraph>
+    </data>
+</text>

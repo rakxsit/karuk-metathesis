@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-32">
+  <metadata>
+    <title>"The Bear and the Deer"</title>
+    <author>Julia <alph>Starritt</alph></author>
+    <date>1957</date>
+    <publication>William Bright, <em>The Karok Language</em> (1957), pp. 226-231, Text 32</publication>
+  </metadata>
+  <data>
+    <paragraph>
+      <s>
+	<kar>
+	  <w><m id="3670">káan</m></w>
+	  <w><m id="833">ávansa</m></w>
+	  <w gl="he lived"><m id="6175">ú</m><m id="1974">krii</m></w>.
+	</kar>
+	<eng>A man lived there.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="864">áxak</m></w>
+	  <w gl="his wives"><m id="4260">mu</m><m id="1576">hrôov</m><m id="584">as</m></w>.
+	</kar>
+	<eng>He had two wives.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w gl="his first wife"><m id="4407">pa</m><m id="4260">mu</m><m id="4978">piship</m><m id="1576">'ihrôoha</m></w>
+	  <w><m id="6307">uum</m></w>
+	  <w><m id="7097">yítha</m></w>
+	  <w gl="her boy"><m id="4260">mu</m><m id="835">'avansáxiich</m></w>.
+	</kar>
+	<eng>His first wife had one boy.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="3752">káru</m></w>
+	  <w gl="the one"><m id="4407">pa</m><m id="7097">yítha</m></w>
+	  <w><m id="6307">uum</m></w>
+	  <w><m id="864">áxak</m></w>
+	  <w gl="her children"><m id="4260">mu</m><m id="6132">túnviiv</m></w>,
+	  <w gl="boys"><m id="835">avansáxiitich</m><m id="584">as</m></w>.
+	</kar>
+	<eng>And the other had two children, they were little boys.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w gl="the man"><m id="4407">pa</m><m id="833">'ávansa</m></w>
+	  <w><m id="744">atahári</m></w>
+	  <w><m id="6675">vúra</m></w>
+	  <w gl="he was hunting"><m id="6175">u</m><m id="304">'ákunvu</m><m id="6035">tih</m></w>.
+	</kar>
+	<eng>The man was always hunting.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="3752">káru</m></w>
+	  <w><m id="6307">uum</m></w>
+	  <w gl="the women"><m id="4407">pa</m><m id="656">'asiktávaan</m></w>
+	  <w><m id="744">atahári</m></w>
+	  <w><m id="6675">vúra</m></w>
+	  <w gl="they were working"><m id="3977">kun</m><m id="2353">ikyáviichvu</m><m id="6035">tih</m></w>,
+	  <w><m id="818">ávaha</m></w>
+	  <w gl="they were gathering"><m id="3977">kun</m><m id="2348">ikyáa</m><m id="6035">tih</m></w>.
+	</kar>
+	<eng>And the women were always working, they were gathering food.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="the first"><m id="4407">pa</m><m id="4978">píshiip</m></w>
+	  <w gl="its wife"><m id="6376">vee</m><m id="1576">hrôoha</m></w>
+	  <w><m id="6307">uum</m></w>
+	  <w><m id="3396">itníivka</m></w>.
+	</kar>
+	<eng>And the first wife was cruel.</eng>
+	<note publish="yes">Bright: "The cruel wife, with the single child, was Bear. The one with the two children was Deer."</note>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="3678">kâarim</m></w>
+	  <w gl="she was doing to her"><m id="6175">u</m><m id="2342">kyáati</m></w>
+	  <w gl="the little wife"><m id="4407">pee</m><m id="1576">hnohá</m><m id="375">'anamahach</m></w>.
+	</kar>
+	<eng>She treated the little wife badly.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w gl="when acorns"><m id="4408">pa</m><m id="6907">xuntápan</m></w>
+	  <w gl="they were picking it up"><m id="3977">kun</m><m id="1468">ífik</m><m id="6035">tih</m></w>,
+	  <w><m id="4076">kúuk</m></w>
+	  <w gl="she had"><m id="5506">t</m><m id="6175">óo</m></w>
+	  <w gl="run to"><m id="2203">kvíripma</m></w>,
+	  <w><m id="6847">xás</m></w>
+	  <w><m id="3930">koovúra</m></w>
+	  <w gl="she had picked it up"><m id="5506">t</m><m id="6175">u</m><m id="1468">'ífik</m></w>
+	  <w><m id="4978">píshiip</m></w>.
+	</kar>
+	<eng>When they picked acorns, she would run there, and she would pick them all first.</eng>
+      </s>
+      <s>
+	<kar>
+	 <w><m id="6847">xás</m></w>
+	 <w gl="her burden basket"><m id="4407">pa</m><m id="4260">mu</m><m id="789">'átimnam</m></w>
+	 <w><m id="6307">uum</m></w>
+	 <w><m id="6675">vúra</m></w>
+	 <w><m id="1010">axyár</m></w>
+	 <w><m id="744">atahári</m></w>
+	</kar>
+	<eng>And her burden basket was always full.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w gl="the one"><m id="4407">pa</m><m id="7097">yítha</m></w>
+	  <w><m id="6307">uum</m></w>
+	  <w><m id="6675">vúra</m></w>
+	  <w><m id="1115">chîimich</m></w>
+	  <w gl="in her burden basket"><m id="4407">pa</m><m id="4260">mu</m><m id="789">'átimn</m><m id="232">ak</m></w>.
+	</kar>
+	<eng>There was little in the other's burden basket.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w><m id="6675">vúra</m></w>
+	  <w><m id="3678">kâarim</m></w>
+	  <w gl="she was doing to her"><m id="6175">u</m><m id="2342">kyáatih</m></w>.
+	</kar>
+	<eng>And she treated her badly.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w gl="she was scaring her"><m id="60">áathva</m><m id="6175">u</m><m id="60">kyáatih</m></w>.
+	</kar>
+	<eng>She made her afraid.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w><m id="3219">itháan</m></w>
+	  <w gl="when they returned"><m id="4408">pa</m><m id="3977">kun</m><m id="2694">'ípak</m></w>,
+	  <w><m id="6847">xás</m></w>
+	  <w gl="she told them"><m id="6175">ú</m><m id="2733">peen</m><m id="6648">vunaa</m></w>
+	  <w gl="her little ones"><m id="4407">pa</m><m id="4260">mu</m><m id="6128">tunvêech</m></w>
+	  "<w gl="if I don't come back"><m id="4408">pa</m><m id="5082">pu</m><m id="4295">na</m><m id="2694">'ípak</m><m id="1358">ahaak</m></w><!-- haak looks like separate word in WB, missing hyphen?-->
+	  <w gl="you will know it"><m id="3939">ku</m><m id="6939">xús</m><m id="1379">eesh</m></w>
+	  '<w><m id="5506">tá</m></w>
+	  <w gl="she killed me"><m id="4294">nee</m><m id="3580">ykár</m><m id="1378">aheen</m></w>.'"
+	</kar>
+	<eng>And once when they returned, (Deer) told her little ones, "If I don't come back, you will know (lit., think) that she's killed me."</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s>
+	<kar>
+          <w><m id="6847">xás</m></w>
+	  <w><m id="3219">itháan</m></w>
+	  <w gl="she came back"><m id="6175">u</m><m id="2694">'ípak</m></w>
+	  <w gl="the old woman"><m id="4407">pa</m><m id="3805">kéevriik</m></w>.
+	</kar>
+	<eng>And once the old woman (i.e., Bear) came back.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="the boy"><m id="4407">pa</m><m id="835">'avansáxiich</m></w>
+	  <w gl="he missed"><m id="6175">u</m><m id="4877">píktar</m></w>
+	  <w gl="his mother"><m id="4407">pa</m><m id="4260">mú</m><m id="5532">taat</m></w>.
+	</kar>
+	<eng>And the boys missed their mother.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="he said"><m id="6175">u</m><m id="4823">píip</m></w>
+	  "<w><m id="1396">hôoy</m></w>
+	  <w><m id="6307">uum</m></w>
+	  <w><m id="5727">tátach</m></w>."
+	</kar>
+	<eng>And they said, "Where's mama?"</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="she said"><m id="6175">u</m><m id="4823">píip</m></w>
+	  <w gl="the old woman"><m id="4407">pa</m><m id="3805">kéevriik</m></w>
+	  "<w><m id="6307">uum</m></w>
+	  <w><m id="6675">vúra</m></w>
+	  <w><m id="4289">má'</m></w>
+	  <w gl="she is"><m id="5506">t</m><m id="6175">óo</m></w>
+	  <w><m id="2186">kvéesh</m></w>.
+	</kar>
+	<eng>And the old woman said, "She's spending the night in the mountains.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="7035">yakún</m></w>
+	  <w><m id="5541">táay</m></w>
+	  <w><m id="6675">vúra</m></w>
+	  <w><m id="2671">íp</m></w>
+	  <w gl="she gathered"><m id="6175">ú</m><m id="2431">mkaanv</m><m id="738">at</m></w>.
+	</kar>
+	<eng>You see, she gathered a lot.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6570">víri</m></w>
+	  <w><m id="1410">hûut</m></w>
+	  <w><m id="1144">chími</m></w>
+	  <w gl="she would take it back"><m id="6175">u</m><m id="4004">kupee</m><m id="2798">psháanv</m><m id="169">ah</m><m id="1379">eesh</m></w>.
+	</kar>
+	<eng>How was she to carry it home?</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6570">víri</m></w>
+	  <w><m id="2391">imáan</m></w>
+	  <w><m id="6848">xásik</m></w>
+	  <w gl="she will come back"><m id="6175">u</m><m id="2694">'ípak</m><m id="1379">eesh</m></w>."
+	</kar>
+	<eng>She'll come back tomorrow."</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w><m id="2391">imáan</m></w>
+	  <w><m id="3969">kúkuum</m></w>
+	  <w><m id="6675">vúra</m></w>
+	  <w gl="she went back"><m id="6175">u</m><m id="2860">pvâaram</m></w>.
+	</kar>
+	<eng>The next day (Bear) went off again.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w><m id="3972">kúmateech</m></w>
+	  <w><m id="2294">ikxúrar</m></w>
+	  <w><m id="6675">vúra</m></w>
+	  <w><m id="6839">xára</m></w>
+	  <w><m id="6847">xás</m></w>
+	  <w><m id="6675">vúra</m></w>
+	  <w gl="she came back"><m id="6175">u</m><m id="2694">'ípak</m></w>.
+	</kar>
+	<eng>And later on, in the evening, she came back late.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="the boys"><m id="4407">pa</m><m id="835">'avansáxiitichas</m></w>
+	  <w><m id="5506">tá</m></w>
+	  <w gl="they went to bed"><m id="3977">kun</m><m id="52">'áasishrih</m></w>.
+	</kar>
+	<eng>The little boys had gone to bed.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="the big boy"><m id="4407">pa</m><m id="835">'avansaxich</m><m id="">á</m><m id="3668">kaam</m></w>
+	  <w gl="he peeked out"><m id="6175">u</m><m id="3397">tníshuk</m></w>
+	  <w gl="under the blanket"><m id="6399">vasa</m><m id="5478">súruk</m></w>.
+	</kar>
+	<eng>And the big boy was peeking out from under the blanket.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w><m id="7038">yánava</m></w>
+	  <w gl="in the burden basket"><m id="4407">pa</m><m id="789">'átimnav</m><m id="232">ak</m></w>
+	  <w gl="it is stuffed in"><m id="6175">u</m><m id="4195">máhyaan</m><m id="168">ahi</m><m id="6035">ti</m></w>
+	  <w><m id="5568">táhpuus</m></w>.
+	</kar>
+	<eng>And he saw fir branches sticking in the burden basket.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="1633">ii</m></w>!
+	  <w><m id="7038">yánava</m></w>
+	  <w gl="it is sticking out"><m id="6175">u</m><m id="1615">hyár</m><m id="2937">ish</m><m id="6216">uk</m><m id="6380">va</m></w><!-- not sure about morpheme breakdown of this word -->
+	  <w gl="his mother"><m id="4407">pa</m><m id="4260">mú</m><m id="5532">taat</m></w>
+	  <w gl="her leg"><m id="4260">mú</m><m id="444">psiih</m></w>.
+	</kar>
+	<eng>Oh, he saw his mother's leg sticking out!</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="1633">ii</m></w>!
+	  <w><m id="6847">xas</m></w>
+	  <w gl="he knew"><m id="6175">u</m><m id="44">'aapúnm</m><m id="738">at</m></w>
+	  <w gl="his mother"><m id="4407">pa</m><m id="4260">mú</m><m id="5532">taat</m></w>
+	  <w gl="she had"><m id="5506">t</m><m id="6175">óo</m></w>
+	  <w gl="killed her"><m id="3580">ykára</m><m id="1378">heen</m></w>
+	</kar>
+	<eng>Oh, then he knew that she had killed his mother!</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="she was grunting"><m id="6175">u</m><m id="1815">'íkihvu</m><m id="6035">ti</m></w>
+	  <w gl="as she came back into the house"><m id="4408">p</m><m id="6175">oo</m><m id="2674">p</m><m id="6606">vôonfuruk</m></w>
+	  <w><m id="4151">maath</m></w>
+	  <w gl="that she was carrying"><m id="4408">p</m><m id="6175">óo</m><m id="2125">ktaam</m><m id="6035">tih</m></w>.
+	</kar>
+	<eng>And (Bear) was grunting as she came in, as she was carrying a heavy load.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="the boy"><m id="4407">pa</m><m id="835">'avansáxiich</m></w>
+	  <w gl="he knew"><m id="6175">u</m><m id="44">'aapúnma</m></w>
+	  "<w><m id="6675">vúra</m></w>
+	  <w><m id="1456">if</m></w>."
+	</kar>
+	<eng>And the boy knew it was true.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w><m id="5155">púxay</m></w>
+	  <w><m id="1281">fâat</m></w>
+	  <w><m id="6675">vúra</m></w>
+	  <w gl="he wasn't saying"><m id="2767">ipítih</m><m id="1371">ara</m></w>.
+	</kar>
+	<eng>And he didn't say anything.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w><m id="2392">imáankam</m></w>
+	  <w><m id="3969">kúkuum</m></w>
+	  <w><m id="6675">vúra</m></w>
+	  <w gl="she went away again"><m id="6175">u</m><m id="2674">p</m><m id="6396">vâaram</m></w>.
+	</kar>
+	<eng>And the next day she went away again.</eng>
+      </s>
+      <s>
+	<kar>
+	  "<w gl="your mother"><m id="4407">pa</m><m id="4238">mí</m><m id="5532">taat</m></w>
+	  <w><m id="3972">kúmateech</m></w>
+	  <w><m id="6848">xasík</m></w>
+	  <w gl="she will come back"><m id="6175">u</m><m id="2694">'ípak</m><m id="1379">eesh</m></w>."
+	</kar>
+	<eng>"Your mother will come back later today."</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w><m id="3969">kúkuum</m></w>
+	  <w><m id="6675">vúra</m></w>
+	  <w><m id="6839">xára</m></w>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="she came back"><m id="6175">u</m><m id="2694">'ípak</m></w>
+	  <w><m id="2294">ikxúrar</m></w>.
+	</kar>
+	<eng>And again (Bear) came back late in the evening.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="7038">yánava</m></w>
+	  <w gl="she was carrying"><m id="6175">u</m><m id="5229">sáanvu</m><m id="6035">ti</m></w>
+ 	  <w gl="long pitch-woods"><m id="972">axvahara</m><m id="6840">xárah</m><m id="5200">sas</m></w>.
+	</kar>
+	<eng>(The boy) saw she was carrying long pieces of pitch-wood.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="the boy"><m id="4407">pa</m><m id="835">'avansáxiich</m></w>
+	  <w><m id="6675">vúra</m></w>
+	  <w><m id="6307">uum</m></w>
+	  <w gl="he was crying"><m id="6175">u</m><m id="3518">xrára</m><m id="6035">tih</m></w>,
+	  <w><m id="3978">kúna</m></w>
+	  <w><m id="6675">vúra</m></w>
+	  <w gl="he was hiding"><m id="6175">u</m><m id="1441">'ichunvu</m><m id="6035">ti</m></w>
+ 	  <w gl="when he was crying"><m id="4408">p</m><m id="6175">oo</m><m id="3518">xrára</m><m id="6035">tih</m></w>.
+	</kar>
+	<eng>And the boy was crying, but he hid when he cried.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="she told him"><m id="6175">u</m><m id="1441">pêer</m></w>
+	  <w gl="the boy"><m id="4407">pa</m><m id="835">'avansáxiich</m></w>
+	 "<w><m id="2392">imáankam</m></w>
+	  <w><m id="5328">sáruk</m></w>
+	  <w><m id="708">astíip</m></w>
+	  <w gl="your younger brother"><m id="4407">pa</m><m id="4238">mí</m><m id="1041">chaas</m></w>
+	  <w><m id="6757">xákaan</m></w>
+	  <w><m id="1729">ík</m></w>
+	  <w gl="you two will go"><m id="3939">ku</m><m id="3562">yâaram</m><m id="1379">eesh</m></w>
+	  <w><m id="2294">ikxúrar</m></w>.
+	</kar>
+	<eng>And she told the boy, "Tomorrow evening you and your younger brother must go down to the river-bank.</eng>
+      </s>
+     <s>
+	<kar>
+	  <w><m id="6848">xasík</m></w>
+	  <w gl="the long pitch-woods"><m id="4407">paa</m><m id="972">xvahara</m><m id="6840">xárah</m><m id="5200">sas</m></w>
+	  <w gl="you will stick them into"><m id="3939">ku</m><m id="6487">vêehkurih</m><m id="1379">eesh</m></w>
+	  <w gl="in the sand"><m id="7247">yúux</m><m id="232">ak</m></w>,
+	  <w gl="it will burn"><m id="6175">u</m><m id="171">'ahí</m><m id="6035">tih</m><m id="1379">eesh</m></w>.<!-- gloss singular or pl?-->
+	</kar>
+	<eng>You will stick the long pieces of pitch-wood in the sand, they will burn.</eng>
+      </s>
+     <s>
+	<kar>
+	  <w><m id="6848">xasík</m></w>
+	  <w><m id="6383">vaa</m></w>
+	  <w><m id="1729">ík</m></w>
+	  <w><m id="6675">vúra</m></w>
+	  <w><m id="3904">kóo</m></w><!--interesting use of koo, not sure of gloss-->
+	  <w><m id="3670">káan</m></w>
+	  <w gl="you two will stay"><m id="3939">ku</m><m id="1664">'íin</m><m id="1379">eesh</m></w>
+	  <w gl="the pitch-wood"><m id="4407">p</m><m id="972">aaxvâahar</m></w>
+	  <w gl="it has"><m id="5506">t</m><m id="6175">óo</m></w>
+	  <w gl="cooled down when"><m id="2499">msípishri</m><m id="1358">haak</m></w>,
+	  <w><m id="6848">xasík</m></w>
+	  <w gl="you will come back"><m id="3939">ku</m><m id="4942">pínaa</m><m id="1379">vish</m></w>.
+	</kar>
+	<eng>You must stay there until the pitch-wood is extinguished, then you will come back."</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w><m id="3745">kári</m></w>
+	  <w gl="the boy"><m id="4407">pa</m><m id="835">'avansáxiich</m></w>
+	  <w><m id="10">aah</m></w>
+	  <w gl="he made it"><m id="6175">ú</m><m id="2348">kyav</m></w>
+	  <w><m id="1826">ikmaháchraam</m></w>.
+	</kar>
+	<eng>Then the boy made a fire in the sweathouse.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="his older brother"><m id="4407">pa</m><m id="4260">mu</m><m id="35">'aaníhich</m></w>
+	  <w gl="he told him"><m id="6175">ú</m><m id="2733">pêer</m></w>
+	  "<w><m id="1192">chôora</m></w>
+	  <w gl="let's go sweat ourselves"><m id="4370">nu</m><m id="2674">pí</m><m id="3858">kiniih</m><m id="6380">v</m><m id="501">an</m></w><!-- not sure about morpheme breakdown of this word; not usual word for 'to sweat oneself'-->
+	  <w><m id="1826">ikmaháchraam</m></w>."
+	</kar>
+	<eng>And he told his older brother (i.e., the Bear's son), "Let's go sweat ourselves in the sweathouse!"</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="they went inside"><m id="3977">kun</m><m id="2920">iru</m><m id="6606">vôonfuruk</m></w>.
+	</kar>
+	<eng>And they went in.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="the boy"><m id="4407">pa</m><m id="835">'avansáxiich</m></w>
+	  <w gl="he jumped back outdoors"><m id="6175">u</m><m id="2674">p</m><m id="2988">íshkaakrupuk</m></w>,
+	  <w><m id="5264">sákriiv</m></w>
+	  <w><m id="6675">vúra</m></w>
+	  <w gl="he made it"><m id="6175">ú</m><m id="2348">kyav</m></w>
+	  <w gl="the door"><m id="4407">pá</m><m id="1185">chivchak</m></w>.
+	</kar>
+	<eng>Then the boy jumped out again, he made the door tight.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="his younger brother"><m id="4407">pa</m><m id="4260">mú</m><m id="1041">chaas</m></w>
+ 	  <w><m id="6757">xákaan</m></w>
+	  <w><m id="5328">sáruk</m></w>
+	  <w gl="they ran downhill"><m id="3977">kun</m><m id="3305">ithvírip</m><m id="1289">fak</m></w>.
+	</kar>
+	<eng>And he and his younger brother ran downhill.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="the pitch-wood"><m id="4407">paa</m><m id="972">xvâahar</m></w>
+	  <w gl="he stuck it down"><m id="6175">u</m><m id="6482">vêeh</m><m id="2937">ish</m></w>.<!-- break down or not?-->
+	</kar>
+	<eng>And he stuck the pitch-wood down.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w gl="he lit it"><m id="5506">t</m><m id="6175">u</m><m id="13">'áahka</m></w>.
+	</kar>
+	<eng>He lit it.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="he said"><m id="6175">u</m><m id="4823">píip</m></w>
+	  "<w><m id="1144">chími</m></w>
+	  <w gl="let's run"><m id="4370">nu</m><m id="3305">thvîip</m><m id="1419">i</m></w>."
+	</kar>
+	<eng>And he said, "Let's run!"</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w><m id="7212">yúruk</m></w>
+	  <w gl="they ran downriverward"><m id="3977">kun</m><m id="3305">ithvírip</m><m id="5193">rup</m></w>.
+	</kar>
+	<eng>And they ran downriverward.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s>
+	<kar>
+	  <w gl="the boy"><m id="4407">pa</m><m id="835">'avansáxiich</m></w>
+	  <w gl="he was shouting"><m id="6175">u</m><m id="1902">kpêehvu</m><m id="6035">ti</m></w>
+	  <w><m id="1826">ikmaháchraam</m></w>.
+	</kar>
+	<eng>The boy inside the sweathouse was shouting.</eng>
+      </s>
+      <s>
+	<kar>
+	  "<w><m id="1041">cháas</m></w>,
+	  <w gl="open back up the door for me"><m id="4294">nee</m><m id="2674">p</m><m id="1182">chívchaaksur</m><m id="1526">ih</m></w>,
+	  <w><m id="5506">tá</m></w>
+	  <w gl="I'm burning"><m id="4349">ni</m><m id="1677">'íinka</m></w>."
+	</kar>
+	<eng>"Younger brother, open the door for me, I'm burning!"</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w><m id="3969">kúkuum</m></w>
+	  <w><m id="6675">vúra</m></w>
+	  <w gl="he did"><m id="5506">t</m><m id="6175">óo</m></w>
+	  <w gl="shout"><m id="1902">kpêehva</m></w>
+	  "<w gl="open back up the door for me"><m id="4294">nee</m><m id="2674">p</m><m id="1182">chívchaaksur</m><m id="1526">ih</m></w>, 
+	  <w><m id="5506">tá</m></w>
+	  <w gl="I'm burning"><m id="4349">ni</m><m id="1677">'íinka</m></w>."
+	</kar>
+	<eng>And again he shouted, "Open the door for me, I'm burning!"</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="his mother"><m id="4260">mú</m><m id="5532">taat</m></w>
+	  <w gl="she came back"><m id="6175">u</m><m id="2694">'ípak</m></w>.
+	</kar>
+	<eng>Then his mother came back.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="she cooked it"><m id="6175">u</m><m id="2465">mnish</m><m id="3858">kírih</m><m id="6380">va</m></w><!-- does this mean roast, specifically?-->
+	  <w gl="the meat"><m id="4407">pá</m><m id="1696">'iish</m></w>.
+	</kar>
+	<eng>And she cooked the (deer's) meat.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="5328">sáruk</m></w>
+	  <w gl="she was looking downhill"><m id="6175">u</m><m id="3215">tfáku</m><m id="6035">tih</m></w>,
+	  <w><m id="7038">yánava</m></w>
+	  <w gl="the pitch-wood"><m id="4407">paa</m><m id="972">xvâahar</m></w>
+ 	  <w><m id="3745">kári</m></w>
+	  <w gl="long ones"><m id="6397">vâaram</m><m id="584">as</m></w>
+	  <w gl="they stand"><m id="6175">u</m><m id="6494">vêehriv</m></w>.
+	</kar>
+	<eng>She looked downhill, she saw the pitch still standing long.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="the sweathouse"><m id="4407">pee</m><m id="1826">kmaháchraam</m></w>
+	  <w><m id="4077">kúuk</m></w>
+	  <w gl="she ran to"><m id="6175">u</m><m id="558">'árih</m><m id="4131">ma</m></w>.
+	</kar>
+	<eng>Then she ran to the sweathouse.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="she shouted to"><m id="6175">u</m><m id="1632">hyûunish</m></w>
+	  <w gl="her child"><m id="4407">pa</m><m id="4260">mú</m><m id="511">'arama</m></w>
+	  "<w><m id="1108">chémyaach</m></w>
+	  <w gl="jump outdoors"><m id="558">árih</m><m id="5199">rupuk</m><m id="1419">i</m></w><!--split or keep as single entry-->
+	  <w gl="it is"><m id="5506">t</m><m id="6175">óo</m></w>
+	  <w><m id="2564">mtup</m></w>
+	  <w gl="her meat"><m id="4407">pa</m><m id="4260">mú</m><m id="1696">'iish</m></w>,
+	  <w><m id="1144">chimi</m></w>
+	  <w gl="let's eat"><m id="4370">nu</m><m id="814">'am</m></w>."
+	</kar>
+	<eng>And she shouted to her child, "Jump out quickly, her meat is cooked, let's eat!"</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w><m id="5155">púxay</m></w>
+	  <w gl="he wasn't answering"><m id="1548">íhivrik</m><m id="6035">tih</m><m id="1371">ara</m></w>.
+	</kar>
+	<eng>But he did not answer.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w><m id="1096">chavúra</m></w>
+	  <w gl="she jumped inside"><m id="6175">u</m><m id="558">'árih</m><m id="1352">furuk</m></w>.
+	</kar>
+	<eng>Then finally she jumped in.</eng>
+      </s>
+      <s>
+	<kar>
+	  "<w><m id="1108">chémyaach</m></w>,
+	  <w><m id="1144">chími</m></w>
+	  <w gl="let's eat"><m id="4370">nu</m><m id="814">'am</m></w>."
+	</kar>
+	<eng>"Quick, let's eat!"</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="1633">ii</m></w>!
+	  <w><m id="6847">xás</m></w>
+	  <w gl="she saw him"><m id="6175">u</m><m id="4155">mah</m></w>
+	  <w><m id="7038">yánava</m></w>
+	  <w><m id="346">ámtaap</m></w>
+	  <w><m id="3809">kích</m></w>
+	  <w gl="it was lying in a pile"><m id="6175">u</m><m id="2023">krítuv</m></w>.
+	</kar>
+	<eng>Oh, then she saw him, she saw just ashes lying there!</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="she said"><m id="6175">u</m><m id="4823">píip</m></w>
+	  "<w><m id="66">aaaw</m></w>."<!-- use this or mark as non-Karuk?-->
+	</kar>
+	<eng>And she said "OW!"</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w><m id="5328">sáruk</m></w>
+	  <w><m id="708">astíip</m></w>
+	  <w><m id="4077">kúuk</m></w>
+	  <w gl="she ran to"><m id="6175">u</m><m id="2203">kvíripma</m></w>.
+	</kar>
+	<eng>And she ran down to the river-bank.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="she grabbed at them"><m id="6175">u</m><m id="1784">kfuukíraa</m><m id="4298">naa</m></w>.
+	</kar>
+	<eng>And she grabbed at them (i.e., at where she thought the children were).</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w><m id="10">aah</m></w>
+	  <w><m id="3809">kích</m></w>
+	  <w gl="she grabbed"><m id="6175">ú</m><m id="1784">kfuukiraa</m></w>.
+	</kar>
+	<eng>But she grabbed just the fire.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="she looked around"><m id="6175">u</m><m id="6138">túraayva</m></w>.
+	</kar>
+	<eng>Then she looked around.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="7038">yánava</m></w>
+	  <w><m id="7212">yúruk</m></w>
+	  <w><m id="5506">tá</m></w>
+	  <w gl="they had run downriver"><m id="3977">kun</m><m id="3305">ithvírip</m><m id="5193">rup</m><m id="1378">aheen</m></w>.
+	</kar>
+	<eng>She saw that they had run downriver.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="she ran downriver"><m id="6175">u</m><m id="2209">kvíriprup</m></w>.<!-- makes no sense to have 1 lexical entry for this but not for dual version of verb-->
+	</kar>
+	<eng>So she ran downriver.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="the little boy"><m id="4407">pa</m><m id="835">'avansaxích</m><m id="375">'anamahach</m></w>
+	  <w gl="he got"><m id="5506">t</m><m id="6175">óo</m></w>
+	  <w><m id="1792">kfuuyshur</m></w>
+	  <w><m id="5156">puxích</m></w>
+	  <w><m id="6675">vúra</m></w>.
+	</kar>
+	<eng>Then the little boy got very tired.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w><m id="3753">káruk</m></w>
+	  <w gl="they were looking upriver"><m id="3977">kun</m><m id="3422">ítroovu</m><m id="6035">tih</m></w>.
+	</kar>
+	<eng>And they looked upriver.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6570">víri</m></w>
+	  <w><m id="3978">kúna</m></w>
+	  <w><m id="3753">káruk</m></w>
+	  <w gl="she ran down from upriver"><m id="6175">u</m><m id="2216">kvíripvarak</m></w>.
+	</kar>
+	<eng>She in her turn was running down from upriver.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="3969">kúkuum</m></w>
+	  <w gl="they were looking upriver again"><m id="3977">kun</m><m id="2674">p</m><m id="3422">ítroovu</m><m id="6035">tih</m></w>.
+	</kar>
+	<eng>They looked upriver again.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6675">vúra</m></w>
+	  <w><m id="6312">ûumukich</m></w>
+	  <w gl="she had gotten"><m id="5506">t</m><m id="6175">u</m><m id="6306">'uum</m></w>.
+	</kar>
+	<eng>She was getting near.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w gl="the boy"><m id="4407">pa</m><m id="835">'avansáxiich</m></w>
+	  <w><m id="6675">vúra</m></w>
+	  <w><m id="5506">tá</m></w>
+	  <w gl="not sort of"><m id="5082">pu</m><m id="3999">kúnish</m></w><!-- interesting construction!-->
+	  <w gl="he wasn't running"><m id="2195">ikviip</m><m id="6035">tíh</m><m id="1371">ara</m></w>,
+	  <w><m id="3927">kóova</m></w>
+	  <w gl="he was"><m id="5506">t</m><m id="6175">óo</m></w>
+	  <w><m id="1792">kfuuyshur</m></w>.
+	</kar>
+	<eng>Then boy could hardly run, he was so tired.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w><m id="3343">ithyáruk</m></w>
+	  <w gl="they were looking"><m id="3977">kun</m><m id="3390">itkára</m><m id="6035">tih</m></w>.
+	</kar>
+	<eng>Then they looked across-river.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="7038">yánava</m></w>
+	  <w><m id="3670">káan</m></w>
+	  <w><m id="505">ára</m></w>
+	  <w gl="he was fishing"><m id="6175">ú</m><m id="1977">kriihvu</m><m id="6035">tih</m></w>.
+	</kar>
+	<eng>They saw a man fishing there.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	 <w gl="the boy"><m id="4407">pa</m><m id="835">'avansáxiich</m></w>
+	  <w gl="he shouted"><m id="6175">u</m><m id="1902">kpêehva</m></w>
+	  "<w gl="you row to meet us"><m id="3842">kin</m><m id="6592">vítivrik</m></w>."
+	</kar>
+	<eng>And the boy shouted, "Row to meet us!"</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="he said"><m id="6175">u</m><m id="4823">píip</m></w>
+	  "<w><m id="4299">naa</m></w>
+	  <w><m id="5085">púfaat</m></w> <!--negative possessive construction-->
+	  <w gl="my boat"><m id="4326">naní</m><m id="4413">paah</m></w>."
+	</kar>
+	<eng>And he said, "I don't have any boat."</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w><m id="3753">káruk</m></w>
+	  <w gl="he heard upriverward"><m id="5506">t</m><m id="6175">u</m><m id="5954">thítiim</m><m id="5192">noov</m></w><!-- you hear in a direction, implying motion-->
+	  <w gl="she was growling"><m id="4408">p</m><m id="6175">óo</m><m id="3526">xruunhi</m><m id="6035">tih</m></w>.
+	</kar>
+	<eng>Then he heard her growling from upriver.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w><m id="3745">kári</m></w>
+	  <w gl="he said"><m id="6175">u</m><m id="4823">píip</m></w>
+	  "<w gl="my leg"><m id="4407">pa</m><m id="4326">naní</m><m id="444">pshii</m></w>
+	  <w><m id="3343">ithyáruk</m></w>
+	  <w gl="I will step it out over"><m id="4349">ni</m><m id="4840">piivkár</m><m id="1379">eesh</m></w>.<!-- word gloss?-->
+	</kar>
+	<eng>And he said, "I'll just put my leg out across-river.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w gl="so"><m id="6570">víri</m><m id="6377">va</m></w>
+	  <w><m id="3670">káan</m></w>
+	  <w gl="you all cross"><m id="3829">kiik</m><m id="2920">'iru</m><m id="6471">vátarin</m><m id="1419">i</m></w>."
+	</kar>
+	<eng>Walk across on that!"</eng>
+	<note publish="yes">Bright: "The fisherman was áxvaay 'Crane' (actually the blue heron); this explains his long leg."</note>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="they jumped across it"><m id="3977">kun</m><m id="1731">íkakar</m></w>.
+	</kar>
+	<eng>So they jumped across.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6570">víri</m></w>
+	  <w><m id="3978">kúna</m></w>
+	  <w gl="a little ways upriver from there"><m id="3940">ku</m><m id="3669">kâam</m></w>
+	  <w gl="she had"><m id="5506">t</m><m id="6175">óo</m></w>
+	  <w gl="run down from upriver"><m id="2195">kvírip</m><m id="6435">varak</m></w>.
+	</kar>
+	<eng>(Bear) in turn was running down from close upriver.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="his leg"><m id="4407">pa</m><m id="4260">mú</m><m id="">psii</m></w>
+	  <w gl="he pulled back in"><m id="6175">u</m><m id="2674">p</m><m id="3368">ithyúrukiv</m></w>.
+	</kar>
+	<eng>So he pulled in his leg.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="the old woman"><m id="4407">pa</m><m id="3805">kéevriik</m></w>
+	  <w gl="she shouted"><m id="6175">u</m><m id="1902">kpêehva</m></w>
+	  "<w gl="you row to meet me"><m id="4294">na</m><m id="6592">vítivrik</m></w>."
+	</kar>
+	<eng>And the old woman shouted, "Row to meet me!".</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s>
+	<kar>
+	  "<w><m id="5136">pûuhara</m></w>,
+	  <w><m id="4299">naa</m></w>
+	  <w><m id="5085">púfaat</m></w>
+	  <w gl="my boat"><m id="4326">naní</m><m id="4413">paah</m></w>."
+	</kar>
+	<eng>"No, I don't have any boat."</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="she said"><m id="6175">u</m><m id="4823">píip</m></w>
+	  "<w><m id="6675">vúra</m></w>
+	  <w gl="put your leg across"><m id="4841">píivkath</m><m id="">i</m></w>."
+	</kar>
+	<eng>And she said, "Put your leg across!"</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="he stepped out over"><m id="6175">u</m><m id="4840">píivkar</m></w>.
+	</kar>
+	<eng>So he put his leg out.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="3752">káru</m></w>
+	  <w gl="the boys"><m id="4407">pa</m><m id="835">'avansáxiich</m></w>
+	  <w><m id="6307">uum</m></w>
+	  <w><m id="5562">tá</m></w>
+	  <w><m id="4147">mâam</m></w>
+	  <w gl="they hurried uphill"><m id="3977">kun</m><m id="1733">'íkakra</m></w>.
+	</kar>
+	<eng>And the boys were already climbing uphill.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="she crossed"><m id="6175">u</m><m id="6471">vátarin</m></w>
+	  <w gl="the old woman"><m id="4407">pa</m><m id="3805">kéevriik</m></w>.
+	</kar>
+	<eng>Then the old woman walked across.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="the middle of the leg"><m id="4407">paa</m><m id="444">psíh</m><m id="5">'aachip</m></w>
+	  <w gl="she got to"><m id="5506">t</m><m id="6175">u</m><m id="6306">'uum</m></w>.
+	</kar>
+	<eng>And she got to the middle of the leg.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="her hat"><m id="4407">pa</m><m id="4260">mú</m><m id="483">pxaan</m></w>
+	  <w gl="she took it back off"><m id="6175">u</m><m id="2674">p</m><m id="6334">ûusur</m></w>.
+	</kar>
+	<eng>And she took off her hat.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="water"><m id="4407">pa</m><m id="2940">'íshaha</m></w>
+	  <w gl="she dipped up"><m id="6175">u</m><m id="5829">têekship</m></w>.
+	</kar>
+	<eng>And she dipped up water.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="she poured it in her mouth"><m id="6175">ú</m><m id="3627">yvaayvar</m></w>.
+	</kar>
+	<eng>And she poured it in her mouth.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="when she had"><m id="4408">pa</m><m id="5506">t</m><m id="6175">óo</m></w>
+	  <w gl="drunk from it"><m id="2674">p</m><m id="1704">íishrav</m></w>
+	  <w><m id="6847">xás</m></w><!-- what is iterative doing here?-->
+	 <w gl="her hat"><m id="4407">pa</m><m id="4260">mú</m><m id="483">pxaan</m></w>
+	  <w gl="she knocked it against"><m id="6175">u</m><m id="2404">mchanáknak</m></w>
+	  <w gl="the leg"><m id="4407">páa</m><m id="444">psiih</m></w>.
+	</kar>
+	<eng>And when she had drunk from it, she knocked her hat on his leg (to shake the water out).</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="he said"><m id="6175">u</m><m id="4823">píip</m></w>
+	  "<w><m id="244">akee</m></w>!"
+	</kar>
+	<eng>And he said "Ouch!"</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="he pulled it back in"><m id="6175">u</m><m id="2674">p</m><m id="3368">ithyúrukiv</m></w>
+	  <w gl="his leg"><m id="4407">pa</m><m id="4260">mú</m><m id="444">psiih</m></w>.
+	</kar>
+	<eng>And he pulled in his leg.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="she fell over"><m id="6175">u</m><m id="2377">kyívivraa</m></w>,
+	  <w><m id="3007">ishkêesh</m></w>
+	  <w gl="she fell into"><m id="6175">ú</m><m id="2363">kyiimkurih</m></w>.
+	</kar>
+	<eng>And she fell over, she fell into the river.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="6847">xás</m></w>
+	  <w gl="the boys"><m id="4407">pa</m><m id="835">'avansáxiich</m></w>
+	  <w><m id="6307">uum</m></w>
+	  <w><m id="4213">máruk</m></w>
+	  <w><m id="6162">túuyship</m></w>
+	  <w gl="they ran uphill"><m id="3977">kun</m><m id="3314">ithvíripuraa</m></w>.
+	</kar>
+	<eng>And the boys ran up the mountain.</eng>
+      </s>
+      <s>
+	<kar>
+	  <w><m id="4726">páy nanu'ávahkam</m></w>
+	  <w><m id="4077">kúuk</m></w>
+	  <w gl="they ran to"><m id="3977">kun</m><m id="3308">ithvíripma</m></w>.
+	</kar>
+	<eng>They ran to the sky.</eng>
+      </s>
+    </paragraph>
+  </data>
+</text>

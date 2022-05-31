@@ -1,0 +1,4 @@
+AuthName	"Restricted Karuk treebank area"
+AuthType	CAS
+AuthGroupFile	/home/karuk/public_html/treebank/.htgroup
+require group treebank

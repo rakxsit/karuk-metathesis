@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="LA-02" audio-source="karuk-2010-10-24-la-1">
+    <metadata>
+        <title>Elicited sentences</title>
+        <author>Lucille <alph>Albers</alph></author>
+        <date>2010</date>
+        <publication>Unpublished (recorded by Andrew Garrett and Line Mikkelsen on October 24,
+            2010)</publication>
+    </metadata>
+    <data>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_01" audio-start-time="4:21">
+                <kar>
+                    <w><m id="6907">xuntápan</m></w>
+                    <w><m id="4151">maath</m></w>.</kar>
+                <eng>This acorn is heavy.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_02" audio-start-time="13:42">
+                <kar><w><m id="4213">máruk</m></w>
+                    <w gl="you go"><m id="1418">i</m><m id="6396">vâaram</m></w>!</kar>
+                <eng>Go uphill!</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_03" audio-start-time="14:24">
+                <kar><w><m id="5328">sáruk</m></w>
+                    <w gl="you go"><m id="1418">i</m><m id="6396">vâaram</m></w>!</kar>
+                <eng>Go downhill!</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_04" audio-start-time="16:02">
+                <kar><w><m id="7205">yuraschíshiih</m></w>
+		    <w><m id="6307">uum</m></w>
+                    <w><m id="4213">máruk</m></w>
+                    <w gl="it went"><m id="5506">t</m><m id="6175">u</m><m id="6396"
+                    >vâaram</m></w>.</kar>
+                <eng>The horse went uphill.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_05" audio-start-time="17:23">
+                <kar><w><m id="5541">taay</m></w>
+                    <w gl="the acorns"><m id="4407">pa</m><m id="6907">xuntápan</m></w>.</kar>
+                <eng>There is lots of acorns.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_06" audio-start-time="18:18">
+                <kar><w><m id="5541">taay</m></w>
+                    <w gl="the horses"><m id="4407">pa</m><m id="7205">yuraschíshiih</m></w>.</kar>
+                <eng>There is lots of horses.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_07" audio-start-time="18:36">
+                <kar><w><m id="5085">púfaat</m></w>
+                    <w gl="the acorns"><m id="4407">pa</m><m id="6907">xuntápan</m></w>.</kar>
+                <eng>There are no acorns.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_08" audio-start-time="22:03">
+                <kar>
+                    <w>
+                        <m id="5506">tá</m>
+                    </w>
+                    <w gl="I fall down">
+                        <m id="4349">ni</m>
+                        <m id="2376">kyívish</m>
+                    </w>.
+                </kar>
+                <eng>I fell down.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_09" audio-start-time="22:44">
+                <kar>
+                    <w gl="they fall down">
+                        <m id="6175">u</m>
+                        <m id="5041">pívrih</m>
+                        <m id="2937">ish</m>
+                        <m id="6035">tih</m>
+                    </w>.
+                </kar>
+                <eng>They (inanimate) fall down.</eng>
+            </s>
+            <note>pívrihish is not in the dictionary</note>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_10" audio-start-time="23:06">
+                <kar>
+                    <w>
+                        <m id="6907">xuntápan</m>
+                    </w>
+                    <w gl="they fall down">
+                        <m id="6175">u</m>
+                        <m id="5041">pívrih</m>
+                        <m id="2937">ish</m>
+                        <m id="6035">tih</m>
+                    </w>.
+                </kar>
+                <eng>The acorns fall down.</eng>
+            </s>
+            <note>pívrihish is not in the dictionary</note>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_12" audio-start-time="26:31">
+                <kar>
+                    <w>
+                        <m id="6907">xuntápan</m>
+                    </w>
+                    <w gl="I am cracking (acorns)">
+                        <m id="4349">ni</m>
+                        <m id="3886">kítnaak</m>
+                        <m id="6035">tih</m>
+                    </w>.
+                </kar>
+                <eng>I am cracking acorns.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_13" audio-start-time="26:47">
+                <kar>
+                    <w gl="the acorns">
+                        <m id="4407">pa</m>
+                        <m id="6907">xuntápan</m>
+                    </w>
+                    <w>
+                        <m id="1109">chí</m>
+                    </w>
+                    <w gl="I am going to crack (acorns)">
+                        <m id="4349">ni</m>
+                        <m id="3886">kitnák</m>
+                        <m id="1379">eesh</m>
+                    </w>.
+                </kar>
+                <eng>I am going to crack acorns.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_14" audio-start-time="28:00">
+                <kar>
+                    <w>
+                        <m id="234">akâay</m>
+                    </w>
+                    <w gl="the acorns">
+                        <m id="4407">pa</m>
+                        <m id="6907">xuntápan</m>
+                    </w>
+                    <w gl="he is cracking (acorns)">
+		        <m id="6175">u</m>
+                        <m id="3886">kítnaak</m>
+                        <m id="6035">tih</m>
+                    </w>.
+                </kar>
+                <eng>Who is cracking acorns?</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_15" audio-start-time="29:20">
+                <kar>
+                    <w>
+                        <m id="5541">taay</m>
+                    </w>
+                    <w gl="the acorns">
+                        <m id="4407">pa</m>
+                        <m id="6907">xuntápan</m>
+                    </w>
+                    <w gl="I cracked">
+                        <m id="5506">tá</m>
+                        <m id="4349">ni</m>
+                        <m id="3886">kítnak</m>
+                    </w>.
+                </kar>
+                <eng>I cracked lots of acorns.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_17" audio-start-time="37:12">
+                <kar>
+                    <w>
+                        <m id="1109">chí</m>
+                    </w>
+                    <w gl="I'm going to grind (acorns)">
+                        <m id="4349">ni</m>
+                        <m id="1934">kráv</m>
+                        <m id="1379">eesh</m>
+                    </w>.
+                </kar>
+                <eng>I'm gonna grind (acorns) soon.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_18" audio-start-time="40:46">
+                <kar>
+                    <w gl="it is">
+                        <m id="5506">t</m>
+                        <m id="6175">oo</m>
+                    </w>
+                    <w>
+                        <m id="3051">spas</m>
+                    </w>.
+                </kar>
+                <eng>It (acorn meal) is leached free from bitterness.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_19" audio-start-time="45:25">
+                <kar>
+                    <w>
+                        <m id="1109">chí</m>
+                    </w>
+                    <w gl="I'm gonna leach those (acorns)">
+                        <m id="4349">ni</m>
+                        <m id="5589">tákir</m>
+                        <m id="1379">eesh</m>
+                    </w>.
+                </kar>
+                <eng>I'm gonna leach those (acorns).</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_20" audio-start-time="45:42">
+                <kar>
+                    <w>
+                        <m id="234">akâay</m>
+                    </w>
+                    <w>
+                        <m id="1915">ikpúr</m>
+                    </w>
+                    <w gl="he/she/it leaches">
+                        <m id="6175">u</m>
+                        <m id="5589">tákir</m>
+                        <m id="6035">tih</m>
+                    </w>.
+                </kar>
+                <eng>Who is leaching acorn meal?</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_21" audio-start-time="46:33">
+                <kar>
+                    <w gl="I'm cooking acorn soup">
+                        <m id="4349">ni</m>
+                        <m id="5880">tharámpuuk</m>
+                        <m id="6035">tih</m>
+                    </w>.
+                </kar>
+                <eng>I'm cooking acorn soup.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_22" audio-start-time="58:42">
+                <kar>
+                    <w gl="your day">
+                        <m id="4238">mi</m>
+                        <m id="5468">súpaah</m>
+                    </w>
+                    <w>
+                        <m id="7049">yav</m>
+                    </w>.
+                </kar>
+                <eng>Happy birthday!</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_23" audio-start-time="1:00:14">
+                <kar>
+                    <w gl="it's raining">
+                        <m id="6175">u</m>
+                        <m id="4644">páthriih</m>
+                        <m id="6035">tih</m>
+                    </w>.
+                </kar>
+                <eng>It's raining.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_24" audio-start-time="1:01:14">
+                <kar>
+                    <w gl="it has">
+                        <m id="5506">t</m>
+                        <m id="6175">oo</m>
+                    </w>
+                    <w>
+                        <m id="3045">snur</m>
+                    </w>.
+                </kar>
+                <eng>It thundered.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_25" audio-start-time="1:01:42">
+                <kar>
+                    <w gl="it has">
+                        <m id="5506">t</m>
+                        <m id="6175">óo</m>
+                    </w>
+                    <w>
+                        <m id="3045">snur</m>
+                    </w>
+                    <w>
+                        <m id="1402">um</m>
+                    </w>.
+                </kar>
+                <eng>Did it thunder?</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_26" audio-start-time="1:01:43">
+                <kar>
+                    <w>
+                        <m id="3045">ishnúr</m>
+                    </w>
+                    <w>
+                        <m id="1402">um</m>
+                    </w>.
+                </kar>
+                <eng>Is it thundering?</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_27" audio-start-time="1:02:43">
+                <kar>
+                    <w>
+                        <m id="2766">ipít</m>
+                    </w>
+                    <w>
+                        <m id="4248">mít</m>
+                    </w>
+                    <w gl="it thundered">
+                        <m id="6175">u</m>
+                        <m id="3045">snúr</m>
+                        <m id="738">at</m>
+                    </w>.
+                </kar>
+                <eng>It thundered yesterday.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_28" audio-start-time="1:02:59">
+                <kar>
+                    <w>
+                        <m id="2766">ipít</m>
+                    </w>
+                    <w gl="it thundered">
+                        <m id="6175">u</m>
+                        <m id="3045">snúr</m>
+                        <m id="738">at</m>
+                    </w>.
+                </kar>
+                <eng>It thundered yesterday.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_29" audio-start-time="1:03:28">
+                <kar>
+                    <w>
+                        <m id="2766">ipít</m>
+                    </w>
+                    <w gl="it rained">
+                        <m id="6175">u</m>
+                        <m id="4644">pathríh</m>
+                        <m id="738">at</m>
+                    </w>.
+                </kar>
+                <eng>It rained yesterday.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_30" audio-start-time="1:05:12">
+                <kar>
+                    <w>
+                        <m id="2766">ipít</m>
+                    </w>
+                    <w gl="it snowed">
+                        <m id="6175">u</m>
+                        <m id="2386">kyútunih</m>
+                        <m id="738">at</m>
+                    </w>.
+                </kar>
+                <eng>It snowed yesterday.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_31" audio-start-time="1:06:22">
+                <kar>
+                    <w>
+                        <m id="768">áthiik</m>
+                    </w>
+                    <w>
+                        <m id="1649">îikam</m>
+                    </w>.
+                </kar>
+                <eng>It's cold outside.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_33" audio-start-time="">
+                <kar>
+                    <w>
+                        <m id="4171">máh'iit</m>
+                    </w>
+                    <w>
+                        <m id="1649">îikam</m>
+                    </w>
+                    <w gl="I left the house">
+                        <m id="4349">ni</m>
+                        <m id="6618">vôonupuk</m>
+                    </w>.
+                </kar>
+                <eng>I went outside this morning.</eng>
+            </s>
+        </paragraph>
+        <paragraph>
+            <s spkr="LA" audio="karuk-2010-10-24-la-1_34" audio-start-time="">
+                <kar>
+                    <w>
+                        <m id="1649">îikam</m>
+                    </w>
+                    <w gl="you left the house">
+                        <m id="1418">i</m>
+                        <m id="6618">vôonupuk</m>
+                    </w>.
+                </kar>
+                <eng>You went outside.</eng>
+            </s>
+        </paragraph>
+    </data>
+</text>

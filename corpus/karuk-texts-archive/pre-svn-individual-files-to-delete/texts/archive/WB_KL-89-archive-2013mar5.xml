@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="WB_KL-89">
+    <metadata>
+        <title>"A Birthday Party"</title>
+        <author>Julia <alph>Starritt</alph></author>
+        <date>1957</date>
+        <publication>William Bright, <em>The Karok Language</em> (1957), pp. 302-303, Text
+            89</publication>
+    </metadata>
+    <data>
+        <paragraph>
+            <s>
+                <kar><w><m language="english">Ramona</m></w>
+                    <w><m id="6307">uum</m></w>
+                    <w><m id="3789">kêeks</m></w>
+                    <w gl="she is making"><m id="6175">u</m><m id="2348">kyâa</m><m id="6035"
+                        >ti</m></w>
+                    <w><m id="4385">óok</m></w>.</kar>
+                <eng>Ramona is here making a cake.</eng>
+            </s>
+            <s>
+                <kar><w gl="her little girl"><m id="4407">pa</m><m id="4260">mu</m><m id="7063"
+                            >yeenipaxvúhich</m></w>
+                    <w><m language="english">Roberta</m></w>
+                    <w><m id="4716">payêem</m></w>
+                    <w gl="her birthday"><m id="4260">mú</m><m id="1693">'iipma</m></w>.</kar>
+                <eng>Today is her little girl Roberta's birthday.</eng>
+            </s>
+            <s>
+                <kar><w gl="eight years"><m id="4115">kuyrakinivkiha</m><m id="1373">hárinay</m></w>
+                    <w gl="PERF"><m id="5506">t</m><m id="6175">óo</m></w>
+                    <w><m id="1974">krii</m></w>.</kar>
+                <eng>She's eight years (old).</eng>
+            </s>
+            <s>
+                <kar><w><m id="3972">kúmateech</m></w>
+                    <w><m id="6848">xasík</m></w>
+                    <w gl="they will eat"><m id="4408">pa</m><m id="3977">kun</m><m id="814"
+                            >'áv</m><m id="1379">eesh</m></w>
+                    <w gl="her cake"><m id="4407">pa</m><m id="4260">mu</m><m id="3789"
+                        >kéeks</m></w>.</kar>
+                <eng>Later today they will eat her cake.</eng>
+            </s>
+            <s>
+                <kar><w><m id="6309">uumkun</m></w>
+                    <w><m id="6675">vúra</m></w>
+                    <w gl="just"><m id="3809">kích</m><m id="1379">eesh</m></w>.</kar>
+                <eng>It will just be them (i.e., the family).</eng>
+            </s>
+            <s>
+                <kar><w><m id="5156">puxích</m></w>
+                    <w><m id="3999">kúnish</m></w>
+                    <w gl="it's raining"><m id="6175">u</m><m id="4644">páthriih</m><m id="6035"
+                            >tih</m></w>, <w><m id="6570">víri</m></w>
+                    <w gl="they do not think"><m id="5082">pu</m><m id="6939">xú</m><m id="6035"
+                            >tih</m><m id="399">ap</m></w> "<w><m id="3857">kíri</m></w>
+                    <w gl="we say"><m id="4370">nu</m><m id="2733">pêer</m></w>
+                    <w gl="the children"><m id="4407">pa</m><m id="920">axíitich</m><m id="584"
+                            >as</m></w> ' <w><m id="4385">ôok</m></w>
+                    <w><m id="3927">kóova</m></w>
+                    <w gl="we eat"><m id="4370">nu</m><m id="814">'am</m></w>.'"</kar>
+                <eng>It's sort of raining hard, so they don't want to ask the (neighbor's) children
+                    to eat here with them.</eng>
+            </s>
+        </paragraph>
+    </data>
+</text>

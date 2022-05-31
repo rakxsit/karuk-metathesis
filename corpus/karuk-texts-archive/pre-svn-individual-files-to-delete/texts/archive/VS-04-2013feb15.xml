@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text id="VS-04" audio-source="karuk-2011-12-21-vs-1">
+  <metadata>
+    <title>Elicited sentences</title>
+    <author>
+      Vina
+      <alph>Smith</alph>
+    </author>
+    <date>2011</date>
+    <publication>
+      Unpublished (recorded by Andrew Garrett and Line Mikkelsen on December 21, 2011)
+    </publication>
+  </metadata>
+  <data>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-1_01" audio-start-time="0:37">
+	<kar>
+	  <w>
+	    <m id="5506">tá</m>
+	  </w>
+	  <w gl="I am tired">
+	    <m id="4296">nee</m>
+	    <m id="2222">kvúrishrih</m>.</w></kar>
+	    <eng>I am tired.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-1_02" audio-start-time="1:18">
+	<kar>
+	  <w>
+	    <m id="5156">puxích</m>
+	  </w>
+	  <w> 
+	    <m id="5506">tá</m>
+	  </w>
+	  <w gl="I am tired">
+	    <m id="4296">nee</m>
+	    <m id="2222">kvúrishrih</m>.</w></kar>
+	    <eng>I am really tired.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-1_03" audio-start-time="1:59">
+	<kar>
+	  <w>
+	    <m id="5506">tá</m>
+	  </w>
+	  <w gl="I am tired">
+	    <m id="4296">nee</m>
+	    <m id="2222">kvúrishrih</m>
+	  </w>
+	  <w gl="singing songs">
+	    <m id="4408">pa</m>
+	    <m id="4349">ni</m>
+	    <m id="4511">pakúriihvu</m>
+	    <m id="6035">ti</m>.</w></kar>
+	    <eng>I am tired of singing.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-1_04" audio-start-time="2:17">
+	<kar>
+	  <w>
+	    <m id="5506">tá</m>
+	  </w>
+	  <w gl="I am tired">
+	    <m id="4296">nee</m>
+	    <m id="2222">kvúrishrih</m>
+	  </w>
+	  <w>
+	    <m id="5156">puxích</m>
+	  </w>
+	  <w gl="singing songs">
+	    <m id="4408">pa</m>
+	    <m id="4349">ni</m>
+	    <m id="4511">pakúriihvu</m>
+	    <m id="6035">ti</m>.</w></kar>
+	    <eng>I am really tired of singing.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-1_05" audio-start-time="2:56">
+	<kar>
+	  <w>
+	    <m id="5156">puxích</m>
+	  </w>
+	  <w>
+	    <m id="2674">íp</m>
+	  </w>
+	  <w gl="I was tired">
+	    <m id="4296">nee</m>
+	    <m id="2222">kvúrishrih</m>
+	    <m id="738">at</m>
+	  </w>
+	  <w>
+	    <m id="4171">máh’iit</m>
+	  </w>
+	  <w>
+	    <m id="4716">payêem</m>
+	  </w>
+	  <w>
+	    <m id="6307">uum</m>
+	  </w>
+	  <w>
+	    <m id="7049">yáv</m>
+	  </w>
+	  <w gl="I am feeling">
+	    <m id="4349">ni</m>
+	    <m id="2784">pmahóonkoona</m>
+	    <m id="6035">ti</m>.</w></kar>
+	    <eng>I was tired this morning, but now I am feeling good.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-1_06" audio-start-time="3:19">
+	<kar>
+	  <w>
+	    <m id="4171">máh’iit</m>
+	  </w>
+	  <w>
+	    <m id="5506">tá</m>
+	  </w>
+	  <w gl="1SG-PAST">
+	    <m id="4299">née</m>
+	    <m id="2674">p</m>
+	  </w>
+	  <w gl="I was tired">
+	    <m id="4296">nee</m>
+	    <m id="2222">kvúrishrih</m>
+	    <m id="738">at</m>.</w></kar>
+	    <eng>I was tired this morning.</eng>
+      </s>
+    </paragraph>
+    <paragraph>
+      <s spkr="VS" audio="karuk-2011-12-21-vs-1_07" audio-start-time="4:03">
+	<kar>
+	  <w>
+	    <m id="4716">payêem</m>
+	  </w>
+	  <w>
+	    <m id="6307">uum</m>
+	  </w>
+	  <w>
+	    <m id="7049">yáv</m>
+	  </w>
+	  <w gl="I am feeling">
+	    <m id="4349">ni</m>
+	    <m id="2784">pmahóonkoona</m>
+	    <m id="6035">ti</m>.</w></kar>
+	    <eng>Now I am feeling good.</eng>
+      </s>
+    </paragraph>
+  </data>
+</text>

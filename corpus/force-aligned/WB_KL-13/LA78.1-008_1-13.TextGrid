@@ -1,0 +1,120 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 1.4413378684807256
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "transcription - words"
+		xmin = 0.0
+		xmax = 1.4413378684807256
+		intervals: size = 4
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.1100
+				text = ""
+			intervals [2]:
+				xmin = 0.1100
+				xmax = 0.6400
+				text = "taqitam"
+			intervals [3]:
+				xmin = 0.6400
+				xmax = 1.4200
+				text = "uqeethkaanvaheen"
+			intervals [4]:
+				xmin = 1.4200
+				xmax = 1.4413378684807256
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "transcription - phones"
+		xmin = 0.0
+		xmax = 1.4413378684807256
+		intervals: size = 21
+			intervals [1]:
+				xmin = 0.0000
+				xmax = 0.1100
+				text = "sil"
+			intervals [2]:
+				xmin = 0.1100
+				xmax = 0.1400
+				text = "T"
+			intervals [3]:
+				xmin = 0.1400
+				xmax = 0.1800
+				text = "AH0"
+			intervals [4]:
+				xmin = 0.1800
+				xmax = 0.2100
+				text = "T"
+			intervals [5]:
+				xmin = 0.2100
+				xmax = 0.2700
+				text = "IH0"
+			intervals [6]:
+				xmin = 0.2700
+				xmax = 0.3500
+				text = "T"
+			intervals [7]:
+				xmin = 0.3500
+				xmax = 0.4000
+				text = "AH0"
+			intervals [8]:
+				xmin = 0.4000
+				xmax = 0.6400
+				text = "M"
+			intervals [9]:
+				xmin = 0.6400
+				xmax = 0.6700
+				text = "UH0"
+			intervals [10]:
+				xmin = 0.6700
+				xmax = 0.7000
+				text = "T"
+			intervals [11]:
+				xmin = 0.7000
+				xmax = 0.7800
+				text = "EY1"
+			intervals [12]:
+				xmin = 0.7800
+				xmax = 0.9300
+				text = "TH"
+			intervals [13]:
+				xmin = 0.9300
+				xmax = 1.1200
+				text = "K"
+			intervals [14]:
+				xmin = 1.1200
+				xmax = 1.1900
+				text = "AA1"
+			intervals [15]:
+				xmin = 1.1900
+				xmax = 1.2500
+				text = "N"
+			intervals [16]:
+				xmin = 1.2500
+				xmax = 1.2800
+				text = "V"
+			intervals [17]:
+				xmin = 1.2800
+				xmax = 1.3300
+				text = "AH0"
+			intervals [18]:
+				xmin = 1.3300
+				xmax = 1.3600
+				text = "HH"
+			intervals [19]:
+				xmin = 1.3600
+				xmax = 1.3900
+				text = "EY1"
+			intervals [20]:
+				xmin = 1.3900
+				xmax = 1.4200
+				text = "N"
+			intervals [21]:
+				xmin = 1.4200
+				xmax = 1.4413378684807256
+				text = ""

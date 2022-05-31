@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <text id="WB_KL-78">
+		<metadata>
+			<title>"The Shinny Game"</title>
+			<author>Julia <alph>Starritt</alph></author>
+			<date>1957</date>
+			<publication>William Bright, <em>The Karok Language</em> (1957), pp. 290-293, Text 78</publication>
+		</metadata>
+		<data>
+			<paragraph>
+				<s>
+					<kar>
+						<w gl="the Indian men's games">
+							<m id="4407">pa</m>
+							<m id="506">'arara</m>
+							<m id="833">'avans</m>
+							<m id="3531">éextiivha</m>
+						</w>
+						<w>
+							<m id="6307">uum</m>
+						</w>
+						<w>
+							<m id="7097">yítha</m>
+						</w>
+						<w gl="game">
+							<m id="4407">pa</m>
+							<m id="3970">kum</m>
+							<m id="3531">éextiivha</m>
+						</w>
+						<w gl="it was called">
+							<m id="6175">ú</m>
+							<m id="3323">thvuuy</m>
+							<m id="6035">ti</m>
+						</w>
+						<w>
+							<m id="2521">imtháatva</m>
+						</w>.
+					</kar>
+					<eng>One game, of the Indian men's games, was called 'the stick game' (i.e., shinny).</eng>
+				</s>
+				<s>
+					<kar>
+						<w gl="so">
+							<m id="5160">víri</m>
+							<m id="6383">va</m>
+						</w>
+						<w>
+							<m id="6307">uum</m>
+						</w>
+						<w gl="a level place">
+							<m id="6096">tishrám</m>
+							<m id="5180">niik</m>
+						</w>
+						<w gl="where they played it">
+							<m id="4408">pa</m>
+							<m id="3977">kun</m>
+							<m id="3530">íxtiivhi</m>
+							<m id="6035">tih</m>
+						</w>.
+					</kar>
+					<eng>They played it on a level place.</eng>
+				</s>
+				<s>
+					<kar>
+						<w gl="The Orleans stick-game field">
+							<m id="4407">pa</m>
+							<m id="4528">panamnih</m>
+							<m id="2546">imthatváram</m>
+						</w>
+						<w>
+							<m id="6307">uum</m>
+						</w>
+						<w>
+							<m id="6383">vaa</m>
+						</w>
+						<w>
+							<m id="3670">káan</m>
+						</w>
+						<w gl="it began">
+							<m id="6175">u</m>
+							<m id="2341">kyâasipree</m>
+							<m id="168">hi</m>
+							<m id="6035">ti</m>
+						</w>
+						<w gl="Georgia">
+							<m id="4407">pa</m>
+							<m language="english">Georgia</m>
+						</w>
+						<w gl="outside her fence">
+							<m id="4260">mu</m>
+							<m id="5710">tasa</m>
+							<m id="1654">'îikukam</m>
+						</w>,
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w>
+							<m id="7212">yúruk</m>
+						</w>
+						<w gl="where the black oak">
+							<m id="4408">pa</m>
+							<m id="6813">xánthiip</m>
+						</w>
+						<w gl="it stands">
+							<m id="6175">u</m>
+							<m id="1646">'iihy</m>
+							<m id="1387">írak</m>
+						</w>
+						<w gl="it ended">
+							<m id="6175">u</m>
+							<m id="2699">'ípanhi</m>
+							<m id="6035">tih</m>
+						</w>.
+					</kar>
+					<eng>The Orleans stick-game field began there just outside Georgia's (Mrs. Georgia Henry's) fence, and it ended downriver where the black oak stands.</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="they carried it">
+							<m id="3977">kun</m>
+							<m id="5229">sáanvu</m>
+							<m id="6035">ti</m>
+						</w>
+						<w>
+							<m id="215">áhup</m>
+						</w>,
+						<w gl="it was called">
+							<m id="6175">ú</m>
+							<m id="3323">thvuuy</m>
+							<m id="6035">ti</m>
+						</w>
+						<w>
+							<m id="2522">imtháatvar</m>
+						</w>
+						<w>
+							<m id="3752">káru</m>
+						</w>
+						<w>
+							<m id="5583">tákasar</m>
+						</w>.
+					</kar>
+					<eng>And they carried sticks, they were called shinny sticks and a 'tossel' (i.e., a double ball).</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="the tossel">
+							<m id="4407">pa</m>
+							<m id="5583">tákasar</m>
+						</w>
+						<w>
+							<m id="6307">uum</m>
+						</w>
+						<w gl="little sticks">
+							<m id="215">ahup</m>
+							<m id="6128">tunvêech</m>
+							<m id="584">as</m>
+						</w>,
+						<w gl="they were tied together">
+							<m id="6175">u</m>
+							<m id="2652">nhítunv</m>
+							<m id="168">ahi</m>
+							<m id="6035">tih</m>
+						</w>.
+					</kar>
+					<eng>And the tossel was little sticks, they were tied together.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6767">xákarari</m>
+						</w>
+						<w>
+							<m id="864">áxak</m>
+						</w>
+						<w gl="the men">
+							<m id="4407">pa</m>
+							<m id="833">'ávans</m>
+							<m id="584">as</m>
+						</w>
+						<w>
+							<m id="3752">káru</m>
+						</w>
+						<w>
+							<m id="5">áachip</m>
+						</w>
+						<w>
+							<m id="864">áxak</m>
+						</w>.
+					</kar>
+					<eng>There were two men at each end and two in the middle.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="7097">yítha</m>
+						</w>
+						<w>
+							<m id="6307">uum</m>
+						</w>
+						<w gl="the man">
+							<m id="4407">pa</m>
+							<m id="833">'ávansa</m>
+						</w>
+						<w gl="that carried it">
+							<m id="4408">p</m>
+							<m id="6175">oo</m>
+							<m id="846">'avíkvu</m>
+							<m id="6035">ti</m>
+						</w>
+						<w gl="the tossel">
+							<m id="4407">pa</m>
+							<m id="5583">tákasar</m>
+						</w>.
+					</kar>
+					<eng>One man carried the tossel.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="421">apmáan</m>
+						</w>
+						<w>
+							<m id="4281">mûuk</m>
+						</w>
+						<w gl="he bit it">
+							<m id="6175">u</m>
+							<m id="4549">pára</m>
+							<m id="6035">tih</m>
+						</w>.
+					</kar>
+					<eng>He bit it with his mouth (i.e., held it between his teeth).</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						<w gl="you see">
+							<m id="5160">púya</m>
+							<m id="6383">va</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w>
+							<m id="3745">kári</m>
+						</w>
+						<w>
+							<m id="5506">tá</m>
+						</w>
+						<w gl="they began">
+							<m id="3977">kun</m>
+							<m id="2341">ikyâasip</m>
+						</w>.
+					</kar>
+					<eng>Then they began.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w>
+							<m id="41">âapun</m>
+						</w>
+						<w gl="the tossel">
+							<m id="4407">pa</m>
+							<m id="5583">tákasar</m>
+						</w>
+						<w gl="it had">
+							<m id="5506">t</m>
+							<m id="6175">óo</m>
+						</w>
+						<w>
+							<m id="2376">kyívish</m>
+						</w>.
+					</kar>
+					<eng>The tossel fell on the ground.</eng>
+				</s>
+				<s>
+					<kar>
+						<w gl="you see">
+							<m id="5160">púya</m>
+							<m id="6383">va</m>
+						</w>
+						<w>
+							<m id="6757">xákaan</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w gl="that">
+							<m id="4408">pa</m>
+							<m id="5506">tá</m>
+						</w>
+						<w gl="they thought">
+							<m id="3977">kun</m>
+							<m id="6939">xús</m>
+						</w> "
+						<w>
+							<m id="3857">kíri</m>
+						</w>
+						<w gl="we should toss it">
+							<m id="4370">nu</m>
+							<m id="5533">tâat</m>
+							<m id="5417">sip</m>
+						</w>."
+					</kar>
+					<eng>Both (men) thought, "Let's toss it!"</eng>
+				</s>
+				<s>
+					<kar>
+						<w gl="you see">
+							<m id="5160">púya</m>
+							<m id="6383">va</m>
+						</w>
+						<w>
+							<m id="7097">yítha</m>
+						</w>
+						<w>
+							<m id="6307">uum</m>
+						</w>
+						<w gl="he had">
+							<m id="5506">t</m>
+							<m id="6175">óo</m>
+						</w>
+						<w gl="tossed it">
+							<m id="5533">tâat</m>
+							<m id="5417">sip</m>
+						</w>.
+					</kar>
+					<eng>And one tossed it.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="7212">yúruk</m>
+						</w>
+						<w gl="he had">
+							<m id="5506">t</m>
+							<m id="6175">óo</m>
+						</w>
+						<w gl="tossed it outdoors">
+							<m id="5533">tâat</m>
+							<m id="5199">rupuk</m>
+						</w>.
+					</kar>
+					<eng>He tossed it downriver.</eng>
+				</s>
+				<s>
+					<kar>
+						<w gl="you see">
+							<m id="5160">púya</m>
+							<m id="6383">va</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w>
+							<m id="5101">puráan</m>
+						</w>
+						<w>
+							<m id="5506">tá</m>
+						</w>
+						<w gl="they grabbed">
+							<m id="3977">kun</m>
+							<m id="1496">'ífukiraa</m>
+						</w>,
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w>
+							<m id="5506">tá</m>
+						</w>
+						<w gl="they wrested">
+							<m id="3977">kun</m>
+							<m id="6710">vúunva</m>
+						</w>.
+					</kar>
+					<eng>Then they grabbed each other, and they wrestled.</eng>
+				</s>
+				<s>
+					<kar>
+						<w gl="you see">
+							<m id="5160">púya</m>
+							<m id="6383">va</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w>
+							<m id="1361">hâari</m>
+						</w>
+						<w>
+							<m id="6757">xákaan</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w>
+							<m id="5506">tá</m>
+						</w>
+						<w gl="they fell down">
+							<m id="3977">kun</m>
+							<m id="3359">ithyívish</m>
+						</w>.
+					</kar>
+					<eng>Sometimes both of them fell down.</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						<w gl="you see">
+							<m id="5160">púya</m>
+							<m id="6383">va</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w>
+							<m id="6309">uumkun</m>
+						</w>
+						<w gl="on the downriver end">
+							<m id="7270">yu'</m>
+							<m id="3965">kúkam</m>
+							<m id="3731">kam</m>
+						</w>
+						<w gl="the men">
+							<m id="4407">pa</m>
+							<m id="833">'ávans</m>
+							<m id="584">as</m>
+						</w>
+						<w>
+							<m id="5506">tá</m>
+						</w>
+						<w gl="they ran up from downriver">
+							<m id="3977">kun</m>
+							<m id="3310">ithvíripraa</m>
+						</w>.
+					</kar>
+					<eng>Then the men on the downriver end ran up.</eng>
+				</s>
+				<s>
+					<kar>
+						<w gl="you see">
+							<m id="5160">púya</m>
+							<m id="6383">va</m>
+						</w>
+						<w gl="the one">
+							<m id="4407">pa</m>
+							<m id="7097">yítha</m>
+						</w>
+						<w gl="if he was swift">
+							<m id="4408">p</m>
+							<m id="3032">eeshnaaních</m>
+							<m id="1358">haak</m>
+						</w>
+						<w>
+							<m id="6307">uum</m>
+						</w>
+						<w>
+							<m id="4978">píshiip</m>
+						</w>
+						<w gl="he arrived">
+							<m id="5506">t</m>
+							<m id="6175">u</m>
+							<m id="6306">'úum</m>
+						</w>
+						<w gl="where the tossel">
+							<m id="4408">pa</m>
+							<m id="5583">tákasar</m>
+						</w>
+						<w gl="where it lay">
+							<m id="6175">u</m>
+							<m id="2746">phíriv</m>
+							<m id="1387">irak</m>
+						</w>.
+					</kar>
+					<eng>If one was swift, he arrived first where the tossel lay.</eng>
+				</s>
+				<s>
+					<kar>
+						<w gl="you see">
+							<m id="5160">púya</m>
+							<m id="6383">va</m>
+						</w>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w>
+							<m id="6307">uum</m>
+						</w>
+						<w>
+							<m id="4978">píshiip</m>
+						</w>
+						<w gl="he">
+							<m id="5506">t</m>
+							<m id="6175">óo</m>
+						</w>
+						<w gl="tossed it">
+							<m id="5533">tâat</m>
+							<m id="5417">sip</m>
+						</w>.
+					</kar>
+					<eng>So he tossed it first.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3753">káruk</m>
+						</w>
+						<w gl="he">
+							<m id="5506">t</m>
+							<m id="6175">óo</m>
+						</w>
+						<w gl="tossed it back upriver">
+							<m id="2674">p</m>
+							<m id="5533">tâat</m>
+							<m id="5192">roov</m>
+						</w>.
+					</kar>
+					<eng>He tossed it back upriver.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w>
+							<m id="6309">uumkun</m>
+						</w>
+						<w>
+							<m id="3752">káru</m>
+						</w>
+						<w>
+							<m id="4127">ka'kúkam</m>
+						</w>
+						<w>
+							<m id="5506">tá</m>
+						</w>
+						<w gl="they ran down from upriver">
+							<m id="3977">kun</m>
+							<m id="3315">ithvíripvarak</m>
+						</w>.
+					</kar>
+					<eng>the the ones on the upriver end ran down.</eng>
+				</s>
+				<s>
+					<kar>
+						<w gl="you see">
+							<m id="5160">púya</m>
+							<m id="6383">va</m>
+						</w>
+						<w gl="when the tossel">
+							<m id="4408">pa</m>
+							<m id="5583">tákasar</m>
+						</w>
+						<w gl="it had">
+							<m id="5506">t</m>
+							<m id="6175">óo</m>
+						</w>
+						<w gl="fallen">
+							<m id="2376">kyívishri</m>
+							<m id="1358">haak</m>
+						</w>
+						<w gl="you see">
+							<m id="5160">púya</m>
+							<m id="6383">va</m>
+						</w>
+						<w gl="he">
+							<m id="5506">t</m>
+							<m id="6175">óo</m>
+						</w>
+						<w gl="tossed it">
+							<m id="5533">tâat</m>
+							<m id="5417">sip</m>
+						</w>.
+					</kar>
+					<eng>When the tossel fell, (one of them) tossed it.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3753">káruk</m>
+						</w>
+						<w gl="he">
+							<m id="5506">t</m>
+							<m id="6175">óo</m>
+						</w>
+						<w gl="tossed it upriver">
+							<m id="5533">tâat</m>
+							<m id="5192">roov</m>
+						</w>.
+					</kar>
+					<eng>He tossed it upriver.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6847">xás</m>
+						</w>
+						<w gl="the downriver end">
+							<m id="4407">pa</m>
+							<m id="7270">yu'</m>
+							<m id="3965">kúkam</m>
+						</w>
+						<w>
+							<m id="6309">uumkun</m>
+						</w>
+						<w>
+							<m id="3753">káruk</m>
+						</w>
+						<w>
+							<m id="5506">tá</m>
+						</w>
+						<w gl="they ran up from downriver">
+							<m id="3977">kun</m>
+							<m id="3311">ithvíriproov</m>
+						</w>.
+					</kar>
+					<eng>Then the ones on the downriver end ran up.</eng>
+				</s>
+				<s>
+					<kar>
+						<w gl="you see">
+							<m id="5160">púya</m>
+							<m id="6383">va</m>
+						</w>
+						<w>
+							<m id="1361">hâari</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w gl="it didn't fall over the goal line">
+							<m id="5082">pu</m>
+							<m id="2378">'ikyívivrath</m>
+							<m id="6035">tih</m>
+							<m id="1371">ara</m>
+						</w>.
+					</kar>
+					<eng>Sometimes (the tossel) didn't fall over (the goal line).</eng>
+				</s>
+				<s>
+					<kar>
+						<w gl="you see">
+							<m id="5160">púya</m>
+							<m id="6383">va</m>
+						</w>
+						<w>
+							<m id="1361">hâari</m>
+						</w>
+						<w>
+							<m id="6307">uum</m>
+						</w>
+						<w gl="the downriver end">
+							<m id="4407">pa</m>
+							<m id="7270">yu'</m>
+							<m id="3965">kúkam</m>
+						</w>
+						<w gl="the men">
+							<m id="4407">pa</m>
+							<m id="833">'ávans</m>
+							<m id="584">as</m>
+						</w>
+						<w>
+							<m id="4978">píshiip</m>
+						</w>
+						<w gl="they arrived">
+							<m id="5506">t</m>
+							<m id="6175">u</m>
+							<m id="6306">'úum</m>
+						</w>,
+						<w gl="where the tossel">
+							<m id="4408">pa</m>
+							<m id="5583">tákasar</m>
+						</w>
+						<w gl="it lay">
+							<m id="6175">u</m>
+							<m id="2746">phíriv</m>
+							<m id="1387">irak</m>
+						</w>.
+					</kar>
+					<eng>Sometimes the men on the downriver end arrived first where the tossel lay.</eng>
+				</s>
+				<s>
+					<kar>
+						<w gl="you see">
+							<m id="5160">púya</m>
+							<m id="6383">va</m>
+						</w>
+						<w>
+							<m id="7212">yúruk</m>
+						</w>
+						<w gl="he had">
+							<m id="5506">t</m>
+							<m id="6175">óo</m>
+						</w>
+						<w gl="tossed it outdoors">
+							<m id="5533">tâat</m>
+							<m id="5199">rupuk</m>
+						</w>.
+					</kar>
+					<eng>So (one of them) tossed it downriver</eng>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<kar>
+						<w gl="you see">
+							<m id="5160">púya</m>
+							<m id="6383">va</m>
+						</w>
+						<w gl="if the downriver end">
+							<m id="4408">pa</m>
+							<m id="7270">yu'</m>
+							<m id="3965">kúkam</m>
+						</w>
+						<w>
+							<m id="5506">tá</m>
+						</w>
+						<w gl="they toss it over the goal line">
+							<m id="3977">kun</m>
+							<m id="5533">tâat</m>
+							<m id="6631">ivruk</m>
+							<m id="1358">ahaak</m>
+						</w>
+						<w gl="you see">
+							<m id="5160">púya</m>
+							<m id="6383">va</m>
+						</w>
+						<w>
+							<m id="3745">kári</m>
+						</w>
+						<w>
+							<m id="5506">tá</m>
+						</w>
+						<w gl="they won">
+							<m id="3977">kun</m>
+							<m id="3921">kôokha</m>
+						</w>
+						<w gl="the upriver">
+							<m id="4408">pa</m>
+							<m id="7212">yúruk</m>
+						</w>
+						<w gl="people">
+							<m id="6376">va</m>
+							<m id="505">'ár</m>
+							<m id="584">as</m>
+						</w>.
+					</kar>
+					<eng>If the ones on the downriver end toss it over (the goal line), then the downriver people won.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="3752">káru</m>
+						</w>
+						<w>
+							<m id="6309">uumkun</m>
+						</w>
+						<w gl="the upriver side">
+							<m id="4407">pa</m>
+							<m id="4127">ka'kúkam</m>
+						</w>
+						<w>
+							<m id="6675">vúra</m>
+						</w>
+						<w gl="they will do it">
+							<m id="3977">kun</m>
+							<m id="4086">kuph</m>
+							<m id="1379">eesh</m>
+						</w>.
+					</kar>
+					<eng>Those on the upriver side would do it also.</eng>
+				</s>
+				<s>
+					<kar>
+						<w>
+							<m id="6383">vaa</m>
+						</w>
+						<w>
+							<m id="6307">uum</m>
+						</w>
+						<w gl="who win">
+							<m id="4408">pa</m>
+							<m id="4446">paaxkív</m>
+							<m id="6035">tih</m>
+							<m id="369">an</m>
+						</w>
+						<w>
+							<m id="6307">uum</m>
+						</w>
+						<w gl="the strongest">
+							<m id="4407">p</m>
+							<m id="1905">eekpihan</m>
+							<m id="2960">'íshiip</m>
+						</w>
+						<w>
+							<m id="3752">káru</m>
+						</w>
+						<w gl="the swiftest">
+							<m id="4407">p</m>
+							<m id="3032">eeshnanich</m>
+							<m id="2960">'íshiip</m>
+						</w>.
+					</kar>
+					<eng>The winners were the strongest and the swiftest.</eng>
+					<note publish="yes">Bright: "Regarding this game, see Goddard, pp.60-61, and plate 19, figures 3 and 4. Evidently each of the three pairs of players described in the present text consisted of one man from each team. After the middle pair had put the tossel in play, the other pairs would also wrestle, each man trying to keep his opponent from reaching the tossel. In sentences 27 and 28, the terms payu'kúkam 'the downriver side' and paka'kúkam 'the upriver side' evidently do not refer to the pairs of opponents at downriver and upriver ends of the field, but to the downriver and upriver teams, respectively. The course of play is not necessarily, of course, the exact one described in the present text."</note>
+				</s>
+			</paragraph>
+		</data>
+	</text>
+							
+							
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+							
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+				
+				
+				
+					
+				
+					

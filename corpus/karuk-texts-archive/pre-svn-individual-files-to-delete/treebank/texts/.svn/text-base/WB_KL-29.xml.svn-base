@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <text id="WB_KL-29">
+		<metadata>
+			<title>"Blue Jay As Doctor"</title>
+			<author>Nettie <alph>Reuben</alph></author>
+			<date>1957</date>
+			<publication>William Bright, <em>The Karok Language</em> (1957), pp. 224-225, Text 29</publication>
+		</metadata>
+		<data>
+			<paragraph>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="4180">mahnûuvanach</m>
+						</w>
+						<w gl="she was sick">
+							<m lemma="5506">t</m>
+							<m lemma="6175">u</m>
+							<m lemma="7091">yíkiha</m>
+						</w>.
+					</txt>
+					<trans lang="eng">Chipmunk was sick.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="6399">váas</m>
+						</w>
+						<w>
+							<m lemma="3810">kích</m>
+						</w>
+						<w gl="she lay">
+							<m lemma="6175">u</m>
+							<m lemma="5957">thiv</m>
+						</w>.
+					</txt>
+					<trans lang="eng">She lay as thin as a blanket.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="3745">kári</m>
+						</w>
+						<w>
+							<m lemma="6847">xás</m>
+						</w>
+						<w>
+							<m lemma="6174">ta'ítam</m>
+						</w>
+						<w>
+							<m lemma="6971">xúus</m>
+						</w>
+						<w gl="she arrived">
+							<m lemma="6175">u</m>
+							<m lemma="6306">'uum</m>
+							<m lemma="1378">áheen</m>
+						</w>.
+					</txt>
+					<trans lang="eng">Then they doctored her.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="5466">sunyíthi</m>
+						</w>
+						<w>
+							<m lemma="5506">tá</m>
+						</w>
+						<w gl="they paid them as a fee to her">
+							<m lemma="3977">kun</m>
+							<m lemma="2953">'íshavsip</m>
+						</w>
+						<w>
+							<m lemma="3690">kachakâach</m>
+						</w>.
+					</txt>
+					<trans lang="eng">They paid Blue Jay her fee with chinquapin nuts.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="388">ansáfriik</m>
+						</w>
+						<w gl="person">
+							<m lemma="6376">va</m>
+							<m lemma="505">'árah</m>
+						</w>.
+					</txt>
+					<trans lang="eng">She was a Weitchpec person.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="3745">kári</m>
+						</w>
+						<w gl="she got well">
+							<m lemma="5506">t</m>
+							<m lemma="6175">u</m>
+							<m lemma="543">'aráriihkanha</m>
+						</w>.
+					</txt>
+					<trans lang="eng">Then (Chipmunk) got well.</trans>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="5163">púyava</m>
+						</w>
+						<w>
+							<m lemma="3969">kúkuum</m>
+						</w>
+						<w>
+							<m lemma="924">axmáy</m>
+						</w>
+						<w gl="she got sick">
+							<m lemma="5506">t</m>
+							<m lemma="6175">u</m>
+							<m lemma="7091">yíkiha</m>
+						</w>
+						<w>
+							<m lemma="4180">mahnûuvanach</m>
+						</w>.
+					</txt>
+					<trans lang="eng">Then Chipmunk suddenly got sick again.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						"
+						<w>
+							<m lemma="1144">chími</m>
+						</w>
+						<w gl="go summon her!">
+							<m lemma="3829">kiik</m>
+							<m lemma="4845">píkaan</m>
+						</w>
+						<w>
+							<m lemma="388">ansáfriik</m>
+						</w>
+						<w gl="person">
+							<m lemma="6376">va</m>
+							<m lemma="505">'árah</m>
+						</w>."
+					</txt>
+					<trans lang="eng">"Go summon Weitchpec person!"</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="5506">tá</m>
+						</w>
+						<w gl="they summoned her">
+							<m lemma="3977">kun</m>
+							<m lemma="4845">píkaar</m>
+						</w>.
+					</txt>
+					<trans lang="eng">They summoned her.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w gl="she came">
+							<m lemma="5506">t</m>
+							<m lemma="6175">u</m>
+							<m lemma="205">'áhoo</m>
+						</w>.
+					</txt>
+					<trans lang="eng">She came.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="3745">kári</m>
+						</w>
+						<w>
+							<m lemma="6847">xás</m>
+						</w>
+						<w gl="she said">
+							<m lemma="6175">u</m>
+							<m lemma="4823">píip</m>
+						</w> "
+						<w>
+							<m lemma="6801">xanpuchíniishveenach</m>
+						</w>
+						<w gl="go summon her!">
+							<m lemma="3829">kiik</m>
+							<m lemma="4845">píkaan</m>
+						</w>.
+					</txt>
+					<trans lang="eng">And (Chipmunk) said, "Go summon Hummingbird!"</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="1144">chími</m>
+						</w>
+						<w>
+							<m lemma="6675">vúra</m>
+						</w>
+						<w>
+							<m lemma="6800">xánkiit</m>
+						</w>."
+					</txt>
+					<trans lang="eng">Let Bullhead (come too)!"</trans>
+				</s>
+				<s>	
+					<txt lang="kyh">
+						<w>
+							<m lemma="5163">púyava</m>
+						</w>
+						<w>
+							<m lemma="5506">tá</m>
+						</w>
+						<w gl="they assembled">
+							<m lemma="3977">kun</m>
+							<m lemma="2420">imfipíshriihva</m>
+						</w>
+						<w gl="the doctors">
+							<m lemma="4407">pa</m>
+							<m lemma="6988">xus'úmaan</m>
+							<m lemma="5200">sa</m>
+						</w>.
+					</txt>
+					<trans lang="eng">So the 'doctors' assembled.</trans>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="3745">kári</m>
+						</w>
+						<w>
+							<m lemma="6847">xás</m>
+						</w>
+						<w>
+							<m lemma="6801">xanpuchíniishveenach</m>
+						</w>
+						<w gl="she said">
+							<m lemma="6175">u</m>
+							<m lemma="4823">píip</m>
+						</w> "
+						<w>
+							<m lemma="4299">naa</m>
+						</w>
+						<w>
+							<m lemma="6675">vúra</m>
+						</w>
+						<w gl="I am small-mouthed">
+							<m lemma="4296">na</m>
+							<m lemma="433">apmán'anamahachhi</m>
+							<m lemma="6035">tih</m>
+						</w>.
+					</txt>
+					<trans lang="eng">And Hummingbird said, "My mouth is too small.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w gl="sometime">
+							<m lemma="1375">hárivarih</m>
+							<m lemma="6377">va</m>
+						</w>
+						<w>
+							<m lemma="6512">véeniichva</m>
+						</w>."
+					</txt>
+					<trans lang="eng">There's been mischief sometime."</trans>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="3745">kári</m>
+						</w>
+						<w>
+							<m lemma="6847">xás</m>
+						</w>
+						<w>
+							<m lemma="388">ansáfriik</m>
+						</w>
+						<w gl="person">
+							<m lemma="6376">va</m>
+							<m lemma="505">'ára</m>
+						</w>
+						<w gl="she said">
+							<m lemma="6175">u</m>
+							<m lemma="4823">píip</m>
+						</w> "
+						<w>
+							<m lemma="73">ããx</m>
+						</w>!
+					</txt>
+					<trans lang="eng">And Weitchpec person said, "ããx!</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="1294">fatamakêesh</m>
+						</w>
+						<w>
+							<m lemma="3809">kích</m>
+						</w>
+						<w>
+							<m lemma="505">ára</m>
+						</w>
+						<w gl="she will tell them">
+							<m lemma="6175">ú</m>
+							<m lemma="2733">peer</m>
+							<m lemma="1379">eesh</m>
+						</w>."
+					</txt>
+					<trans lang="eng">She'll tell a person just anything."</trans>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="6801">xanpuchíniishveenach</m>
+						</w>
+						<w gl="she was singing">
+							<m lemma="6175">u</m>
+							<m lemma="4511">pakurîihvu</m>
+							<m lemma="6035">tih</m>
+						</w>.
+					</txt>
+					<trans lang="eng">Hummingbird was singing.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="6847">xás</m>
+						</w>
+						<w gl="she said">
+							<m lemma="6175">u</m>
+							<m lemma="4823">pí</m>
+							<m lemma="6035">tih</m>
+						</w> "
+						<w>
+							<m lemma="4299">naa</m>
+						</w>
+						<w>
+							<m lemma="6675">vúra</m>
+						</w>
+						<w gl="I am small-mouthed">
+							<m lemma="4296">na</m>
+							<m lemma="433">apmán'anamahachhi</m>
+							<m lemma="6035">tih</m>
+						</w>.
+					</txt>
+					<trans lang="eng">And she said, "My mouth is too small.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="3971">kumá'ii</m>
+						</w>
+						<w gl="I cannot take it out">
+							<m lemma="4408">pa</m>
+							<m lemma="5082">pu</m>
+							<m lemma="4295">na</m>
+							<m lemma="6334">'ûusuru</m>
+							<m lemma="6035">tih</m>
+							<m lemma="1371">ara</m>
+						</w>.
+					</txt>
+					<trans lang="eng">For that reason I can't take (the disease object) out.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="3690">kachakâach</m>
+						</w>
+						<w gl="her mischief">
+							<m lemma="4260">mu</m>
+							<m lemma="6512">véeniichva</m>
+						</w>."
+					</txt>
+					<trans lang="eng">It's Blue Jay's mischief."</trans>
+				</s>
+			</paragraph>
+			<paragraph>
+				<s>
+					<txt lang="kyh">
+						<w>
+							<m lemma="3745">kári</m>
+						</w>
+						<w>
+							<m lemma="6847">xás</m>
+						</w>
+						<w gl="through the smokehole">
+							<m lemma="1073">chanchaaksúr</m>
+							<m lemma="232">ak</m>
+						</w>
+						<w>
+							<m lemma="6847">xás</m>
+						</w>
+						<w gl="she rushed outdoors">
+							<m lemma="6175">u</m>
+							<m lemma="569">'árihrupuk</m>
+						</w>, "
+						<w>
+							<m language="nonsense">kchkchkchkch</m>
+						</w>!"
+					</txt>
+					<trans lang="eng">Then (Blue Jay) jumped out through the smokehole, "kchkchkchkch!"</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w gl="she made a blue jay noise">
+							<m lemma="6175">u</m>
+							<m lemma="3690">kachakâach</m>
+							<m lemma="1356">hi</m>
+							<m lemma="6035">ti</m>
+						</w>.
+					</txt>
+					<trans lang="eng">She made a noise like a blue jay.</trans>
+				</s>
+				<s>
+					<txt lang="kyh">
+						<w gl="she was afraid">
+							<m lemma="5506">t</m>
+							<m lemma="6175">u</m>
+							<m lemma="59">'áathva</m>
+						</w>.
+					</txt>
+					<trans lang="eng">She was afraid (of being exposed).</trans>
+				</s>
+			</paragraph>
+		</data>
+	</text>
+						
+							
+						
