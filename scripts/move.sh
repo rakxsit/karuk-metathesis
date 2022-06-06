@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Usage: bash move.sh folder
-# Extract only left channel
+# Moves files to a force-aligned folder 
 
 dir=$1
 
