@@ -1,5 +1,5 @@
 # karuk-metathesis
-- Project on an incipient metathesis process (V1CV2 > V1CV1V2 > CV1V1V2) occurring in Karuk, an endangered language of Northern California
+- Project on identifying the precursors and acoustic correlates of an incipient metathesis process (V1CV2 > V1CV1V2 > CV1V1V2) occurring in Karuk, an endangered language of Northern California
 
 ## corpus
 - Contains files from the Ararahih'urípih Karuk corpus (http://linguistics.berkeley.edu/~karuk/) as well as metadata in karuk-texts.xml
